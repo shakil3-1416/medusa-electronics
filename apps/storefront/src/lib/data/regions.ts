@@ -4,6 +4,27 @@ import { sdk } from "@lib/config"
 import { HttpTypes } from "@medusajs/types"
 import { getCacheOptions } from "./cookies"
 
+// Countries the storefront serves (Bangladesh by default). Regions for other
+// countries may exist in Medusa but are hidden from shoppers.
+const STORE_COUNTRIES = (
+  process.env.NEXT_PUBLIC_STORE_COUNTRIES ||
+  process.env.NEXT_PUBLIC_DEFAULT_REGION ||
+  "bd"
+)
+  .split(",")
+  .map((code) => code.trim().toLowerCase())
+  .filter(Boolean)
+
+const servedRegions = (regions: HttpTypes.StoreRegion[]) =>
+  regions
+    .map((region) => ({
+      ...region,
+      countries: region.countries?.filter((country) =>
+        STORE_COUNTRIES.includes(country.iso_2?.toLowerCase() ?? "")
+      ),
+    }))
+    .filter((region) => region.countries?.length)
+
 export const listRegions = async () => {
   const next = {
     ...(await getCacheOptions("regions")),
@@ -15,7 +36,7 @@ export const listRegions = async () => {
       next,
       cache: "force-cache",
     })
-    .then(({ regions }) => regions)
+    .then(({ regions }) => servedRegions(regions))
 }
 
 export const retrieveRegion = async (id: string) => {
@@ -32,28 +53,19 @@ export const retrieveRegion = async (id: string) => {
     .then(({ region }) => region)
 }
 
-const regionMap = new Map<string, HttpTypes.StoreRegion>()
-
 export const getRegion = async (countryCode: string) => {
-  if (regionMap.has(countryCode)) {
-    return regionMap.get(countryCode)
-  }
+  const regions = await sdk.client.fetch<{
+    regions: HttpTypes.StoreRegion[]
+  }>("/store/regions", {
+    method: "GET",
+    cache: "no-store",
+  }).then(({ regions }) => servedRegions(regions))
 
-  const regions = await listRegions()
+  const code = countryCode?.toLowerCase() || STORE_COUNTRIES[0]
 
-  if (!regions) {
-    return null
-  }
-
-  regions.forEach((region) => {
-    region.countries?.forEach((c) => {
-      regionMap.set(c?.iso_2 ?? "", region)
-    })
-  })
-
-  const region = countryCode
-    ? regionMap.get(countryCode)
-    : regionMap.get("us")
-
-  return region
+  return regions.find((region) =>
+    region.countries?.some(
+      (country) => country.iso_2?.toLowerCase() === code
+    )
+  ) ?? null
 }

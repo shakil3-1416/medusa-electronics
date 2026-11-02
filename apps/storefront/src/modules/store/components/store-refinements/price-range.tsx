@@ -5,14 +5,15 @@ import { useEffect, useState } from "react"
 import { useRange } from "react-instantsearch"
 
 import { indexedCurrency, priceAttribute } from "@lib/search-client"
+import { convertToLocale } from "@lib/util/money"
 
 function formatAmount(amount: number, currency: string) {
     try {
-      return new Intl.NumberFormat(undefined, {
-        style: "currency",
-        currency: currency.toUpperCase(),
+      return convertToLocale({
+        amount: Math.round(amount),
+        currency_code: currency,
         maximumFractionDigits: 0,
-      }).format(amount)
+      })
     } catch {
       // An unrecognised currency code shouldn't take the sidebar down.
       return `${Math.round(amount)} ${currency.toUpperCase()}`

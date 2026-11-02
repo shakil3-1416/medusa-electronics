@@ -3,7 +3,15 @@ import { NextRequest, NextResponse } from "next/server"
 
 const BACKEND_URL = process.env.NEXT_PUBLIC_MEDUSA_BACKEND_URL
 const PUBLISHABLE_API_KEY = process.env.NEXT_PUBLIC_MEDUSA_PUBLISHABLE_KEY
-const DEFAULT_REGION = process.env.NEXT_PUBLIC_DEFAULT_REGION || "dk"
+const DEFAULT_REGION = process.env.NEXT_PUBLIC_DEFAULT_REGION || "bd"
+// Countries the storefront serves. Other regions may exist in Medusa (admin
+// testing, future markets) but are not routable for shoppers.
+const STORE_COUNTRIES = (
+  process.env.NEXT_PUBLIC_STORE_COUNTRIES || DEFAULT_REGION
+)
+  .split(",")
+  .map((code) => code.trim().toLowerCase())
+  .filter(Boolean)
 
 const regionMapCache = {
   regionMap: new Map<string, HttpTypes.StoreRegion>(),
@@ -21,7 +29,7 @@ async function getRegionMap(cacheId: string) {
 
   if (
     !regionMap.keys().next().value ||
-    regionMapUpdated < Date.now() - 3600 * 1000
+    regionMapUpdated < Date.now() - 60 * 1000
   ) {
     // Fetch regions from Medusa. We can't use the JS client here because middleware is running on Edge and the client needs a Node environment.
     const response = await fetch(`${BACKEND_URL}/store/regions`, {
@@ -51,7 +59,10 @@ async function getRegionMap(cacheId: string) {
     // Create a map of country codes to regions.
     regions.forEach((region: HttpTypes.StoreRegion) => {
       region.countries?.forEach((c) => {
-        regionMapCache.regionMap.set(c.iso_2 ?? "", region)
+        const iso = c.iso_2?.toLowerCase() ?? ""
+        if (STORE_COUNTRIES.includes(iso)) {
+          regionMapCache.regionMap.set(iso, region)
+        }
       })
     })
 
@@ -117,9 +128,12 @@ export async function middleware(request: NextRequest) {
     return response
   }
 
-  // if the url doesn't have the country, redirect to it
-  const redirectPath =
-    request.nextUrl.pathname === "/" ? "" : request.nextUrl.pathname
+  // if the url doesn't have the country, redirect to it. A URL carrying
+  // another (unserved) country code, e.g. /dk/store, maps onto /bd/store.
+  const pathname = /^[a-z]{2}$/.test(firstPathSegment ?? "")
+    ? request.nextUrl.pathname.slice(3) || "/"
+    : request.nextUrl.pathname
+  const redirectPath = pathname === "/" ? "" : pathname
   const queryString = request.nextUrl.search || ""
   const redirectUrl = `${request.nextUrl.origin}/${country}${redirectPath}${queryString}`
 
