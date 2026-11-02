@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Processors",
+    "handle": "processor"
+  },
+  {
+    "name": "Motherboards",
+    "handle": "motherboard"
+  },
+  {
+    "name": "Graphics Cards",
+    "handle": "graphics-card"
+  },
+  {
+    "name": "Desktop RAM",
+    "handle": "desktop-ram"
+  },
+  {
+    "name": "Laptop RAM",
+    "handle": "laptop-ram"
+  },
+  {
+    "name": "Internal SSDs",
+    "handle": "internal-ssd"
+  },
+  {
+    "name": "Hard Drives",
+    "handle": "hard-drive"
+  },
+  {
+    "name": "Power Supplies",
+    "handle": "power-supply"
+  },
+  {
+    "name": "Computer Cases",
+    "handle": "computer-case"
+  },
+  {
+    "name": "CPU Coolers",
+    "handle": "cpu-cooler"
+  },
+  {
+    "name": "Gaming Laptops",
+    "handle": "gaming-laptop"
+  },
+  {
+    "name": "Business Laptops",
+    "handle": "business-laptop"
+  },
+  {
+    "name": "Desktop PCs",
+    "handle": "desktop-pc"
+  },
+  {
+    "name": "Gaming Monitors",
+    "handle": "gaming-monitor"
+  },
+  {
+    "name": "Office Monitors",
+    "handle": "office-monitor"
+  },
+  {
+    "name": "Mechanical Keyboards",
+    "handle": "mechanical-keyboard"
+  },
+  {
+    "name": "Gaming Mice",
+    "handle": "gaming-mouse"
+  },
+  {
+    "name": "Headphones",
+    "handle": "headphone"
+  },
+  {
+    "name": "Microphones",
+    "handle": "microphone"
+  },
+  {
+    "name": "Webcams",
+    "handle": "webcam"
+  },
+  {
+    "name": "Smartphones",
+    "handle": "smartphone"
+  },
+  {
+    "name": "Tablets",
+    "handle": "tablet"
+  },
+  {
+    "name": "Smartwatches",
+    "handle": "smartwatch"
+  },
+  {
+    "name": "Routers",
+    "handle": "router"
+  },
+  {
+    "name": "Network Switches",
+    "handle": "network-switch"
+  },
+  {
+    "name": "Printers",
+    "handle": "printer"
+  },
+  {
+    "name": "Scanners",
+    "handle": "scanner"
+  },
+  {
+    "name": "UPS Systems",
+    "handle": "ups"
+  },
+  {
+    "name": "External Storage",
+    "handle": "external-storage"
+  },
+  {
+    "name": "Computer Accessories",
+    "handle": "computer-accessory"
+  }
+]

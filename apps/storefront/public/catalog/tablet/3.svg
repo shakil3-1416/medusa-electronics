@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="Representative illustration">
+<defs><radialGradient id="g" cx="50%" cy="40%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#e3f8ef"/></radialGradient></defs>
+<rect width="800" height="800" fill="url(#g)"/><ellipse cx="400" cy="660" rx="260" ry="26" fill="#0f172a" opacity=".08"/>
+<rect x="210" y="150" width="380" height="500" rx="28" fill="#334155"/>
+<rect x="224" y="164" width="352" height="472" rx="16" fill="#10b981" opacity=".85"/>
+<circle cx="400" cy="182" r="7" fill="#334155"/><path d="M224 530l126 -90 95 60 126 -70 0 140h-352z" fill="#fff" opacity=".25"/>
+</svg>

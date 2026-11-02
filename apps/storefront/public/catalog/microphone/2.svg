@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="Representative illustration">
+<defs><radialGradient id="g" cx="50%" cy="40%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#fff1e6"/></radialGradient></defs>
+<rect width="800" height="800" fill="url(#g)"/><ellipse cx="400" cy="660" rx="260" ry="26" fill="#0f172a" opacity=".08"/>
+<rect x="320" y="170" width="160" height="290" rx="80" fill="#111827"/><path d="M335 230h130" stroke="#cbd5e1" stroke-width="6" opacity=".6"/><path d="M335 260h130" stroke="#cbd5e1" stroke-width="6" opacity=".6"/><path d="M335 290h130" stroke="#cbd5e1" stroke-width="6" opacity=".6"/><path d="M335 320h130" stroke="#cbd5e1" stroke-width="6" opacity=".6"/><path d="M335 350h130" stroke="#cbd5e1" stroke-width="6" opacity=".6"/><path d="M335 380h130" stroke="#cbd5e1" stroke-width="6" opacity=".6"/><path d="M335 410h130" stroke="#cbd5e1" stroke-width="6" opacity=".6"/>
+<path d="M290 400v20a110 110 0 0 0 220 0v-20" stroke="#f97316" stroke-width="16" fill="none"/>
+<rect x="390" y="530" width="20" height="70" fill="#f97316"/><rect x="310" y="590" width="180" height="24" rx="12" fill="#111827"/>
+</svg>
