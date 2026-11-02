@@ -71,3 +71,7 @@ sgnova/reports/batch-report.json
 .turbo/
 **/.medusa/
 *.log
+
+# Verified-catalog source page cache (third-party pages, never committed)
+sgnova/catalog/real/.cache/
+__pycache__/
