@@ -14,6 +14,7 @@ import { resolve } from "node:path"
 
 type VerifiedImage = {
   local_path: string
+  card_path?: string
   license: string
   license_url: string
   artist: string
@@ -96,7 +97,7 @@ export default async function importVerifiedCatalog({ container }: ExecArgs) {
       title: r.title,
       subtitle: r.subtitle,
       description: r.description,
-      thumbnail: imageUrl(r.images[0].local_path),
+      thumbnail: imageUrl(r.images[0].card_path ?? r.images[0].local_path),
       images: r.images.map((i) => ({ url: imageUrl(i.local_path) })),
       category_ids: [category],
       tag_ids: [tagId.get(r.brand)!].filter(Boolean),
