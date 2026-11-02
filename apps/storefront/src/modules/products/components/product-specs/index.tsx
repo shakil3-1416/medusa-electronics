@@ -1,9 +1,10 @@
-import { getProductSpecs } from "@lib/catalog/departments"
+import { getProductSpecs, getSpecSource } from "@lib/catalog/departments"
 import { HttpTypes } from "@medusajs/types"
 
 /** Grouped specification table built from `metadata.specs`. */
 const ProductSpecs = ({ product }: { product: HttpTypes.StoreProduct }) => {
   const groups = getProductSpecs(product.metadata)
+  const source = getSpecSource(product.metadata)
 
   if (!groups.length) {
     return null
@@ -47,6 +48,16 @@ const ProductSpecs = ({ product }: { product: HttpTypes.StoreProduct }) => {
           </tbody>
         ))}
       </table>
+      {source && (
+        <p className="border-t border-slate-200 px-5 py-3 text-xs text-slate-500">
+          Specifications checked against the official{" "}
+          <a href={source.url} target="_blank" rel="noreferrer" className="underline">
+            {source.publisher}
+          </a>{" "}
+          specification page
+          {source.retrievedAt ? ` (${source.retrievedAt.slice(0, 10)})` : ""}.
+        </p>
+      )}
       {product.metadata?.data_source === "synthetic-test-fixture" && (
         <p className="border-t border-slate-200 px-5 py-3 text-xs text-slate-500">
           Specifications are illustrative test-catalog data for a fictional

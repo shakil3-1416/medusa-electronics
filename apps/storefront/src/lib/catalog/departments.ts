@@ -124,3 +124,38 @@ export const getProductHighlights = (
     ? highlights.filter((h): h is string => typeof h === "string")
     : []
 }
+
+export type ImageCredit = {
+  author: string
+  license: string
+  license_url: string
+  source: string
+}
+
+/** Attribution for licensed photos, stored by the verified-catalog import. */
+export const getImageCredits = (
+  metadata: Record<string, unknown> | null | undefined
+): ImageCredit[] => {
+  const credits = metadata?.image_credits
+  return Array.isArray(credits)
+    ? credits.filter(
+        (c): c is ImageCredit =>
+          Boolean(c) && typeof c.source === "string" && typeof c.license === "string"
+      )
+    : []
+}
+
+type SpecProvenance = {
+  spec_source?: { final_url?: string; url?: string; publisher?: string; retrieved_at?: string }
+}
+
+/** Official source a verified product's specifications were checked against. */
+export const getSpecSource = (
+  metadata: Record<string, unknown> | null | undefined
+) => {
+  const source = (metadata?.provenance as SpecProvenance | undefined)?.spec_source
+  const url = source?.final_url || source?.url
+  return url
+    ? { url, publisher: source?.publisher ?? new URL(url).hostname, retrievedAt: source?.retrieved_at }
+    : null
+}

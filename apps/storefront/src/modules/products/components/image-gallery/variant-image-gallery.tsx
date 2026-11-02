@@ -4,6 +4,7 @@ import { HttpTypes } from "@medusajs/types"
 import { useSearchParams } from "next/navigation"
 import { useEffect, useMemo, useState } from "react"
 import ImageGallery from "."
+import { getImageCredits } from "@lib/catalog/departments"
 
 const getImagesForVariant = (
   product: HttpTypes.StoreProduct,
@@ -42,10 +43,36 @@ const VariantImageGallery = ({
     [product, variantId]
   )
 
+  const credits = getImageCredits(product.metadata)
   const caption =
-    product.metadata?.image_type === "representative-illustration"
-      ? "Representative illustration. Actual product appearance may differ."
-      : undefined
+    product.metadata?.image_type === "representative-illustration" ? (
+      "Representative illustration. Actual product appearance may differ."
+    ) : credits.length ? (
+      <ul className="flex flex-col gap-y-1" data-testid="image-credits">
+        {credits.map((credit) => (
+          <li key={credit.source}>
+            Photo: {credit.author},{" "}
+            <a
+              href={credit.license_url || credit.source}
+              target="_blank"
+              rel="noreferrer"
+              className="underline"
+            >
+              {credit.license}
+            </a>
+            , via{" "}
+            <a
+              href={credit.source}
+              target="_blank"
+              rel="noreferrer"
+              className="underline"
+            >
+              Wikimedia Commons
+            </a>
+          </li>
+        ))}
+      </ul>
+    ) : undefined
 
   return <ImageGallery images={images} caption={caption} />
 }

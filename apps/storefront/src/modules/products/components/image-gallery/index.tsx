@@ -1,10 +1,11 @@
 import { HttpTypes } from "@medusajs/types"
 import { Container } from "@modules/common/components/ui"
 import Image from "next/image"
+import { ReactNode } from "react"
 
 type ImageGalleryProps = {
   images: HttpTypes.StoreProductImage[]
-  caption?: string
+  caption?: ReactNode
 }
 
 const ImageGallery = ({ images, caption }: ImageGalleryProps) => {
@@ -35,12 +36,12 @@ const ImageGallery = ({ images, caption }: ImageGalleryProps) => {
           )
         })}
         {caption && (
-          <p
+          <div
             className="text-xs text-slate-500"
             data-testid="image-caption"
           >
             {caption}
-          </p>
+          </div>
         )}
       </div>
     </div>
