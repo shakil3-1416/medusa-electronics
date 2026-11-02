@@ -55,3 +55,19 @@ yarn-error.log*
 ehthumbs.db
 Thumbs.db
 **/.DS_Store
+# SGNova local artifacts: database dumps, source backups, test accounts, run logs
+sgnova/backups/
+sgnova/reports/*.log
+sgnova/reports/batch-report.json
+**/*.local.json
+*.dump
+*.sql.gz
+*.backup-*
+*.pre-routing-*
+*.recovery-*
+*.bak
+
+# Generated caches
+.turbo/
+**/.medusa/
+*.log
