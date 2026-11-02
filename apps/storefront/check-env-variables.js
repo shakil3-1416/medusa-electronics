@@ -9,7 +9,32 @@ const requiredEnvs = [
   },
 ];
 
+// Hosted builds (Vercel or any production build) must point at a reachable
+// backend rather than silently falling back to localhost.
+const isHostedBuild =
+  Boolean(process.env.VERCEL) || process.env.NODE_ENV === "production"
+
+if (isHostedBuild) {
+  requiredEnvs.push({
+    key: "NEXT_PUBLIC_MEDUSA_BACKEND_URL",
+    description: "Public URL of the deployed Medusa backend, e.g. https://api.example.com",
+  })
+}
+
 function checkEnvVariables() {
+  const backendUrl = process.env.NEXT_PUBLIC_MEDUSA_BACKEND_URL || ""
+  if (
+    process.env.VERCEL &&
+    /localhost|127\.0\.0\.1/.test(backendUrl)
+  ) {
+    console.error(
+      c.red.bold(
+        "\nNEXT_PUBLIC_MEDUSA_BACKEND_URL points at localhost, which a Vercel deployment cannot reach.\n"
+      )
+    )
+    process.exit(1)
+  }
+
   const missingEnvs = requiredEnvs.filter(function (env) {
     c;
     return !process.env[env.key];

@@ -9,6 +9,24 @@ const S3_HOSTNAME = process.env.MEDUSA_CLOUD_S3_HOSTNAME
 const S3_PATHNAME = process.env.MEDUSA_CLOUD_S3_PATHNAME
 
 /**
+ * Remote image hosts: the Medusa backend (local file uploads) and an optional
+ * extra CDN/bucket host. Catalog illustrations are served from /public.
+ */
+const remoteHost = (url) => {
+  try {
+    const { protocol, hostname, port } = new URL(url)
+    return { protocol: protocol.replace(":", ""), hostname, port: port || "" }
+  } catch {
+    return null
+  }
+}
+const BACKEND_IMAGE_HOST = remoteHost(process.env.NEXT_PUBLIC_MEDUSA_BACKEND_URL)
+const EXTRA_IMAGE_HOST = remoteHost(process.env.NEXT_PUBLIC_IMAGE_HOST_URL)
+// Catalog images stored as absolute storefront URLs (so Medusa Admin can
+// preview them) point back at this site.
+const SITE_IMAGE_HOST = remoteHost(process.env.NEXT_PUBLIC_BASE_URL)
+
+/**
  * @type {import('next').NextConfig}
  */
 const nextConfig = {
@@ -51,10 +69,12 @@ const nextConfig = {
   images: {
     unoptimized: true,
     remotePatterns: [
-      {
-        protocol: "http",
-        hostname: "localhost",
-      },
+      ...(process.env.NODE_ENV !== "production"
+        ? [{ protocol: "http", hostname: "localhost" }]
+        : []),
+      ...(BACKEND_IMAGE_HOST ? [BACKEND_IMAGE_HOST] : []),
+      ...(EXTRA_IMAGE_HOST ? [EXTRA_IMAGE_HOST] : []),
+      ...(SITE_IMAGE_HOST ? [SITE_IMAGE_HOST] : []),
       {
         protocol: "https",
         hostname: "*.s3.*.amazonaws.com",
