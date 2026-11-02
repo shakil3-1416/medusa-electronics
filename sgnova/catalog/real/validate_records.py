@@ -37,7 +37,9 @@ import html
 import json
 import os
 import re
+import shutil
 import ssl
+import subprocess
 import sys
 import time
 import unicodedata
@@ -58,6 +60,8 @@ UA = "MedusaBDCatalogVerifier/1.0 (catalog provenance check; non-commercial test
 MIN_SPECS = 5
 IMAGE_WIDTH = 1200
 MIN_IMAGE_SIDE = 600
+MAX_IMAGES = 4
+CARD_WIDTH = 480
 MIN_EVIDENCE_LEN = 12
 CONTEXT_WINDOW = 300
 COMMONS_DELAY = 2.0
@@ -98,7 +102,7 @@ BRAND_DOMAINS = {
     "MikroTik": ["mikrotik.com"],
     "Brother": ["brother.com", "brother-usa.com"],
     "Epson": ["epson.com"],
-    "Canon": ["canon.com", "usa.canon.com"],
+    "Canon": ["canon.com", "usa.canon.com", "canon-europe.com", "canon.co.uk"],
     "APC": ["apc.com", "se.com"],
     "Garmin": ["garmin.com"],
     "Xiaomi": ["mi.com"],
@@ -164,8 +168,11 @@ def fetch_source(url):
     path = os.path.join(CACHE, key + ".html")
     meta_path = path + ".json"
     if os.path.exists(path) and os.path.exists(meta_path):
-        meta = json.load(open(meta_path))
-        return open(path, encoding="utf-8").read(), meta
+        cached = open(path, encoding="utf-8").read()
+        # Copies saved before gzip decoding was added are binary; refetch them.
+        if cached.count("\ufffd") < max(20, len(cached) // 200):
+            return cached, json.load(open(meta_path))
+
     raw, final_url = http_get(url)
     meta = {
         "url": url,
@@ -327,7 +334,7 @@ def validate(rec, categories):
             errors.append(f"spec '{s['label']}': evidence '{ev}' not in spec source{hint}")
 
     images = []
-    for i, img in enumerate(rec["images"]):
+    for i, img in enumerate(rec["images"][:MAX_IMAGES]):
         try:
             info = commons_info(img["commons_file"])
         except Exception as e:
@@ -398,6 +405,14 @@ def download_image(handle, img):
         data, _ = http_get(img["thumb_url"], binary=True)
         open(path, "wb").write(data)
         time.sleep(0.3)
+    # Card-size derivative for product grids (same licence as the original).
+    card = os.path.join(d, f"{img['index']}-card.jpg")
+    if not os.path.exists(card) and shutil.which("sips"):
+        subprocess.run(["sips", "-s", "format", "jpeg", "-s", "formatOptions", "80",
+                        "-Z", str(CARD_WIDTH), path, "--out", card],
+                       check=False, capture_output=True)
+    if os.path.exists(card):
+        img["card_path"] = f"/catalog-real/{handle}/{img['index']}-card.jpg"
     data = open(path, "rb").read()
     img["local_path"] = f"/catalog-real/{handle}/{img['index']}.{ext}"
     img["local_sha256"] = hashlib.sha256(data).hexdigest()
