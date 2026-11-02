@@ -10,11 +10,12 @@ import { Fragment } from "react"
 import CountrySelect from "../country-select"
 import LanguageSelect from "../language-select"
 import { Locale } from "@lib/data/locales"
+import { DEPARTMENTS } from "@lib/catalog/departments"
 
 
 const SideMenuItems = {
   Home: "/",
-  Store: "/store",
+  "All products": "/store",
   Account: "/account",
   Cart: "/cart",
 }
@@ -76,7 +77,7 @@ const SideMenu = ({ regions, locales, currentLocale }: SideMenuProps) => {
                         <XMark />
                       </button>
                     </div>
-                    <ul className="flex flex-col gap-6 items-start justify-start">
+                    <ul className="flex flex-col gap-4 items-start justify-start overflow-y-auto">
                       {Object.entries(SideMenuItems).map(([name, href]) => {
                         return (
                           <li key={name}>
@@ -84,13 +85,27 @@ const SideMenu = ({ regions, locales, currentLocale }: SideMenuProps) => {
                               href={href}
                               className="text-3xl leading-10 hover:text-ui-fg-disabled"
                               onClick={close}
-                              data-testid={`${name.toLowerCase()}-link`}
+                              data-testid={`${name.toLowerCase().replace(" ", "-")}-link`}
                             >
                               {name}
                             </LocalizedClientLink>
                           </li>
                         )
                       })}
+                      <li className="mt-2 text-xs uppercase tracking-wider text-ui-fg-on-color/70">
+                        Shop by department
+                      </li>
+                      {DEPARTMENTS.map((department) => (
+                        <li key={department.name}>
+                          <LocalizedClientLink
+                            href={`/categories/${department.handle}`}
+                            className="text-xl hover:text-ui-fg-disabled"
+                            onClick={close}
+                          >
+                            {department.name}
+                          </LocalizedClientLink>
+                        </li>
+                      ))}
                     </ul>
                     <div className="flex flex-col gap-y-6">
                       {!!locales?.length && (
@@ -131,7 +146,7 @@ const SideMenu = ({ regions, locales, currentLocale }: SideMenuProps) => {
                         />
                       </div>
                       <Text className="flex justify-between txt-compact-small">
-                        © {new Date().getFullYear()} Medusa Store. All rights
+                        © {new Date().getFullYear()} Medusa. All rights
                         reserved.
                       </Text>
                     </div>

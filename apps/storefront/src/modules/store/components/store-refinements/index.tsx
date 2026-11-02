@@ -38,7 +38,7 @@ const StoreRefinements = ({ currencyCode }: { currencyCode: string }) => {
       <PriceRange currencyCode={currencyCode} />
       <OnSaleToggle currencyCode={currencyCode} />
       <RefinementGroup attribute={CATEGORY_ATTRIBUTE} title="Category" />
-      <RefinementGroup attribute={LABELS_ATTRIBUTE} title="Labels" />
+      <RefinementGroup attribute={LABELS_ATTRIBUTE} title="Brand" />
     </div>
   )
 }

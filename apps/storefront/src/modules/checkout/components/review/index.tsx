@@ -42,8 +42,8 @@ const Review = ({ cart }: { cart: HttpTypes.StoreCart }) => {
               <Text className="txt-medium-plus text-ui-fg-base mb-1">
                 By clicking the Place Order button, you confirm that you have
                 read, understand and accept our Terms of Use, Terms of Sale and
-                Returns Policy and acknowledge that you have read Medusa
-                Store&apos;s Privacy Policy.
+                Returns Policy and acknowledge that you have read
+                Medusa&apos;s Privacy Policy.
               </Text>
             </div>
           </div>

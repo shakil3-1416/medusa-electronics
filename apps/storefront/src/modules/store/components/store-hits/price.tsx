@@ -44,7 +44,7 @@ const HitPrice = ({ hit, currencyCode }: HitPriceProps) => {
         </Text>
       )}
       <Text
-        className={clx("text-ui-fg-muted", {
+        className={clx("text-base font-bold text-slate-900", {
           "text-ui-tag-red-text": on_sale,
         })}
         data-testid="price"

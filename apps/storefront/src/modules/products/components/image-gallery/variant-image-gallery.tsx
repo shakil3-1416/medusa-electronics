@@ -42,7 +42,12 @@ const VariantImageGallery = ({
     [product, variantId]
   )
 
-  return <ImageGallery images={images} />
+  const caption =
+    product.metadata?.image_type === "representative-illustration"
+      ? "Representative illustration. Actual product appearance may differ."
+      : undefined
+
+  return <ImageGallery images={images} caption={caption} />
 }
 
 export default VariantImageGallery

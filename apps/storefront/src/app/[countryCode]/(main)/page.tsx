@@ -1,8 +1,7 @@
 import { Metadata } from "next"
 
-import FeaturedProducts from "@modules/home/components/featured-products"
+import CategoryRails from "@modules/home/components/category-rails"
 import Hero from "@modules/home/components/hero"
-import { listCollections } from "@lib/data/collections"
 import { getRegion, listRegions } from "@lib/data/regions"
 import { toJsonLd } from "@lib/util/product-structured-data"
 import { getSiteOrigin, listCountryCodes, STORE_NAME } from "@lib/util/site"
@@ -18,9 +17,9 @@ export async function generateMetadata(props: {
   const [origin, regions] = await Promise.all([getSiteOrigin(), listRegions()])
 
   return {
-    title: "Medusa Next.js Starter Template",
+    title: "Medusa | Computers, Electronics & Accessories",
     description:
-      "A performant frontend ecommerce starter template with Next.js 16 and Medusa.",
+      "Shop laptops, smartphones, PC components, monitors and accessories in Bangladesh. Prices in Taka with nationwide delivery.",
     alternates: {
       canonical: `${origin}/${countryCode}`,
       languages: {
@@ -45,11 +44,7 @@ export default async function Home(props: {
 
   const region = await getRegion(countryCode)
 
-  const { collections } = await listCollections({
-    fields: "id, handle, title",
-  })
-
-  if (!collections || !region) {
+  if (!region) {
     return null
   }
 
@@ -88,12 +83,8 @@ export default async function Home(props: {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: toJsonLd(structuredData) }}
       />
-      <Hero />
-      <div className="py-12">
-        <ul className="flex flex-col gap-x-6">
-          <FeaturedProducts collections={collections} region={region} />
-        </ul>
-      </div>
+      <Hero countryCode={countryCode} />
+      <CategoryRails region={region} />
     </>
   )
 }

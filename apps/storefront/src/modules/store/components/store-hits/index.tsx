@@ -5,9 +5,8 @@ import { useEffect, useRef } from "react"
 import { useHits, useInstantSearch } from "react-instantsearch"
 
 import useSearchSettled from "@lib/hooks/use-search-settled"
-import LocalizedClientLink from "@modules/common/components/localized-client-link"
 import { Text } from "@modules/common/components/ui"
-import Thumbnail from "@modules/products/components/thumbnail"
+import ProductCard from "@modules/products/components/product-card"
 import SkeletonProductGrid from "@modules/skeletons/templates/skeleton-product-grid"
 import SearchPagination from "./pagination"
 import HitPrice, { HitPricing } from "./price"
@@ -17,6 +16,8 @@ type ProductHit = Hit<
     title: string | null
     handle: string | null
     thumbnail: string | null
+    labels?: string[] | null
+    category?: string[] | null
   } & HitPricing
 >
 
@@ -73,29 +74,20 @@ const StoreHits = ({ hitsPerPage, currencyCode }: StoreHitsProps) => {
         </Text>
       ) : (
         <ul
-          className="grid grid-cols-2 w-full small:grid-cols-3 medium:grid-cols-4 gap-x-6 gap-y-8"
+          className="grid grid-cols-2 w-full small:grid-cols-3 medium:grid-cols-4 gap-3 small:gap-4"
           data-testid="products-list"
         >
           {items.map((hit) =>
             hit.handle ? (
               <li key={hit.objectID}>
-                <LocalizedClientLink
-                  href={`/products/${hit.handle}`}
-                  className="group"
-                >
-                  <div data-testid="product-wrapper">
-                    <Thumbnail thumbnail={hit.thumbnail} size="full" />
-                    <div className="flex txt-compact-medium mt-4 justify-between">
-                      <Text
-                        className="text-ui-fg-subtle"
-                        data-testid="product-title"
-                      >
-                        {hit.title}
-                      </Text>
-                      <HitPrice hit={hit} currencyCode={currencyCode} />
-                    </div>
-                  </div>
-                </LocalizedClientLink>
+                <ProductCard
+                  handle={hit.handle}
+                  title={hit.title}
+                  thumbnail={hit.thumbnail}
+                  brand={hit.labels?.[0]}
+                  subtitle={hit.category?.join(", ")}
+                  price={<HitPrice hit={hit} currencyCode={currencyCode} />}
+                />
               </li>
             ) : null
           )}

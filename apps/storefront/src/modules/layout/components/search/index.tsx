@@ -115,7 +115,7 @@ const SearchPanel = ({ onNavigate }: { onNavigate: () => void }) => {
   )
 }
 
-const Search = () => {
+const Search = ({ variant = "icon" }: { variant?: "icon" | "bar" }) => {
   const { state: isOpen, open, close } = useToggleState()
   const { countryCode } = useParams<{ countryCode: string }>()
 
@@ -129,10 +129,19 @@ const Search = () => {
           open()
         }}
         aria-label="Search products"
-        className="flex items-center hover:text-ui-fg-base"
+        className={
+          variant === "bar"
+            ? "flex w-full items-center gap-x-3 rounded-lg border border-slate-300 bg-slate-50 px-4 h-11 text-slate-500 hover:border-blue-500 hover:bg-white"
+            : "flex items-center hover:text-ui-fg-base"
+        }
         data-testid="nav-search-button"
       >
         <MagnifyingGlass />
+        {variant === "bar" && (
+          <span className="truncate text-sm">
+            Search laptops, phones, components...
+          </span>
+        )}
       </Link>
 
       <SearchDrawer isOpen={isOpen} close={close}>
