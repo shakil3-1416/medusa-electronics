@@ -1,0 +1,103 @@
+{
+ "handle": "real-apple-mac-studio-2022-m1-max-32gb-512gb",
+ "brand": "Apple",
+ "model": "Mac Studio (2022)",
+ "mpn": null,
+ "category_handle": "desktop-pc",
+ "title": "Apple Mac Studio (M1 Max, 2022) 32GB / 512GB",
+ "subtitle": "Pro desktop | Apple M1 Max | 10Gb Ethernet",
+ "description": "First-generation Mac Studio with Apple M1 Max (10-core CPU, 24-core GPU), 32GB unified memory and a 512GB SSD. A compact workstation with four Thunderbolt 4 ports and 10Gb Ethernet.",
+ "variant_title": "M1 Max 10-core CPU / 24-core GPU / 32GB / 512GB",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "Apple M1 Max, 10-core CPU (8P + 2E), 24-core GPU"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory",
+   "value": "32GB unified memory"
+  },
+  {
+   "group": "Storage",
+   "label": "Storage",
+   "value": "512GB SSD"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Rear ports",
+   "value": "Four Thunderbolt 4"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "10Gb Ethernet"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "Wi-Fi 6 (802.11ax)"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions",
+   "value": "9.5 x 19.7 x 19.7 cm"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "2.7 kg"
+  }
+ ],
+ "highlights": [
+  "Apple M1 Max with 10-core CPU and 24-core GPU",
+  "32GB unified memory, 512GB SSD",
+  "Four Thunderbolt 4 ports, 10Gb Ethernet",
+  "Front USB-C and SDXC card slot"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111900",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111900",
+   "retrieved_at": "2026-11-02T16:27:37+00:00",
+   "sha256": "a61aa6d5e90c6530ac1c83d0da3b80d0ce1b483ac1229e7de5ecd1a61632c52d",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:17+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Mac Studio (2022) front.jpg",
+   "categories": [
+    "Category:CC-BY-SA-3.0",
+    "Category:GFDL",
+    "Category:License migration redundant",
+    "Category:Mac Studio",
+    "Category:Photographs taken on 2022-03-30",
+    "Category:Self-published work"
+   ],
+   "width": 4275,
+   "height": 2850,
+   "mime": "image/jpeg",
+   "sha1": "61f03cc6b3ff8e090f6c7f6b2cf64264667ec5fa",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Mac_Studio_%282022%29_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Mac_Studio_%282022%29_front.jpg/1280px-Mac_Studio_%282022%29_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Mac_Studio_(2022)_front.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "artist": "Yasu (talk)",
+   "credit": "Own work",
+   "description": "Front view of Mac Studio (2022)",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-apple-mac-studio-2022-m1-max-32gb-512gb/1.jpg",
+   "local_sha256": "0a4add8fa348e1524b55cf79633d4a2c419e6a9b8b40803d2c849a307e17a2f2",
+   "local_bytes": 93233
+  }
+ ]
+}

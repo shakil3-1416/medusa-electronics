@@ -1,0 +1,98 @@
+{
+ "handle": "real-apple-watch-series-9-45mm-gps",
+ "brand": "Apple",
+ "model": "Apple Watch Series 9",
+ "mpn": null,
+ "category_handle": "smartwatch",
+ "title": "Apple Watch Series 9 (45mm, Aluminium, GPS)",
+ "subtitle": "Always-On Retina | S9 SiP | 64GB",
+ "description": "Apple Watch Series 9 with a 45mm aluminium case in the GPS version. It uses the S9 SiP, an Always-On Retina display rated up to 2000 nits and 64GB of storage. Specifications were verified against Apple's official tech specs page.",
+ "variant_title": "45mm Aluminium GPS",
+ "specs": [
+  {
+   "group": "Build",
+   "label": "Case size (45mm)",
+   "value": "45 x 38 x 10.7 mm"
+  },
+  {
+   "group": "Build",
+   "label": "Weight (aluminium, GPS, 45mm)",
+   "value": "38.7 g"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "S9 SiP, 64-bit dual-core, 4-core Neural Engine"
+  },
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "64GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "Always-On Retina LTPO OLED"
+  },
+  {
+   "group": "Display",
+   "label": "Brightness",
+   "value": "Up to 2000 nits"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery life",
+   "value": "Up to 18 hours (36 hours in Low Power Mode)"
+  }
+ ],
+ "highlights": [
+  "Always-On Retina LTPO OLED display",
+  "S9 SiP with 4-core Neural Engine",
+  "Up to 18 hours of normal use",
+  "Double tap gesture"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111833",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111833",
+   "retrieved_at": "2026-11-02T16:26:41+00:00",
+   "sha256": "43349e89cc3133d2ed42cd1fc2347d717bc92629cf223cfe775a0e72a35df86f",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:09+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Apple Watch Series 9 1 2023-11-14.jpg",
+   "categories": [
+    "Category:Apple Watch Series 9",
+    "Category:CC-BY-SA-4.0",
+    "Category:Files by Fastily",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Images with extracted images",
+    "Category:Self-published work"
+   ],
+   "width": 4032,
+   "height": 3024,
+   "mime": "image/jpeg",
+   "sha1": "b5484c4fa6cc607780eac432c7963a48a0d7b6aa",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Apple_Watch_Series_9_1_2023-11-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Apple_Watch_Series_9_1_2023-11-14.jpg/1280px-Apple_Watch_Series_9_1_2023-11-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Apple_Watch_Series_9_1_2023-11-14.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "FASTILY",
+   "credit": "Own work",
+   "description": "Apple Watch Series 9",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-apple-watch-series-9-45mm-gps/1.jpg",
+   "local_sha256": "5421cc286d0286a96497a26f7646caf4af2c0e89779ebbebad4df70f89fe9b3f",
+   "local_bytes": 287936
+  }
+ ]
+}

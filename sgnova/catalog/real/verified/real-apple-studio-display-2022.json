@@ -1,0 +1,103 @@
+{
+ "handle": "real-apple-studio-display-2022",
+ "brand": "Apple",
+ "model": "Studio Display",
+ "mpn": null,
+ "category_handle": "office-monitor",
+ "title": "Apple Studio Display 27-inch 5K (2022)",
+ "subtitle": "27-inch 5K Retina | 12MP Center Stage camera | six speakers",
+ "description": "Apple's 2022 27-inch 5K Studio Display with standard glass and the tilt-adjustable stand. Includes a 12MP Center Stage camera, six-speaker audio and a Thunderbolt 3 upstream port with 96W laptop charging.",
+ "variant_title": "Standard glass / tilt-adjustable stand",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Panel",
+   "value": "27-inch 5K Retina"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "5120 x 2880 at 218 ppi"
+  },
+  {
+   "group": "Display",
+   "label": "Brightness",
+   "value": "600 nits"
+  },
+  {
+   "group": "Camera",
+   "label": "Camera",
+   "value": "12MP Center Stage"
+  },
+  {
+   "group": "Audio",
+   "label": "Speakers",
+   "value": "Six speakers with force-cancelling woofers"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Host port",
+   "value": "Thunderbolt 3 (USB-C) with 96W charging"
+  },
+  {
+   "group": "Connectivity",
+   "label": "USB-C ports",
+   "value": "Three USB-C (up to 10Gb/s)"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "6.3 kg (tilt-adjustable stand)"
+  }
+ ],
+ "highlights": [
+  "27-inch 5K Retina, 5120 x 2880",
+  "600 nits, P3 wide colour",
+  "12MP Center Stage camera",
+  "Thunderbolt 3 with 96W charging, three USB-C"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111890",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111890",
+   "retrieved_at": "2026-11-02T16:35:02+00:00",
+   "sha256": "ac043c34b81c74819aad0c7a3284b07c0f98ac9cfc95b9e5b2c8aa1b5bbf4fb1",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:19+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Studio Display (2022).jpg",
+   "categories": [
+    "Category:Apple Nagoya Sakae",
+    "Category:Apple Stores in 2022",
+    "Category:Apple Studio Display",
+    "Category:CC-BY-SA-4.0",
+    "Category:Mac Studio",
+    "Category:Self-published work"
+   ],
+   "width": 3495,
+   "height": 2720,
+   "mime": "image/jpeg",
+   "sha1": "59d8a68b289212baa6d09fbdca1e4b5812edf906",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Studio_Display_%282022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Studio_Display_%282022%29.jpg/1280px-Studio_Display_%282022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Studio_Display_(2022).jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "KKPCW",
+   "credit": "Own work",
+   "description": "Studio Display（2022年モデル）。名古屋市中区のApple Store名古屋栄で撮影。",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-apple-studio-display-2022/1.jpg",
+   "local_sha256": "680c2c7f476c7c466048d80b8ef5ced0a811fcd12dc227f7729fb60aafc6094c",
+   "local_bytes": 230119
+  }
+ ]
+}

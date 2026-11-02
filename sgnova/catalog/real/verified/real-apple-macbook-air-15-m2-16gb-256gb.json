@@ -1,0 +1,104 @@
+{
+ "handle": "real-apple-macbook-air-15-m2-16gb-256gb",
+ "brand": "Apple",
+ "model": "MacBook Air (15-inch, M2, 2023)",
+ "mpn": null,
+ "category_handle": "business-laptop",
+ "title": "Apple MacBook Air 15-inch (M2, 2023) 16GB / 256GB",
+ "subtitle": "15.3-inch Liquid Retina | Apple M2 | six-speaker audio",
+ "description": "The first 15-inch MacBook Air, powered by Apple M2 with an 8-core CPU and 10-core GPU, configured here with 16GB of memory and a 256GB SSD. A larger screen and six speakers in a fanless chassis.",
+ "variant_title": "M2 10-core GPU / 16GB / 256GB",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "Apple M2, 8-core CPU (4P + 4E), 10-core GPU"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "15.3-inch LED-backlit IPS Liquid Retina"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2880 x 1864 at 224 ppi"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory",
+   "value": "16GB unified memory"
+  },
+  {
+   "group": "Storage",
+   "label": "Storage",
+   "value": "256GB SSD"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery",
+   "value": "66.5Wh lithium-polymer"
+  },
+  {
+   "group": "Audio",
+   "label": "Speakers",
+   "value": "Six speakers with force-cancelling woofers"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "1.51 kg"
+  }
+ ],
+ "highlights": [
+  "Apple M2 with 8-core CPU and 10-core GPU",
+  "15.3-inch Liquid Retina display",
+  "66.5Wh battery, up to 18 hours movie playback",
+  "Six-speaker sound system"
+ ],
+ "review_notes": [
+  "Photo matched via category 'MacBook Air M2' and title '15 inch'; confirm it shows the 15-inch M2 model."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111346",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111346",
+   "retrieved_at": "2026-11-02T16:27:13+00:00",
+   "sha256": "70313bbed4330af2e722281fb572dd7d3b86f1913352a99c472847e4ec250e1a",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:01+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Macbook Air 15 inch - 1.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Computers running macOS",
+    "Category:MacBook Air M2",
+    "Category:Nagoya photographs taken on 2023-06-18",
+    "Category:Self-published work"
+   ],
+   "width": 2868,
+   "height": 2151,
+   "mime": "image/jpeg",
+   "sha1": "8a4748311249a3085920dbe6ef8c19b87e2d06af",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Macbook_Air_15_inch_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Macbook_Air_15_inch_-_1.jpg/1280px-Macbook_Air_15_inch_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Macbook_Air_15_inch_-_1.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "KKPCW（Kyu3）",
+   "credit": "Own work",
+   "description": "Macbook Air 15インチモデル。名古屋市内の家電量販店で撮影。",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-apple-macbook-air-15-m2-16gb-256gb/1.jpg",
+   "local_sha256": "3ea877e575da64c9fcb00b59ad771e6c4c11844042298cbcbb20ecbf8cc1e070",
+   "local_bytes": 226766
+  }
+ ]
+}

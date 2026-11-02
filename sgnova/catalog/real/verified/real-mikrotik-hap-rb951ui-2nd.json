@@ -1,0 +1,96 @@
+{
+ "handle": "real-mikrotik-hap-rb951ui-2nd",
+ "brand": "MikroTik",
+ "model": "hAP",
+ "mpn": "RB951Ui-2nD",
+ "category_handle": "router",
+ "title": "MikroTik hAP (RB951Ui-2nD) Wireless Router",
+ "subtitle": "2.4 GHz 802.11n | 5 Ethernet ports | PoE out on port 5",
+ "description": "Home and small-office access point with five Fast Ethernet ports, a USB port and passive PoE output on the fifth port to power another device. Runs RouterOS level 4. Specifications verified against MikroTik's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "CPU",
+   "value": "QCA9531, 650 MHz"
+  },
+  {
+   "group": "Performance",
+   "label": "RAM",
+   "value": "64 MB"
+  },
+  {
+   "group": "Wireless",
+   "label": "Max data rate",
+   "value": "300 Mbit/s (2.4 GHz)"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "5 x 10/100"
+  },
+  {
+   "group": "Power",
+   "label": "PoE out",
+   "value": "Passive PoE on ether5, up to 500 mA"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "5 W"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "113 x 89 x 28 mm"
+  }
+ ],
+ "highlights": [
+  "2.4 GHz wireless, up to 300 Mbit/s",
+  "Five 10/100 Ethernet ports",
+  "Passive PoE out on ether5",
+  "64 MB RAM"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://mikrotik.com/product/RB951Ui-2nD",
+   "publisher": "MikroTik",
+   "final_url": "https://mikrotik.com/product/RB951Ui-2nD",
+   "retrieved_at": "2026-11-02T16:32:47+00:00",
+   "sha256": "93cf193eee0d531ed5fd9cca668da612245b9a8e31911fa2678431f7f8f662f6",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:32+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:MikroTik RouterBoard HAP RB951Ui-2nD Top (21225709678).jpg",
+   "categories": [
+    "Category:CC-BY-2.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Flickr images reviewed by FlickreviewR",
+    "Category:Network routers"
+   ],
+   "width": 2005,
+   "height": 1529,
+   "mime": "image/jpeg",
+   "sha1": "0f2336cae4ab54ddbb1964b502b1026055677705",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/MikroTik_RouterBoard_HAP_RB951Ui-2nD_Top_%2821225709678%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/MikroTik_RouterBoard_HAP_RB951Ui-2nD_Top_%2821225709678%29.jpg/1280px-MikroTik_RouterBoard_HAP_RB951Ui-2nD_Top_%2821225709678%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:MikroTik_RouterBoard_HAP_RB951Ui-2nD_Top_(21225709678).jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "artist": "Jonathan Cutrer from San Angelo, United States",
+   "credit": "hAP RB951Ui-2nD Top",
+   "description": "hAP RB951Ui-2nD Top\n\nAuthor is User:Jcutrer on Commons.",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-mikrotik-hap-rb951ui-2nd/1.jpg",
+   "local_sha256": "4011c56683f53dce0b71c290d773d647b05a0dbb922415411722389c7a851597",
+   "local_bytes": 201883
+  }
+ ]
+}

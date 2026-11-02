@@ -1,0 +1,105 @@
+{
+ "handle": "real-apple-macbook-air-13-m4-16gb-256gb",
+ "brand": "Apple",
+ "model": "MacBook Air (13-inch, M4, 2025)",
+ "mpn": null,
+ "category_handle": "business-laptop",
+ "title": "Apple MacBook Air 13-inch (M4, 2025) 16GB / 256GB",
+ "subtitle": "13.6-inch Liquid Retina | Apple M4 | Thunderbolt 4",
+ "description": "2025 13-inch MacBook Air with Apple M4 (10-core CPU, 8-core GPU), 16GB unified memory and a 256GB SSD. A light everyday notebook for office and study work, specifications taken from Apple's tech specs page.",
+ "variant_title": "M4 8-core GPU / 16GB / 256GB",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "Apple M4, 10-core CPU (4P + 6E), 8-core GPU"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "13.6-inch LED-backlit IPS Liquid Retina"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2560 x 1664 at 224 ppi"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory",
+   "value": "16GB unified memory"
+  },
+  {
+   "group": "Storage",
+   "label": "Storage",
+   "value": "256GB SSD"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery life",
+   "value": "Up to 18 hours video streaming"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery",
+   "value": "53.8Wh lithium-polymer"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Ports",
+   "value": "Two Thunderbolt 4 (USB-C)"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "1.24 kg"
+  }
+ ],
+ "highlights": [
+  "Apple M4 with 10-core CPU and 8-core GPU",
+  "13.6-inch Liquid Retina display",
+  "Up to 18 hours video streaming",
+  "Two Thunderbolt 4 ports plus MagSafe 3"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/122209",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/122209",
+   "retrieved_at": "2026-11-02T16:33:59+00:00",
+   "sha256": "178379cb584276d891501379830ddfcaff51f64c32b1b96149f0928709669fa0",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:03+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:MacBook Air (13-inch, M4, Silver).jpg",
+   "categories": [
+    "Category:CC-Zero",
+    "Category:MacBook Air M4",
+    "Category:Self-published work"
+   ],
+   "width": 5712,
+   "height": 4284,
+   "mime": "image/jpeg",
+   "sha1": "8cadb33a232939457eebef9a80173a38759f2b1f",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/MacBook_Air_%2813-inch%2C_M4%2C_Silver%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/MacBook_Air_%2813-inch%2C_M4%2C_Silver%29.jpg/1280px-MacBook_Air_%2813-inch%2C_M4%2C_Silver%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:MacBook_Air_(13-inch,_M4,_Silver).jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "AzureSaturn",
+   "credit": "Own work",
+   "description": "A top view of the 13-inch M4 MacBook Air in Silver running macOS Tahoe.",
+   "attribution_required": "false",
+   "index": 1,
+   "local_path": "/catalog-real/real-apple-macbook-air-13-m4-16gb-256gb/1.jpg",
+   "local_sha256": "075ecfe960cf3f5aa8affd1a69db81de256f7600772f63db55747380591566a0",
+   "local_bytes": 394258
+  }
+ ]
+}

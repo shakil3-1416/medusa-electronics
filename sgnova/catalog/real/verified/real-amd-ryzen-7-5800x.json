@@ -1,0 +1,111 @@
+{
+ "handle": "real-amd-ryzen-7-5800x",
+ "brand": "AMD",
+ "model": "Ryzen 7 5800X",
+ "mpn": "100-100000063WOF",
+ "category_handle": "processor",
+ "title": "AMD Ryzen 7 5800X Desktop Processor",
+ "subtitle": "8 cores / 16 threads | up to 4.7 GHz | AM4",
+ "description": "Eight-core Zen 3 desktop CPU for the AM4 socket with 32 MB of L3 cache and boost clocks up to 4.7 GHz. Ships without a cooler. Specifications checked against AMD's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Processor",
+   "label": "Cores",
+   "value": "8"
+  },
+  {
+   "group": "Processor",
+   "label": "Threads",
+   "value": "16"
+  },
+  {
+   "group": "Clock",
+   "label": "Max boost clock",
+   "value": "Up to 4.7 GHz"
+  },
+  {
+   "group": "Clock",
+   "label": "Base clock",
+   "value": "3.8 GHz"
+  },
+  {
+   "group": "Cache",
+   "label": "L3 cache",
+   "value": "32 MB"
+  },
+  {
+   "group": "Power",
+   "label": "Default TDP",
+   "value": "105W"
+  },
+  {
+   "group": "Platform",
+   "label": "Socket",
+   "value": "AM4"
+  },
+  {
+   "group": "Platform",
+   "label": "PCI Express",
+   "value": "PCIe 4.0"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory support",
+   "value": "DDR4 up to 3200 MT/s"
+  },
+  {
+   "group": "Build",
+   "label": "Process",
+   "value": "TSMC 7nm FinFET"
+  }
+ ],
+ "highlights": [
+  "8 cores, 16 threads",
+  "Up to 4.7 GHz boost",
+  "32 MB L3 cache",
+  "AM4 socket, PCIe 4.0"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-7-5800x.html",
+   "publisher": "Advanced Micro Devices, Inc.",
+   "final_url": "https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-7-5800x.html",
+   "retrieved_at": "2026-11-02T16:26:43+00:00",
+   "sha256": "4c5907bd0b9be475b3bcc6ab2c42013c7c65866ce91375e492538988465b402b",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:30+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:AMD Ryzen 7 5800X 19339.jpg",
+   "categories": [
+    "Category:AMD Ryzen 7 5800X",
+    "Category:CC-BY-SA-3.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Germany photographs taken on 2021-03-06"
+   ],
+   "width": 2008,
+   "height": 1948,
+   "mime": "image/jpeg",
+   "sha1": "b38ab4557e2d697330ffdaf4cb07ac35f69b887d",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/AMD_Ryzen_7_5800X_19339.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/AMD_Ryzen_7_5800X_19339.jpg/1280px-AMD_Ryzen_7_5800X_19339.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:AMD_Ryzen_7_5800X_19339.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "artist": "Michael Wolf (Webseite)",
+   "credit": "Own work",
+   "description": "AMD Ryzen 7 5800X CPU",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-amd-ryzen-7-5800x/1.jpg",
+   "local_sha256": "6caf1055c7a74e2c827d9f14cf229d3b0564c7652958f3dc88abba69a234fc73",
+   "local_bytes": 768496
+  }
+ ]
+}

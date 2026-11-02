@@ -1,0 +1,1086 @@
+[
+ {
+  "handle": "real-apple-macbook-air-13-m2-16gb-256gb",
+  "brand": "Apple",
+  "model": "MacBook Air (M2, 2022)",
+  "variant_title": "M2 8-core GPU / 16GB / 256GB",
+  "category_handle": "business-laptop",
+  "title": "Apple MacBook Air 13-inch (M2, 2022) 16GB / 256GB",
+  "subtitle": "13.6-inch Liquid Retina | Apple M2 | 16GB unified memory",
+  "description": "Thin, fanless 13-inch MacBook Air built around Apple's M2 chip, in the 8-core CPU / 8-core GPU configuration with 16GB of memory and a 256GB SSD. Specifications checked against Apple's tech specs page.",
+  "highlights": [
+   "Apple M2 with 8-core CPU and 8-core GPU",
+   "13.6-inch Liquid Retina display",
+   "Up to 18 hours of movie playback",
+   "MagSafe 3 plus two Thunderbolt / USB 4 ports"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111867",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "MacBook Air (M2, 2022)"
+  ],
+  "specs": [
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "Apple M2, 8-core CPU (4P + 4E), 8-core GPU",
+    "evidence": "apple m2 chip 8-core cpu with 4 performance cores and 4 efficiency cores 8-core gpu"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "13.6-inch LED-backlit IPS Liquid Retina",
+    "evidence": "13.6-inch (diagonal) led-backlit display with ips technology"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2560 x 1664 at 224 ppi",
+    "evidence": "2560-by-1664 native resolution at 224 pixels per inch"
+   },
+   {
+    "group": "Display",
+    "label": "Brightness",
+    "value": "500 nits",
+    "evidence": "500 nits brightness"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory",
+    "value": "16GB unified memory",
+    "evidence": "16gb unified memory configurable to: 24gb"
+   },
+   {
+    "group": "Storage",
+    "label": "Storage",
+    "value": "256GB SSD",
+    "evidence": "256gb ssd configurable to: 512gb, 1tb, or 2tb"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery life",
+    "value": "Up to 18 hours movie playback",
+    "evidence": "up to 18 hours apple tv app movie playback"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery",
+    "value": "52.6Wh lithium-polymer",
+    "evidence": "52.6-watt-hour lithium-polymer battery"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "Wi-Fi 6 (802.11ax)",
+    "evidence": "wi-fi 6 (802.11ax)",
+    "context": "wireless wi-fi"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "1.24 kg",
+    "evidence": "weight: 2.7 pounds (1.24 kg)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:M2 Macbook Air Starlight model.jpg",
+    "model_evidence": "MacBook Air M2"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-macbook-air-15-m2-16gb-256gb",
+  "brand": "Apple",
+  "model": "MacBook Air (15-inch, M2, 2023)",
+  "variant_title": "M2 10-core GPU / 16GB / 256GB",
+  "category_handle": "business-laptop",
+  "title": "Apple MacBook Air 15-inch (M2, 2023) 16GB / 256GB",
+  "subtitle": "15.3-inch Liquid Retina | Apple M2 | six-speaker audio",
+  "description": "The first 15-inch MacBook Air, powered by Apple M2 with an 8-core CPU and 10-core GPU, configured here with 16GB of memory and a 256GB SSD. A larger screen and six speakers in a fanless chassis.",
+  "highlights": [
+   "Apple M2 with 8-core CPU and 10-core GPU",
+   "15.3-inch Liquid Retina display",
+   "66.5Wh battery, up to 18 hours movie playback",
+   "Six-speaker sound system"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111346",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "MacBook Air (15-inch, M2, 2023)"
+  ],
+  "specs": [
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "Apple M2, 8-core CPU (4P + 4E), 10-core GPU",
+    "evidence": "apple m2 chip 8-core cpu with 4 performance cores and 4 efficiency cores 10-core gpu"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "15.3-inch LED-backlit IPS Liquid Retina",
+    "evidence": "15.3-inch (diagonal) led-backlit display with ips technology"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2880 x 1864 at 224 ppi",
+    "evidence": "2880-by-1864 native resolution at 224 pixels per inch"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory",
+    "value": "16GB unified memory",
+    "evidence": "16gb unified memory configurable to: 24gb"
+   },
+   {
+    "group": "Storage",
+    "label": "Storage",
+    "value": "256GB SSD",
+    "evidence": "256gb ssd configurable to: 512gb, 1tb, or 2tb"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery",
+    "value": "66.5Wh lithium-polymer",
+    "evidence": "66.5-watt-hour lithium-polymer battery"
+   },
+   {
+    "group": "Audio",
+    "label": "Speakers",
+    "value": "Six speakers with force-cancelling woofers",
+    "evidence": "six-speaker sound system with force-cancelling woofers"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "1.51 kg",
+    "evidence": "weight: 3.3 pounds (1.51 kg)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Macbook Air 15 inch - 1.jpg",
+    "model_evidence": "Macbook Air 15 inch"
+   }
+  ],
+  "review_notes": [
+   "Photo matched via category 'MacBook Air M2' and title '15 inch'; confirm it shows the 15-inch M2 model."
+  ]
+ },
+ {
+  "handle": "real-apple-macbook-air-13-m4-16gb-256gb",
+  "brand": "Apple",
+  "model": "MacBook Air (13-inch, M4, 2025)",
+  "variant_title": "M4 8-core GPU / 16GB / 256GB",
+  "category_handle": "business-laptop",
+  "title": "Apple MacBook Air 13-inch (M4, 2025) 16GB / 256GB",
+  "subtitle": "13.6-inch Liquid Retina | Apple M4 | Thunderbolt 4",
+  "description": "2025 13-inch MacBook Air with Apple M4 (10-core CPU, 8-core GPU), 16GB unified memory and a 256GB SSD. A light everyday notebook for office and study work, specifications taken from Apple's tech specs page.",
+  "highlights": [
+   "Apple M4 with 10-core CPU and 8-core GPU",
+   "13.6-inch Liquid Retina display",
+   "Up to 18 hours video streaming",
+   "Two Thunderbolt 4 ports plus MagSafe 3"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/122209",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "MacBook Air (13-inch, M4, 2025)"
+  ],
+  "specs": [
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "Apple M4, 10-core CPU (4P + 6E), 8-core GPU",
+    "evidence": "apple m4 chip 10-core cpu with 4 performance cores and 6 efficiency cores 8-core gpu"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "13.6-inch LED-backlit IPS Liquid Retina",
+    "evidence": "13.6-inch (diagonal) led-backlit display with ips technology"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2560 x 1664 at 224 ppi",
+    "evidence": "2560-by-1664 native resolution at 224 pixels per inch"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory",
+    "value": "16GB unified memory",
+    "evidence": "16gb unified memory configurable to: 24gb or 32gb"
+   },
+   {
+    "group": "Storage",
+    "label": "Storage",
+    "value": "256GB SSD",
+    "evidence": "256gb ssd configurable to: 512gb, 1tb, or 2tb"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery life",
+    "value": "Up to 18 hours video streaming",
+    "evidence": "up to 18 hours video streaming"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery",
+    "value": "53.8Wh lithium-polymer",
+    "evidence": "53.8-watt-hour lithium-polymer battery"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Ports",
+    "value": "Two Thunderbolt 4 (USB-C)",
+    "evidence": "two thunderbolt 4 (usb-c) ports"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "1.24 kg",
+    "evidence": "weight: 2.7 pounds (1.24 kg)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:MacBook Air (13-inch, M4, Silver).jpg",
+    "model_evidence": "13-inch M4 MacBook Air"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-macbook-air-15-m4-16gb-256gb",
+  "brand": "Apple",
+  "model": "MacBook Air (15-inch, M4, 2025)",
+  "variant_title": "M4 10-core GPU / 16GB / 256GB",
+  "category_handle": "business-laptop",
+  "title": "Apple MacBook Air 15-inch (M4, 2025) 16GB / 256GB",
+  "subtitle": "15.3-inch Liquid Retina | Apple M4 | 66.5Wh battery",
+  "description": "2025 15-inch MacBook Air with Apple M4 (10-core CPU, 10-core GPU), 16GB unified memory and a 256GB SSD. Large-screen, fanless notebook for productivity work.",
+  "highlights": [
+   "Apple M4 with 10-core CPU and 10-core GPU",
+   "15.3-inch Liquid Retina display",
+   "Up to 18 hours video streaming",
+   "Two Thunderbolt 4 ports plus MagSafe 3"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/122210",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "MacBook Air (15-inch, M4, 2025)"
+  ],
+  "specs": [
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "Apple M4, 10-core CPU (4P + 6E), 10-core GPU",
+    "evidence": "apple m4 chip 10-core cpu with 4 performance cores and 6 efficiency cores 10-core gpu"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "15.3-inch LED-backlit IPS Liquid Retina",
+    "evidence": "15.3-inch (diagonal) led-backlit display with ips technology"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2880 x 1864 at 224 ppi",
+    "evidence": "2880-by-1864 native resolution at 224 pixels per inch"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory",
+    "value": "16GB unified memory",
+    "evidence": "16gb unified memory configurable to: 24gb or 32gb"
+   },
+   {
+    "group": "Storage",
+    "label": "Storage",
+    "value": "256GB SSD",
+    "evidence": "256gb ssd configurable to: 512gb, 1tb, or 2tb"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery life",
+    "value": "Up to 18 hours video streaming",
+    "evidence": "up to 18 hours video streaming"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery",
+    "value": "66.5Wh lithium-polymer",
+    "evidence": "built-in 66.5-watt-hour lithium-polymer battery"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Ports",
+    "value": "Two Thunderbolt 4 (USB-C)",
+    "evidence": "two thunderbolt 4 (usb-c) ports"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "1.51 kg",
+    "evidence": "weight: 3.3 pounds (1.51 kg)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:MacBook Air (15-inch, M4, Silver).jpg",
+    "model_evidence": "15-inch M4 MacBook Air"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-macbook-pro-14-m3-8gb-512gb",
+  "brand": "Apple",
+  "model": "MacBook Pro (14-inch, M3, Nov 2023)",
+  "variant_title": "M3 / 8GB / 512GB",
+  "category_handle": "business-laptop",
+  "title": "Apple MacBook Pro 14-inch (M3, Nov 2023) 8GB / 512GB",
+  "subtitle": "14.2-inch Liquid Retina XDR | Apple M3 | HDMI and SDXC",
+  "description": "Entry 14-inch MacBook Pro from November 2023 with Apple M3 (8-core CPU, 10-core GPU), 8GB unified memory and a 512GB SSD. Adds a mini-LED XDR display, HDMI and an SD card slot over the Air.",
+  "highlights": [
+   "Apple M3 with 8-core CPU and 10-core GPU",
+   "14.2-inch Liquid Retina XDR, 120Hz ProMotion",
+   "Up to 22 hours movie playback",
+   "HDMI, SDXC and two Thunderbolt / USB 4 ports"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/117735",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "MacBook Pro (14-inch, M3, Nov 2023)"
+  ],
+  "specs": [
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "Apple M3, 8-core CPU (4P + 4E), 10-core GPU",
+    "evidence": "apple m3 chip 8-core cpu with 4 performance cores and 4 efficiency cores 10-core gpu"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "14.2-inch Liquid Retina XDR",
+    "evidence": "14.2-inch (diagonal) liquid retina xdr display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "3024 x 1964 at 254 ppi",
+    "evidence": "3024-by-1964 native resolution at 254 pixels per inch"
+   },
+   {
+    "group": "Display",
+    "label": "Brightness",
+    "value": "1000 nits sustained, 1600 nits peak (HDR)",
+    "evidence": "xdr brightness: 1000 nits sustained full-screen, 1600 nits peak"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory",
+    "value": "8GB unified memory",
+    "evidence": "8gb or 16gb unified memory configurable to: 16gb or 24gb"
+   },
+   {
+    "group": "Storage",
+    "label": "Storage",
+    "value": "512GB SSD",
+    "evidence": "512gb or 1tb ssd"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery life",
+    "value": "Up to 22 hours movie playback",
+    "evidence": "up to 22 hours apple tv app movie playback"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Ports",
+    "value": "Two Thunderbolt / USB 4, HDMI, SDXC",
+    "evidence": "two thunderbolt / usb 4 ports"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "1.55 kg",
+    "evidence": "weight: 3.4 pounds (1.55 kg)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:M3 Macbook Pro 14 inch Space Grey model.jpg",
+    "model_evidence": "M3 Macbook Pro 14 inch"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-macbook-pro-16-m4-pro-24gb-512gb",
+  "brand": "Apple",
+  "model": "MacBook Pro (16-inch, 2024)",
+  "variant_title": "M4 Pro 14-core CPU / 20-core GPU / 24GB / 512GB",
+  "category_handle": "business-laptop",
+  "title": "Apple MacBook Pro 16-inch (M4 Pro, 2024) 24GB / 512GB",
+  "subtitle": "16.2-inch Liquid Retina XDR | Apple M4 Pro | Thunderbolt 5",
+  "description": "16-inch MacBook Pro (2024) in its M4 Pro configuration: 14-core CPU, 20-core GPU, 24GB unified memory and a 512GB SSD. A large-screen workstation laptop with three Thunderbolt 5 ports.",
+  "highlights": [
+   "Apple M4 Pro with 14-core CPU and 20-core GPU",
+   "16.2-inch Liquid Retina XDR display",
+   "Up to 24 hours video streaming",
+   "Three Thunderbolt 5 ports, HDMI and SDXC"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/121554",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "MacBook Pro (16-inch, 2024)"
+  ],
+  "specs": [
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "Apple M4 Pro, 14-core CPU (10P + 4E), 20-core GPU",
+    "evidence": "apple m4 pro chip 14-core cpu with 10 performance cores and 4 efficiency cores 20-core gpu"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "16.2-inch Liquid Retina XDR",
+    "evidence": "16.2-inch (diagonal) liquid retina xdr display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "3456 x 2234 at 254 ppi",
+    "evidence": "3456-by-2234 native resolution at 254 pixels per inch"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory",
+    "value": "24GB unified memory",
+    "evidence": "apple m4 pro chip 24gb unified memory"
+   },
+   {
+    "group": "Storage",
+    "label": "Storage",
+    "value": "512GB SSD",
+    "evidence": "apple m4 pro chip 512gb ssd"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery life",
+    "value": "Up to 24 hours video streaming",
+    "evidence": "m4 pro up to 24 hours video streaming"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Ports",
+    "value": "Three Thunderbolt 5 (USB-C)",
+    "evidence": "three thunderbolt 5 (usb-c) ports"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "2.14 kg",
+    "evidence": "weight (m4 pro): 4.7 pounds (2.14 kg)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:MacBook Pro (16-inch, M4 Pro, Silver).jpg",
+    "model_evidence": "MacBook Pro (16-inch, M4 Pro"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-macbook-pro-16-2021-m1-pro-16gb-512gb",
+  "brand": "Apple",
+  "model": "MacBook Pro (16-inch, 2021)",
+  "variant_title": "M1 Pro 10-core CPU / 16-core GPU / 16GB / 512GB",
+  "category_handle": "business-laptop",
+  "title": "Apple MacBook Pro 16-inch (M1 Pro, 2021) 16GB / 512GB",
+  "subtitle": "16.2-inch Liquid Retina XDR | Apple M1 Pro | 100Wh battery",
+  "description": "2021 16-inch MacBook Pro with Apple M1 Pro (10-core CPU, 16-core GPU), 16GB unified memory and a 512GB SSD. The redesign that brought back HDMI, SDXC and MagSafe.",
+  "highlights": [
+   "Apple M1 Pro with 10-core CPU and 16-core GPU",
+   "16.2-inch Liquid Retina XDR display",
+   "Up to 21 hours movie playback",
+   "Three Thunderbolt 4 ports, HDMI and SDXC"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111901",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "MacBook Pro (16-inch, 2021)"
+  ],
+  "specs": [
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "Apple M1 Pro, 10-core CPU (8P + 2E), 16-core GPU",
+    "evidence": "apple m1 pro chip 10-core cpu with 8 performance cores and 2 efficiency cores 16-core gpu"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "16.2-inch Liquid Retina XDR",
+    "evidence": "16.2-inch (diagonal) liquid retina xdr display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "3456 x 2234 at 254 ppi",
+    "evidence": "3456-by-2234 native resolution at 254 pixels per inch"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory",
+    "value": "16GB unified memory",
+    "evidence": "apple m1 pro chip 16gb unified memory"
+   },
+   {
+    "group": "Storage",
+    "label": "Storage",
+    "value": "512GB SSD",
+    "evidence": "apple m1 pro chip 512gb ssd"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery life",
+    "value": "Up to 21 hours movie playback",
+    "evidence": "up to 21 hours apple tv app movie playback"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery",
+    "value": "100Wh lithium-polymer",
+    "evidence": "100-watt-hour lithium-polymer battery"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Ports",
+    "value": "Three Thunderbolt 4 (USB-C)",
+    "evidence": "three thunderbolt 4 (usb-c) ports"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "2.1 kg",
+    "evidence": "weight (m1 pro): 4.7 pounds (2.1 kg)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:MacBook Pro 16 (M1 Pro, 2021) - Wikipedia.jpg",
+    "model_evidence": "MacBook Pro 16 (M1 Pro, 2021)"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-mac-mini-2024-m4-16gb-256gb",
+  "brand": "Apple",
+  "model": "Mac mini (2024)",
+  "variant_title": "M4 / 16GB / 256GB",
+  "category_handle": "desktop-pc",
+  "title": "Apple Mac mini (M4, 2024) 16GB / 256GB",
+  "subtitle": "Compact desktop | Apple M4 | Thunderbolt 4",
+  "description": "The redesigned 2024 Mac mini in its base Apple M4 configuration (10-core CPU, 10-core GPU) with 16GB unified memory and a 256GB SSD, in a 12.7 cm square enclosure with front USB-C ports.",
+  "highlights": [
+   "Apple M4 with 10-core CPU and 10-core GPU",
+   "16GB unified memory, 256GB SSD",
+   "Three Thunderbolt 4 ports and HDMI",
+   "Front USB-C and headphone jack"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/121555",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "Mac mini (2024)"
+  ],
+  "specs": [
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "Apple M4, 10-core CPU (4P + 6E), 10-core GPU",
+    "evidence": "apple m4 chip 10-core cpu with 4 performance cores and 6 efficiency cores 10-core gpu"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory",
+    "value": "16GB unified memory",
+    "evidence": "apple m4 chip 16gb unified memory"
+   },
+   {
+    "group": "Storage",
+    "label": "Storage",
+    "value": "256GB SSD",
+    "evidence": "apple m4 chip 256gb ssd"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Front ports",
+    "value": "Two USB-C (USB 3, up to 10Gb/s)",
+    "evidence": "on front: two usb-c ports with support for usb 3 (up to 10gb/s)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Rear ports",
+    "value": "Three Thunderbolt 4 (USB-C), HDMI, Gigabit Ethernet",
+    "evidence": "three thunderbolt 4 (usb-c) ports"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Ethernet",
+    "value": "Gigabit Ethernet",
+    "evidence": "on back (m4): gigabit ethernet port"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "5.0 x 12.7 x 12.7 cm",
+    "evidence": "height: 2.0 inches (5.0 cm) width: 5.0 inches (12.7 cm) depth: 5.0 inches (12.7 cm)"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "0.67 kg",
+    "evidence": "weight (m4): 1.5 pounds (0.67 kg)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Mac mini 2024.jpg",
+    "model_evidence": "Mac mini M4"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-mac-studio-2022-m1-max-32gb-512gb",
+  "brand": "Apple",
+  "model": "Mac Studio (2022)",
+  "variant_title": "M1 Max 10-core CPU / 24-core GPU / 32GB / 512GB",
+  "category_handle": "desktop-pc",
+  "title": "Apple Mac Studio (M1 Max, 2022) 32GB / 512GB",
+  "subtitle": "Pro desktop | Apple M1 Max | 10Gb Ethernet",
+  "description": "First-generation Mac Studio with Apple M1 Max (10-core CPU, 24-core GPU), 32GB unified memory and a 512GB SSD. A compact workstation with four Thunderbolt 4 ports and 10Gb Ethernet.",
+  "highlights": [
+   "Apple M1 Max with 10-core CPU and 24-core GPU",
+   "32GB unified memory, 512GB SSD",
+   "Four Thunderbolt 4 ports, 10Gb Ethernet",
+   "Front USB-C and SDXC card slot"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111900",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "Mac Studio (2022)"
+  ],
+  "specs": [
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "Apple M1 Max, 10-core CPU (8P + 2E), 24-core GPU",
+    "evidence": "apple m1 max chip 10-core cpu with 8 performance cores and 2 efficiency cores 24-core gpu"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory",
+    "value": "32GB unified memory",
+    "evidence": "apple m1 max chip 32gb unified memory"
+   },
+   {
+    "group": "Storage",
+    "label": "Storage",
+    "value": "512GB SSD",
+    "evidence": "apple m1 max chip 512gb ssd"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Rear ports",
+    "value": "Four Thunderbolt 4",
+    "evidence": "four thunderbolt 4 ports"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Ethernet",
+    "value": "10Gb Ethernet",
+    "evidence": "10gb ethernet (nbase-t ethernet"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "Wi-Fi 6 (802.11ax)",
+    "evidence": "802.11ax wi-fi 6 wireless networking"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "9.5 x 19.7 x 19.7 cm",
+    "evidence": "height: 3.7 inches (9.5 cm) width: 7.7 inches (19.7 cm) depth: 7.7 inches (19.7 cm)"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "2.7 kg",
+    "evidence": "weight (m1 max): 5.9 pounds (2.7 kg)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Mac Studio (2022) front.jpg",
+    "model_evidence": "Mac Studio (2022)"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-studio-display-2022",
+  "brand": "Apple",
+  "model": "Studio Display",
+  "variant_title": "Standard glass / tilt-adjustable stand",
+  "category_handle": "office-monitor",
+  "title": "Apple Studio Display 27-inch 5K (2022)",
+  "subtitle": "27-inch 5K Retina | 12MP Center Stage camera | six speakers",
+  "description": "Apple's 2022 27-inch 5K Studio Display with standard glass and the tilt-adjustable stand. Includes a 12MP Center Stage camera, six-speaker audio and a Thunderbolt 3 upstream port with 96W laptop charging.",
+  "highlights": [
+   "27-inch 5K Retina, 5120 x 2880",
+   "600 nits, P3 wide colour",
+   "12MP Center Stage camera",
+   "Thunderbolt 3 with 96W charging, three USB-C"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111890",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "Studio Display"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Panel",
+    "value": "27-inch 5K Retina",
+    "evidence": "27-inch (diagonal) 5k retina display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "5120 x 2880 at 218 ppi",
+    "evidence": "5120-by-2880 resolution at 218 pixels per inch"
+   },
+   {
+    "group": "Display",
+    "label": "Brightness",
+    "value": "600 nits",
+    "evidence": "600 nits brightness"
+   },
+   {
+    "group": "Camera",
+    "label": "Camera",
+    "value": "12MP Center Stage",
+    "evidence": "12mp center stage camera"
+   },
+   {
+    "group": "Audio",
+    "label": "Speakers",
+    "value": "Six speakers with force-cancelling woofers",
+    "evidence": "high-fidelity six-speaker system with force-cancelling woofers"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Host port",
+    "value": "Thunderbolt 3 (USB-C) with 96W charging",
+    "evidence": "one upstream thunderbolt 3 (usb-c) port for host (with 96w host charging)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "USB-C ports",
+    "value": "Three USB-C (up to 10Gb/s)",
+    "evidence": "three downstream usb-c ports (up to 10gb/s)"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "6.3 kg (tilt-adjustable stand)",
+    "evidence": "weight: 13.9 pounds (6.3 kg)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Studio Display (2022).jpg",
+    "model_evidence": "Studio Display (2022)"
+   }
+  ]
+ },
+ {
+  "handle": "real-asus-rog-zephyrus-g14-2025-ga403wr",
+  "brand": "ASUS",
+  "model": "ROG Zephyrus G14 (2025) GA403WR",
+  "variant_title": "GA403WR / RTX 5070 Ti / 64GB / 2TB",
+  "category_handle": "gaming-laptop",
+  "title": "ASUS ROG Zephyrus G14 (2025) GA403WR, RTX 5070 Ti",
+  "subtitle": "14-inch 3K OLED 120Hz | Ryzen AI 9 HX 370 | RTX 5070 Ti",
+  "description": "Compact 14-inch gaming laptop in the GA403WR configuration: AMD Ryzen AI 9 HX 370, NVIDIA GeForce RTX 5070 Ti laptop GPU, 64GB LPDDR5X and a 2TB SSD behind a 3K 120Hz OLED panel.",
+  "highlights": [
+   "AMD Ryzen AI 9 HX 370",
+   "NVIDIA GeForce RTX 5070 Ti Laptop GPU, 12GB GDDR7",
+   "14-inch 3K (2880 x 1800) OLED, 120Hz",
+   "64GB LPDDR5X, 2TB PCIe 4.0 SSD"
+  ],
+  "spec_source": {
+   "url": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g14-2025/spec/",
+   "publisher": "ASUSTeK Computer Inc."
+  },
+  "model_match": [
+   "ROG Zephyrus G14 (2025)",
+   "GA403WR"
+  ],
+  "specs": [
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "AMD Ryzen AI 9 HX 370, 12 cores / 24 threads, up to 5.1GHz",
+    "evidence": "amd ryzentm ai 9 hx 370 processor 2.0ghz (36mb cache, up to 5.1ghz, 12 cores, 24 threads)"
+   },
+   {
+    "group": "Performance",
+    "label": "Graphics",
+    "value": "NVIDIA GeForce RTX 5070 Ti Laptop GPU, 12GB GDDR7, 110W",
+    "evidence": "nvidia ® geforce rtxtm 5070 ti laptop gpu turbo mode: 1812mhz at 110w(1762mhz boost clock+50mhz oc, 85w+25w dynamic boost) 12gb gddr7"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "14-inch 3K (2880 x 1800) OLED, 16:10",
+    "evidence": "rog nebula display 14-inch 3k (2880 x 1800) oled 16:10 aspect ratio"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory",
+    "value": "64GB LPDDR5X-8000 on board",
+    "evidence": "64gb lpddr5x 8000 on board"
+   },
+   {
+    "group": "Storage",
+    "label": "Storage",
+    "value": "2TB PCIe 4.0 NVMe M.2 SSD",
+    "evidence": "2tb pcie ® 4.0 nvmetm m.2 ssd"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery",
+    "value": "73Wh, 4-cell Li-ion",
+    "evidence": "73whrs, 4s1p, 4-cell li-ion"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wireless",
+    "value": "Wi-Fi 7 (802.11be), Bluetooth 5.4",
+    "evidence": "wi-fi 7(802.11be) (triple band) 2*2 wireless card bluetooth ® 5.4"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "1.57 kg",
+    "evidence": "1.57 kg (3.46 lbs)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Tokyo-Game-Show-2025 0121.jpg",
+    "model_evidence": "ASUS ROG Zephyrus G14 GA403WR"
+   }
+  ],
+  "review_notes": [
+   "Spec page is a multi-SKU comparison table; confirm values belong to the GA403WR column."
+  ]
+ },
+ {
+  "handle": "real-asus-rog-strix-scar-17-2023-g733py",
+  "brand": "ASUS",
+  "model": "ROG Strix Scar 17 (2023) G733PY",
+  "variant_title": "G733PY / RTX 4090 / 32GB x 2 / 2TB",
+  "category_handle": "gaming-laptop",
+  "title": "ASUS ROG Strix Scar 17 (2023) G733PY, RTX 4090",
+  "subtitle": "17.3-inch WQHD 240Hz | Ryzen 9 7945HX | RTX 4090",
+  "description": "High-end 17.3-inch gaming laptop in the G733PY configuration: AMD Ryzen 9 7945HX, NVIDIA GeForce RTX 4090 laptop GPU at up to 175W, two 32GB DDR5-4800 modules and a 2TB SSD with a 240Hz WQHD panel.",
+  "highlights": [
+   "AMD Ryzen 9 7945HX, 16 cores / 32 threads",
+   "NVIDIA GeForce RTX 4090 Laptop GPU, 16GB GDDR6",
+   "17.3-inch WQHD 240Hz display",
+   "2.5G LAN, Wi-Fi 6E, 90Wh battery"
+  ],
+  "spec_source": {
+   "url": "https://rog.asus.com/laptops/rog-strix/rog-strix-scar-17-2023-series/spec/",
+   "publisher": "ASUSTeK Computer Inc."
+  },
+  "model_match": [
+   "ROG Strix Scar 17 (2023)",
+   "G733PY"
+  ],
+  "specs": [
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "AMD Ryzen 9 7945HX, 16 cores / 32 threads, up to 5.4GHz",
+    "evidence": "amd ryzentm 9 7945hx mobile processor (16-core/32-thread, 64mb l3 cache, up to 5.4 ghz max boost)"
+   },
+   {
+    "group": "Performance",
+    "label": "Graphics",
+    "value": "NVIDIA GeForce RTX 4090 Laptop GPU, 16GB GDDR6, 175W",
+    "evidence": "nvidia ® geforce rtxtm 4090 laptop gpu (686 ai tops) rog boost: 2090mhz* at 175w (2040mhz boost clock+50mhz oc, 150w+25w dynamic boost) 16gb gddr6"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "17.3-inch WQHD (2560 x 1440) IPS-level, 16:9",
+    "evidence": "17.3-inch wqhd (2560 x 1440) 16:9 ips-level anti-glare(ag) display"
+   },
+   {
+    "group": "Display",
+    "label": "Refresh rate",
+    "value": "240Hz, 3ms",
+    "evidence": "refresh rate: 240hz response time: 3ms"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory",
+    "value": "32GB DDR5-4800 SO-DIMM x 2 (max 64GB)",
+    "evidence": "32gb ddr5-4800 so-dimm x 2 max capacity: 64gb"
+   },
+   {
+    "group": "Storage",
+    "label": "Storage",
+    "value": "2TB PCIe 4.0 NVMe M.2 SSD",
+    "evidence": "2tb pcie ® 4.0 nvmetm m.2 performance ssd"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery",
+    "value": "90Wh, 4-cell Li-ion",
+    "evidence": "90whrs, 4s1p, 4-cell li-ion"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "3.00 kg",
+    "evidence": "3.00 kg (6.61 lbs)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Der ASUS ROG Strix Scar-Laptop im Hands-on (极客湾Geekerwan) 06.png",
+    "model_evidence": "ASUS ROG Strix Scar 17"
+   }
+  ],
+  "review_notes": [
+   "Spec page is a multi-SKU comparison table; confirm values belong to the G733PY column. Photo is a CC BY video still."
+  ]
+ },
+ {
+  "handle": "real-asus-rog-strix-xg32vqr",
+  "brand": "ASUS",
+  "model": "ROG Strix XG32VQR",
+  "variant_title": "Default",
+  "category_handle": "gaming-monitor",
+  "title": "ASUS ROG Strix XG32VQR 31.5-inch Curved WQHD 144Hz Gaming Monitor",
+  "subtitle": "31.5-inch 1800R VA | 2560 x 1440 | 144Hz | DisplayHDR 400",
+  "description": "31.5-inch curved VA gaming monitor with WQHD resolution, a 144Hz refresh rate, FreeSync Premium Pro and DisplayHDR 400 certification, on a height, tilt and swivel adjustable stand.",
+  "highlights": [
+   "31.5-inch 1800R curved VA panel",
+   "2560 x 1440 at 144Hz",
+   "AMD FreeSync Premium Pro, DisplayHDR 400",
+   "DisplayPort 1.2 and two HDMI 2.0"
+  ],
+  "spec_source": {
+   "url": "https://rog.asus.com/monitors/27-to-31-5-inches/rog-strix-xg32vqr-model/spec/",
+   "publisher": "ASUSTeK Computer Inc."
+  },
+  "model_match": [
+   "ROG Strix XG32VQR"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Panel size",
+    "value": "31.5-inch, 1800R curvature",
+    "evidence": "panel size (inch) : 31.5 curvature : 1800r"
+   },
+   {
+    "group": "Display",
+    "label": "Panel",
+    "value": "VA, 2560 x 1440",
+    "evidence": "panel type : va resolution : 2560x1440"
+   },
+   {
+    "group": "Display",
+    "label": "Refresh rate",
+    "value": "144Hz",
+    "evidence": "refresh rate (max) : 144hz"
+   },
+   {
+    "group": "Display",
+    "label": "Response time",
+    "value": "4ms (GTG)",
+    "evidence": "response time : 4ms(gtg)"
+   },
+   {
+    "group": "Display",
+    "label": "Brightness",
+    "value": "450 cd/m2",
+    "evidence": "brightness (typ.) : 450cd/m2"
+   },
+   {
+    "group": "Display",
+    "label": "Contrast",
+    "value": "3000:1",
+    "evidence": "contrast ratio (typ.) : 3000:1"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Inputs",
+    "value": "DisplayPort 1.2 x 1, HDMI 2.0 x 2",
+    "evidence": "displayport 1.2 x 1 hdmi (v2.0) x 2"
+   },
+   {
+    "group": "Features",
+    "label": "Certifications",
+    "value": "VESA DisplayHDR 400, AMD FreeSync Premium Pro",
+    "evidence": "vesa displayhdr 400 amd freesync premium pro"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "9.6 kg with stand",
+    "evidence": "net weight with stand : 9.6 kg"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:ASUS ROG Strix XG32VQR monitor.jpg",
+    "model_evidence": "ROG Strix XG32VQR"
+   }
+  ],
+  "review_notes": [
+   "Photo is a close-up of the lit screen, not the whole monitor; replace with a full product photo before publishing."
+  ]
+ }
+]

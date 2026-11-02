@@ -1,0 +1,107 @@
+{
+ "handle": "real-google-pixel-8-128gb",
+ "brand": "Google",
+ "model": "Pixel 8",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Google Pixel 8 (128GB)",
+ "subtitle": "6.2-inch Actua OLED | Google Tensor G3 | 50MP camera",
+ "description": "Google Pixel 8 with 128GB of storage and 8GB of RAM, powered by the Google Tensor G3 chip with a 6.2-inch OLED display and a 50MP wide plus 12MP ultrawide rear camera pair. Specifications were verified against Google's official Pixel hardware tech specs page.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.2-inch Actua OLED, 1080 x 2400 at 428 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Google Tensor G3"
+  },
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "8GB LPDDR5X RAM, 128GB UFS 3.1"
+  },
+  {
+   "group": "Camera",
+   "label": "Wide camera",
+   "value": "50MP, f/1.68"
+  },
+  {
+   "group": "Camera",
+   "label": "Ultrawide camera",
+   "value": "12MP with autofocus"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "10.5MP"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery capacity",
+   "value": "4575 mAh typical (4485 mAh minimum)"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions",
+   "value": "150.5 x 70.8 x 8.9 mm"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "187 g"
+  }
+ ],
+ "highlights": [
+  "6.2-inch Actua OLED display",
+  "Google Tensor G3 chip",
+  "50MP wide and 12MP ultrawide cameras",
+  "4575 mAh typical battery"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 8 tech specs",
+   "scope_end": "tech specs",
+   "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "retrieved_at": "2026-11-02T16:29:27+00:00",
+   "sha256": "0f4a52cf5ffd0cb50001020950ea033036dc061faeb1c40b0fdf63beec941e0c",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:14+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Google Pixel 8 Rose rear.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Google Pixel 8",
+    "Category:Self-published work"
+   ],
+   "width": 3648,
+   "height": 5472,
+   "mime": "image/jpeg",
+   "sha1": "277ba0208abe88dae9509aeed510067f3f08cbe5",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Google_Pixel_8_Rose_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Google_Pixel_8_Rose_rear.jpg/1280px-Google_Pixel_8_Rose_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Google_Pixel_8_Rose_rear.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "IXTA9839",
+   "credit": "Own work",
+   "description": "Google Pixel 8の背面\n本体色はRose",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-google-pixel-8-128gb/1.jpg",
+   "local_sha256": "1910c8698e54cc4fbb392fbfb7687de0d3d21f78fd31c494d7dfe929fa8313c9",
+   "local_bytes": 200213
+  }
+ ]
+}

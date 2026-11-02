@@ -1,0 +1,109 @@
+{
+ "handle": "real-asus-rog-strix-xg32vqr",
+ "brand": "ASUS",
+ "model": "ROG Strix XG32VQR",
+ "mpn": null,
+ "category_handle": "gaming-monitor",
+ "title": "ASUS ROG Strix XG32VQR 31.5-inch Curved WQHD 144Hz Gaming Monitor",
+ "subtitle": "31.5-inch 1800R VA | 2560 x 1440 | 144Hz | DisplayHDR 400",
+ "description": "31.5-inch curved VA gaming monitor with WQHD resolution, a 144Hz refresh rate, FreeSync Premium Pro and DisplayHDR 400 certification, on a height, tilt and swivel adjustable stand.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Panel size",
+   "value": "31.5-inch, 1800R curvature"
+  },
+  {
+   "group": "Display",
+   "label": "Panel",
+   "value": "VA, 2560 x 1440"
+  },
+  {
+   "group": "Display",
+   "label": "Refresh rate",
+   "value": "144Hz"
+  },
+  {
+   "group": "Display",
+   "label": "Response time",
+   "value": "4ms (GTG)"
+  },
+  {
+   "group": "Display",
+   "label": "Brightness",
+   "value": "450 cd/m2"
+  },
+  {
+   "group": "Display",
+   "label": "Contrast",
+   "value": "3000:1"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Inputs",
+   "value": "DisplayPort 1.2 x 1, HDMI 2.0 x 2"
+  },
+  {
+   "group": "Features",
+   "label": "Certifications",
+   "value": "VESA DisplayHDR 400, AMD FreeSync Premium Pro"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "9.6 kg with stand"
+  }
+ ],
+ "highlights": [
+  "31.5-inch 1800R curved VA panel",
+  "2560 x 1440 at 144Hz",
+  "AMD FreeSync Premium Pro, DisplayHDR 400",
+  "DisplayPort 1.2 and two HDMI 2.0"
+ ],
+ "review_notes": [
+  "Photo is a close-up of the lit screen, not the whole monitor; replace with a full product photo before publishing."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://rog.asus.com/monitors/27-to-31-5-inches/rog-strix-xg32vqr-model/spec/",
+   "publisher": "ASUSTeK Computer Inc.",
+   "final_url": "https://rog.asus.com/monitors/27-to-31-5-inches/rog-strix-xg32vqr-model/spec/",
+   "retrieved_at": "2026-11-02T16:42:59+00:00",
+   "sha256": "fae2a4aa9731a41b1b086bbbca866eeec8e08f88178eb4390fca3e937a33d46b",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:26+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:ASUS ROG Strix XG32VQR monitor.jpg",
+   "categories": [
+    "Category:ASUS Republic of Gamers",
+    "Category:ASUS monitors",
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Self-published work"
+   ],
+   "width": 4032,
+   "height": 3024,
+   "mime": "image/jpeg",
+   "sha1": "7f141479702ae4c68a3b13e9c35c9eb579b5e2c2",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/ASUS_ROG_Strix_XG32VQR_monitor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/ASUS_ROG_Strix_XG32VQR_monitor.jpg/1280px-ASUS_ROG_Strix_XG32VQR_monitor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:ASUS_ROG_Strix_XG32VQR_monitor.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Evan0512",
+   "credit": "Own work",
+   "description": "A monitor that has a 4K resolution or has a higher refresh rate costs more than a standard monitor, especially the ASUS ROG monitor. It has a curved, 32-inch display that supports AMD Radeon FreeSync2 HDR and a 144 Hz refresh rate up to 2560 x 1440. This monitor can also run 4K at 60 Hz.",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-asus-rog-strix-xg32vqr/1.jpg",
+   "local_sha256": "c60fedc98f38bebeec5c8bc494d0d1fff4e2f4e33f741c24845ca9c4188e75f5",
+   "local_bytes": 100608
+  }
+ ]
+}

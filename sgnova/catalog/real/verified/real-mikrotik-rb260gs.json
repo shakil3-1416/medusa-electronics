@@ -1,0 +1,101 @@
+{
+ "handle": "real-mikrotik-rb260gs",
+ "brand": "MikroTik",
+ "model": "RB260GS",
+ "mpn": "CSS106-5G-1S",
+ "category_handle": "network-switch",
+ "title": "MikroTik RB260GS 5-Port Gigabit Smart Switch with SFP",
+ "subtitle": "5 x Gigabit | 1 x SFP | SwOS web management",
+ "description": "Small desktop smart switch with five Gigabit Ethernet ports and one SFP cage, managed from a web browser through MikroTik SwOS for VLANs, port mirroring and bandwidth limits. Specifications verified against MikroTik's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "5 x 10/100/1000"
+  },
+  {
+   "group": "Connectivity",
+   "label": "SFP",
+   "value": "1 x SFP"
+  },
+  {
+   "group": "Hardware",
+   "label": "Switch chip",
+   "value": "QCA8337"
+  },
+  {
+   "group": "Software",
+   "label": "Operating system",
+   "value": "MikroTik SwOS"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "113 x 139 x 28 mm"
+  },
+  {
+   "group": "Power",
+   "label": "DC input",
+   "value": "11-30 V"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "5 W"
+  }
+ ],
+ "highlights": [
+  "Five Gigabit Ethernet ports",
+  "One SFP cage",
+  "SwOS browser-based management",
+  "Passive PoE or DC jack powered"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://mikrotik.com/product/RB260GS",
+   "publisher": "MikroTik",
+   "final_url": "https://mikrotik.com/product/RB260GS",
+   "retrieved_at": "2026-11-02T16:36:40+00:00",
+   "sha256": "de2b615e7c24aba83819abbf73f99e2333ec9534174efc3961ae4ee7775b2b76",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:34+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:MikroTik RouterBoard RB260GS-7378.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files by User:Raymond from de.wikipedia/Objects",
+    "Category:Fotosession im Lokal K (2026)",
+    "Category:Fotosession im Lokal K (IuK-Technik)",
+    "Category:Hauskamera Lokal K - Canon EOS 5D Mark IV (2026)",
+    "Category:Information field template with formatting",
+    "Category:MikroTik RouterBoard RB260GS",
+    "Category:Self-published work",
+    "Category:Uploaded with LrMediaWiki"
+   ],
+   "width": 3409,
+   "height": 3409,
+   "mime": "image/jpeg",
+   "sha1": "78fa9f7adfc53c74f9d2a89ace63c086b9c78fba",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/MikroTik_RouterBoard_RB260GS-7378.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/MikroTik_RouterBoard_RB260GS-7378.jpg/1280px-MikroTik_RouterBoard_RB260GS-7378.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:MikroTik_RouterBoard_RB260GS-7378.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Raimond Spekking",
+   "credit": "Own work",
+   "description": "MikroTik RouterBoard RB260GS - 5x Gigabit Ethernet Smart Switch",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-mikrotik-rb260gs/1.jpg",
+   "local_sha256": "fadc562a417f2a2add0b5ccb5fd0d3e097d25f4a63d320d075acfd9a698a74b3",
+   "local_bytes": 197001
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "handle": "real-apple-iphone-se-3rd-gen-64gb",
+ "brand": "Apple",
+ "model": "iPhone SE (3rd generation)",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone SE (3rd generation, 64GB)",
+ "subtitle": "4.7-inch Retina HD | A15 Bionic | Touch ID",
+ "description": "The third-generation Apple iPhone SE with 64GB of storage: a compact 4.7-inch LCD phone with a Home button and Touch ID, powered by the A15 Bionic chip with a 12MP rear camera. Specifications were verified against Apple's official tech specs page.",
+ "variant_title": "64GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "64GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "4.7-inch Retina HD LCD (IPS)"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "1334 x 750 at 326 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A15 Bionic, 6-core CPU, 4-core GPU"
+  },
+  {
+   "group": "Camera",
+   "label": "Main camera",
+   "value": "12MP, f/1.8"
+  },
+  {
+   "group": "Battery",
+   "label": "Video playback",
+   "value": "Up to 15 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "144 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions",
+   "value": "138.4 x 67.3 x 7.3 mm"
+  }
+ ],
+ "highlights": [
+  "Compact 4.7-inch Retina HD display",
+  "A15 Bionic chip",
+  "Touch ID Home button",
+  "12MP main camera"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111866",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111866",
+   "retrieved_at": "2026-11-02T16:26:35+00:00",
+   "sha256": "587a05bcef9ebb9be93ae26cd7e9026bf2ba6360c1df7030365d1c136f9ffb57",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:05+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPhone SE 3rd Gen.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Front of smartphones",
+    "Category:IPhone SE (3rd generation)",
+    "Category:Red mobile phones",
+    "Category:Self-published work"
+   ],
+   "width": 2570,
+   "height": 3125,
+   "mime": "image/jpeg",
+   "sha1": "c9de63f3d63fcacace465a802fd47191604007ef",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/IPhone_SE_3rd_Gen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/IPhone_SE_3rd_Gen.jpg/1280px-IPhone_SE_3rd_Gen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_SE_3rd_Gen.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Toad40",
+   "credit": "Own work",
+   "description": "An iPhone SE 3rd Generation.",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-apple-iphone-se-3rd-gen-64gb/1.jpg",
+   "local_sha256": "fec3fded999885b743966e5c985b821dab9526866474a4f0b2513ebe35de075f",
+   "local_bytes": 388528
+  }
+ ]
+}

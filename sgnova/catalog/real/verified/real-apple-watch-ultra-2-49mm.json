@@ -1,0 +1,95 @@
+{
+ "handle": "real-apple-watch-ultra-2-49mm",
+ "brand": "Apple",
+ "model": "Apple Watch Ultra 2",
+ "mpn": null,
+ "category_handle": "smartwatch",
+ "title": "Apple Watch Ultra 2 (49mm, Titanium)",
+ "subtitle": "Always-On Retina up to 3000 nits | S9 SiP | 64GB",
+ "description": "Apple Watch Ultra 2 with a 49mm grade 5 titanium case, a flat sapphire Always-On display rated up to 3000 nits, the S9 SiP and multiday battery life. Specifications were verified against Apple's official tech specs page.",
+ "variant_title": "49mm Titanium",
+ "specs": [
+  {
+   "group": "Build",
+   "label": "Case size",
+   "value": "49 x 44 x 12 mm"
+  },
+  {
+   "group": "Build",
+   "label": "Weight (natural)",
+   "value": "61.4 g"
+  },
+  {
+   "group": "Display",
+   "label": "Display resolution",
+   "value": "410 x 502 pixels"
+  },
+  {
+   "group": "Display",
+   "label": "Brightness",
+   "value": "Up to 3000 nits"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "S9 SiP, 64-bit dual-core, 4-core Neural Engine"
+  },
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "64GB"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery life",
+   "value": "Up to 36 hours (72 hours in Low Power Mode)"
+  }
+ ],
+ "highlights": [
+  "49mm titanium case",
+  "Up to 3000 nits Always-On display",
+  "Up to 36 hours of normal use",
+  "Depth gauge and water temperature sensor"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111832",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111832",
+   "retrieved_at": "2026-11-02T16:26:44+00:00",
+   "sha256": "d9012c53b2906fd877f37c67823a80be1cc185618dfe5c39a3c1861f97450e23",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:12+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Apple Watch Ultra 2.jpg",
+   "categories": [
+    "Category:Apple Watch Ultra",
+    "Category:CC-BY-SA-4.0",
+    "Category:Self-published work"
+   ],
+   "width": 3907,
+   "height": 4633,
+   "mime": "image/jpeg",
+   "sha1": "af2f452c3e188db8e4aebcdd61b90ecff12dc6c8",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Apple_Watch_Ultra_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Apple_Watch_Ultra_2.jpg/1280px-Apple_Watch_Ultra_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Apple_Watch_Ultra_2.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Pangalau",
+   "credit": "Own work",
+   "description": "Apple Watch Ultra 2 at Apple Orchard Road on 5 April 2024.",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-apple-watch-ultra-2-49mm/1.jpg",
+   "local_sha256": "7c43a7d09736a57022d68eb040400a20ef9092cc1e649b50d836c95ced030c16",
+   "local_bytes": 315574
+  }
+ ]
+}

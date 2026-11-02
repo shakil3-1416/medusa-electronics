@@ -1,0 +1,111 @@
+{
+ "handle": "real-mikrotik-hap-ac2",
+ "brand": "MikroTik",
+ "model": "hAP ac2",
+ "mpn": "RBD52G-5HacD2HnD-TC",
+ "category_handle": "router",
+ "title": "MikroTik hAP ac2 Dual-Band Router",
+ "subtitle": "AC1200 dual-band | 5 Gigabit ports | RouterOS L4",
+ "description": "Compact dual-band home and small-office router running RouterOS, with five Gigabit Ethernet ports, a USB port for storage or an LTE modem, and a case that stands upright or lies flat. Specifications verified against MikroTik's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "CPU",
+   "value": "IPQ-4018, 4 cores, 488-896 MHz"
+  },
+  {
+   "group": "Performance",
+   "label": "RAM",
+   "value": "128 MB"
+  },
+  {
+   "group": "Performance",
+   "label": "Storage",
+   "value": "16 MB flash"
+  },
+  {
+   "group": "Wireless",
+   "label": "Wi-Fi class",
+   "value": "AC1200"
+  },
+  {
+   "group": "Wireless",
+   "label": "2.4 GHz max rate",
+   "value": "300 Mbit/s"
+  },
+  {
+   "group": "Wireless",
+   "label": "5 GHz max rate",
+   "value": "867 Mbit/s"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "5 x 10/100/1000"
+  },
+  {
+   "group": "Connectivity",
+   "label": "USB",
+   "value": "USB Type-A"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "34 x 119 x 98 mm"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "21 W"
+  }
+ ],
+ "highlights": [
+  "AC1200 dual-band Wi-Fi",
+  "Five Gigabit Ethernet ports",
+  "Quad-core IPQ-4018 CPU, 128 MB RAM",
+  "USB Type-A port"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://mikrotik.com/product/hap_ac2",
+   "publisher": "MikroTik",
+   "final_url": "https://mikrotik.com/product/hap_ac2",
+   "retrieved_at": "2026-11-02T16:27:34+00:00",
+   "sha256": "420bead7635eac114f5dd6cccab6f6d5f5784f9271f6cfbb6afc389a803a1376",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:28+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:MikroTik hAP ac2.jpg",
+   "categories": [
+    "Category:CC-BY-3.0",
+    "Category:MikroTik",
+    "Category:Network routers",
+    "Category:Self-published work"
+   ],
+   "width": 4128,
+   "height": 2322,
+   "mime": "image/jpeg",
+   "sha1": "fb7fc118ec6dd003564c43683e2673eecd84bc6f",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/MikroTik_hAP_ac2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/MikroTik_hAP_ac2.jpg/1280px-MikroTik_hAP_ac2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:MikroTik_hAP_ac2.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "artist": "Uhernandez",
+   "credit": "Own work",
+   "description": "Router MikroTik RBD52G-5HacD2HnD-TC",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-mikrotik-hap-ac2/1.jpg",
+   "local_sha256": "95a3d1beadb08f78a8fd0ad5ca44bd99b3db4481ac6614f3172a39a33aeffbe4",
+   "local_bytes": 152594
+  }
+ ]
+}

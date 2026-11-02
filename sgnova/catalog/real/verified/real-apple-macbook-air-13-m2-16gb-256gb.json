@@ -1,0 +1,112 @@
+{
+ "handle": "real-apple-macbook-air-13-m2-16gb-256gb",
+ "brand": "Apple",
+ "model": "MacBook Air (M2, 2022)",
+ "mpn": null,
+ "category_handle": "business-laptop",
+ "title": "Apple MacBook Air 13-inch (M2, 2022) 16GB / 256GB",
+ "subtitle": "13.6-inch Liquid Retina | Apple M2 | 16GB unified memory",
+ "description": "Thin, fanless 13-inch MacBook Air built around Apple's M2 chip, in the 8-core CPU / 8-core GPU configuration with 16GB of memory and a 256GB SSD. Specifications checked against Apple's tech specs page.",
+ "variant_title": "M2 8-core GPU / 16GB / 256GB",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "Apple M2, 8-core CPU (4P + 4E), 8-core GPU"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "13.6-inch LED-backlit IPS Liquid Retina"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2560 x 1664 at 224 ppi"
+  },
+  {
+   "group": "Display",
+   "label": "Brightness",
+   "value": "500 nits"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory",
+   "value": "16GB unified memory"
+  },
+  {
+   "group": "Storage",
+   "label": "Storage",
+   "value": "256GB SSD"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery life",
+   "value": "Up to 18 hours movie playback"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery",
+   "value": "52.6Wh lithium-polymer"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "Wi-Fi 6 (802.11ax)"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "1.24 kg"
+  }
+ ],
+ "highlights": [
+  "Apple M2 with 8-core CPU and 8-core GPU",
+  "13.6-inch Liquid Retina display",
+  "Up to 18 hours of movie playback",
+  "MagSafe 3 plus two Thunderbolt / USB 4 ports"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111867",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111867",
+   "retrieved_at": "2026-11-02T16:26:47+00:00",
+   "sha256": "0285eecc5c0f744b8534e85611dcd2fe3cee25199e68d7a31940f9f29aec56f6",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:59+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:M2 Macbook Air Starlight model.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Computers running macOS",
+    "Category:MacBook Air M2",
+    "Category:Nagoya photographs taken on 2022-07-30",
+    "Category:Self-published work"
+   ],
+   "width": 2160,
+   "height": 2160,
+   "mime": "image/jpeg",
+   "sha1": "9e84f6a8597520033fc910c27b251a8657480d6d",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/M2_Macbook_Air_Starlight_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/M2_Macbook_Air_Starlight_model.jpg/1280px-M2_Macbook_Air_Starlight_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:M2_Macbook_Air_Starlight_model.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "KKPCW（Kyu3）",
+   "credit": "Own work",
+   "description": "Macbook Air（2022年、M2）のスターライトモデル。名古屋市内の家電量販店で撮影。",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-apple-macbook-air-13-m2-16gb-256gb/1.jpg",
+   "local_sha256": "3b3565b0eaeabcd4beddbfe2b1e4feae8292d6f19a890fd879872e87a2b99fd2",
+   "local_bytes": 234704
+  }
+ ]
+}

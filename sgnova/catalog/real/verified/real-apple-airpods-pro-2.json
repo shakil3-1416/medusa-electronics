@@ -1,0 +1,101 @@
+{
+ "handle": "real-apple-airpods-pro-2",
+ "brand": "Apple",
+ "model": "AirPods Pro 2",
+ "mpn": null,
+ "category_handle": "headphone",
+ "title": "Apple AirPods Pro (2nd generation)",
+ "subtitle": "H2 chip | Active noise cancellation | Bluetooth 5.3",
+ "description": "Apple's in-ear wireless earbuds with the H2 chip, active noise cancellation, adaptive transparency and a MagSafe charging case with a built-in speaker. This listing covers the Lightning-case model. Specifications verified against Apple's official tech specs page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Audio",
+   "label": "Chip",
+   "value": "Apple H2 headphone chip"
+  },
+  {
+   "group": "Audio",
+   "label": "Noise control",
+   "value": "Active noise cancellation and adaptive transparency"
+  },
+  {
+   "group": "Battery",
+   "label": "Earbud battery",
+   "value": "Up to 6 hours listening"
+  },
+  {
+   "group": "Battery",
+   "label": "With charging case",
+   "value": "Up to 30 hours listening"
+  },
+  {
+   "group": "Durability",
+   "label": "Water resistance",
+   "value": "IPX4"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.3"
+  },
+  {
+   "group": "Physical",
+   "label": "Earbud weight",
+   "value": "5.3 g each"
+  },
+  {
+   "group": "In the box",
+   "label": "Ear tips",
+   "value": "Silicone ear tips in four sizes (XS, S, M, L)"
+  }
+ ],
+ "highlights": [
+  "Apple H2 headphone chip",
+  "Active Noise Cancellation and Adaptive Transparency",
+  "Up to 30 hours with MagSafe case",
+  "IPX4, four ear-tip sizes"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111851",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111851",
+   "retrieved_at": "2026-11-02T16:40:37+00:00",
+   "sha256": "d118d79e04365a184bc024a1013f1055b78377959334045838d1a023de73da19",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:48+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:AirPods Pro (2nd generation).jpg",
+   "categories": [
+    "Category:AirPods Pro",
+    "Category:CC-BY-SA-4.0",
+    "Category:Self-published work",
+    "Category:Taken with iPhone 13"
+   ],
+   "width": 4032,
+   "height": 3024,
+   "mime": "image/jpeg",
+   "sha1": "6ac2bfe1b79f58216671a99fe5c67b2b996b5815",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/AirPods_Pro_%282nd_generation%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/AirPods_Pro_%282nd_generation%29.jpg/1280px-AirPods_Pro_%282nd_generation%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:AirPods_Pro_(2nd_generation).jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Hajoon0102",
+   "credit": "Own work",
+   "description": "Units and charging case of AirPods Pro (2nd generation)",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-apple-airpods-pro-2/1.jpg",
+   "local_sha256": "d2ee1bc824a494ea90470a7123c26830c5b83440f288df59116f9d1fc00be985",
+   "local_bytes": 67064
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "handle": "real-logitech-mx-master-3s",
+ "brand": "Logitech",
+ "model": "MX Master 3S",
+ "mpn": null,
+ "category_handle": "computer-accessory",
+ "title": "Logitech MX Master 3S Wireless Mouse",
+ "subtitle": "8,000 DPI any-surface sensor | Quiet clicks | MagSpeed wheel",
+ "description": "Ergonomic wireless productivity mouse with an 8,000 DPI sensor that tracks on glass, quieter main buttons and an electromagnetic scroll wheel, customisable per app in Logi Options+. Specifications verified against Logitech's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Sensor",
+   "label": "Sensor resolution",
+   "value": "8,000 DPI optical"
+  },
+  {
+   "group": "Sensor",
+   "label": "Glass tracking",
+   "value": "Glass of 4 mm minimum thickness"
+  },
+  {
+   "group": "Scrolling",
+   "label": "Scroll wheel",
+   "value": "MagSpeed electromagnetic"
+  },
+  {
+   "group": "Scrolling",
+   "label": "Scroll speed",
+   "value": "Up to 1,000 lines per second"
+  },
+  {
+   "group": "Buttons",
+   "label": "Click noise",
+   "value": "90% less click noise than MX Master 3"
+  },
+  {
+   "group": "Software",
+   "label": "Software",
+   "value": "Logi Options+ app-specific customizations"
+  }
+ ],
+ "highlights": [
+  "8,000 DPI sensor, tracks on glass",
+  "Quiet clicks",
+  "MagSpeed electromagnetic scrolling",
+  "Per-app customisation in Logi Options+"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.logitech.com/en-us/products/mice/mx-master-3s.910-006557.html",
+   "publisher": "Logitech",
+   "final_url": "https://www.logitech.com/en-us/shop/p/mx-master-3s.910-006557",
+   "retrieved_at": "2026-11-02T16:36:54+00:00",
+   "sha256": "1f92f4049b7ed488e49b0a4584ba0d562d5407de3bf14ebc7dcc29d8b12d5165",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:41+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Logitech MX Master 3S HS01.jpg",
+   "categories": [
+    "Category:CC-BY-4.0",
+    "Category:Computer mice with white background",
+    "Category:Logitech MX Master 3S",
+    "Category:Photographs by Hayden Schiff",
+    "Category:Taken with Nikon D7100",
+    "Category:United States photographs taken on 2025-10-10"
+   ],
+   "width": 6000,
+   "height": 4000,
+   "mime": "image/jpeg",
+   "sha1": "6ac695674cf15b6797257e5c159bc0278b500ea7",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Logitech_MX_Master_3S_HS01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Logitech_MX_Master_3S_HS01.jpg/1280px-Logitech_MX_Master_3S_HS01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Logitech_MX_Master_3S_HS01.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Hayden Schiff",
+   "credit": "Own work",
+   "description": "Close-up photo of a Logitech MX Master 3S mouse",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-logitech-mx-master-3s/1.jpg",
+   "local_sha256": "cc1c7214c9d52403a34678497dcc8cd22f9344e63dca98b6f99f80b8214aac0d",
+   "local_bytes": 56521
+  }
+ ]
+}

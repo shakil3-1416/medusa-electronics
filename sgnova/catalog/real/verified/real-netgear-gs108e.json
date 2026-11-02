@@ -1,0 +1,113 @@
+{
+ "handle": "real-netgear-gs108e",
+ "brand": "Netgear",
+ "model": "GS108E",
+ "mpn": null,
+ "category_handle": "network-switch",
+ "title": "NETGEAR GS108E 8-Port Gigabit Easy Smart Managed Switch",
+ "subtitle": "8 x Gigabit | VLAN and LAG | Fanless",
+ "description": "Eight-port Gigabit switch with basic management features such as VLANs, link aggregation and multicast handling, in a silent fanless desktop case. Specifications verified against NETGEAR's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Gigabit ports",
+   "value": "8"
+  },
+  {
+   "group": "Management",
+   "label": "VLANs",
+   "value": "64"
+  },
+  {
+   "group": "Management",
+   "label": "Link aggregation",
+   "value": "2 LAGs, up to 4 members each"
+  },
+  {
+   "group": "Management",
+   "label": "Multicast groups",
+   "value": "128"
+  },
+  {
+   "group": "Performance",
+   "label": "Buffer",
+   "value": "192 KB"
+  },
+  {
+   "group": "Power",
+   "label": "Power input",
+   "value": "External 12 V / 1.5 A"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "3.7 W"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "158 x 101 x 29 mm"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight",
+   "value": "0.5 kg"
+  }
+ ],
+ "highlights": [
+  "Eight Gigabit Ethernet ports",
+  "Up to 64 VLANs",
+  "Two LAGs with up to four members each",
+  "Fanless, 0 dBA"
+ ],
+ "review_notes": [
+  "Photo may show an older hardware revision of the GS108E."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.netgear.com/business/wired/switches/easy-smart/gs108e/",
+   "publisher": "NETGEAR",
+   "final_url": "https://www.netgear.com/business/wired/switches/easy-smart/gs108e/",
+   "retrieved_at": "2026-11-02T16:47:46+00:00",
+   "sha256": "949f06f0345efd7c32ddf18cc3be3d89bc78943f599f8afff9e4b041af17382a",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:57+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Netgear GS108E-40525.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files by User:Raymond from de.wikipedia/Objects",
+    "Category:Fotosession im Lokal K (2023)",
+    "Category:Fotosession im Lokal K (IuK-Technik)",
+    "Category:Hauskamera Lokal K - Canon EOS 5D Mark IV (2023)",
+    "Category:Information field template with formatting",
+    "Category:Netgear GS108E",
+    "Category:Self-published work",
+    "Category:Uploaded with LrMediaWiki"
+   ],
+   "width": 5388,
+   "height": 3031,
+   "mime": "image/jpeg",
+   "sha1": "d1c0b3dc5ae050923e90d26c00aa087534818f0b",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Netgear_GS108E-40525.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Netgear_GS108E-40525.jpg/1280px-Netgear_GS108E-40525.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Netgear_GS108E-40525.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Raimond Spekking",
+   "credit": "Own work",
+   "description": "Netgear GS108E - ProSafe 8-Port Gigabit Plus Switch",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-netgear-gs108e/1.jpg",
+   "local_sha256": "fcd6ba0065ed491cf249bcfe9cc0e6b3fc8fab4705f2f9743fe17bc763003c43",
+   "local_bytes": 156234
+  }
+ ]
+}

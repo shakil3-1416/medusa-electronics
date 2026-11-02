@@ -1,0 +1,113 @@
+{
+ "handle": "real-nvidia-geforce-rtx-3090-founders-edition",
+ "brand": "NVIDIA",
+ "model": "GeForce RTX 3090",
+ "mpn": null,
+ "category_handle": "graphics-card",
+ "title": "NVIDIA GeForce RTX 3090 Founders Edition",
+ "subtitle": "24GB GDDR6X | 10496 CUDA cores | Ampere",
+ "description": "NVIDIA Founders Edition GeForce RTX 3090, the top Ampere-generation card with 24GB of GDDR6X, popular for 4K gaming and memory-hungry creative or AI workloads. Specifications checked against NVIDIA's official RTX 3090 family page (RTX 3090 column).",
+ "variant_title": "Founders Edition",
+ "specs": [
+  {
+   "group": "GPU",
+   "label": "CUDA cores",
+   "value": "10496"
+  },
+  {
+   "group": "GPU",
+   "label": "Boost clock",
+   "value": "1.70 GHz"
+  },
+  {
+   "group": "GPU",
+   "label": "Base clock",
+   "value": "1.40 GHz"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory",
+   "value": "24 GB GDDR6X"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory interface",
+   "value": "384-bit"
+  },
+  {
+   "group": "GPU",
+   "label": "Architecture",
+   "value": "Ampere"
+  },
+  {
+   "group": "Dimensions",
+   "label": "Card length",
+   "value": "313 mm, 3-slot"
+  },
+  {
+   "group": "Power",
+   "label": "Graphics card power",
+   "value": "350 W"
+  },
+  {
+   "group": "Power",
+   "label": "Required system power",
+   "value": "750 W"
+  },
+  {
+   "group": "Power",
+   "label": "Power connector",
+   "value": "2x PCIe 8-pin (adapter to 1x 12-pin included)"
+  }
+ ],
+ "highlights": [
+  "24GB GDDR6X, 384-bit",
+  "10496 CUDA cores",
+  "Ampere architecture",
+  "3-slot, 313 mm Founders Edition cooler"
+ ],
+ "review_notes": [
+  "NVIDIA page is a shared RTX 3090 / 3090 Ti two-column table; confirm each value is from the RTX 3090 column."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3090-3090ti/",
+   "publisher": "NVIDIA Corporation",
+   "final_url": "https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3090-3090ti/",
+   "retrieved_at": "2026-11-02T16:35:36+00:00",
+   "sha256": "8e1758466ee5260a7d5d320cebf93779ca6fc6cc21aa0fc591bea04c029b1ed3",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:48+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:RTX 3090 Founders Edition.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:NVIDIA GeForce RTX 3090 Founders Edition",
+    "Category:Self-published work"
+   ],
+   "width": 4032,
+   "height": 3024,
+   "mime": "image/jpeg",
+   "sha1": "f75dc406dc7374ac7d0e03c45a2800c8cef407b9",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/RTX_3090_Founders_Edition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/RTX_3090_Founders_Edition.jpg/1280px-RTX_3090_Founders_Edition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:RTX_3090_Founders_Edition.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Adam Kapetanakis",
+   "credit": "Own work",
+   "description": "GeForce RTX 3090 Founders Edition.",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-nvidia-geforce-rtx-3090-founders-edition/1.jpg",
+   "local_sha256": "833bfba06d13b52f37ee8bf48ae4eaa3242bdbede087bb7e8afdb6a0de098f1a",
+   "local_bytes": 319862
+  }
+ ]
+}

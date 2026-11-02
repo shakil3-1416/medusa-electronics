@@ -1,0 +1,1100 @@
+[
+ {
+  "handle": "real-mikrotik-hap-ac2",
+  "brand": "MikroTik",
+  "model": "hAP ac2",
+  "mpn": "RBD52G-5HacD2HnD-TC",
+  "variant_title": "Default",
+  "category_handle": "router",
+  "title": "MikroTik hAP ac2 Dual-Band Router",
+  "subtitle": "AC1200 dual-band | 5 Gigabit ports | RouterOS L4",
+  "description": "Compact dual-band home and small-office router running RouterOS, with five Gigabit Ethernet ports, a USB port for storage or an LTE modem, and a case that stands upright or lies flat. Specifications verified against MikroTik's official product page.",
+  "highlights": [
+   "AC1200 dual-band Wi-Fi",
+   "Five Gigabit Ethernet ports",
+   "Quad-core IPQ-4018 CPU, 128 MB RAM",
+   "USB Type-A port"
+  ],
+  "spec_source": {
+   "url": "https://mikrotik.com/product/hap_ac2",
+   "publisher": "MikroTik"
+  },
+  "model_match": [
+   "hAP ac2"
+  ],
+  "specs": [
+   {
+    "group": "Performance",
+    "label": "CPU",
+    "value": "IPQ-4018, 4 cores, 488-896 MHz",
+    "evidence": "cpu ipq-4018 cpu core count 4 cpu nominal frequency 488-896 (auto) mhz"
+   },
+   {
+    "group": "Performance",
+    "label": "RAM",
+    "value": "128 MB",
+    "evidence": "size of ram 128 mb"
+   },
+   {
+    "group": "Performance",
+    "label": "Storage",
+    "value": "16 MB flash",
+    "evidence": "storage size 16 mb storage type flash"
+   },
+   {
+    "group": "Wireless",
+    "label": "Wi-Fi class",
+    "value": "AC1200",
+    "evidence": "wifi speed ac1200"
+   },
+   {
+    "group": "Wireless",
+    "label": "2.4 GHz max rate",
+    "value": "300 Mbit/s",
+    "evidence": "wireless 2.4 ghz max data rate 300 mbit/s"
+   },
+   {
+    "group": "Wireless",
+    "label": "5 GHz max rate",
+    "value": "867 Mbit/s",
+    "evidence": "wireless 5 ghz max data rate 867 mbit/s"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Ethernet",
+    "value": "5 x 10/100/1000",
+    "evidence": "10/100/1000 ethernet ports 5"
+   },
+   {
+    "group": "Connectivity",
+    "label": "USB",
+    "value": "USB Type-A",
+    "evidence": "usb slot type usb type a"
+   },
+   {
+    "group": "Physical",
+    "label": "Dimensions",
+    "value": "34 x 119 x 98 mm",
+    "evidence": "dimensions 34 x 119 x 98mm"
+   },
+   {
+    "group": "Power",
+    "label": "Max power consumption",
+    "value": "21 W",
+    "evidence": "max power consumption 21 w"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:MikroTik hAP ac2.jpg",
+    "model_evidence": "hAP ac2"
+   }
+  ]
+ },
+ {
+  "handle": "real-mikrotik-hap-lite-rb941-2nd",
+  "brand": "MikroTik",
+  "model": "hAP lite",
+  "mpn": "RB941-2nD",
+  "variant_title": "Default",
+  "category_handle": "router",
+  "title": "MikroTik hAP lite (RB941-2nD) Wireless Router",
+  "subtitle": "2.4 GHz 802.11n | 4 Fast Ethernet ports | microUSB powered",
+  "description": "Small, low-power 2.4 GHz access point and router for apartments and home offices, with four Fast Ethernet ports and RouterOS level 4. It runs from a 5 V microUSB supply. Specifications verified against MikroTik's official product page.",
+  "highlights": [
+   "2.4 GHz 802.11b/g/n, up to 300 Mbit/s",
+   "Four 10/100 Ethernet ports",
+   "650 MHz CPU, 32 MB RAM",
+   "Powered over microUSB"
+  ],
+  "spec_source": {
+   "url": "https://mikrotik.com/product/RB941-2nD",
+   "publisher": "MikroTik"
+  },
+  "model_match": [
+   "hAP lite",
+   "RB941-2nD"
+  ],
+  "specs": [
+   {
+    "group": "Performance",
+    "label": "CPU",
+    "value": "QCA9533, 650 MHz",
+    "evidence": "cpu qca9533 cpu core count 1 cpu nominal frequency 650 mhz"
+   },
+   {
+    "group": "Performance",
+    "label": "RAM",
+    "value": "32 MB",
+    "evidence": "size of ram 32 mb"
+   },
+   {
+    "group": "Performance",
+    "label": "Storage",
+    "value": "16 MB flash",
+    "evidence": "storage size 16 mb storage type flash"
+   },
+   {
+    "group": "Wireless",
+    "label": "Wi-Fi standards",
+    "value": "802.11b/g/n (2.4 GHz)",
+    "evidence": "wireless 2.4 ghz standards 802.11b/g/n"
+   },
+   {
+    "group": "Wireless",
+    "label": "Max data rate",
+    "value": "300 Mbit/s",
+    "evidence": "wireless 2.4 ghz max data rate 300 mbit/s"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Ethernet",
+    "value": "4 x 10/100",
+    "evidence": "10/100 ethernet ports 4"
+   },
+   {
+    "group": "Power",
+    "label": "Power input",
+    "value": "microUSB, 5 V",
+    "evidence": "powering microusb input voltage 5 v"
+   },
+   {
+    "group": "Power",
+    "label": "Max power consumption",
+    "value": "3.5 W",
+    "evidence": "max power consumption 3.5 w"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:MikroTIK hAP Lite.jpg",
+    "model_evidence": "hAP Lite"
+   }
+  ]
+ },
+ {
+  "handle": "real-mikrotik-hap-rb951ui-2nd",
+  "brand": "MikroTik",
+  "model": "hAP",
+  "mpn": "RB951Ui-2nD",
+  "variant_title": "Default",
+  "category_handle": "router",
+  "title": "MikroTik hAP (RB951Ui-2nD) Wireless Router",
+  "subtitle": "2.4 GHz 802.11n | 5 Ethernet ports | PoE out on port 5",
+  "description": "Home and small-office access point with five Fast Ethernet ports, a USB port and passive PoE output on the fifth port to power another device. Runs RouterOS level 4. Specifications verified against MikroTik's official product page.",
+  "highlights": [
+   "2.4 GHz wireless, up to 300 Mbit/s",
+   "Five 10/100 Ethernet ports",
+   "Passive PoE out on ether5",
+   "64 MB RAM"
+  ],
+  "spec_source": {
+   "url": "https://mikrotik.com/product/RB951Ui-2nD",
+   "publisher": "MikroTik"
+  },
+  "model_match": [
+   "RB951Ui-2nD"
+  ],
+  "specs": [
+   {
+    "group": "Performance",
+    "label": "CPU",
+    "value": "QCA9531, 650 MHz",
+    "evidence": "cpu qca9531 cpu core count 1 cpu nominal frequency 650 mhz"
+   },
+   {
+    "group": "Performance",
+    "label": "RAM",
+    "value": "64 MB",
+    "evidence": "size of ram 64 mb"
+   },
+   {
+    "group": "Wireless",
+    "label": "Max data rate",
+    "value": "300 Mbit/s (2.4 GHz)",
+    "evidence": "wireless 2.4 ghz max data rate 300 mbit/s"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Ethernet",
+    "value": "5 x 10/100",
+    "evidence": "10/100 ethernet ports 5"
+   },
+   {
+    "group": "Power",
+    "label": "PoE out",
+    "value": "Passive PoE on ether5, up to 500 mA",
+    "evidence": "poe-out ports ether5 poe out passive poe low voltage poe-out current limit 500 ma"
+   },
+   {
+    "group": "Power",
+    "label": "Max power consumption",
+    "value": "5 W",
+    "evidence": "max power consumption 5 w"
+   },
+   {
+    "group": "Physical",
+    "label": "Dimensions",
+    "value": "113 x 89 x 28 mm",
+    "evidence": "dimensions 113 x 89 x 28mm"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:MikroTik RouterBoard HAP RB951Ui-2nD Top (21225709678).jpg",
+    "model_evidence": "RB951Ui-2nD"
+   }
+  ]
+ },
+ {
+  "handle": "real-mikrotik-rb260gs",
+  "brand": "MikroTik",
+  "model": "RB260GS",
+  "mpn": "CSS106-5G-1S",
+  "variant_title": "Default",
+  "category_handle": "network-switch",
+  "title": "MikroTik RB260GS 5-Port Gigabit Smart Switch with SFP",
+  "subtitle": "5 x Gigabit | 1 x SFP | SwOS web management",
+  "description": "Small desktop smart switch with five Gigabit Ethernet ports and one SFP cage, managed from a web browser through MikroTik SwOS for VLANs, port mirroring and bandwidth limits. Specifications verified against MikroTik's official product page.",
+  "highlights": [
+   "Five Gigabit Ethernet ports",
+   "One SFP cage",
+   "SwOS browser-based management",
+   "Passive PoE or DC jack powered"
+  ],
+  "spec_source": {
+   "url": "https://mikrotik.com/product/RB260GS",
+   "publisher": "MikroTik"
+  },
+  "model_match": [
+   "RB260GS"
+  ],
+  "specs": [
+   {
+    "group": "Connectivity",
+    "label": "Ethernet",
+    "value": "5 x 10/100/1000",
+    "evidence": "10/100/1000 ethernet ports 5"
+   },
+   {
+    "group": "Connectivity",
+    "label": "SFP",
+    "value": "1 x SFP",
+    "evidence": "sfp ddmi yes sfp ports 1"
+   },
+   {
+    "group": "Hardware",
+    "label": "Switch chip",
+    "value": "QCA8337",
+    "evidence": "switch chip model qca8337"
+   },
+   {
+    "group": "Software",
+    "label": "Operating system",
+    "value": "MikroTik SwOS",
+    "evidence": "operating system mikrotik swos"
+   },
+   {
+    "group": "Physical",
+    "label": "Dimensions",
+    "value": "113 x 139 x 28 mm",
+    "evidence": "dimensions 113x139x28mm"
+   },
+   {
+    "group": "Power",
+    "label": "DC input",
+    "value": "11-30 V",
+    "evidence": "dc jack input voltage 11-30 v"
+   },
+   {
+    "group": "Power",
+    "label": "Max power consumption",
+    "value": "5 W",
+    "evidence": "max power consumption 5 w"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:MikroTik RouterBoard RB260GS-7378.jpg",
+    "model_evidence": "RB260GS"
+   }
+  ]
+ },
+ {
+  "handle": "real-netgear-gs108",
+  "brand": "Netgear",
+  "model": "GS108",
+  "variant_title": "Default",
+  "category_handle": "network-switch",
+  "title": "NETGEAR GS108 8-Port Gigabit Unmanaged Switch",
+  "subtitle": "8 x Gigabit | Fanless metal case | Plug-and-play",
+  "description": "Eight-port Gigabit desktop switch with a fanless metal housing, no configuration required, and Energy Efficient Ethernet support. Can sit on a desk or be wall mounted. Specifications verified against NETGEAR's official product page.",
+  "highlights": [
+   "Eight Gigabit Ethernet ports",
+   "Fanless, silent operation",
+   "Metal case, desk or wall mount",
+   "IEEE 802.3az Energy Efficient Ethernet"
+  ],
+  "spec_source": {
+   "url": "https://www.netgear.com/business/wired/switches/unmanaged/gs108/",
+   "publisher": "NETGEAR"
+  },
+  "model_match": [
+   "GS108"
+  ],
+  "specs": [
+   {
+    "group": "Connectivity",
+    "label": "Ports",
+    "value": "8 x 10/100/1000 Mbps",
+    "evidence": "port types 8 x 10/100/1000mbps gigibit ethernet"
+   },
+   {
+    "group": "Performance",
+    "label": "Jumbo frames",
+    "value": "9,216 bytes",
+    "evidence": "jumbo frame support : 9,216 bytes"
+   },
+   {
+    "group": "Performance",
+    "label": "MAC table",
+    "value": "4K entries",
+    "evidence": "mac table size : 4k"
+   },
+   {
+    "group": "Performance",
+    "label": "Packet buffer",
+    "value": "192 KB",
+    "evidence": "packet buffer size : 192kb"
+   },
+   {
+    "group": "Features",
+    "label": "Energy Efficient Ethernet",
+    "value": "IEEE 802.3az",
+    "evidence": "energy efficient ethernet support (ieee 802.3az): yes"
+   },
+   {
+    "group": "Physical",
+    "label": "Dimensions",
+    "value": "158 x 102 x 27 mm",
+    "evidence": "dimensions : 158 x 102 x 27 mm"
+   },
+   {
+    "group": "Physical",
+    "label": "Weight",
+    "value": "0.47 kg",
+    "evidence": "weight : 0.47 kg (1.04 lb)"
+   },
+   {
+    "group": "Environment",
+    "label": "Operating temperature",
+    "value": "0 to 40 °C",
+    "evidence": "operating temperature : 32° to 104°f (0° to 40°c)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Netgear ProSafe 8 Port Gigabit Switch GS108 front.jpeg",
+    "model_evidence": "GS108"
+   }
+  ],
+  "review_notes": [
+   "Photo may show an older hardware revision of the GS108."
+  ]
+ },
+ {
+  "handle": "real-tp-link-ue300",
+  "brand": "TP-Link",
+  "model": "UE300",
+  "variant_title": "Default",
+  "category_handle": "computer-accessory",
+  "title": "TP-Link UE300 USB 3.0 to Gigabit Ethernet Adapter",
+  "subtitle": "USB 3.0 | Gigabit RJ45 | Foldable cable",
+  "description": "Pocket-sized adapter that adds a wired Gigabit Ethernet port to laptops and desktops through USB 3.0, with a fold-away cable for travel. Specifications verified against TP-Link's official product page.",
+  "highlights": [
+   "Gigabit RJ45 port",
+   "USB 3.0, works on USB 2.0/1.1",
+   "RTL8153 chipset",
+   "Driver-free on recent Windows and macOS"
+  ],
+  "spec_source": {
+   "url": "https://www.tp-link.com/us/home-networking/usb-converter/ue300/",
+   "publisher": "TP-Link"
+  },
+  "model_match": [
+   "UE300"
+  ],
+  "specs": [
+   {
+    "group": "Connectivity",
+    "label": "Host interface",
+    "value": "USB 3.0",
+    "evidence": "input interface 1 usb 3.0 port"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Network port",
+    "value": "1 x 10/100/1000 Mbps RJ45",
+    "evidence": "output interface 1 10/100/1000mbps rj45 ethernet port"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Backward compatibility",
+    "value": "USB 2.0/1.1",
+    "evidence": "backward compatible with usb 2.0/1.1 standards"
+   },
+   {
+    "group": "Hardware",
+    "label": "Chipset",
+    "value": "RTL8153",
+    "evidence": "chipset rtl8153"
+   },
+   {
+    "group": "Compatibility",
+    "label": "Supported systems",
+    "value": "Windows 11/10/8.1/8/7/Vista/XP, Mac OS 10.6-10.14, Chrome OS, Linux",
+    "evidence": "windows 11/10/8.1/8/7/vista/xp mac os 10.6-10.14 chrome os linux os"
+   },
+   {
+    "group": "Compatibility",
+    "label": "Driver-free",
+    "value": "Windows 10/8.1/8, macOS 10.9 and later",
+    "evidence": "driver free installation for windows 10/8.1/8, macos 10.9 and later version"
+   },
+   {
+    "group": "Physical",
+    "label": "Dimensions",
+    "value": "71 x 26 x 16.2 mm",
+    "evidence": "2.8 x 1.0 x 0.6 in. (71 x 26 x 16.2mm)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:TP-Link UE300 ethernet USB adapter HS1.jpg",
+    "model_evidence": "UE300"
+   }
+  ]
+ },
+ {
+  "handle": "real-logitech-mx-master-3s",
+  "brand": "Logitech",
+  "model": "MX Master 3S",
+  "variant_title": "Default",
+  "category_handle": "computer-accessory",
+  "title": "Logitech MX Master 3S Wireless Mouse",
+  "subtitle": "8,000 DPI any-surface sensor | Quiet clicks | MagSpeed wheel",
+  "description": "Ergonomic wireless productivity mouse with an 8,000 DPI sensor that tracks on glass, quieter main buttons and an electromagnetic scroll wheel, customisable per app in Logi Options+. Specifications verified against Logitech's official product page.",
+  "highlights": [
+   "8,000 DPI sensor, tracks on glass",
+   "Quiet clicks",
+   "MagSpeed electromagnetic scrolling",
+   "Per-app customisation in Logi Options+"
+  ],
+  "spec_source": {
+   "url": "https://www.logitech.com/en-us/products/mice/mx-master-3s.910-006557.html",
+   "publisher": "Logitech"
+  },
+  "model_match": [
+   "MX Master 3S"
+  ],
+  "specs": [
+   {
+    "group": "Sensor",
+    "label": "Sensor resolution",
+    "value": "8,000 DPI optical",
+    "evidence": "the 8,000 dpi optical sensor tracks virtually anywhere"
+   },
+   {
+    "group": "Sensor",
+    "label": "Glass tracking",
+    "value": "Glass of 4 mm minimum thickness",
+    "evidence": "4 mm minimum glass thickness"
+   },
+   {
+    "group": "Scrolling",
+    "label": "Scroll wheel",
+    "value": "MagSpeed electromagnetic",
+    "evidence": "magspeed electromagnetic scroll wheel"
+   },
+   {
+    "group": "Scrolling",
+    "label": "Scroll speed",
+    "value": "Up to 1,000 lines per second",
+    "evidence": "scroll 1,000 lines per second"
+   },
+   {
+    "group": "Buttons",
+    "label": "Click noise",
+    "value": "90% less click noise than MX Master 3",
+    "evidence": "mx master 3s has 90% less sound power level left and right click"
+   },
+   {
+    "group": "Software",
+    "label": "Software",
+    "value": "Logi Options+ app-specific customizations",
+    "evidence": "mx master 3s is fully customizable in virtually every app you use with logi options+"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Logitech MX Master 3S HS01.jpg",
+    "model_evidence": "MX Master 3S"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-airpods-3",
+  "brand": "Apple",
+  "model": "AirPods 3",
+  "variant_title": "Default",
+  "category_handle": "headphone",
+  "title": "Apple AirPods (3rd generation)",
+  "subtitle": "H1 chip | Spatial audio | IPX4 | Up to 30 hours with case",
+  "description": "Apple's open-fit wireless earbuds with the H1 chip, personalised spatial audio with head tracking, adaptive EQ and IPX4 sweat and water resistance. Specifications verified against Apple's official tech specs page.",
+  "highlights": [
+   "Apple H1 headphone chip",
+   "Personalized Spatial Audio with head tracking",
+   "Up to 6 hours per charge, 30 hours with case",
+   "IPX4 sweat and water resistant"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111863",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "AirPods 3"
+  ],
+  "specs": [
+   {
+    "group": "Audio",
+    "label": "Chip",
+    "value": "Apple H1 headphone chip",
+    "evidence": "chip h1 headphone chip"
+   },
+   {
+    "group": "Audio",
+    "label": "Spatial audio",
+    "value": "Personalized Spatial Audio with dynamic head tracking",
+    "evidence": "personalized spatial audio with dynamic head tracking"
+   },
+   {
+    "group": "Battery",
+    "label": "Earbud battery",
+    "value": "Up to 6 hours listening",
+    "evidence": "up to 6 hours of listening time with a single charge"
+   },
+   {
+    "group": "Battery",
+    "label": "With charging case",
+    "value": "Up to 30 hours listening",
+    "evidence": "up to 30 hours of listening time"
+   },
+   {
+    "group": "Durability",
+    "label": "Water resistance",
+    "value": "IPX4",
+    "evidence": "sweat and water resistant (ipx4)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0 wireless technology"
+   },
+   {
+    "group": "Physical",
+    "label": "Earbud weight",
+    "value": "4.28 g each",
+    "evidence": "weight: 0.15 ounce (4.28 grams)"
+   },
+   {
+    "group": "Physical",
+    "label": "Case weight",
+    "value": "37.91 g",
+    "evidence": "weight: 1.34 ounces (37.91 grams)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:AirPods 3.jpg",
+    "model_evidence": "AirPods 3"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-airpods-max",
+  "brand": "Apple",
+  "model": "AirPods Max",
+  "variant_title": "Default",
+  "category_handle": "headphone",
+  "title": "Apple AirPods Max Over-Ear Headphones",
+  "subtitle": "Active noise cancellation | H1 in each ear cup | Up to 20 hours",
+  "description": "Apple's over-ear wireless headphones with active noise cancellation, transparency mode, a Digital Crown for volume and personalised spatial audio. This listing covers the original Lightning-charging model. Specifications verified against Apple's official tech specs page.",
+  "highlights": [
+   "Active Noise Cancellation and Transparency mode",
+   "Apple H1 chip in each ear cup",
+   "Up to 20 hours of listening",
+   "Nine microphones"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111858",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "AirPods Max 1"
+  ],
+  "specs": [
+   {
+    "group": "Audio",
+    "label": "Driver",
+    "value": "Apple-designed dynamic driver",
+    "evidence": "apple-designed dynamic driver"
+   },
+   {
+    "group": "Audio",
+    "label": "Noise control",
+    "value": "Active noise cancellation and transparency mode",
+    "evidence": "active noise cancellation transparency mode"
+   },
+   {
+    "group": "Audio",
+    "label": "Chip",
+    "value": "Apple H1 headphone chip in each ear cup",
+    "evidence": "apple h1 headphone chip (each ear cup)"
+   },
+   {
+    "group": "Audio",
+    "label": "Microphones",
+    "value": "Nine microphones, eight used for noise cancellation",
+    "evidence": "nine microphones total: eight microphones for active noise cancellation"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery life",
+    "value": "Up to 20 hours with ANC or transparency on",
+    "evidence": "up to 20 hours of listening time on a single charge with active noise cancellation or transparency mode enabled"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0 wireless technology"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Charging",
+    "value": "Lightning",
+    "evidence": "charging via lightning connector"
+   },
+   {
+    "group": "Physical",
+    "label": "Weight",
+    "value": "384.8 g",
+    "evidence": "weight: 13.6 ounces (384.8 grams)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Apple AirPods Max.jpg",
+    "model_evidence": "AirPods Max"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-airpods-pro-2",
+  "brand": "Apple",
+  "model": "AirPods Pro 2",
+  "variant_title": "Default",
+  "category_handle": "headphone",
+  "title": "Apple AirPods Pro (2nd generation)",
+  "subtitle": "H2 chip | Active noise cancellation | Bluetooth 5.3",
+  "description": "Apple's in-ear wireless earbuds with the H2 chip, active noise cancellation, adaptive transparency and a MagSafe charging case with a built-in speaker. This listing covers the Lightning-case model. Specifications verified against Apple's official tech specs page.",
+  "highlights": [
+   "Apple H2 headphone chip",
+   "Active Noise Cancellation and Adaptive Transparency",
+   "Up to 30 hours with MagSafe case",
+   "IPX4, four ear-tip sizes"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111851",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "AirPods Pro 2"
+  ],
+  "specs": [
+   {
+    "group": "Audio",
+    "label": "Chip",
+    "value": "Apple H2 headphone chip",
+    "evidence": "chip apple h2 headphone chip"
+   },
+   {
+    "group": "Audio",
+    "label": "Noise control",
+    "value": "Active noise cancellation and adaptive transparency",
+    "evidence": "active noise cancellation adaptive transparency"
+   },
+   {
+    "group": "Battery",
+    "label": "Earbud battery",
+    "value": "Up to 6 hours listening",
+    "evidence": "up to 6 hours of listening time with a single charge"
+   },
+   {
+    "group": "Battery",
+    "label": "With charging case",
+    "value": "Up to 30 hours listening",
+    "evidence": "airpods pro with magsafe charging case up to 30 hours of listening time"
+   },
+   {
+    "group": "Durability",
+    "label": "Water resistance",
+    "value": "IPX4",
+    "evidence": "sweat and water resistant (ipx4)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.3",
+    "evidence": "bluetooth 5.3 wireless technology"
+   },
+   {
+    "group": "Physical",
+    "label": "Earbud weight",
+    "value": "5.3 g each",
+    "evidence": "weight: 0.19 ounce (5.3 grams)"
+   },
+   {
+    "group": "In the box",
+    "label": "Ear tips",
+    "value": "Silicone ear tips in four sizes (XS, S, M, L)",
+    "evidence": "silicone ear tips (four sizes: xs, s, m, l)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:AirPods Pro (2nd generation).jpg",
+    "model_evidence": "AirPods Pro (2nd generation)"
+   }
+  ]
+ },
+ {
+  "handle": "real-logitech-c922-pro-stream",
+  "brand": "Logitech",
+  "model": "C922 Pro Stream",
+  "mpn": "960-001087",
+  "variant_title": "Default",
+  "category_handle": "webcam",
+  "title": "Logitech C922 Pro Stream Webcam",
+  "subtitle": "1080p/30fps or 720p/60fps | Autofocus | Stereo mics",
+  "description": "USB streaming webcam that records Full HD at 30 frames per second or HD at 60 frames per second, with a glass autofocus lens, automatic light correction and two built-in microphones. Specifications verified against Logitech's official product page.",
+  "highlights": [
+   "1080p at 30fps or 720p at 60fps",
+   "78-degree diagonal field of view",
+   "Glass lens with autofocus",
+   "Two omni-directional microphones"
+  ],
+  "spec_source": {
+   "url": "https://www.logitech.com/en-us/products/webcams/c922-pro-stream-webcam.960-001087.html",
+   "publisher": "Logitech"
+  },
+  "model_match": [
+   "C922 Pro"
+  ],
+  "specs": [
+   {
+    "group": "Video",
+    "label": "Resolution and frame rate",
+    "value": "1080p at 30fps or 720p at 60fps",
+    "evidence": "choose between 1080p at 30fps or 720p at 60fps"
+   },
+   {
+    "group": "Optics",
+    "label": "Field of view",
+    "value": "78° diagonal",
+    "evidence": "78° diagonal field of view"
+   },
+   {
+    "group": "Optics",
+    "label": "Lens",
+    "value": "Glass lens with autofocus",
+    "evidence": "c922 features a glass lens with autofocus"
+   },
+   {
+    "group": "Video",
+    "label": "Light correction",
+    "value": "HD autofocus and automatic light correction",
+    "evidence": "hd autofocus and light correction work to fine-tune lighting conditions"
+   },
+   {
+    "group": "Audio",
+    "label": "Microphones",
+    "value": "Two omni-directional microphones (stereo)",
+    "evidence": "fitted with two omni-directional microphones"
+   },
+   {
+    "group": "Software",
+    "label": "Software",
+    "value": "Logi Tune webcam software",
+    "evidence": "use logi tune webcam software to adjust settings like zoom and field of view"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Webcam (Logitech c922).jpg",
+    "model_evidence": "c922"
+   }
+  ]
+ },
+ {
+  "handle": "real-keychron-k8",
+  "brand": "Keychron",
+  "model": "K8",
+  "mpn": "K8-A2",
+  "variant_title": "Default",
+  "category_handle": "mechanical-keyboard",
+  "title": "Keychron K8 Wireless Mechanical Keyboard (TKL)",
+  "subtitle": "80% tenkeyless | Bluetooth 5.1 + USB-C | 4000 mAh",
+  "description": "Tenkeyless wireless mechanical keyboard that pairs with up to three devices over Bluetooth or connects by USB Type-C cable, with Mac and Windows support and double-shot keycaps. Specifications verified against Keychron's official product page.",
+  "highlights": [
+   "80% TKL ANSI layout",
+   "Bluetooth with up to three devices, or wired USB-C",
+   "4000 mAh rechargeable battery",
+   "Works with macOS, Windows and Linux"
+  ],
+  "spec_source": {
+   "url": "https://www.keychron.com/products/keychron-k8-tenkeyless-wireless-mechanical-keyboard",
+   "publisher": "Keychron"
+  },
+  "model_match": [
+   "Keychron K8"
+  ],
+  "specs": [
+   {
+    "group": "Layout",
+    "label": "Layout",
+    "value": "80% TKL, ANSI",
+    "evidence": "layout: 80% tkl, ansi"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wireless",
+    "value": "Bluetooth 5.1, up to three devices",
+    "evidence": "connect with up to three devices via bluetooth 5.1"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wired polling rate",
+    "value": "1000 Hz",
+    "evidence": "wired; 1000 hz polling rate"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery",
+    "value": "4000 mAh rechargeable Li-polymer",
+    "evidence": "4000mah rechargeable li-polymer battery"
+   },
+   {
+    "group": "Build",
+    "label": "Keycaps",
+    "value": "OEM double-shot ABS",
+    "evidence": "keycaps: oem double-shot abs keycaps"
+   },
+   {
+    "group": "Compatibility",
+    "label": "Operating systems",
+    "value": "macOS, Windows, Linux",
+    "evidence": "compatible system macos/windows/linux"
+   },
+   {
+    "group": "Physical",
+    "label": "Weight (plastic frame)",
+    "value": "740 g ± 10 g",
+    "evidence": "plastic frame version:740g ± 10g"
+   },
+   {
+    "group": "Physical",
+    "label": "Size (plastic frame)",
+    "value": "355 x 123 mm",
+    "evidence": "plastic frame version:355 x 123 mm"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Keychron K8 Non-Backlight Wireless Mechanical Keyboard.jpg",
+    "model_evidence": "Keychron K8"
+   }
+  ],
+  "review_notes": [
+   "Official page mixes original and Version 2 details; confirm the sold SKU matches the listed specs."
+  ]
+ },
+ {
+  "handle": "real-netgear-gs105",
+  "brand": "Netgear",
+  "model": "GS105",
+  "variant_title": "Default",
+  "category_handle": "network-switch",
+  "title": "NETGEAR GS105 5-Port Gigabit Unmanaged Switch",
+  "subtitle": "5 x Gigabit | 2.7 W max | Fanless",
+  "description": "Five-port Gigabit desktop switch for home offices and small networks, with plug-and-play setup, Energy Efficient Ethernet and very low power draw. Specifications verified against NETGEAR's official product page.",
+  "highlights": [
+   "Five Gigabit Ethernet ports",
+   "2.7 W maximum power draw",
+   "IEEE 802.3az Energy Efficient Ethernet",
+   "Compact 94 x 100 x 27 mm"
+  ],
+  "spec_source": {
+   "url": "https://www.netgear.com/business/wired/switches/unmanaged/gs105/",
+   "publisher": "NETGEAR"
+  },
+  "model_match": [
+   "GS105"
+  ],
+  "specs": [
+   {
+    "group": "Connectivity",
+    "label": "Ports",
+    "value": "5 x 10/100/1000 Mbps",
+    "evidence": "speed : 10/100/1000mbps gigibit ethernet number of ports : 5"
+   },
+   {
+    "group": "Performance",
+    "label": "MAC table",
+    "value": "2K entries",
+    "evidence": "mac table size : 2k"
+   },
+   {
+    "group": "Performance",
+    "label": "Packet buffer",
+    "value": "128 KB",
+    "evidence": "packet buffer size : 128kb"
+   },
+   {
+    "group": "Features",
+    "label": "Energy Efficient Ethernet",
+    "value": "IEEE 802.3az",
+    "evidence": "energy efficient ethernet support (ieee 802.3az): yes"
+   },
+   {
+    "group": "Power",
+    "label": "Max power consumption",
+    "value": "2.7 W",
+    "evidence": "max power consumption : 2.7w"
+   },
+   {
+    "group": "Physical",
+    "label": "Dimensions",
+    "value": "94 x 100 x 27 mm",
+    "evidence": "94 mm x 100 mm x 27 mm"
+   },
+   {
+    "group": "Physical",
+    "label": "Weight",
+    "value": "0.261 kg",
+    "evidence": "weight (kg) : 0.261 kg"
+   },
+   {
+    "group": "Reliability",
+    "label": "MTBF",
+    "value": "3,197,945 hours",
+    "evidence": "mtbf (hours) : 3,197,945 hours"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Netgear 5-port Gigabit Desktop Switch GS105.jpg",
+    "model_evidence": "GS105"
+   }
+  ]
+ },
+ {
+  "handle": "real-netgear-gs108e",
+  "brand": "Netgear",
+  "model": "GS108E",
+  "variant_title": "Default",
+  "category_handle": "network-switch",
+  "title": "NETGEAR GS108E 8-Port Gigabit Easy Smart Managed Switch",
+  "subtitle": "8 x Gigabit | VLAN and LAG | Fanless",
+  "description": "Eight-port Gigabit switch with basic management features such as VLANs, link aggregation and multicast handling, in a silent fanless desktop case. Specifications verified against NETGEAR's official product page.",
+  "highlights": [
+   "Eight Gigabit Ethernet ports",
+   "Up to 64 VLANs",
+   "Two LAGs with up to four members each",
+   "Fanless, 0 dBA"
+  ],
+  "spec_source": {
+   "url": "https://www.netgear.com/business/wired/switches/easy-smart/gs108e/",
+   "publisher": "NETGEAR"
+  },
+  "model_match": [
+   "GS108E"
+  ],
+  "specs": [
+   {
+    "group": "Connectivity",
+    "label": "Gigabit ports",
+    "value": "8",
+    "evidence": "gigabit ports : 8"
+   },
+   {
+    "group": "Management",
+    "label": "VLANs",
+    "value": "64",
+    "evidence": "vlan (number supported) : 64"
+   },
+   {
+    "group": "Management",
+    "label": "Link aggregation",
+    "value": "2 LAGs, up to 4 members each",
+    "evidence": "2 lags with max 4 members in each lag"
+   },
+   {
+    "group": "Management",
+    "label": "Multicast groups",
+    "value": "128",
+    "evidence": "supported mulitcast groups : 128"
+   },
+   {
+    "group": "Performance",
+    "label": "Buffer",
+    "value": "192 KB",
+    "evidence": "buffer size : 192kb"
+   },
+   {
+    "group": "Power",
+    "label": "Power input",
+    "value": "External 12 V / 1.5 A",
+    "evidence": "power input : 12v/1.5a"
+   },
+   {
+    "group": "Power",
+    "label": "Max power consumption",
+    "value": "3.7 W",
+    "evidence": "power max consumption (watts) : 3.7w"
+   },
+   {
+    "group": "Physical",
+    "label": "Dimensions",
+    "value": "158 x 101 x 29 mm",
+    "evidence": "158 x 101 x 29 mm (6.2 x 4 x 1.1 in)"
+   },
+   {
+    "group": "Physical",
+    "label": "Weight",
+    "value": "0.5 kg",
+    "evidence": "weight (kg) : 0.5kg (1.1lb)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Netgear GS108E-40525.jpg",
+    "model_evidence": "GS108E"
+   }
+  ],
+  "review_notes": [
+   "Photo may show an older hardware revision of the GS108E."
+  ]
+ }
+]

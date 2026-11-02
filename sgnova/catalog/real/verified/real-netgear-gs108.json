@@ -1,0 +1,107 @@
+{
+ "handle": "real-netgear-gs108",
+ "brand": "Netgear",
+ "model": "GS108",
+ "mpn": null,
+ "category_handle": "network-switch",
+ "title": "NETGEAR GS108 8-Port Gigabit Unmanaged Switch",
+ "subtitle": "8 x Gigabit | Fanless metal case | Plug-and-play",
+ "description": "Eight-port Gigabit desktop switch with a fanless metal housing, no configuration required, and Energy Efficient Ethernet support. Can sit on a desk or be wall mounted. Specifications verified against NETGEAR's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Ports",
+   "value": "8 x 10/100/1000 Mbps"
+  },
+  {
+   "group": "Performance",
+   "label": "Jumbo frames",
+   "value": "9,216 bytes"
+  },
+  {
+   "group": "Performance",
+   "label": "MAC table",
+   "value": "4K entries"
+  },
+  {
+   "group": "Performance",
+   "label": "Packet buffer",
+   "value": "192 KB"
+  },
+  {
+   "group": "Features",
+   "label": "Energy Efficient Ethernet",
+   "value": "IEEE 802.3az"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "158 x 102 x 27 mm"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight",
+   "value": "0.47 kg"
+  },
+  {
+   "group": "Environment",
+   "label": "Operating temperature",
+   "value": "0 to 40 °C"
+  }
+ ],
+ "highlights": [
+  "Eight Gigabit Ethernet ports",
+  "Fanless, silent operation",
+  "Metal case, desk or wall mount",
+  "IEEE 802.3az Energy Efficient Ethernet"
+ ],
+ "review_notes": [
+  "Photo may show an older hardware revision of the GS108."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.netgear.com/business/wired/switches/unmanaged/gs108/",
+   "publisher": "NETGEAR",
+   "final_url": "https://www.netgear.com/business/wired/switches/unmanaged/gs108/",
+   "retrieved_at": "2026-11-02T16:36:42+00:00",
+   "sha256": "c9c7b4018a2daf60d84a8ce5f371f6a68e19548aa9193be214d3a8b8aa0b8141",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:37+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Netgear ProSafe 8 Port Gigabit Switch GS108 front.jpeg",
+   "categories": [
+    "Category:CC-BY-SA-3.0",
+    "Category:GFDL",
+    "Category:License migration redundant",
+    "Category:Netgear GS108",
+    "Category:Network switches (SOHO) with white background",
+    "Category:SOHO Ethernet switches",
+    "Category:Self-published work",
+    "Category:Taken with Sony DSC-P150"
+   ],
+   "width": 2735,
+   "height": 1101,
+   "mime": "image/jpeg",
+   "sha1": "c1d6b0354beac88057c7a297d37b98b6e0d409c9",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Netgear_ProSafe_8_Port_Gigabit_Switch_GS108_front.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Netgear_ProSafe_8_Port_Gigabit_Switch_GS108_front.jpeg/1280px-Netgear_ProSafe_8_Port_Gigabit_Switch_GS108_front.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Netgear_ProSafe_8_Port_Gigabit_Switch_GS108_front.jpeg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "artist": "Zuzu",
+   "credit": "Own work",
+   "description": "Netgear 8-port gigabit ethernet network switch, front side.",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-netgear-gs108/1.jpg",
+   "local_sha256": "002c1f0b9e736d16e39a09a1e7bc6a4911767c3663c64466514ae28e55e2bd6c",
+   "local_bytes": 156747
+  }
+ ]
+}

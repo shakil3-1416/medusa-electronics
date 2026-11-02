@@ -1,0 +1,110 @@
+{
+ "handle": "real-apple-macbook-pro-16-2021-m1-pro-16gb-512gb",
+ "brand": "Apple",
+ "model": "MacBook Pro (16-inch, 2021)",
+ "mpn": null,
+ "category_handle": "business-laptop",
+ "title": "Apple MacBook Pro 16-inch (M1 Pro, 2021) 16GB / 512GB",
+ "subtitle": "16.2-inch Liquid Retina XDR | Apple M1 Pro | 100Wh battery",
+ "description": "2021 16-inch MacBook Pro with Apple M1 Pro (10-core CPU, 16-core GPU), 16GB unified memory and a 512GB SSD. The redesign that brought back HDMI, SDXC and MagSafe.",
+ "variant_title": "M1 Pro 10-core CPU / 16-core GPU / 16GB / 512GB",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "Apple M1 Pro, 10-core CPU (8P + 2E), 16-core GPU"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "16.2-inch Liquid Retina XDR"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "3456 x 2234 at 254 ppi"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory",
+   "value": "16GB unified memory"
+  },
+  {
+   "group": "Storage",
+   "label": "Storage",
+   "value": "512GB SSD"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery life",
+   "value": "Up to 21 hours movie playback"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery",
+   "value": "100Wh lithium-polymer"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Ports",
+   "value": "Three Thunderbolt 4 (USB-C)"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "2.1 kg"
+  }
+ ],
+ "highlights": [
+  "Apple M1 Pro with 10-core CPU and 16-core GPU",
+  "16.2-inch Liquid Retina XDR display",
+  "Up to 21 hours movie playback",
+  "Three Thunderbolt 4 ports, HDMI and SDXC"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111901",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111901",
+   "retrieved_at": "2026-11-02T16:34:05+00:00",
+   "sha256": "2acc159c338513a38ac5ce988ec20ade0842666968bcb16a6344e15150be1dca",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:12+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:MacBook Pro 16 (M1 Pro, 2021) - Wikipedia.jpg",
+   "categories": [
+    "Category:2020s laptops",
+    "Category:CC-BY-SA-4.0",
+    "Category:Computers with Wikipedia displayed on the screen",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Images with extracted images",
+    "Category:MacBook Pro M1",
+    "Category:Self-published work",
+    "Category:Trademarks and logos of Wikimedia"
+   ],
+   "width": 4032,
+   "height": 3024,
+   "mime": "image/jpeg",
+   "sha1": "6a1d624a09d2f7103d82347fa268a69f9d59e6aa",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/MacBook_Pro_16_%28M1_Pro%2C_2021%29_-_Wikipedia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/MacBook_Pro_16_%28M1_Pro%2C_2021%29_-_Wikipedia.jpg/1280px-MacBook_Pro_16_%28M1_Pro%2C_2021%29_-_Wikipedia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:MacBook_Pro_16_(M1_Pro,_2021)_-_Wikipedia.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Premeditated",
+   "credit": "Own work",
+   "description": "This shows no copyrighted software, and all identifying system elements have been hidden.",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-apple-macbook-pro-16-2021-m1-pro-16gb-512gb/1.jpg",
+   "local_sha256": "15d24f6a0b02afc7f0f38b1680656ec4e1c860ac2d8eb266e4c6bf205c4616ae",
+   "local_bytes": 162385
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "handle": "real-apple-iphone-16-128gb",
+ "brand": "Apple",
+ "model": "iPhone 16",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 16 (128GB)",
+ "subtitle": "6.1-inch Super Retina XDR | A18 chip | 48MP Fusion camera",
+ "description": "Apple iPhone 16 in the 128GB version, running on the A18 chip with a 6.1-inch OLED display, a 48MP Fusion main camera and a 12MP Ultra Wide camera. All specifications were verified against Apple's official tech specs page.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "128GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.1-inch Super Retina XDR OLED"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2556 x 1179 at 460 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A18, 6-core CPU, 5-core GPU"
+  },
+  {
+   "group": "Camera",
+   "label": "Main camera",
+   "value": "48MP Fusion, f/1.6"
+  },
+  {
+   "group": "Camera",
+   "label": "Ultra Wide camera",
+   "value": "12MP, f/2.2"
+  },
+  {
+   "group": "Battery",
+   "label": "Video playback",
+   "value": "Up to 22 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "170 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions",
+   "value": "147.6 x 71.6 x 7.80 mm"
+  }
+ ],
+ "highlights": [
+  "6.1-inch Super Retina XDR OLED",
+  "A18 chip",
+  "48MP Fusion main camera",
+  "Up to 22 hours video playback"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/121029",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/121029",
+   "retrieved_at": "2026-11-02T16:26:28+00:00",
+   "sha256": "936a8f5d4c3cc96b23eda9a659fb9637242c45a6f9958ceb7e71fa4b95b929cb",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:01+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Back view of iPhone 16 Ultramarine.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2024-10-02",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 16",
+    "Category:October 2024 in Dongguan",
+    "Category:Self-published work",
+    "Category:Taken with iPhone 14 Plus"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "bd77d0a9b29b82ce5949f4725e2b8c6bb1b780e7",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Back_view_of_iPhone_16_Ultramarine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Back_view_of_iPhone_16_Ultramarine.jpg/1280px-Back_view_of_iPhone_16_Ultramarine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Back_view_of_iPhone_16_Ultramarine.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "メイド理世",
+   "credit": "Own work",
+   "description": "Back view of iPhone 16 Ultramarine",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-apple-iphone-16-128gb/1.jpg",
+   "local_sha256": "b689a0549f0ed76af6938206328daedbd2ed05173b3c577c484b3fe84462454e",
+   "local_bytes": 244425
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "handle": "real-amd-ryzen-9-5900x",
+ "brand": "AMD",
+ "model": "Ryzen 9 5900X",
+ "mpn": "100-100000061WOF",
+ "category_handle": "processor",
+ "title": "AMD Ryzen 9 5900X Desktop Processor",
+ "subtitle": "12 cores / 24 threads | up to 4.8 GHz | AM4",
+ "description": "Twelve-core Zen 3 CPU for AM4 with 64 MB of L3 cache, suited to gaming plus heavy multitasking and content work. A liquid cooler is recommended; none is included. Specifications checked against AMD's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Processor",
+   "label": "Cores",
+   "value": "12"
+  },
+  {
+   "group": "Processor",
+   "label": "Threads",
+   "value": "24"
+  },
+  {
+   "group": "Clock",
+   "label": "Max boost clock",
+   "value": "Up to 4.8 GHz"
+  },
+  {
+   "group": "Clock",
+   "label": "Base clock",
+   "value": "3.7 GHz"
+  },
+  {
+   "group": "Cache",
+   "label": "L3 cache",
+   "value": "64 MB"
+  },
+  {
+   "group": "Power",
+   "label": "Default TDP",
+   "value": "105W"
+  },
+  {
+   "group": "Platform",
+   "label": "Socket",
+   "value": "AM4"
+  },
+  {
+   "group": "Platform",
+   "label": "PCI Express",
+   "value": "PCIe 4.0"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory support",
+   "value": "DDR4 up to 3200 MT/s"
+  }
+ ],
+ "highlights": [
+  "12 cores, 24 threads",
+  "Up to 4.8 GHz boost",
+  "64 MB L3 cache",
+  "AM4 socket, PCIe 4.0"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-9-5900x.html",
+   "publisher": "Advanced Micro Devices, Inc.",
+   "final_url": "https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-9-5900x.html",
+   "retrieved_at": "2026-11-02T16:30:41+00:00",
+   "sha256": "f3e2cf45ca430bc0b3ba05654860c354e2882f26b64f34457c5b7fe6d6a10194",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:34+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:AMD Ryzen 9 5900X by BugWarp 03.jpg",
+   "categories": [
+    "Category:AMD Ryzen 9 5900X",
+    "Category:CC-Zero",
+    "Category:Files by User:BugWarp",
+    "Category:Self-published work"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "61231eb904c0002a6fc101486d37fb86d8609896",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/AMD_Ryzen_9_5900X_by_BugWarp_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/AMD_Ryzen_9_5900X_by_BugWarp_03.jpg/1280px-AMD_Ryzen_9_5900X_by_BugWarp_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:AMD_Ryzen_9_5900X_by_BugWarp_03.jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "BugWarp",
+   "credit": "Own work",
+   "description": "AMD Ryzen 9 5900X CPU.",
+   "attribution_required": "false",
+   "index": 1,
+   "local_path": "/catalog-real/real-amd-ryzen-9-5900x/1.jpg",
+   "local_sha256": "488bbae2f0096353c5039b31450cd22d5f1fd5329934a99dd090f7bfe01ee3b6",
+   "local_bytes": 454785
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "handle": "real-apple-iphone-16e-128gb",
+ "brand": "Apple",
+ "model": "iPhone 16e",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 16e (128GB)",
+ "subtitle": "6.1-inch Super Retina XDR | A18 chip | 48MP Fusion camera",
+ "description": "Apple iPhone 16e with 128GB of storage, the A18 chip with a 4-core GPU, a 6.1-inch OLED screen and a single 48MP Fusion rear camera. Specifications were verified against Apple's official tech specs page.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "128GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.1-inch Super Retina XDR OLED"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2532 x 1170 at 460 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A18, 6-core CPU, 4-core GPU"
+  },
+  {
+   "group": "Camera",
+   "label": "Main camera",
+   "value": "48MP Fusion, f/1.6"
+  },
+  {
+   "group": "Battery",
+   "label": "Video playback",
+   "value": "Up to 26 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "167 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions",
+   "value": "146.7 x 71.5 x 7.80 mm"
+  }
+ ],
+ "highlights": [
+  "6.1-inch Super Retina XDR OLED",
+  "A18 chip",
+  "48MP Fusion camera",
+  "Up to 26 hours video playback"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/122208",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/122208",
+   "retrieved_at": "2026-11-02T16:26:31+00:00",
+   "sha256": "5120ee3c3b0a51f0666e7be596602159195b41d4bbee70d3578d7614cfc17b10",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:03+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPhone 16e (Black) - 2.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:IPhone 16e",
+    "Category:Self-published work"
+   ],
+   "width": 2601,
+   "height": 3827,
+   "mime": "image/jpeg",
+   "sha1": "3e6158344019e1d395a99d77fc81d5bf8b952956",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/IPhone_16e_%28Black%29_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/IPhone_16e_%28Black%29_-_2.jpg/1280px-IPhone_16e_%28Black%29_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_16e_(Black)_-_2.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Kyu3a",
+   "credit": "Own work",
+   "description": "IPhone 16e ブラックモデル。愛知県春日井市の家電量販店で撮影。",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-apple-iphone-16e-128gb/1.jpg",
+   "local_sha256": "57321e89101439a964a5d9e071d2802cc3b4f8848df973e4492fe66f7a929923",
+   "local_bytes": 430966
+  }
+ ]
+}

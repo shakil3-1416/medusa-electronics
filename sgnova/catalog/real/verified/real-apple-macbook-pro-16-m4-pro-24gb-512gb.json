@@ -1,0 +1,100 @@
+{
+ "handle": "real-apple-macbook-pro-16-m4-pro-24gb-512gb",
+ "brand": "Apple",
+ "model": "MacBook Pro (16-inch, 2024)",
+ "mpn": null,
+ "category_handle": "business-laptop",
+ "title": "Apple MacBook Pro 16-inch (M4 Pro, 2024) 24GB / 512GB",
+ "subtitle": "16.2-inch Liquid Retina XDR | Apple M4 Pro | Thunderbolt 5",
+ "description": "16-inch MacBook Pro (2024) in its M4 Pro configuration: 14-core CPU, 20-core GPU, 24GB unified memory and a 512GB SSD. A large-screen workstation laptop with three Thunderbolt 5 ports.",
+ "variant_title": "M4 Pro 14-core CPU / 20-core GPU / 24GB / 512GB",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "Apple M4 Pro, 14-core CPU (10P + 4E), 20-core GPU"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "16.2-inch Liquid Retina XDR"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "3456 x 2234 at 254 ppi"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory",
+   "value": "24GB unified memory"
+  },
+  {
+   "group": "Storage",
+   "label": "Storage",
+   "value": "512GB SSD"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery life",
+   "value": "Up to 24 hours video streaming"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Ports",
+   "value": "Three Thunderbolt 5 (USB-C)"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "2.14 kg"
+  }
+ ],
+ "highlights": [
+  "Apple M4 Pro with 14-core CPU and 20-core GPU",
+  "16.2-inch Liquid Retina XDR display",
+  "Up to 24 hours video streaming",
+  "Three Thunderbolt 5 ports, HDMI and SDXC"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/121554",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/121554",
+   "retrieved_at": "2026-11-02T16:27:26+00:00",
+   "sha256": "910ca82a6b351e59ec33c835e4e3dfe0fbc8049e11b0048511cfb0b23c750571",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:10+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:MacBook Pro (16-inch, M4 Pro, Silver).jpg",
+   "categories": [
+    "Category:CC-Zero",
+    "Category:MacBook Pro (Apple silicon)",
+    "Category:Self-published work"
+   ],
+   "width": 5712,
+   "height": 4284,
+   "mime": "image/jpeg",
+   "sha1": "f705e481a073142be231758d596b0f7dfb406039",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/MacBook_Pro_%2816-inch%2C_M4_Pro%2C_Silver%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/MacBook_Pro_%2816-inch%2C_M4_Pro%2C_Silver%29.jpg/1280px-MacBook_Pro_%2816-inch%2C_M4_Pro%2C_Silver%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:MacBook_Pro_(16-inch,_M4_Pro,_Silver).jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "AzureSaturn",
+   "credit": "Own work",
+   "description": "A top view of the 16-inch MacBook Pro in Silver running macOS Tahoe.",
+   "attribution_required": "false",
+   "index": 1,
+   "local_path": "/catalog-real/real-apple-macbook-pro-16-m4-pro-24gb-512gb/1.jpg",
+   "local_sha256": "a1da92db5d45059a092a35e518ac71b5fef0b3eb24d8c5af8ec2b7cc88fc5dff",
+   "local_bytes": 338453
+  }
+ ]
+}

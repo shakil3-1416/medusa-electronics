@@ -1,0 +1,104 @@
+{
+ "handle": "real-netgear-gs105",
+ "brand": "Netgear",
+ "model": "GS105",
+ "mpn": null,
+ "category_handle": "network-switch",
+ "title": "NETGEAR GS105 5-Port Gigabit Unmanaged Switch",
+ "subtitle": "5 x Gigabit | 2.7 W max | Fanless",
+ "description": "Five-port Gigabit desktop switch for home offices and small networks, with plug-and-play setup, Energy Efficient Ethernet and very low power draw. Specifications verified against NETGEAR's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Ports",
+   "value": "5 x 10/100/1000 Mbps"
+  },
+  {
+   "group": "Performance",
+   "label": "MAC table",
+   "value": "2K entries"
+  },
+  {
+   "group": "Performance",
+   "label": "Packet buffer",
+   "value": "128 KB"
+  },
+  {
+   "group": "Features",
+   "label": "Energy Efficient Ethernet",
+   "value": "IEEE 802.3az"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "2.7 W"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "94 x 100 x 27 mm"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight",
+   "value": "0.261 kg"
+  },
+  {
+   "group": "Reliability",
+   "label": "MTBF",
+   "value": "3,197,945 hours"
+  }
+ ],
+ "highlights": [
+  "Five Gigabit Ethernet ports",
+  "2.7 W maximum power draw",
+  "IEEE 802.3az Energy Efficient Ethernet",
+  "Compact 94 x 100 x 27 mm"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.netgear.com/business/wired/switches/unmanaged/gs105/",
+   "publisher": "NETGEAR",
+   "final_url": "https://www.netgear.com/business/wired/switches/unmanaged/gs105/",
+   "retrieved_at": "2026-11-02T16:45:26+00:00",
+   "sha256": "f7ecea1113f8a5647f8d44f2ce98826183a1c9149dd9dcd8a7a81751e8646179",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:54+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Netgear 5-port Gigabit Desktop Switch GS105.jpg",
+   "categories": [
+    "Category:4-port switches",
+    "Category:CC-BY-SA-3.0",
+    "Category:Netgear switches",
+    "Category:Network switches (SOHO) with white background",
+    "Category:SOHO Ethernet switches",
+    "Category:Self-published work",
+    "Category:Taken with Nikon D5100"
+   ],
+   "width": 1024,
+   "height": 818,
+   "mime": "image/jpeg",
+   "sha1": "c3ea6da9baa15815b691b1f032c894ad38d0839c",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Netgear_5-port_Gigabit_Desktop_Switch_GS105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Netgear_5-port_Gigabit_Desktop_Switch_GS105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Netgear_5-port_Gigabit_Desktop_Switch_GS105.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "artist": "Photeka",
+   "credit": "Own work",
+   "description": "ProSafe 5-port Gigabit Desktop Switch",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-netgear-gs105/1.jpg",
+   "local_sha256": "fa4333836e02d69638a196103cd7228d39b3a5e93f8bc198d29bd31fdc12ce61",
+   "local_bytes": 119191
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "handle": "real-logitech-c922-pro-stream",
+ "brand": "Logitech",
+ "model": "C922 Pro Stream",
+ "mpn": "960-001087",
+ "category_handle": "webcam",
+ "title": "Logitech C922 Pro Stream Webcam",
+ "subtitle": "1080p/30fps or 720p/60fps | Autofocus | Stereo mics",
+ "description": "USB streaming webcam that records Full HD at 30 frames per second or HD at 60 frames per second, with a glass autofocus lens, automatic light correction and two built-in microphones. Specifications verified against Logitech's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Video",
+   "label": "Resolution and frame rate",
+   "value": "1080p at 30fps or 720p at 60fps"
+  },
+  {
+   "group": "Optics",
+   "label": "Field of view",
+   "value": "78° diagonal"
+  },
+  {
+   "group": "Optics",
+   "label": "Lens",
+   "value": "Glass lens with autofocus"
+  },
+  {
+   "group": "Video",
+   "label": "Light correction",
+   "value": "HD autofocus and automatic light correction"
+  },
+  {
+   "group": "Audio",
+   "label": "Microphones",
+   "value": "Two omni-directional microphones (stereo)"
+  },
+  {
+   "group": "Software",
+   "label": "Software",
+   "value": "Logi Tune webcam software"
+  }
+ ],
+ "highlights": [
+  "1080p at 30fps or 720p at 60fps",
+  "78-degree diagonal field of view",
+  "Glass lens with autofocus",
+  "Two omni-directional microphones"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.logitech.com/en-us/products/webcams/c922-pro-stream-webcam.960-001087.html",
+   "publisher": "Logitech",
+   "final_url": "https://www.logitech.com/en-us/shop/p/c922-pro-stream-webcam.960-001087",
+   "retrieved_at": "2026-11-02T16:45:32+00:00",
+   "sha256": "bca9a50e6be5216fbfae35421de2b6b4d6bf6873ac91ce823c43f2e794cd26f3",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:50+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Webcam (Logitech c922).jpg",
+   "categories": [
+    "Category:CC-Zero",
+    "Category:Logitech webcams",
+    "Category:Self-published work",
+    "Category:Uploaded with Mobile/Android"
+   ],
+   "width": 4096,
+   "height": 3072,
+   "mime": "image/jpeg",
+   "sha1": "5036d6b3789a4cf97bf0fd7117fec92389ec1699",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Webcam_%28Logitech_c922%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Webcam_%28Logitech_c922%29.jpg/1280px-Webcam_%28Logitech_c922%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Webcam_(Logitech_c922).jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "Zsinytwiki",
+   "credit": "Own work",
+   "description": "Modern expensive webcam mainly made for streaming and professional video conferencing",
+   "attribution_required": "false",
+   "index": 1,
+   "local_path": "/catalog-real/real-logitech-c922-pro-stream/1.jpg",
+   "local_sha256": "1d5818f682fb4b3dd7f4a767ca2bcfc7aaf86a05b661cefc6497fe843ca7d72e",
+   "local_bytes": 180587
+  }
+ ]
+}

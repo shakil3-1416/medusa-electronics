@@ -1,0 +1,27 @@
+[
+ {
+  "handle": "real-apple-iphone-15-128gb",
+  "brand": "Apple",
+  "model": "iPhone 15",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 15 (128GB)",
+  "subtitle": "6.1-inch Super Retina XDR | A16 Bionic | 48MP camera",
+  "description": "Apple iPhone 15 with a 6.1-inch Super Retina XDR OLED display, A16 Bionic chip and a 48MP main camera. Specifications verified against Apple's official technical specifications page.",
+  "highlights": ["6.1-inch Super Retina XDR OLED", "A16 Bionic chip", "48MP Main camera", "USB-C, MagSafe and Qi2 charging"],
+  "spec_source": {"url": "https://support.apple.com/en-us/111831", "publisher": "Apple Inc."},
+  "model_match": ["iPhone 15"],
+  "specs": [
+   {"group": "Storage", "label": "Capacity", "value": "128GB", "evidence": "128GB", "context": "Capacity"},
+   {"group": "Display", "label": "Display", "value": "6.1-inch Super Retina XDR OLED", "evidence": "6.1-inch (diagonal) all-screen OLED display"},
+   {"group": "Display", "label": "Resolution", "value": "2556 x 1179 at 460 ppi", "evidence": "2556-by-1179-pixel resolution at 460 ppi"},
+   {"group": "Performance", "label": "Chip", "value": "A16 Bionic, 6-core CPU, 5-core GPU", "evidence": "A16 Bionic chip 6-core CPU with 2 performance and 4 efficiency cores 5-core GPU"},
+   {"group": "Camera", "label": "Main camera", "value": "48MP, f/1.6", "evidence": "48MP Main: 26 mm, ƒ/1.6 aperture"},
+   {"group": "Camera", "label": "Ultra Wide camera", "value": "12MP, f/2.4", "evidence": "12MP Ultra Wide: 13 mm, ƒ/2.4 aperture"},
+   {"group": "Battery", "label": "Video playback", "value": "Up to 20 hours", "evidence": "Video playback: Up to 20 hours"},
+   {"group": "Build", "label": "Weight", "value": "171 g", "evidence": "6.02 ounces (171 grams)"},
+   {"group": "Build", "label": "Dimensions", "value": "147.6 x 71.6 x 7.80 mm", "evidence": "Width: 2.82 inches (71.6 mm) Height: 5.81 inches (147.6 mm) Depth: 0.31 inch (7.80 mm)"}
+  ],
+  "images": [{"commons_file": "File:Back of iPhone 15.jpg", "model_evidence": "iPhone 15"}]
+ }
+]

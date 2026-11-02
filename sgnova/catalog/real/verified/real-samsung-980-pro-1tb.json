@@ -1,0 +1,116 @@
+{
+ "handle": "real-samsung-980-pro-1tb",
+ "brand": "Samsung",
+ "model": "980 PRO",
+ "mpn": "MZ-V8P1T0BW",
+ "category_handle": "internal-ssd",
+ "title": "Samsung 980 PRO PCIe 4.0 NVMe M.2 SSD (1TB)",
+ "subtitle": "1TB | PCIe 4.0 x4 | up to 7,000 MB/s read",
+ "description": "Samsung's PCIe 4.0 NVMe drive in the M.2 2280 format, built on Samsung V-NAND with the Elpis controller. A strong fit for gaming PCs and PS5-class upgrades. Specifications checked against Samsung's official product page.",
+ "variant_title": "1TB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "1,000GB"
+  },
+  {
+   "group": "Interface",
+   "label": "Interface",
+   "value": "PCIe Gen 4.0 x4, NVMe 1.3c"
+  },
+  {
+   "group": "Build",
+   "label": "Form factor",
+   "value": "M.2 (2280)"
+  },
+  {
+   "group": "Performance",
+   "label": "Sequential read",
+   "value": "Up to 7,000 MB/s"
+  },
+  {
+   "group": "Performance",
+   "label": "Sequential write",
+   "value": "Up to 5,000 MB/s"
+  },
+  {
+   "group": "Storage",
+   "label": "NAND",
+   "value": "Samsung V-NAND 3-bit MLC"
+  },
+  {
+   "group": "Storage",
+   "label": "Controller",
+   "value": "Samsung Elpis"
+  },
+  {
+   "group": "Storage",
+   "label": "Cache",
+   "value": "1GB LPDDR4"
+  },
+  {
+   "group": "Warranty",
+   "label": "Warranty",
+   "value": "5 years or 600 TBW"
+  }
+ ],
+ "highlights": [
+  "1TB M.2 2280",
+  "PCIe Gen 4.0 x4, NVMe",
+  "Up to 7,000 MB/s sequential read",
+  "5-year limited warranty"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.samsung.com/uk/memory-storage/nvme-ssd/980-pro-pcle-4-0-nvme-m-2-ssd-1tb-mz-v8p1t0bw/",
+   "publisher": "Samsung Electronics",
+   "final_url": "https://www.samsung.com/uk/memory-storage/nvme-ssd/980-pro-pcle-4-0-nvme-m-2-ssd-1tb-mz-v8p1t0bw/",
+   "retrieved_at": "2026-11-02T16:36:44+00:00",
+   "sha256": "a1daffc776a563ba5ab7f47dcbb8053b0923cbe62ad274059782cca702ff7926",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:39+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Samsung 980 PRO PCIe 4.0 NVMe SSD 1TB-top PNr°0915.jpg",
+   "categories": [
+    "Category:1 TB solid-state drives",
+    "Category:CC-BY-SA-4.0",
+    "Category:Created with RawTherapee",
+    "Category:Files taken by D-Kuru",
+    "Category:M.2 2280 cards",
+    "Category:M.2 B keying cards",
+    "Category:M.2 M keying cards",
+    "Category:Photographs taken on 2022-03-26",
+    "Category:Quality images",
+    "Category:Quality images missing SDC creator",
+    "Category:Quality images taken by D-Kuru",
+    "Category:Samsung M.2 solid state drives",
+    "Category:Taken with Canon EF-S 60mm F2.8 Macro USM",
+    "Category:Taken with Canon EOS 40D"
+   ],
+   "width": 3691,
+   "height": 1318,
+   "mime": "image/jpeg",
+   "sha1": "1d37efdc6dc00e6603f3cbb08bec246178773f79",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Samsung_980_PRO_PCIe_4.0_NVMe_SSD_1TB-top_PNr%C2%B00915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Samsung_980_PRO_PCIe_4.0_NVMe_SSD_1TB-top_PNr%C2%B00915.jpg/1280px-Samsung_980_PRO_PCIe_4.0_NVMe_SSD_1TB-top_PNr%C2%B00915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Samsung_980_PRO_PCIe_4.0_NVMe_SSD_1TB-top_PNr%C2%B00915.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "D-Kuru",
+   "credit": "Own work",
+   "description": "A Samsung 980 Pro m.2 PCIe NVMe SSD with 1TB of storage capacity",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-samsung-980-pro-1tb/1.jpg",
+   "local_sha256": "6e2ff56b8a51765c19732a8c8ba37d5598e3eb84e06e73d3be424507f7cdcf89",
+   "local_bytes": 112782
+  }
+ ]
+}

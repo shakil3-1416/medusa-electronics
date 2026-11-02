@@ -1,0 +1,102 @@
+{
+ "handle": "real-keychron-k8",
+ "brand": "Keychron",
+ "model": "K8",
+ "mpn": "K8-A2",
+ "category_handle": "mechanical-keyboard",
+ "title": "Keychron K8 Wireless Mechanical Keyboard (TKL)",
+ "subtitle": "80% tenkeyless | Bluetooth 5.1 + USB-C | 4000 mAh",
+ "description": "Tenkeyless wireless mechanical keyboard that pairs with up to three devices over Bluetooth or connects by USB Type-C cable, with Mac and Windows support and double-shot keycaps. Specifications verified against Keychron's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Layout",
+   "label": "Layout",
+   "value": "80% TKL, ANSI"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wireless",
+   "value": "Bluetooth 5.1, up to three devices"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wired polling rate",
+   "value": "1000 Hz"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery",
+   "value": "4000 mAh rechargeable Li-polymer"
+  },
+  {
+   "group": "Build",
+   "label": "Keycaps",
+   "value": "OEM double-shot ABS"
+  },
+  {
+   "group": "Compatibility",
+   "label": "Operating systems",
+   "value": "macOS, Windows, Linux"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight (plastic frame)",
+   "value": "740 g ± 10 g"
+  },
+  {
+   "group": "Physical",
+   "label": "Size (plastic frame)",
+   "value": "355 x 123 mm"
+  }
+ ],
+ "highlights": [
+  "80% TKL ANSI layout",
+  "Bluetooth with up to three devices, or wired USB-C",
+  "4000 mAh rechargeable battery",
+  "Works with macOS, Windows and Linux"
+ ],
+ "review_notes": [
+  "Official page mixes original and Version 2 details; confirm the sold SKU matches the listed specs."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.keychron.com/products/keychron-k8-tenkeyless-wireless-mechanical-keyboard",
+   "publisher": "Keychron",
+   "final_url": "https://www.keychron.com/products/keychron-k8-tenkeyless-wireless-mechanical-keyboard",
+   "retrieved_at": "2026-11-02T16:45:21+00:00",
+   "sha256": "4e6bdea592660775d23195fb5b0c18d43a38b9093863dc52ea9bc8217609c2f5",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:52+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Keychron K8 Non-Backlight Wireless Mechanical Keyboard.jpg",
+   "categories": [
+    "Category:CC-BY-2.0",
+    "Category:Flickr images reviewed by FlickreviewR 2",
+    "Category:Keychron K8"
+   ],
+   "width": 7341,
+   "height": 4883,
+   "mime": "image/jpeg",
+   "sha1": "8b4fb011745553434242b006af2c364434015ed6",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Keychron_K8_Non-Backlight_Wireless_Mechanical_Keyboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Keychron_K8_Non-Backlight_Wireless_Mechanical_Keyboard.jpg/1280px-Keychron_K8_Non-Backlight_Wireless_Mechanical_Keyboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Keychron_K8_Non-Backlight_Wireless_Mechanical_Keyboard.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "artist": "Triple-green",
+   "credit": "https://www.flickr.com/photos/66451944@N03/52766173362/",
+   "description": "Wireless keyboard",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-keychron-k8/1.jpg",
+   "local_sha256": "62bb22d0a348fa72165cb4071e00383fabdbbb59ffbb34053ce6c8a864f2fbdb",
+   "local_bytes": 227838
+  }
+ ]
+}

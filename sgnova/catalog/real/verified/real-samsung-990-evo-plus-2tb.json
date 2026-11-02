@@ -1,0 +1,107 @@
+{
+ "handle": "real-samsung-990-evo-plus-2tb",
+ "brand": "Samsung",
+ "model": "990 EVO Plus",
+ "mpn": "MZ-V9S2T0BW",
+ "category_handle": "internal-ssd",
+ "title": "Samsung 990 EVO Plus NVMe M.2 SSD (2TB)",
+ "subtitle": "2TB | PCIe 4.0 x4 / 5.0 x2 | up to 7,250 MB/s read",
+ "description": "DRAM-less Samsung NVMe drive in M.2 2280 form that uses the host memory buffer, offering near top-tier PCIe 4.0 speeds at a lower price and running in either PCIe 4.0 x4 or 5.0 x2 slots. Specifications checked against Samsung's official product page.",
+ "variant_title": "2TB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "2,000GB"
+  },
+  {
+   "group": "Interface",
+   "label": "Interface",
+   "value": "PCIe 4.0 x4 / 5.0 x2, NVMe 2.0"
+  },
+  {
+   "group": "Build",
+   "label": "Form factor",
+   "value": "M.2 (2280)"
+  },
+  {
+   "group": "Performance",
+   "label": "Sequential read",
+   "value": "Up to 7,250 MB/s"
+  },
+  {
+   "group": "Performance",
+   "label": "Sequential write",
+   "value": "Up to 6,300 MB/s"
+  },
+  {
+   "group": "Storage",
+   "label": "NAND",
+   "value": "Samsung V-NAND TLC"
+  },
+  {
+   "group": "Storage",
+   "label": "Cache",
+   "value": "Host Memory Buffer (HMB)"
+  },
+  {
+   "group": "Warranty",
+   "label": "Warranty",
+   "value": "5 years or 1200 TBW"
+  }
+ ],
+ "highlights": [
+  "2TB M.2 2280",
+  "PCIe 4.0 x4 / 5.0 x2, NVMe 2.0",
+  "Up to 7,250 MB/s sequential read",
+  "5-year limited warranty"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.samsung.com/uk/memory-storage/nvme-ssd/990-evo-plus-2tb-nvme-pcie-gen-4-mz-v9s2t0bw/",
+   "publisher": "Samsung Electronics",
+   "final_url": "https://www.samsung.com/uk/memory-storage/nvme-ssd/990-evo-plus-2tb-nvme-pcie-gen-4-mz-v9s2t0bw/",
+   "retrieved_at": "2026-11-02T16:59:12+00:00",
+   "sha256": "4bfa949e66f34d23b1caf68924e4fc0ef5a3aec83cdeeabb6eaf07494cd6ef6b",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:57+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:SSD Samsung 990 EVO Plus 2TB, Model MZ-V9S2T0-2800.jpg",
+   "categories": [
+    "Category:2 TB solid-state drives",
+    "Category:CC-BY-SA-4.0",
+    "Category:Files by User:Raymond from de.wikipedia/Objects",
+    "Category:Fotosession im Lokal K (2025)",
+    "Category:Fotosession im Lokal K (IuK-Technik)",
+    "Category:Hauskamera Lokal K - Canon EOS 5D Mark IV (2025)",
+    "Category:Information field template with formatting",
+    "Category:Samsung M.2 solid state drives",
+    "Category:Self-published work",
+    "Category:Uploaded with LrMediaWiki"
+   ],
+   "width": 5988,
+   "height": 2113,
+   "mime": "image/jpeg",
+   "sha1": "dbe73198ca60489f4c6f27d1317927fb11d191cc",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/SSD_Samsung_990_EVO_Plus_2TB%2C_Model_MZ-V9S2T0-2800.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/SSD_Samsung_990_EVO_Plus_2TB%2C_Model_MZ-V9S2T0-2800.jpg/1280px-SSD_Samsung_990_EVO_Plus_2TB%2C_Model_MZ-V9S2T0-2800.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:SSD_Samsung_990_EVO_Plus_2TB,_Model_MZ-V9S2T0-2800.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Raimond Spekking",
+   "credit": "Own work",
+   "description": "SSD Samsung 990 EVO Plus 2TB, Model MZ-V9S2T0",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-samsung-990-evo-plus-2tb/1.jpg",
+   "local_sha256": "72fd6664e317c2784de2f46f0d8583c1c50c5164e88d38685b6ea0db78f76286",
+   "local_bytes": 177783
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "handle": "real-apple-ipad-10th-gen-64gb-wifi",
+ "brand": "Apple",
+ "model": "iPad (10th generation)",
+ "mpn": null,
+ "category_handle": "tablet",
+ "title": "Apple iPad (10th generation, 64GB, Wi-Fi)",
+ "subtitle": "10.9-inch Liquid Retina | A14 Bionic | USB-C",
+ "description": "Apple iPad (10th generation) in the 64GB Wi-Fi configuration, with a Liquid Retina display, the A14 Bionic chip, USB-C and a landscape 12MP front camera. Specifications were verified against Apple's official tech specs page.",
+ "variant_title": "64GB Wi-Fi",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "64GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "Liquid Retina, LED backlit IPS"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2360 x 1640 at 264 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A14 Bionic, 6-core CPU, 4-core graphics"
+  },
+  {
+   "group": "Camera",
+   "label": "Rear camera",
+   "value": "12MP Wide, f/1.8"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "12MP Center Stage, f/2.4"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery",
+   "value": "28.6 Wh, up to 10 hours web or video on Wi-Fi"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions and weight (Wi-Fi)",
+   "value": "248.6 x 179.5 x 7 mm, 477 g"
+  }
+ ],
+ "highlights": [
+  "Liquid Retina display, 2360 x 1640",
+  "A14 Bionic chip",
+  "Landscape 12MP Center Stage front camera",
+  "USB-C connector"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111840",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111840",
+   "retrieved_at": "2026-11-02T16:26:38+00:00",
+   "sha256": "b6ae3ae8e3b985fafed5c472a320acf0349c209b1fc6003092ee17e7295ad6ab",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:07+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPad 10th Generation 2024.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:IPad (10th generation)",
+    "Category:Self-published work",
+    "Category:Tablets with keyboards",
+    "Category:Taken with Samsung Galaxy A30s"
+   ],
+   "width": 5760,
+   "height": 4312,
+   "mime": "image/jpeg",
+   "sha1": "33c4098d0e71800e9c1709b442b0d2c5b9beae6d",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/IPad_10th_Generation_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/IPad_10th_Generation_2024.jpg/1280px-IPad_10th_Generation_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPad_10th_Generation_2024.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Captainmorlypogi1959",
+   "credit": "Own work",
+   "description": "iPad 10th Generation was released in October 26, 2022. Photo locationː Timeline Apple Store - SM City Cabanatuan. Km. 112 Maharlika Highway, Barangay Hermogenes C. Concepcion, Sr. (Pambuan), Cabanatuan City, Nueva Ecija 🇵🇭",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-apple-ipad-10th-gen-64gb-wifi/1.jpg",
+   "local_sha256": "27ba045b86eb2f5c82fef2ac218086f69a71856999893cef22f6ada8d0f0e9f6",
+   "local_bytes": 174100
+  }
+ ]
+}

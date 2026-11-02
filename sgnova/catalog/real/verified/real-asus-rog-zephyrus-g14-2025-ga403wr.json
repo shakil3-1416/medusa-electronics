@@ -1,0 +1,103 @@
+{
+ "handle": "real-asus-rog-zephyrus-g14-2025-ga403wr",
+ "brand": "ASUS",
+ "model": "ROG Zephyrus G14 (2025) GA403WR",
+ "mpn": null,
+ "category_handle": "gaming-laptop",
+ "title": "ASUS ROG Zephyrus G14 (2025) GA403WR, RTX 5070 Ti",
+ "subtitle": "14-inch 3K OLED 120Hz | Ryzen AI 9 HX 370 | RTX 5070 Ti",
+ "description": "Compact 14-inch gaming laptop in the GA403WR configuration: AMD Ryzen AI 9 HX 370, NVIDIA GeForce RTX 5070 Ti laptop GPU, 64GB LPDDR5X and a 2TB SSD behind a 3K 120Hz OLED panel.",
+ "variant_title": "GA403WR / RTX 5070 Ti / 64GB / 2TB",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "AMD Ryzen AI 9 HX 370, 12 cores / 24 threads, up to 5.1GHz"
+  },
+  {
+   "group": "Performance",
+   "label": "Graphics",
+   "value": "NVIDIA GeForce RTX 5070 Ti Laptop GPU, 12GB GDDR7, 110W"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "14-inch 3K (2880 x 1800) OLED, 16:10"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory",
+   "value": "64GB LPDDR5X-8000 on board"
+  },
+  {
+   "group": "Storage",
+   "label": "Storage",
+   "value": "2TB PCIe 4.0 NVMe M.2 SSD"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery",
+   "value": "73Wh, 4-cell Li-ion"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wireless",
+   "value": "Wi-Fi 7 (802.11be), Bluetooth 5.4"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "1.57 kg"
+  }
+ ],
+ "highlights": [
+  "AMD Ryzen AI 9 HX 370",
+  "NVIDIA GeForce RTX 5070 Ti Laptop GPU, 12GB GDDR7",
+  "14-inch 3K (2880 x 1800) OLED, 120Hz",
+  "64GB LPDDR5X, 2TB PCIe 4.0 SSD"
+ ],
+ "review_notes": [
+  "Spec page is a multi-SKU comparison table; confirm values belong to the GA403WR column."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g14-2025/spec/",
+   "publisher": "ASUSTeK Computer Inc.",
+   "final_url": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g14-2025/spec/",
+   "retrieved_at": "2026-11-02T16:40:25+00:00",
+   "sha256": "8a8dd9117c8df8b6c896d4cf357bad904d506b4bf12d675c3671dcf4a3ca6b3a",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:21+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Tokyo-Game-Show-2025 0121.jpg",
+   "categories": [
+    "Category:ASUS ROG Zephyrus G14 GA403WR",
+    "Category:ASUS exhibit stands at the Tokyo Game Show 2025",
+    "Category:CC-BY-4.0",
+    "Category:Self-published work"
+   ],
+   "width": 3648,
+   "height": 2736,
+   "mime": "image/jpeg",
+   "sha1": "becd001fbb066a13e0f389d48a3670eba73e61e4",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Tokyo-Game-Show-2025_0121.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Tokyo-Game-Show-2025_0121.jpg/1280px-Tokyo-Game-Show-2025_0121.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Tokyo-Game-Show-2025_0121.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "RuinDig/Yuki Uchida",
+   "credit": "Own work",
+   "description": "日本の千葉県千葉市美浜区にある幕張メッセで開催された東京ゲームショウ2025。ホール3のASUS JAPANのRepublic Of Gamersのブース。ゲーミングノートパソコンのROG Zephyrus G14 GA403WRの展示。",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-asus-rog-zephyrus-g14-2025-ga403wr/1.jpg",
+   "local_sha256": "59ccaf65790b6992d145e1a0ebaff9df06e6bdacfca4b108016f5f56d4dc40dc",
+   "local_bytes": 268983
+  }
+ ]
+}

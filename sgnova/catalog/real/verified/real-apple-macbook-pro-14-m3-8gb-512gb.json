@@ -1,0 +1,107 @@
+{
+ "handle": "real-apple-macbook-pro-14-m3-8gb-512gb",
+ "brand": "Apple",
+ "model": "MacBook Pro (14-inch, M3, Nov 2023)",
+ "mpn": null,
+ "category_handle": "business-laptop",
+ "title": "Apple MacBook Pro 14-inch (M3, Nov 2023) 8GB / 512GB",
+ "subtitle": "14.2-inch Liquid Retina XDR | Apple M3 | HDMI and SDXC",
+ "description": "Entry 14-inch MacBook Pro from November 2023 with Apple M3 (8-core CPU, 10-core GPU), 8GB unified memory and a 512GB SSD. Adds a mini-LED XDR display, HDMI and an SD card slot over the Air.",
+ "variant_title": "M3 / 8GB / 512GB",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "Apple M3, 8-core CPU (4P + 4E), 10-core GPU"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "14.2-inch Liquid Retina XDR"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "3024 x 1964 at 254 ppi"
+  },
+  {
+   "group": "Display",
+   "label": "Brightness",
+   "value": "1000 nits sustained, 1600 nits peak (HDR)"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory",
+   "value": "8GB unified memory"
+  },
+  {
+   "group": "Storage",
+   "label": "Storage",
+   "value": "512GB SSD"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery life",
+   "value": "Up to 22 hours movie playback"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Ports",
+   "value": "Two Thunderbolt / USB 4, HDMI, SDXC"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "1.55 kg"
+  }
+ ],
+ "highlights": [
+  "Apple M3 with 8-core CPU and 10-core GPU",
+  "14.2-inch Liquid Retina XDR, 120Hz ProMotion",
+  "Up to 22 hours movie playback",
+  "HDMI, SDXC and two Thunderbolt / USB 4 ports"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/117735",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/117735",
+   "retrieved_at": "2026-11-02T16:27:51+00:00",
+   "sha256": "36bd112d995ce3ff03ffb75a292723d31577e931f3032366146b937ac533b389",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:08+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:M3 Macbook Pro 14 inch Space Grey model.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Images with extracted images",
+    "Category:Japan photographs taken on 2023-12-06",
+    "Category:MacBook Pro M3",
+    "Category:Self-published work"
+   ],
+   "width": 2688,
+   "height": 2016,
+   "mime": "image/jpeg",
+   "sha1": "09462818772ab84bca892759db6766d27eddb1fe",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/M3_Macbook_Pro_14_inch_Space_Grey_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/M3_Macbook_Pro_14_inch_Space_Grey_model.jpg/1280px-M3_Macbook_Pro_14_inch_Space_Grey_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:M3_Macbook_Pro_14_inch_Space_Grey_model.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Kyu3a",
+   "credit": "Own work",
+   "description": "M3のMacbook Pro 14インチのスペースグレーモデル。日本の家電量販店で撮影。",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-apple-macbook-pro-14-m3-8gb-512gb/1.jpg",
+   "local_sha256": "b65cd5866d84e03b09dea75dbf3c8d1823bc348780f6df6dab49dfe18a9a0050",
+   "local_bytes": 207263
+  }
+ ]
+}

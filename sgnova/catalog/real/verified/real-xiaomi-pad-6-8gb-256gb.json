@@ -1,0 +1,96 @@
+{
+ "handle": "real-xiaomi-pad-6-8gb-256gb",
+ "brand": "Xiaomi",
+ "model": "Xiaomi Pad 6",
+ "mpn": null,
+ "category_handle": "tablet",
+ "title": "Xiaomi Pad 6 (8GB+256GB)",
+ "subtitle": "11-inch 144Hz LCD | Snapdragon 870 | 8840mAh",
+ "description": "Xiaomi Pad 6 with 8GB of RAM and 256GB of storage, an 11-inch 2880 x 1800 LCD that refreshes at up to 144Hz, the Snapdragon 870 platform and an 8840mAh battery with 33W charging. Specifications were verified against Xiaomi's official global specs page.",
+ "variant_title": "8GB+256GB",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "11-inch LCD, 2880 x 1800, 309 ppi, 144Hz"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Snapdragon 870 (7nm)"
+  },
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "8GB LPDDR5 RAM, 256GB UFS 3.1"
+  },
+  {
+   "group": "Camera",
+   "label": "Rear camera",
+   "value": "13MP, f/2.2"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "8MP, f/2.2"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery",
+   "value": "8840mAh (typical), 33W wired charging"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions and weight",
+   "value": "253.95 x 165.18 x 6.51 mm, 490 g"
+  }
+ ],
+ "highlights": [
+  "11-inch 2880 x 1800 LCD, 144Hz",
+  "Snapdragon 870",
+  "8840mAh battery with 33W charging",
+  "Four speakers with Dolby Atmos"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/xiaomi-pad-6/specs/",
+   "publisher": "Xiaomi",
+   "final_url": "https://www.mi.com/global/product/xiaomi-pad-6/specs/",
+   "retrieved_at": "2026-11-02T16:38:33+00:00",
+   "sha256": "b96a11266d36ffb9ef3a2bf3de3d45193c2c4bd6d117864fdd4c51825d496622",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:27+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Xiaomi Pad 6 display.jpg",
+   "categories": [
+    "Category:CC-Zero",
+    "Category:Self-published work",
+    "Category:Taken with Xiaomi 13",
+    "Category:Xiaomi Pad 6"
+   ],
+   "width": 2940,
+   "height": 3424,
+   "mime": "image/jpeg",
+   "sha1": "f2311996d1cc32d86cabb4e2cc89141a95cbae17",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Xiaomi_Pad_6_display.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Xiaomi_Pad_6_display.jpg/1280px-Xiaomi_Pad_6_display.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Xiaomi_Pad_6_display.jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "Myrat",
+   "credit": "Own work",
+   "description": "Xiaomi Pad 6 with its keyboard",
+   "attribution_required": "false",
+   "index": 1,
+   "local_path": "/catalog-real/real-xiaomi-pad-6-8gb-256gb/1.jpg",
+   "local_sha256": "9b02adeafb81fb66a4a662f0a41f7daca2de896cf83382fdb5e584bc37110a32",
+   "local_bytes": 374053
+  }
+ ]
+}

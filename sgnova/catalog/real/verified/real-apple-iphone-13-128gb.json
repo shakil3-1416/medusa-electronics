@@ -1,0 +1,105 @@
+{
+ "handle": "real-apple-iphone-13-128gb",
+ "brand": "Apple",
+ "model": "iPhone 13",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 13 (128GB)",
+ "subtitle": "6.1-inch Super Retina XDR | A15 Bionic | Dual 12MP cameras",
+ "description": "Apple iPhone 13 with 128GB of storage, a 6.1-inch OLED display and the A15 Bionic chip, paired with a dual 12MP camera system. Specifications were verified against Apple's official tech specs page.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "128GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.1-inch Super Retina XDR OLED"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2532 x 1170 at 460 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A15 Bionic, 6-core CPU, 4-core GPU"
+  },
+  {
+   "group": "Camera",
+   "label": "Rear cameras",
+   "value": "Dual 12MP (Main f/1.6, Ultra Wide f/2.4)"
+  },
+  {
+   "group": "Battery",
+   "label": "Video playback",
+   "value": "Up to 19 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "174 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions",
+   "value": "146.7 x 71.5 x 7.65 mm"
+  }
+ ],
+ "highlights": [
+  "6.1-inch Super Retina XDR OLED",
+  "A15 Bionic chip",
+  "Dual 12MP Main and Ultra Wide cameras",
+  "Up to 19 hours video playback"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111872",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111872",
+   "retrieved_at": "2026-11-02T16:26:24+00:00",
+   "sha256": "73d2b5131f5237c922e22bb38cc1d63817cc023e12e35b1f20e548eecd011a31",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:00:58+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPhone 13 camera lens group.jpg",
+   "categories": [
+    "Category:Backs of iPhones",
+    "Category:Blue mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2021-10-01",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 13",
+    "Category:Self-published work",
+    "Category:Uploaded with Mobile/Android"
+   ],
+   "width": 4000,
+   "height": 3000,
+   "mime": "image/jpeg",
+   "sha1": "989f88f664426ace9c37df7144b057f3dc330fdf",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/IPhone_13_camera_lens_group.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/IPhone_13_camera_lens_group.jpg/1280px-IPhone_13_camera_lens_group.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_13_camera_lens_group.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "人工知能",
+   "credit": "Own work",
+   "description": "iPhone 13 camera lens group",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-apple-iphone-13-128gb/1.jpg",
+   "local_sha256": "52f678d009562f83d42342c05ee518b0c6f9a12dfb7a309741018d5856196fd4",
+   "local_bytes": 108039
+  }
+ ]
+}

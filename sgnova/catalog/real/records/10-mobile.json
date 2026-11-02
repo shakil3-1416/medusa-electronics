@@ -1,0 +1,1191 @@
+[
+ {
+  "handle": "real-apple-iphone-14-128gb",
+  "brand": "Apple",
+  "model": "iPhone 14",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 14 (128GB)",
+  "subtitle": "6.1-inch Super Retina XDR | A15 Bionic | Dual 12MP cameras",
+  "description": "Apple iPhone 14 in the 128GB configuration, built around the A15 Bionic chip with a 6.1-inch OLED screen and a dual 12MP rear camera setup. Every listed specification was checked against Apple's official tech specs page.",
+  "highlights": [
+   "6.1-inch Super Retina XDR OLED",
+   "A15 Bionic with 5-core GPU",
+   "12MP Main and Ultra Wide cameras",
+   "IP68 splash, water and dust resistance"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111850",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 14"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "128GB",
+    "evidence": "128GB",
+    "context": "Capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.1-inch Super Retina XDR OLED",
+    "evidence": "6.1-inch (diagonal) all-screen OLED display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2532 x 1170 at 460 ppi",
+    "evidence": "2532-by-1170-pixel resolution at 460 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A15 Bionic, 6-core CPU, 5-core GPU",
+    "evidence": "A15 Bionic chip 6-core CPU with 2 performance and 4 efficiency cores 5-core GPU"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "12MP, f/1.5",
+    "evidence": "12MP Main: 26 mm, ƒ/1.5 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Ultra Wide camera",
+    "value": "12MP, f/2.4",
+    "evidence": "12MP Ultra Wide: 13 mm, ƒ/2.4 aperture"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 20 hours",
+    "evidence": "Video playback: Up to 20 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "172 g",
+    "evidence": "6.07 ounces (172 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "146.7 x 71.5 x 7.80 mm",
+    "evidence": "Width: 2.82 inches (71.5 mm) Height: 5.78 inches (146.7 mm) Depth: 0.31 inch (7.80 mm)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone 14 Product Red.jpg",
+    "model_evidence": "iPhone 14"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-13-128gb",
+  "brand": "Apple",
+  "model": "iPhone 13",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 13 (128GB)",
+  "subtitle": "6.1-inch Super Retina XDR | A15 Bionic | Dual 12MP cameras",
+  "description": "Apple iPhone 13 with 128GB of storage, a 6.1-inch OLED display and the A15 Bionic chip, paired with a dual 12MP camera system. Specifications were verified against Apple's official tech specs page.",
+  "highlights": [
+   "6.1-inch Super Retina XDR OLED",
+   "A15 Bionic chip",
+   "Dual 12MP Main and Ultra Wide cameras",
+   "Up to 19 hours video playback"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111872",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 13"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "128GB",
+    "evidence": "128GB",
+    "context": "Capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.1-inch Super Retina XDR OLED",
+    "evidence": "6.1-inch (diagonal) all-screen OLED display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2532 x 1170 at 460 ppi",
+    "evidence": "2532-by-1170-pixel resolution at 460 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A15 Bionic, 6-core CPU, 4-core GPU",
+    "evidence": "A15 Bionic chip 6-core CPU with 2 performance and 4 efficiency cores 4-core GPU"
+   },
+   {
+    "group": "Camera",
+    "label": "Rear cameras",
+    "value": "Dual 12MP (Main f/1.6, Ultra Wide f/2.4)",
+    "evidence": "Dual 12MP camera system: Main and Ultra Wide cameras Main: ƒ/1.6 aperture Ultra Wide: ƒ/2.4 aperture"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 19 hours",
+    "evidence": "Video playback: Up to 19 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "174 g",
+    "evidence": "6.14 ounces (174 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "146.7 x 71.5 x 7.65 mm",
+    "evidence": "Width: 2.82 inches (71.5 mm) Height: 5.78 inches (146.7 mm) Depth: 0.30 inch (7.65 mm)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone 13 camera lens group.jpg",
+    "model_evidence": "iPhone 13"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-16-128gb",
+  "brand": "Apple",
+  "model": "iPhone 16",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 16 (128GB)",
+  "subtitle": "6.1-inch Super Retina XDR | A18 chip | 48MP Fusion camera",
+  "description": "Apple iPhone 16 in the 128GB version, running on the A18 chip with a 6.1-inch OLED display, a 48MP Fusion main camera and a 12MP Ultra Wide camera. All specifications were verified against Apple's official tech specs page.",
+  "highlights": [
+   "6.1-inch Super Retina XDR OLED",
+   "A18 chip",
+   "48MP Fusion main camera",
+   "Up to 22 hours video playback"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/121029",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 16"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "128GB",
+    "evidence": "128GB",
+    "context": "Capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.1-inch Super Retina XDR OLED",
+    "evidence": "6.1-inch (diagonal) all-screen OLED display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2556 x 1179 at 460 ppi",
+    "evidence": "2556-by-1179-pixel resolution at 460 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A18, 6-core CPU, 5-core GPU",
+    "evidence": "A18 chip 6-core CPU with 2 performance and 4 efficiency cores 5-core GPU"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "48MP Fusion, f/1.6",
+    "evidence": "48MP Fusion Main: 26 mm, ƒ/1.6 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Ultra Wide camera",
+    "value": "12MP, f/2.2",
+    "evidence": "12MP Ultra Wide: 13 mm, ƒ/2.2 aperture"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 22 hours",
+    "evidence": "Video playback: Up to 22 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "170 g",
+    "evidence": "6.00 ounces (170 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "147.6 x 71.6 x 7.80 mm",
+    "evidence": "Width: 2.82 inches (71.6 mm) Height: 5.81 inches (147.6 mm) Depth: 0.31 inch (7.80 mm)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Back view of iPhone 16 Ultramarine.jpg",
+    "model_evidence": "iPhone 16"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-16e-128gb",
+  "brand": "Apple",
+  "model": "iPhone 16e",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 16e (128GB)",
+  "subtitle": "6.1-inch Super Retina XDR | A18 chip | 48MP Fusion camera",
+  "description": "Apple iPhone 16e with 128GB of storage, the A18 chip with a 4-core GPU, a 6.1-inch OLED screen and a single 48MP Fusion rear camera. Specifications were verified against Apple's official tech specs page.",
+  "highlights": [
+   "6.1-inch Super Retina XDR OLED",
+   "A18 chip",
+   "48MP Fusion camera",
+   "Up to 26 hours video playback"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/122208",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 16e"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "128GB",
+    "evidence": "128GB",
+    "context": "Capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.1-inch Super Retina XDR OLED",
+    "evidence": "6.1-inch (diagonal) all-screen OLED display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2532 x 1170 at 460 ppi",
+    "evidence": "2532-by-1170-pixel resolution at 460 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A18, 6-core CPU, 4-core GPU",
+    "evidence": "A18 chip 6-core CPU with 2 performance and 4 efficiency cores 4-core GPU"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "48MP Fusion, f/1.6",
+    "evidence": "48MP Fusion Main: 26 mm, ƒ/1.6 aperture"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 26 hours",
+    "evidence": "Video playback: Up to 26 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "167 g",
+    "evidence": "5.88 ounces (167 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "146.7 x 71.5 x 7.80 mm",
+    "evidence": "Width: 2.82 inches (71.5 mm) Height: 5.78 inches (146.7 mm) Depth: 0.31 inch (7.80 mm)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone 16e (Black) - 2.jpg",
+    "model_evidence": "iPhone 16e"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-se-3rd-gen-64gb",
+  "brand": "Apple",
+  "model": "iPhone SE (3rd generation)",
+  "variant_title": "64GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone SE (3rd generation, 64GB)",
+  "subtitle": "4.7-inch Retina HD | A15 Bionic | Touch ID",
+  "description": "The third-generation Apple iPhone SE with 64GB of storage: a compact 4.7-inch LCD phone with a Home button and Touch ID, powered by the A15 Bionic chip with a 12MP rear camera. Specifications were verified against Apple's official tech specs page.",
+  "highlights": [
+   "Compact 4.7-inch Retina HD display",
+   "A15 Bionic chip",
+   "Touch ID Home button",
+   "12MP main camera"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111866",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone SE (3rd generation)"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "64GB",
+    "evidence": "64GB",
+    "context": "Capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "4.7-inch Retina HD LCD (IPS)",
+    "evidence": "4.7-inch (diagonal) widescreen LCD Multi-Touch display with IPS technology"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "1334 x 750 at 326 ppi",
+    "evidence": "1334-by-750-pixel resolution at 326 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A15 Bionic, 6-core CPU, 4-core GPU",
+    "evidence": "A15 Bionic chip 6-core CPU with 2 performance and 4 efficiency cores 4-core GPU"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "12MP, f/1.8",
+    "evidence": "12MP Main camera ƒ/1.8 aperture"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 15 hours",
+    "evidence": "Video playback Up to 15 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "144 g",
+    "evidence": "5.09 ounces (144 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "138.4 x 67.3 x 7.3 mm",
+    "evidence": "Width: 2.65 inches (67.3 mm) Height: 5.45 inches (138.4 mm) Depth: 0.29 inch (7.3 mm)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone SE 3rd Gen.jpg",
+    "model_evidence": "iPhone SE (3rd generation)"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-ipad-10th-gen-64gb-wifi",
+  "brand": "Apple",
+  "model": "iPad (10th generation)",
+  "variant_title": "64GB Wi-Fi",
+  "category_handle": "tablet",
+  "title": "Apple iPad (10th generation, 64GB, Wi-Fi)",
+  "subtitle": "10.9-inch Liquid Retina | A14 Bionic | USB-C",
+  "description": "Apple iPad (10th generation) in the 64GB Wi-Fi configuration, with a Liquid Retina display, the A14 Bionic chip, USB-C and a landscape 12MP front camera. Specifications were verified against Apple's official tech specs page.",
+  "highlights": [
+   "Liquid Retina display, 2360 x 1640",
+   "A14 Bionic chip",
+   "Landscape 12MP Center Stage front camera",
+   "USB-C connector"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111840",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPad (10th generation)"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "64GB",
+    "evidence": "64GB",
+    "context": "Capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "Liquid Retina, LED backlit IPS",
+    "evidence": "Liquid Retina display LED backlit Multi-Touch display with IPS technology"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2360 x 1640 at 264 ppi",
+    "evidence": "2360-by-1640-pixel resolution at 264 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A14 Bionic, 6-core CPU, 4-core graphics",
+    "evidence": "A14 Bionic chip 6-core CPU 4-core graphics 16-core Neural Engine"
+   },
+   {
+    "group": "Camera",
+    "label": "Rear camera",
+    "value": "12MP Wide, f/1.8",
+    "evidence": "12MP Wide camera, ƒ/1.8 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "12MP Center Stage, f/2.4",
+    "evidence": "Landscape 12MP Center Stage camera ƒ/2.4 aperture"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery",
+    "value": "28.6 Wh, up to 10 hours web or video on Wi-Fi",
+    "evidence": "Built-in 28.6-watt-hour rechargeable lithium-polymer battery Up to 10 hours of surfing the web on Wi-Fi or watching video"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions and weight (Wi-Fi)",
+    "value": "248.6 x 179.5 x 7 mm, 477 g",
+    "evidence": "Wi-Fi models Height: 9.79 inches (248.6 mm) Width: 7.07 inches (179.5 mm) Depth: 0.28 inch (7 mm) Weight: 1.05 pounds (477 grams)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPad 10th Generation 2024.jpg",
+    "model_evidence": "iPad (10th generation)"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-watch-series-9-45mm-gps",
+  "brand": "Apple",
+  "model": "Apple Watch Series 9",
+  "variant_title": "45mm Aluminium GPS",
+  "category_handle": "smartwatch",
+  "title": "Apple Watch Series 9 (45mm, Aluminium, GPS)",
+  "subtitle": "Always-On Retina | S9 SiP | 64GB",
+  "description": "Apple Watch Series 9 with a 45mm aluminium case in the GPS version. It uses the S9 SiP, an Always-On Retina display rated up to 2000 nits and 64GB of storage. Specifications were verified against Apple's official tech specs page.",
+  "highlights": [
+   "Always-On Retina LTPO OLED display",
+   "S9 SiP with 4-core Neural Engine",
+   "Up to 18 hours of normal use",
+   "Double tap gesture"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111833",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "Apple Watch Series 9"
+  ],
+  "specs": [
+   {
+    "group": "Build",
+    "label": "Case size (45mm)",
+    "value": "45 x 38 x 10.7 mm",
+    "evidence": "Height: 45mm Width: 38mm Depth: 10.7mm"
+   },
+   {
+    "group": "Build",
+    "label": "Weight (aluminium, GPS, 45mm)",
+    "value": "38.7 g",
+    "evidence": "Depth: 10.7mm Weight (aluminum, GPS): 38.7 grams"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "S9 SiP, 64-bit dual-core, 4-core Neural Engine",
+    "evidence": "S9 SiP with 64-bit dual-core processor 4-core Neural Engine"
+   },
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "64GB",
+    "evidence": "64GB capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "Always-On Retina LTPO OLED",
+    "evidence": "Always-On Retina LTPO OLED display"
+   },
+   {
+    "group": "Display",
+    "label": "Brightness",
+    "value": "Up to 2000 nits",
+    "evidence": "Up to 2000 nits maximum brightness"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery life",
+    "value": "Up to 18 hours (36 hours in Low Power Mode)",
+    "evidence": "All-day battery life, up to 18 hours of normal use 5 Up to 36 hours in Low Power Mode"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Apple Watch Series 9 1 2023-11-14.jpg",
+    "model_evidence": "Apple Watch Series 9"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-watch-ultra-2-49mm",
+  "brand": "Apple",
+  "model": "Apple Watch Ultra 2",
+  "variant_title": "49mm Titanium",
+  "category_handle": "smartwatch",
+  "title": "Apple Watch Ultra 2 (49mm, Titanium)",
+  "subtitle": "Always-On Retina up to 3000 nits | S9 SiP | 64GB",
+  "description": "Apple Watch Ultra 2 with a 49mm grade 5 titanium case, a flat sapphire Always-On display rated up to 3000 nits, the S9 SiP and multiday battery life. Specifications were verified against Apple's official tech specs page.",
+  "highlights": [
+   "49mm titanium case",
+   "Up to 3000 nits Always-On display",
+   "Up to 36 hours of normal use",
+   "Depth gauge and water temperature sensor"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111832",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "Apple Watch Ultra 2"
+  ],
+  "specs": [
+   {
+    "group": "Build",
+    "label": "Case size",
+    "value": "49 x 44 x 12 mm",
+    "evidence": "Height: 49mm Width: 44mm Depth: 12mm"
+   },
+   {
+    "group": "Build",
+    "label": "Weight (natural)",
+    "value": "61.4 g",
+    "evidence": "Weight (natural): 61.4 grams"
+   },
+   {
+    "group": "Display",
+    "label": "Display resolution",
+    "value": "410 x 502 pixels",
+    "evidence": "410 by 502 pixels 1185 sq mm display area"
+   },
+   {
+    "group": "Display",
+    "label": "Brightness",
+    "value": "Up to 3000 nits",
+    "evidence": "Up to 3000 nits maximum brightness"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "S9 SiP, 64-bit dual-core, 4-core Neural Engine",
+    "evidence": "S9 SiP with 64-bit dual-core processor 4-core Neural Engine"
+   },
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "64GB",
+    "evidence": "64GB capacity"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery life",
+    "value": "Up to 36 hours (72 hours in Low Power Mode)",
+    "evidence": "Multiday battery life, up to 36 hours of normal use 7 Up to 72 hours in Low Power Mode"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Apple Watch Ultra 2.jpg",
+    "model_evidence": "Apple Watch Ultra 2"
+   }
+  ]
+ },
+ {
+  "handle": "real-google-pixel-8-128gb",
+  "brand": "Google",
+  "model": "Pixel 8",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Google Pixel 8 (128GB)",
+  "subtitle": "6.2-inch Actua OLED | Google Tensor G3 | 50MP camera",
+  "description": "Google Pixel 8 with 128GB of storage and 8GB of RAM, powered by the Google Tensor G3 chip with a 6.2-inch OLED display and a 50MP wide plus 12MP ultrawide rear camera pair. Specifications were verified against Google's official Pixel hardware tech specs page.",
+  "highlights": [
+   "6.2-inch Actua OLED display",
+   "Google Tensor G3 chip",
+   "50MP wide and 12MP ultrawide cameras",
+   "4575 mAh typical battery"
+  ],
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 8 tech specs",
+   "scope_end": "tech specs"
+  },
+  "model_match": [
+   "Pixel 8"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.2-inch Actua OLED, 1080 x 2400 at 428 ppi",
+    "evidence": "full-screen 6.2-inch (157 mm) 1 display 20:9 aspect ratio actua display (1080 x 2400) oled at 428 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Google Tensor G3",
+    "evidence": "processor google tensor g3 titan m2"
+   },
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "8GB LPDDR5X RAM, 128GB UFS 3.1",
+    "evidence": "memory 8 gb lpddr5x ram storage [us and rest of the world] 128 gb / 256 gb ufs 3.1 storage"
+   },
+   {
+    "group": "Camera",
+    "label": "Wide camera",
+    "value": "50MP, f/1.68",
+    "evidence": "50 mp octa pd wide camera 1.2 μm pixel width ƒ/1.68 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Ultrawide camera",
+    "value": "12MP with autofocus",
+    "evidence": "12 mp ultrawide camera with autofocus"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "10.5MP",
+    "evidence": "front camera 10.5 mp dual pd selfie camera"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery capacity",
+    "value": "4575 mAh typical (4485 mAh minimum)",
+    "evidence": "minimum: 4485 mah typical: 4575 mah"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "150.5 x 70.8 x 8.9 mm",
+    "evidence": "150.5 height x 70.8 width x 8.9 depth (mm)"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "187 g",
+    "evidence": "weight 187 g 6.6 oz"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Google Pixel 8 Rose rear.jpg",
+    "model_evidence": "Pixel 8"
+   }
+  ]
+ },
+ {
+  "handle": "real-google-pixel-7a-128gb",
+  "brand": "Google",
+  "model": "Pixel 7a",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Google Pixel 7a (128GB)",
+  "subtitle": "6.1-inch OLED 90Hz | Google Tensor G2 | 64MP camera",
+  "description": "Google Pixel 7a with 128GB of storage and 8GB of RAM, using the Google Tensor G2 chip, a 6.1-inch 90Hz OLED screen and a 64MP main camera with a 13MP ultrawide. Specifications were verified against Google's official Pixel hardware tech specs page.",
+  "highlights": [
+   "6.1-inch FHD+ OLED, up to 90Hz",
+   "Google Tensor G2 chip",
+   "64MP wide and 13MP ultrawide cameras",
+   "Qi-certified wireless charging"
+  ],
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 7a tech specs",
+   "scope_end": "tech specs"
+  },
+  "model_match": [
+   "Pixel 7a"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.1-inch FHD+ OLED, 1080 x 2400 at 429 ppi, up to 90Hz",
+    "evidence": "display 6.1-inch (155 mm) display1, up to 90hz 20:9 aspect ratio fhd+ (1080 x 2400) oled at 429 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Google Tensor G2",
+    "evidence": "processors google tensor g2 titan m2"
+   },
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "8GB LPDDR5 RAM, 128GB UFS 3.1",
+    "evidence": "memory 8 gb lpddr5 ram storage 128 gb ufs 3.1 storage"
+   },
+   {
+    "group": "Camera",
+    "label": "Wide camera",
+    "value": "64MP, f/1.89",
+    "evidence": "64 mp quad pd quad bayer wide camera 0.8 μm pixel width ƒ/1.89 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Ultrawide camera",
+    "value": "13MP, f/2.2, 120°",
+    "evidence": "13 mp ultrawide camera 11 1.12 μm pixel width ƒ/2.2 aperture 120° field of view"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery capacity",
+    "value": "4385 mAh typical (4300 mAh minimum)",
+    "evidence": "minimum 4300 mah typical 4385 mah"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "152 x 72.9 x 9.0 mm",
+    "evidence": "152 height x 72.9 width x 9.0 depth (mm)"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "193.5 g",
+    "evidence": "weight 193.5 g 6.8 oz"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Google Pixel 7A.jpg",
+    "model_evidence": "Pixel 7a"
+   }
+  ]
+ },
+ {
+  "handle": "real-google-pixel-tablet-128gb",
+  "brand": "Google",
+  "model": "Pixel Tablet",
+  "variant_title": "128GB",
+  "category_handle": "tablet",
+  "title": "Google Pixel Tablet (128GB)",
+  "subtitle": "10.95-inch LCD | Google Tensor G2 | 8GB RAM",
+  "description": "Google Pixel Tablet with 128GB of storage, a 10.95-inch 2560 x 1600 LCD, the Google Tensor G2 chip with 8GB of RAM and a 27 Wh battery. Specifications were verified against Google's official Pixel Tablet technical specifications page.",
+  "highlights": [
+   "10.95-inch 2560 x 1600 LCD",
+   "Google Tensor G2 with Titan M2",
+   "Up to 12 hours of video streaming",
+   "USI 2.0 stylus support"
+  ],
+  "spec_source": {
+   "url": "https://support.google.com/googlepixeltablet/answer/13555146?hl=en",
+   "publisher": "Google LLC"
+  },
+  "model_match": [
+   "Pixel Tablet"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "10.95-inch LCD, 2560 x 1600, 276 ppi",
+    "evidence": "10.95-inch display 1 lcd 2560x1600 resolution 276 pixels per inch density"
+   },
+   {
+    "group": "Display",
+    "label": "Brightness",
+    "value": "500 nits (typical)",
+    "evidence": "500 nits brightness (typical)"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Google Tensor G2 with Titan M2",
+    "evidence": "processors google tensor g2 titan m2 security coprocessor"
+   },
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "8GB LPDDR5 RAM, 128GB UFS 3.1",
+    "evidence": "8 gb lpddr5 ram 128 & 256 gb ufs 3.1 storage"
+   },
+   {
+    "group": "Camera",
+    "label": "Rear camera",
+    "value": "8MP, f/2.0",
+    "evidence": "rear camera 8 megapixels (mp) 1.12 μm pixel width ƒ/2.0 aperture"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery",
+    "value": "27 Wh, up to 12 hours video streaming",
+    "evidence": "up to 12 hours of video streaming 3 built-in 27-watt-hour battery"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "258 x 169 x 8.1 mm",
+    "evidence": "258 width x 169 height x 8.1 depth (mm)"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "493 g",
+    "evidence": "pixel tablet : 17.39 oz (493 g)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Google Pixel Tablet, shown in Shibuya Stream.jpg",
+    "model_evidence": "Pixel Tablet"
+   }
+  ]
+ },
+ {
+  "handle": "real-google-pixel-watch-2-41mm",
+  "brand": "Google",
+  "model": "Pixel Watch 2",
+  "variant_title": "41mm",
+  "category_handle": "smartwatch",
+  "title": "Google Pixel Watch 2 (41mm)",
+  "subtitle": "AMOLED up to 1000 nits | Snapdragon W5 Gen 1 | Wear OS",
+  "description": "Google Pixel Watch 2 with a 41mm recycled aluminium case, a 320 ppi AMOLED display, the Qualcomm Snapdragon W5 Gen 1 chip and up to 24 hours of battery life with always-on display. Specifications were verified against Google's official Pixel Watch technical specifications page.",
+  "highlights": [
+   "41mm recycled aluminium case",
+   "Snapdragon W5 Gen 1",
+   "Up to 24 hours with always-on display",
+   "5 ATM and IP68"
+  ],
+  "spec_source": {
+   "url": "https://support.google.com/googlepixelwatch/answer/12651869?hl=en",
+   "publisher": "Google LLC"
+  },
+  "model_match": [
+   "Pixel Watch 2"
+  ],
+  "specs": [
+   {
+    "group": "Build",
+    "label": "Size and weight",
+    "value": "41 mm diameter, 12.3 mm thick, 31 g without band",
+    "evidence": "diameter: 41 mm height: 12.3 mm weight: 31 g (without band)"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "320 ppi AMOLED, up to 1000 nits",
+    "evidence": "320 ppi amoled display with dci-p3 color brightness boost up to 1000 nits"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "Qualcomm Snapdragon W5 Gen 1",
+    "evidence": "chip qualcomm snapdragon ® w5 gen 1 cortex m33 co-processor"
+   },
+   {
+    "group": "Memory",
+    "label": "Storage and RAM",
+    "value": "32GB eMMC, 2GB SDRAM",
+    "evidence": "32 gb emmc flash 9 2 gb sdram sensors compass altimeter red and infrared"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery",
+    "value": "306 mAh, up to 24 hours with always-on display",
+    "evidence": "306 mah (typical) built-in rechargeable lithium-ion battery up to 24 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "5 ATM, IP68",
+    "evidence": "durability and water resistance custom 3d corning ® gorilla ® glass 5 5 atm 15 ip68"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Google Pixel Watch 2, shown in Shibuya Stream.jpg",
+    "model_evidence": "Pixel Watch 2"
+   }
+  ]
+ },
+ {
+  "handle": "real-fairphone-5-256gb",
+  "brand": "Fairphone",
+  "model": "Fairphone 5",
+  "variant_title": "8GB/256GB",
+  "category_handle": "smartphone",
+  "title": "Fairphone 5 (8GB/256GB)",
+  "subtitle": "6.46-inch OLED | Qualcomm QCM6490 | Modular and repairable",
+  "description": "Fairphone 5 in the 8GB RAM and 256GB storage version: a modular, user-repairable phone with a 6.46-inch OLED display, three 50MP cameras and the long-life Qualcomm QCM6490 chipset. Specifications were verified against Fairphone's official support FAQ for this model.",
+  "highlights": [
+   "6.46-inch OLED display",
+   "Three 50MP cameras",
+   "Qualcomm QCM6490 long-life chipset",
+   "8 years of security updates"
+  ],
+  "spec_source": {
+   "url": "https://support.fairphone.com/hc/en-us/articles/18020671537041-Fairphone-5-FAQ",
+   "publisher": "Fairphone B.V."
+  },
+  "model_match": [
+   "Fairphone 5"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.46-inch OLED",
+    "evidence": "6.46\" oled display"
+   },
+   {
+    "group": "Performance",
+    "label": "Chipset",
+    "value": "Qualcomm QCM6490",
+    "evidence": "qualcomm qcm6490 long-life chipset"
+   },
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "8GB RAM, 256GB storage",
+    "evidence": "what is the difference between the 6gb/128gb & 8gb/256gb variants?"
+   },
+   {
+    "group": "Camera",
+    "label": "Cameras",
+    "value": "Three 50MP ultra-wide cameras",
+    "evidence": "3 high quality 50 megapixel, ultra-wide cameras"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "161.60 x 75.83 x 9.6 mm",
+    "evidence": "length: 161.60 mm width: 75.83 mm thickness: 9.6 mm"
+   },
+   {
+    "group": "Build",
+    "label": "Ingress protection",
+    "value": "IP55",
+    "evidence": "an ip rating of 55"
+   },
+   {
+    "group": "Software",
+    "label": "Security updates",
+    "value": "8 years",
+    "evidence": "8 years of security updates"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Fairphone 5 front.jpg",
+    "model_evidence": "Fairphone 5"
+   }
+  ]
+ },
+ {
+  "handle": "real-xiaomi-14-12gb-256gb",
+  "brand": "Xiaomi",
+  "model": "Xiaomi 14",
+  "variant_title": "12GB+256GB",
+  "category_handle": "smartphone",
+  "title": "Xiaomi 14 (12GB+256GB)",
+  "subtitle": "6.36-inch AMOLED | Snapdragon 8 Gen 3 | Leica 50MP camera",
+  "description": "Xiaomi 14 with 12GB of RAM and 256GB of storage, a compact 6.36-inch 1.5K AMOLED display, the Snapdragon 8 Gen 3 platform and a Leica-branded 50MP main camera, with 90W wired charging. Specifications were verified against Xiaomi's official global specs page.",
+  "highlights": [
+   "6.36-inch 1.5K AMOLED, 1-120Hz",
+   "Snapdragon 8 Gen 3",
+   "50MP Light Fusion 900 main camera",
+   "90W wired and 50W wireless charging"
+  ],
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/xiaomi-14/specs/",
+   "publisher": "Xiaomi"
+  },
+  "model_match": [
+   "Xiaomi 14"
+  ],
+  "specs": [
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Snapdragon 8 Gen 3 (4nm)",
+    "evidence": "snapdragon® 8 gen 3 mobile platform 4nm"
+   },
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "12GB LPDDR5X RAM, 256GB UFS 4.0",
+    "evidence": "12gb + 256gb | 12gb + 512gb lpddr5x 8533mbps ram + ufs 4.0 storage"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.36-inch 1.5K AMOLED, 2670 x 1200, 460 ppi",
+    "evidence": "1.5k 6.36\" amoled 2670 x 1200, 460 ppi"
+   },
+   {
+    "group": "Display",
+    "label": "Refresh rate",
+    "value": "Dynamic 1-120Hz",
+    "evidence": "refresh rate: dynamic 1-120hz"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "50MP Light Fusion 900, f/1.6",
+    "evidence": "light fusion 900 image sensor 50mp 2.4μm 4-in-1 super pixel 23mm equivalent focal length f/1.6"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery",
+    "value": "4610mAh (typical)",
+    "evidence": "4610mah (typ) battery"
+   },
+   {
+    "group": "Battery",
+    "label": "Charging",
+    "value": "90W wired, 50W wireless",
+    "evidence": "90w hypercharge* 31mins to 100% (boost mode) 50w wireless hypercharge*"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "152.8 x 71.5 x 8.20 mm",
+    "evidence": "height: 152.8mm width: 71.5mm thickness: 8.20mm"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "193 g",
+    "evidence": "thickness: 8.20mm weight: 193g"
+   },
+   {
+    "group": "Build",
+    "label": "Water and dust resistance",
+    "value": "IP68",
+    "evidence": "splash, water and dust resistant ip68"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Xiaomi 14 rear (July 10, 2026).jpg",
+    "model_evidence": "Xiaomi 14"
+   }
+  ]
+ },
+ {
+  "handle": "real-xiaomi-pad-6-8gb-256gb",
+  "brand": "Xiaomi",
+  "model": "Xiaomi Pad 6",
+  "variant_title": "8GB+256GB",
+  "category_handle": "tablet",
+  "title": "Xiaomi Pad 6 (8GB+256GB)",
+  "subtitle": "11-inch 144Hz LCD | Snapdragon 870 | 8840mAh",
+  "description": "Xiaomi Pad 6 with 8GB of RAM and 256GB of storage, an 11-inch 2880 x 1800 LCD that refreshes at up to 144Hz, the Snapdragon 870 platform and an 8840mAh battery with 33W charging. Specifications were verified against Xiaomi's official global specs page.",
+  "highlights": [
+   "11-inch 2880 x 1800 LCD, 144Hz",
+   "Snapdragon 870",
+   "8840mAh battery with 33W charging",
+   "Four speakers with Dolby Atmos"
+  ],
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/xiaomi-pad-6/specs/",
+   "publisher": "Xiaomi"
+  },
+  "model_match": [
+   "Xiaomi Pad 6"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "11-inch LCD, 2880 x 1800, 309 ppi, 144Hz",
+    "evidence": "size: 11\" display screen type: lcd resolution: 2880*1800 pixel density: 309 ppi refresh rate: 144hz"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Snapdragon 870 (7nm)",
+    "evidence": "snapdragon® 870 mobile platform 7nm manufacturing process"
+   },
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "8GB LPDDR5 RAM, 256GB UFS 3.1",
+    "evidence": "6gb+128gb, 8gb+128gb, 8gb+256gb lpddr5 ram + ufs 3.1 storage"
+   },
+   {
+    "group": "Camera",
+    "label": "Rear camera",
+    "value": "13MP, f/2.2",
+    "evidence": "rear camera: 13mp f/2.2 pdaf"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "8MP, f/2.2",
+    "evidence": "front camera: 8 mp 1.12um f/2.2"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery",
+    "value": "8840mAh (typical), 33W wired charging",
+    "evidence": "8840mah (typ) / 8640mah(min) 33w wired charging"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions and weight",
+    "value": "253.95 x 165.18 x 6.51 mm, 490 g",
+    "evidence": "height: 253.95mm width: 165.18mm thickness: 6.51mm weight: 490g"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Xiaomi Pad 6 display.jpg",
+    "model_evidence": "Xiaomi Pad 6"
+   }
+  ]
+ }
+]

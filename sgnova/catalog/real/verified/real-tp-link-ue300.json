@@ -1,0 +1,100 @@
+{
+ "handle": "real-tp-link-ue300",
+ "brand": "TP-Link",
+ "model": "UE300",
+ "mpn": null,
+ "category_handle": "computer-accessory",
+ "title": "TP-Link UE300 USB 3.0 to Gigabit Ethernet Adapter",
+ "subtitle": "USB 3.0 | Gigabit RJ45 | Foldable cable",
+ "description": "Pocket-sized adapter that adds a wired Gigabit Ethernet port to laptops and desktops through USB 3.0, with a fold-away cable for travel. Specifications verified against TP-Link's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Host interface",
+   "value": "USB 3.0"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Network port",
+   "value": "1 x 10/100/1000 Mbps RJ45"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Backward compatibility",
+   "value": "USB 2.0/1.1"
+  },
+  {
+   "group": "Hardware",
+   "label": "Chipset",
+   "value": "RTL8153"
+  },
+  {
+   "group": "Compatibility",
+   "label": "Supported systems",
+   "value": "Windows 11/10/8.1/8/7/Vista/XP, Mac OS 10.6-10.14, Chrome OS, Linux"
+  },
+  {
+   "group": "Compatibility",
+   "label": "Driver-free",
+   "value": "Windows 10/8.1/8, macOS 10.9 and later"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "71 x 26 x 16.2 mm"
+  }
+ ],
+ "highlights": [
+  "Gigabit RJ45 port",
+  "USB 3.0, works on USB 2.0/1.1",
+  "RTL8153 chipset",
+  "Driver-free on recent Windows and macOS"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.tp-link.com/us/home-networking/usb-converter/ue300/",
+   "publisher": "TP-Link",
+   "final_url": "https://www.tp-link.com/us/home-networking/usb-converter/ue300/",
+   "retrieved_at": "2026-11-02T16:36:45+00:00",
+   "sha256": "2614fcfadf87f67d0fa02fab79dfd401599160d9f7796dadf9b4b10156bb8c7b",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:39+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:TP-Link UE300 ethernet USB adapter HS1.jpg",
+   "categories": [
+    "Category:CC-BY-4.0",
+    "Category:Computer hardware with white background",
+    "Category:Photographs by Hayden Schiff",
+    "Category:Self-published work",
+    "Category:TP-Link products",
+    "Category:Taken with Nikon D7100",
+    "Category:USB Ethernet adapters",
+    "Category:Uploaded with OpenRefine"
+   ],
+   "width": 6000,
+   "height": 4000,
+   "mime": "image/jpeg",
+   "sha1": "c9fbd30e35bc35783eaeb7cdb20402ea8bb13d15",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/TP-Link_UE300_ethernet_USB_adapter_HS1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/TP-Link_UE300_ethernet_USB_adapter_HS1.jpg/1280px-TP-Link_UE300_ethernet_USB_adapter_HS1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:TP-Link_UE300_ethernet_USB_adapter_HS1.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Hayden Schiff",
+   "credit": "Own work",
+   "description": "Close-up photo of TP-Link UE300 ethernet USB adapter",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-tp-link-ue300/1.jpg",
+   "local_sha256": "7279db5792b0a27a3562a7a0c4f6572b16eaf3e42039c7c6810fc64addb774e3",
+   "local_bytes": 29678
+  }
+ ]
+}

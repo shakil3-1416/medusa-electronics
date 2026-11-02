@@ -1,0 +1,105 @@
+{
+ "handle": "real-asus-rog-strix-scar-17-2023-g733py",
+ "brand": "ASUS",
+ "model": "ROG Strix Scar 17 (2023) G733PY",
+ "mpn": null,
+ "category_handle": "gaming-laptop",
+ "title": "ASUS ROG Strix Scar 17 (2023) G733PY, RTX 4090",
+ "subtitle": "17.3-inch WQHD 240Hz | Ryzen 9 7945HX | RTX 4090",
+ "description": "High-end 17.3-inch gaming laptop in the G733PY configuration: AMD Ryzen 9 7945HX, NVIDIA GeForce RTX 4090 laptop GPU at up to 175W, two 32GB DDR5-4800 modules and a 2TB SSD with a 240Hz WQHD panel.",
+ "variant_title": "G733PY / RTX 4090 / 32GB x 2 / 2TB",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "AMD Ryzen 9 7945HX, 16 cores / 32 threads, up to 5.4GHz"
+  },
+  {
+   "group": "Performance",
+   "label": "Graphics",
+   "value": "NVIDIA GeForce RTX 4090 Laptop GPU, 16GB GDDR6, 175W"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "17.3-inch WQHD (2560 x 1440) IPS-level, 16:9"
+  },
+  {
+   "group": "Display",
+   "label": "Refresh rate",
+   "value": "240Hz, 3ms"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory",
+   "value": "32GB DDR5-4800 SO-DIMM x 2 (max 64GB)"
+  },
+  {
+   "group": "Storage",
+   "label": "Storage",
+   "value": "2TB PCIe 4.0 NVMe M.2 SSD"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery",
+   "value": "90Wh, 4-cell Li-ion"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "3.00 kg"
+  }
+ ],
+ "highlights": [
+  "AMD Ryzen 9 7945HX, 16 cores / 32 threads",
+  "NVIDIA GeForce RTX 4090 Laptop GPU, 16GB GDDR6",
+  "17.3-inch WQHD 240Hz display",
+  "2.5G LAN, Wi-Fi 6E, 90Wh battery"
+ ],
+ "review_notes": [
+  "Spec page is a multi-SKU comparison table; confirm values belong to the G733PY column. Photo is a CC BY video still."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://rog.asus.com/laptops/rog-strix/rog-strix-scar-17-2023-series/spec/",
+   "publisher": "ASUSTeK Computer Inc.",
+   "final_url": "https://rog.asus.com/laptops/rog-strix/rog-strix-scar-17-2023-series/spec/",
+   "retrieved_at": "2026-11-02T16:41:19+00:00",
+   "sha256": "d4913e71e100c24cbaed090093981fcf065e4eadf0af0957c0b800436e29cc15",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:23+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Der ASUS ROG Strix Scar-Laptop im Hands-on (极客湾Geekerwan) 06.png",
+   "categories": [
+    "Category:ASUS ROG Strix Scar 17",
+    "Category:CC-BY-3.0",
+    "Category:Files from external sources with reviewed licenses",
+    "Category:Files uploaded by PantheraLeo1359531",
+    "Category:Media from YouTube",
+    "Category:Pictures by 极客湾Geekerwan"
+   ],
+   "width": 3840,
+   "height": 2160,
+   "mime": "image/png",
+   "sha1": "510f578e9b313955d09e1b4ba814c689648ae6db",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Der_ASUS_ROG_Strix_Scar-Laptop_im_Hands-on_%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_06.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Der_ASUS_ROG_Strix_Scar-Laptop_im_Hands-on_%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_06.png/1280px-Der_ASUS_ROG_Strix_Scar-Laptop_im_Hands-on_%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_06.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Der_ASUS_ROG_Strix_Scar-Laptop_im_Hands-on_(%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan)_06.png",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "artist": "极客湾Geekerwan",
+   "credit": "YouTube: 锐龙7945HX评测：16大核移动处理器有多强？ – View/save archived versions on archive.org\nhttps://web.archive.org/web/20240622093304/https://www.youtube.com/watch?v=niYkqOzuJTE",
+   "description": "The ASUS ROG Strix Scar laptop with AMD Ryzen 9 7945HX, GeForce RTX 4090 and DDR5-4800 SODIMM RAM.",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-asus-rog-strix-scar-17-2023-g733py/1.png",
+   "local_sha256": "ad45a4ee3765d943b9f23684c603885335c89779733a8f04fbcef7a874b990a3",
+   "local_bytes": 291160
+  }
+ ]
+}

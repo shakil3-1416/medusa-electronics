@@ -1,0 +1,102 @@
+{
+ "handle": "real-mikrotik-hap-lite-rb941-2nd",
+ "brand": "MikroTik",
+ "model": "hAP lite",
+ "mpn": "RB941-2nD",
+ "category_handle": "router",
+ "title": "MikroTik hAP lite (RB941-2nD) Wireless Router",
+ "subtitle": "2.4 GHz 802.11n | 4 Fast Ethernet ports | microUSB powered",
+ "description": "Small, low-power 2.4 GHz access point and router for apartments and home offices, with four Fast Ethernet ports and RouterOS level 4. It runs from a 5 V microUSB supply. Specifications verified against MikroTik's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "CPU",
+   "value": "QCA9533, 650 MHz"
+  },
+  {
+   "group": "Performance",
+   "label": "RAM",
+   "value": "32 MB"
+  },
+  {
+   "group": "Performance",
+   "label": "Storage",
+   "value": "16 MB flash"
+  },
+  {
+   "group": "Wireless",
+   "label": "Wi-Fi standards",
+   "value": "802.11b/g/n (2.4 GHz)"
+  },
+  {
+   "group": "Wireless",
+   "label": "Max data rate",
+   "value": "300 Mbit/s"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "4 x 10/100"
+  },
+  {
+   "group": "Power",
+   "label": "Power input",
+   "value": "microUSB, 5 V"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "3.5 W"
+  }
+ ],
+ "highlights": [
+  "2.4 GHz 802.11b/g/n, up to 300 Mbit/s",
+  "Four 10/100 Ethernet ports",
+  "650 MHz CPU, 32 MB RAM",
+  "Powered over microUSB"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://mikrotik.com/product/RB941-2nD",
+   "publisher": "MikroTik",
+   "final_url": "https://mikrotik.com/product/RB941-2nD",
+   "retrieved_at": "2026-11-02T16:32:43+00:00",
+   "sha256": "ec3403e0689f70a73046cca1a52b10c511cb4556347dbfdcb33e9b7c180b4cec",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:30+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:MikroTIK hAP Lite.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:MikroTik",
+    "Category:Network routers",
+    "Category:Self-published work",
+    "Category:Taken with Prestigio MultiPhone 5044 DUO"
+   ],
+   "width": 3056,
+   "height": 1719,
+   "mime": "image/jpeg",
+   "sha1": "ea114119c8455c25e06aac149800a6aaac218e9d",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/MikroTIK_hAP_Lite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/MikroTIK_hAP_Lite.jpg/1280px-MikroTIK_hAP_Lite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:MikroTIK_hAP_Lite.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Stacatto",
+   "credit": "Own work",
+   "description": "MikroTik hAP lite - front panel",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-mikrotik-hap-lite-rb941-2nd/1.jpg",
+   "local_sha256": "347efebcf24645186086b812f2957b852b5f7c5d000dd1ec0952b9f69ea75d26",
+   "local_bytes": 173976
+  }
+ ]
+}

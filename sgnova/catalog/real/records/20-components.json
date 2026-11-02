@@ -1,0 +1,1162 @@
+[
+ {
+  "handle": "real-amd-ryzen-7-5800x",
+  "brand": "AMD",
+  "model": "Ryzen 7 5800X",
+  "mpn": "100-100000063WOF",
+  "variant_title": "Default",
+  "category_handle": "processor",
+  "title": "AMD Ryzen 7 5800X Desktop Processor",
+  "subtitle": "8 cores / 16 threads | up to 4.7 GHz | AM4",
+  "description": "Eight-core Zen 3 desktop CPU for the AM4 socket with 32 MB of L3 cache and boost clocks up to 4.7 GHz. Ships without a cooler. Specifications checked against AMD's official product page.",
+  "highlights": [
+   "8 cores, 16 threads",
+   "Up to 4.7 GHz boost",
+   "32 MB L3 cache",
+   "AM4 socket, PCIe 4.0"
+  ],
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-7-5800x.html",
+   "publisher": "Advanced Micro Devices, Inc."
+  },
+  "model_match": [
+   "AMD Ryzen™ 7 5800X"
+  ],
+  "specs": [
+   {
+    "group": "Processor",
+    "label": "Cores",
+    "value": "8",
+    "evidence": "# of cpu cores 8"
+   },
+   {
+    "group": "Processor",
+    "label": "Threads",
+    "value": "16",
+    "evidence": "# of threads 16"
+   },
+   {
+    "group": "Clock",
+    "label": "Max boost clock",
+    "value": "Up to 4.7 GHz",
+    "evidence": "up to 4.7 ghz"
+   },
+   {
+    "group": "Clock",
+    "label": "Base clock",
+    "value": "3.8 GHz",
+    "evidence": "3.8 ghz",
+    "context": "base clock"
+   },
+   {
+    "group": "Cache",
+    "label": "L3 cache",
+    "value": "32 MB",
+    "evidence": "l3 cache 32 mb"
+   },
+   {
+    "group": "Power",
+    "label": "Default TDP",
+    "value": "105W",
+    "evidence": "default tdp 105w"
+   },
+   {
+    "group": "Platform",
+    "label": "Socket",
+    "value": "AM4",
+    "evidence": "cpu socket am4"
+   },
+   {
+    "group": "Platform",
+    "label": "PCI Express",
+    "value": "PCIe 4.0",
+    "evidence": "pci express® version pcie® 4.0"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory support",
+    "value": "DDR4 up to 3200 MT/s",
+    "evidence": "system memory type ddr4 system memory specification up to 3200 mt/s"
+   },
+   {
+    "group": "Build",
+    "label": "Process",
+    "value": "TSMC 7nm FinFET",
+    "evidence": "tsmc 7nm finfet"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:AMD Ryzen 7 5800X 19339.jpg",
+    "model_evidence": "Ryzen 7 5800X"
+   }
+  ]
+ },
+ {
+  "handle": "real-amd-ryzen-5-5600x",
+  "brand": "AMD",
+  "model": "Ryzen 5 5600X",
+  "mpn": "100-100000065BOX",
+  "variant_title": "Default",
+  "category_handle": "processor",
+  "title": "AMD Ryzen 5 5600X Desktop Processor",
+  "subtitle": "6 cores / 12 threads | up to 4.6 GHz | Wraith Stealth cooler",
+  "description": "Six-core Zen 3 processor for AM4 boards, a popular mid-range gaming choice. The boxed version includes AMD's Wraith Stealth cooler. Specifications checked against AMD's official product page.",
+  "highlights": [
+   "6 cores, 12 threads",
+   "Up to 4.6 GHz boost",
+   "65W TDP",
+   "Wraith Stealth cooler included"
+  ],
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-5-5600x.html",
+   "publisher": "Advanced Micro Devices, Inc."
+  },
+  "model_match": [
+   "AMD Ryzen™ 5 5600X"
+  ],
+  "specs": [
+   {
+    "group": "Processor",
+    "label": "Cores",
+    "value": "6",
+    "evidence": "# of cpu cores 6"
+   },
+   {
+    "group": "Processor",
+    "label": "Threads",
+    "value": "12",
+    "evidence": "# of threads 12"
+   },
+   {
+    "group": "Clock",
+    "label": "Max boost clock",
+    "value": "Up to 4.6 GHz",
+    "evidence": "up to 4.6 ghz"
+   },
+   {
+    "group": "Clock",
+    "label": "Base clock",
+    "value": "3.7 GHz",
+    "evidence": "3.7 ghz",
+    "context": "base clock"
+   },
+   {
+    "group": "Cache",
+    "label": "L3 cache",
+    "value": "32 MB",
+    "evidence": "l3 cache 32 mb"
+   },
+   {
+    "group": "Power",
+    "label": "Default TDP",
+    "value": "65W",
+    "evidence": "default tdp 65w"
+   },
+   {
+    "group": "Platform",
+    "label": "Socket",
+    "value": "AM4",
+    "evidence": "cpu socket am4"
+   },
+   {
+    "group": "Cooling",
+    "label": "Bundled cooler",
+    "value": "AMD Wraith Stealth",
+    "evidence": "thermal solution (pib) amd wraith stealth"
+   },
+   {
+    "group": "Platform",
+    "label": "PCI Express",
+    "value": "PCIe 4.0",
+    "evidence": "pci express® version pcie® 4.0"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory support",
+    "value": "DDR4 up to 3200 MT/s",
+    "evidence": "system memory type ddr4 system memory specification up to 3200 mt/s"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:AMD Ryzen 5 5600X.jpg",
+    "model_evidence": "Ryzen 5 5600X"
+   }
+  ]
+ },
+ {
+  "handle": "real-amd-ryzen-9-5900x",
+  "brand": "AMD",
+  "model": "Ryzen 9 5900X",
+  "mpn": "100-100000061WOF",
+  "variant_title": "Default",
+  "category_handle": "processor",
+  "title": "AMD Ryzen 9 5900X Desktop Processor",
+  "subtitle": "12 cores / 24 threads | up to 4.8 GHz | AM4",
+  "description": "Twelve-core Zen 3 CPU for AM4 with 64 MB of L3 cache, suited to gaming plus heavy multitasking and content work. A liquid cooler is recommended; none is included. Specifications checked against AMD's official product page.",
+  "highlights": [
+   "12 cores, 24 threads",
+   "Up to 4.8 GHz boost",
+   "64 MB L3 cache",
+   "AM4 socket, PCIe 4.0"
+  ],
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-9-5900x.html",
+   "publisher": "Advanced Micro Devices, Inc."
+  },
+  "model_match": [
+   "AMD Ryzen™ 9 5900X"
+  ],
+  "specs": [
+   {
+    "group": "Processor",
+    "label": "Cores",
+    "value": "12",
+    "evidence": "# of cpu cores 12"
+   },
+   {
+    "group": "Processor",
+    "label": "Threads",
+    "value": "24",
+    "evidence": "# of threads 24"
+   },
+   {
+    "group": "Clock",
+    "label": "Max boost clock",
+    "value": "Up to 4.8 GHz",
+    "evidence": "up to 4.8 ghz"
+   },
+   {
+    "group": "Clock",
+    "label": "Base clock",
+    "value": "3.7 GHz",
+    "evidence": "3.7 ghz",
+    "context": "base clock"
+   },
+   {
+    "group": "Cache",
+    "label": "L3 cache",
+    "value": "64 MB",
+    "evidence": "l3 cache 64 mb"
+   },
+   {
+    "group": "Power",
+    "label": "Default TDP",
+    "value": "105W",
+    "evidence": "default tdp 105w"
+   },
+   {
+    "group": "Platform",
+    "label": "Socket",
+    "value": "AM4",
+    "evidence": "cpu socket am4"
+   },
+   {
+    "group": "Platform",
+    "label": "PCI Express",
+    "value": "PCIe 4.0",
+    "evidence": "pci express® version pcie® 4.0"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory support",
+    "value": "DDR4 up to 3200 MT/s",
+    "evidence": "system memory type ddr4 system memory specification up to 3200 mt/s"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:AMD Ryzen 9 5900X by BugWarp 03.jpg",
+    "model_evidence": "Ryzen 9 5900X"
+   }
+  ]
+ },
+ {
+  "handle": "real-amd-ryzen-7-7800x3d",
+  "brand": "AMD",
+  "model": "Ryzen 7 7800X3D",
+  "mpn": "100-100000910WOF",
+  "variant_title": "Default",
+  "category_handle": "processor",
+  "title": "AMD Ryzen 7 7800X3D Desktop Processor",
+  "subtitle": "8 cores / 16 threads | 96 MB L3 with 3D V-Cache | AM5",
+  "description": "Eight-core Zen 4 gaming processor for AM5 that stacks extra cache on the die for a total of 96 MB L3. Supports DDR5 and PCIe 5.0; no cooler included. Specifications checked against AMD's official product page.",
+  "highlights": [
+   "8 cores, 16 threads",
+   "96 MB L3 cache",
+   "AM5 socket, DDR5",
+   "PCIe 5.0"
+  ],
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7800x3d.html",
+   "publisher": "Advanced Micro Devices, Inc."
+  },
+  "model_match": [
+   "AMD Ryzen™ 7 7800X3D"
+  ],
+  "specs": [
+   {
+    "group": "Processor",
+    "label": "Cores",
+    "value": "8",
+    "evidence": "# of cpu cores 8"
+   },
+   {
+    "group": "Processor",
+    "label": "Threads",
+    "value": "16",
+    "evidence": "# of threads 16"
+   },
+   {
+    "group": "Clock",
+    "label": "Max boost clock",
+    "value": "Up to 5 GHz",
+    "evidence": "up to 5 ghz base clock"
+   },
+   {
+    "group": "Clock",
+    "label": "Base clock",
+    "value": "4.2 GHz",
+    "evidence": "4.2 ghz",
+    "context": "base clock"
+   },
+   {
+    "group": "Cache",
+    "label": "L3 cache",
+    "value": "96 MB",
+    "evidence": "l3 cache 96 mb"
+   },
+   {
+    "group": "Power",
+    "label": "Default TDP",
+    "value": "120W",
+    "evidence": "default tdp 120w"
+   },
+   {
+    "group": "Platform",
+    "label": "Socket",
+    "value": "AM5",
+    "evidence": "cpu socket am5"
+   },
+   {
+    "group": "Platform",
+    "label": "PCI Express",
+    "value": "PCIe 5.0",
+    "evidence": "pci express® version pcie® 5.0"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory type",
+    "value": "DDR5, 2 channels",
+    "evidence": "system memory type ddr5 memory channels 2"
+   },
+   {
+    "group": "Graphics",
+    "label": "Integrated graphics",
+    "value": "AMD Radeon Graphics, 2 cores",
+    "evidence": "graphics model amd radeontm graphics graphics core count 2"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:AMD@5nmCCD(6nmIOD)@Zen4@Raphael@Ryzen 7 7800X3D@100-000000910 BS 2312PGY 9LW3390030138 DSCx01.jpg",
+    "model_evidence": "Ryzen 7 7800X3D"
+   }
+  ]
+ },
+ {
+  "handle": "real-samsung-980-pro-1tb",
+  "brand": "Samsung",
+  "model": "980 PRO",
+  "mpn": "MZ-V8P1T0BW",
+  "variant_title": "1TB",
+  "category_handle": "internal-ssd",
+  "title": "Samsung 980 PRO PCIe 4.0 NVMe M.2 SSD (1TB)",
+  "subtitle": "1TB | PCIe 4.0 x4 | up to 7,000 MB/s read",
+  "description": "Samsung's PCIe 4.0 NVMe drive in the M.2 2280 format, built on Samsung V-NAND with the Elpis controller. A strong fit for gaming PCs and PS5-class upgrades. Specifications checked against Samsung's official product page.",
+  "highlights": [
+   "1TB M.2 2280",
+   "PCIe Gen 4.0 x4, NVMe",
+   "Up to 7,000 MB/s sequential read",
+   "5-year limited warranty"
+  ],
+  "spec_source": {
+   "url": "https://www.samsung.com/uk/memory-storage/nvme-ssd/980-pro-pcle-4-0-nvme-m-2-ssd-1tb-mz-v8p1t0bw/",
+   "publisher": "Samsung Electronics"
+  },
+  "model_match": [
+   "980 PRO"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "1,000GB",
+    "evidence": "capacity 1,000gb (1gb=1 billion byte by idema)"
+   },
+   {
+    "group": "Interface",
+    "label": "Interface",
+    "value": "PCIe Gen 4.0 x4, NVMe 1.3c",
+    "evidence": "interface pcie gen 4.0 x4, nvme 1.3c"
+   },
+   {
+    "group": "Build",
+    "label": "Form factor",
+    "value": "M.2 (2280)",
+    "evidence": "form factor m.2 (2280)"
+   },
+   {
+    "group": "Performance",
+    "label": "Sequential read",
+    "value": "Up to 7,000 MB/s",
+    "evidence": "sequential read up to 7,000 mb/s"
+   },
+   {
+    "group": "Performance",
+    "label": "Sequential write",
+    "value": "Up to 5,000 MB/s",
+    "evidence": "sequential write up to 5,000 mb/s"
+   },
+   {
+    "group": "Storage",
+    "label": "NAND",
+    "value": "Samsung V-NAND 3-bit MLC",
+    "evidence": "storage memory samsung v-nand 3-bit mlc"
+   },
+   {
+    "group": "Storage",
+    "label": "Controller",
+    "value": "Samsung Elpis",
+    "evidence": "controller samsung elpis controller"
+   },
+   {
+    "group": "Storage",
+    "label": "Cache",
+    "value": "1GB LPDDR4",
+    "evidence": "cache memory samsung 1gb low power ddr4 sdram"
+   },
+   {
+    "group": "Warranty",
+    "label": "Warranty",
+    "value": "5 years or 600 TBW",
+    "evidence": "5-year limited warranty or 600 tbw limited warranty"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Samsung 980 PRO PCIe 4.0 NVMe SSD 1TB-top PNr°0915.jpg",
+    "model_evidence": "980 Pro"
+   }
+  ]
+ },
+ {
+  "handle": "real-samsung-990-pro-4tb",
+  "brand": "Samsung",
+  "model": "990 PRO",
+  "mpn": "MZ-V9P4T0BW",
+  "variant_title": "4TB",
+  "category_handle": "internal-ssd",
+  "title": "Samsung 990 PRO PCIe 4.0 NVMe M.2 SSD (4TB)",
+  "subtitle": "4TB | PCIe 4.0 x4 | up to 7,450 MB/s read",
+  "description": "High-capacity Samsung 990 PRO in M.2 2280 form, one of the fastest PCIe 4.0 drives, with 4GB of DRAM cache and a 2400 TBW endurance rating. Specifications checked against Samsung's official product page.",
+  "highlights": [
+   "4TB M.2 2280",
+   "PCIe Gen 4.0 x4, NVMe 2.0",
+   "Up to 7,450 MB/s sequential read",
+   "5-year limited warranty"
+  ],
+  "spec_source": {
+   "url": "https://www.samsung.com/uk/memory-storage/nvme-ssd/990-pro-4tb-nvme-pcie-gen-4-mz-v9p4t0bw/",
+   "publisher": "Samsung Electronics"
+  },
+  "model_match": [
+   "990 PRO"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "4,000GB",
+    "evidence": "capacity 4,000gb (1gb=1 billion byte by idema)"
+   },
+   {
+    "group": "Interface",
+    "label": "Interface",
+    "value": "PCIe Gen 4.0 x4, NVMe 2.0",
+    "evidence": "interface pcie gen 4.0 x4, nvme 2.0"
+   },
+   {
+    "group": "Build",
+    "label": "Form factor",
+    "value": "M.2 (2280)",
+    "evidence": "form factor m.2 (2280)"
+   },
+   {
+    "group": "Performance",
+    "label": "Sequential read",
+    "value": "Up to 7,450 MB/s",
+    "evidence": "sequential read up to 7,450 mb/s"
+   },
+   {
+    "group": "Performance",
+    "label": "Sequential write",
+    "value": "Up to 6,900 MB/s",
+    "evidence": "sequential write up to 6,900 mb/s"
+   },
+   {
+    "group": "Storage",
+    "label": "NAND",
+    "value": "Samsung V-NAND TLC",
+    "evidence": "storage memory samsung v-nand tlc"
+   },
+   {
+    "group": "Storage",
+    "label": "Cache",
+    "value": "4GB LPDDR4",
+    "evidence": "cache memory samsung 4gb low power ddr4 sdram"
+   },
+   {
+    "group": "Warranty",
+    "label": "Warranty",
+    "value": "5 years or 2400 TBW",
+    "evidence": "5-year limited warranty or 2400 tbw limited warranty"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:SAMSUNG M.2 NVMe SSD 990 PRO 4TB.jpg",
+    "model_evidence": "990 PRO"
+   }
+  ]
+ },
+ {
+  "handle": "real-samsung-970-evo-plus-250gb",
+  "brand": "Samsung",
+  "model": "970 EVO Plus",
+  "mpn": "MZ-V7S250BW",
+  "variant_title": "250GB",
+  "category_handle": "internal-ssd",
+  "title": "Samsung 970 EVO Plus NVMe M.2 SSD (250GB)",
+  "subtitle": "250GB | PCIe 3.0 x4 | up to 3,500 MB/s read",
+  "description": "Compact PCIe 3.0 NVMe boot drive from Samsung in M.2 2280 form, a budget-friendly way to move an older PC off a hard disk. Specifications checked against Samsung's official product page.",
+  "highlights": [
+   "250GB M.2 2280",
+   "PCIe Gen 3.0 x4, NVMe 1.3",
+   "Up to 3,500 MB/s sequential read",
+   "5-year limited warranty"
+  ],
+  "spec_source": {
+   "url": "https://www.samsung.com/uk/memory-storage/nvme-ssd/970-evo-plus-nvme-m-2-ssd-250gb-mz-v7s250bw/",
+   "publisher": "Samsung Electronics"
+  },
+  "model_match": [
+   "970 EVO Plus"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "250GB",
+    "evidence": "capacity 250gb (1gb=1 billion byte by idema)"
+   },
+   {
+    "group": "Interface",
+    "label": "Interface",
+    "value": "PCIe Gen 3.0 x4, NVMe 1.3",
+    "evidence": "interface pcie gen 3.0 x 4, nvme 1.3"
+   },
+   {
+    "group": "Build",
+    "label": "Form factor",
+    "value": "M.2 (2280)",
+    "evidence": "form factor m.2 (2280)"
+   },
+   {
+    "group": "Performance",
+    "label": "Sequential read",
+    "value": "Up to 3,500 MB/s",
+    "evidence": "sequential read up to 3,500 mb/s"
+   },
+   {
+    "group": "Performance",
+    "label": "Sequential write",
+    "value": "Up to 2,300 MB/s",
+    "evidence": "sequential write up to 2,300 mb/s"
+   },
+   {
+    "group": "Storage",
+    "label": "NAND",
+    "value": "Samsung V-NAND 3-bit MLC",
+    "evidence": "storage memory samsung v-nand 3-bit mlc"
+   },
+   {
+    "group": "Storage",
+    "label": "Cache",
+    "value": "512MB LPDDR4",
+    "evidence": "cache memory samsung 512mb low power ddr4 sdram"
+   },
+   {
+    "group": "Warranty",
+    "label": "Warranty",
+    "value": "5 years or 150 TBW",
+    "evidence": "5-year limited warrantyor 150 tbw limited warranty"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:2023 Napęd Samsung 970 EVO Plus 250GB (1).jpg",
+    "model_evidence": "970 EVO Plus"
+   }
+  ]
+ },
+ {
+  "handle": "real-nvidia-geforce-rtx-4090-founders-edition",
+  "brand": "NVIDIA",
+  "model": "GeForce RTX 4090",
+  "variant_title": "Founders Edition",
+  "category_handle": "graphics-card",
+  "title": "NVIDIA GeForce RTX 4090 Founders Edition",
+  "subtitle": "24GB GDDR6X | 16384 CUDA cores | Ada Lovelace",
+  "description": "NVIDIA's own Founders Edition build of the GeForce RTX 4090, the flagship Ada Lovelace card with 24GB of GDDR6X for 4K gaming, rendering and local AI work. Needs a large case and an 850W power supply. Specifications checked against NVIDIA's official product page.",
+  "highlights": [
+   "24GB GDDR6X, 384-bit",
+   "16384 CUDA cores",
+   "DLSS 3.5 with Frame Generation",
+   "3-slot, 304 mm Founders Edition cooler"
+  ],
+  "spec_source": {
+   "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4090/",
+   "publisher": "NVIDIA Corporation"
+  },
+  "model_match": [
+   "GeForce RTX 4090"
+  ],
+  "specs": [
+   {
+    "group": "GPU",
+    "label": "CUDA cores",
+    "value": "16384",
+    "evidence": "nvidia cuda ® cores 16384"
+   },
+   {
+    "group": "GPU",
+    "label": "Boost clock",
+    "value": "2.52 GHz",
+    "evidence": "boost clock (ghz) 2.52"
+   },
+   {
+    "group": "GPU",
+    "label": "Base clock",
+    "value": "2.23 GHz",
+    "evidence": "base clock (ghz) 2.23"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory",
+    "value": "24 GB GDDR6X",
+    "evidence": "standard memory config 24 gb gddr6x"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory interface",
+    "value": "384-bit",
+    "evidence": "memory interface width 384-bit"
+   },
+   {
+    "group": "GPU",
+    "label": "Architecture",
+    "value": "Ada Lovelace",
+    "evidence": "nvidia architecture ada lovelace"
+   },
+   {
+    "group": "Dimensions",
+    "label": "Card size",
+    "value": "304 mm long, 137 mm wide, 3-slot",
+    "evidence": "length 304 mm width 137 mm slots 3-slot"
+   },
+   {
+    "group": "Power",
+    "label": "Total graphics power",
+    "value": "450 W",
+    "evidence": "total graphics power (w) 450"
+   },
+   {
+    "group": "Power",
+    "label": "Required system power",
+    "value": "850 W",
+    "evidence": "required system power (w) (8) 850"
+   },
+   {
+    "group": "Display",
+    "label": "Outputs",
+    "value": "HDMI and 3x DisplayPort",
+    "evidence": "standard display connectors hdmi (2) , 3x displayport (3)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:NVIDIA RTX 4090 Founders Edition - Nahaufnahme (ZMASLO).png",
+    "model_evidence": "RTX 4090"
+   }
+  ]
+ },
+ {
+  "handle": "real-nvidia-geforce-rtx-3090-founders-edition",
+  "brand": "NVIDIA",
+  "model": "GeForce RTX 3090",
+  "variant_title": "Founders Edition",
+  "category_handle": "graphics-card",
+  "title": "NVIDIA GeForce RTX 3090 Founders Edition",
+  "subtitle": "24GB GDDR6X | 10496 CUDA cores | Ampere",
+  "description": "NVIDIA Founders Edition GeForce RTX 3090, the top Ampere-generation card with 24GB of GDDR6X, popular for 4K gaming and memory-hungry creative or AI workloads. Specifications checked against NVIDIA's official RTX 3090 family page (RTX 3090 column).",
+  "highlights": [
+   "24GB GDDR6X, 384-bit",
+   "10496 CUDA cores",
+   "Ampere architecture",
+   "3-slot, 313 mm Founders Edition cooler"
+  ],
+  "spec_source": {
+   "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3090-3090ti/",
+   "publisher": "NVIDIA Corporation"
+  },
+  "model_match": [
+   "GeForce RTX 3090"
+  ],
+  "specs": [
+   {
+    "group": "GPU",
+    "label": "CUDA cores",
+    "value": "10496",
+    "evidence": "nvidia cuda ® cores 10752 10496"
+   },
+   {
+    "group": "GPU",
+    "label": "Boost clock",
+    "value": "1.70 GHz",
+    "evidence": "boost clock (ghz) 1.86 1.70"
+   },
+   {
+    "group": "GPU",
+    "label": "Base clock",
+    "value": "1.40 GHz",
+    "evidence": "base clock (ghz) 1.56 1.40"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory",
+    "value": "24 GB GDDR6X",
+    "evidence": "standard memory config 24 gb gddr6x 24 gb gddr6x"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory interface",
+    "value": "384-bit",
+    "evidence": "memory interface width 384-bit 384-bit"
+   },
+   {
+    "group": "GPU",
+    "label": "Architecture",
+    "value": "Ampere",
+    "evidence": "nvidia architecture ampere ampere"
+   },
+   {
+    "group": "Dimensions",
+    "label": "Card length",
+    "value": "313 mm, 3-slot",
+    "evidence": "length 12.3\" (313 mm) 12.3\" (313 mm) width 5.4\" (138 mm) 5.4\" (138 mm) slot 3-slot 3-slot"
+   },
+   {
+    "group": "Power",
+    "label": "Graphics card power",
+    "value": "350 W",
+    "evidence": "graphics card power (w) 450 350"
+   },
+   {
+    "group": "Power",
+    "label": "Required system power",
+    "value": "750 W",
+    "evidence": "required system power (w) (4) 850 750"
+   },
+   {
+    "group": "Power",
+    "label": "Power connector",
+    "value": "2x PCIe 8-pin (adapter to 1x 12-pin included)",
+    "evidence": "2x pcie 8-pin (adapter to 1x 12-pin included)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:RTX 3090 Founders Edition.jpg",
+    "model_evidence": "RTX 3090 Founders Edition"
+   }
+  ],
+  "review_notes": [
+   "NVIDIA page is a shared RTX 3090 / 3090 Ti two-column table; confirm each value is from the RTX 3090 column."
+  ]
+ },
+ {
+  "handle": "real-corsair-vengeance-rgb-ddr5-32gb-6000-c36-white",
+  "brand": "Corsair",
+  "model": "VENGEANCE RGB DDR5 32GB (2x16GB) 6000MHz C36",
+  "mpn": "CMH32GX5M2D6000C36W",
+  "variant_title": "32GB (2x16GB) White",
+  "category_handle": "desktop-ram",
+  "title": "Corsair Vengeance RGB DDR5 32GB (2x16GB) 6000MT/s CL36 Kit, White",
+  "subtitle": "2x16GB | DDR5-6000 | CL36 | 1.35V | Intel XMP",
+  "description": "Two-module 32GB DDR5 desktop memory kit in white with ten-zone addressable RGB light bars and aluminium heat spreaders. Rated for 6000 MT/s at CL36 through an Intel XMP profile. Specifications checked against Corsair's official product page.",
+  "highlights": [
+   "32GB kit (2 x 16GB)",
+   "DDR5-6000, CL36",
+   "Intel XMP profile",
+   "White, addressable RGB"
+  ],
+  "spec_source": {
+   "url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2d6000c36w/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mhz-c36-memory-kit-white-cmh32gx5m2d6000c36w",
+   "publisher": "CORSAIR"
+  },
+  "model_match": [
+   "CMH32GX5M2D6000C36W"
+  ],
+  "specs": [
+   {
+    "group": "Memory",
+    "label": "Kit capacity",
+    "value": "32GB (2 x 16GB)",
+    "evidence": "memory size 32gb (2 x 16gb)"
+   },
+   {
+    "group": "Memory",
+    "label": "Type",
+    "value": "DDR5",
+    "evidence": "memory type ddr5"
+   },
+   {
+    "group": "Performance",
+    "label": "Tested speed",
+    "value": "6000 MT/s",
+    "evidence": "tested speed 6000 mt/s"
+   },
+   {
+    "group": "Performance",
+    "label": "Tested latency",
+    "value": "CL36",
+    "evidence": "tested latency 36"
+   },
+   {
+    "group": "Performance",
+    "label": "Tested voltage",
+    "value": "1.35V",
+    "evidence": "tested voltage 1.35v"
+   },
+   {
+    "group": "Performance",
+    "label": "Speed rating",
+    "value": "PC5-48000 (DDR5-6000)",
+    "evidence": "speed rating pc5-48000 (ddr5-6000)"
+   },
+   {
+    "group": "Performance",
+    "label": "Profile",
+    "value": "Intel XMP",
+    "evidence": "performance profile intel xmp"
+   },
+   {
+    "group": "Build",
+    "label": "Format",
+    "value": "UDIMM, 288-pin",
+    "evidence": "package memory format udimm package memory pin 288"
+   },
+   {
+    "group": "Build",
+    "label": "Heat spreader",
+    "value": "Aluminium",
+    "evidence": "heat spreader aluminum"
+   },
+   {
+    "group": "Build",
+    "label": "Colour",
+    "value": "White",
+    "evidence": "memory color white"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:2023 Pamięci Corsair Vengeance RGB.jpg",
+    "model_evidence": "Corsair Vengeance RGB, DDR5, 32 GB, 6000MHz, CL36"
+   }
+  ]
+ },
+ {
+  "handle": "real-corsair-4000d-airflow-black",
+  "brand": "Corsair",
+  "model": "4000D AIRFLOW",
+  "mpn": "CC-9011200-WW",
+  "variant_title": "Black",
+  "category_handle": "computer-case",
+  "title": "Corsair 4000D Airflow Tempered Glass Mid-Tower ATX Case, Black",
+  "subtitle": "Mid-tower | ATX / E-ATX | 360 mm radiator support",
+  "description": "Popular mid-tower case with a perforated steel front panel for strong airflow, a tempered glass side and a cable routing system behind the motherboard tray. Takes boards up to E-ATX and long graphics cards. Specifications checked against Corsair's official product page.",
+  "highlights": [
+   "Mid-tower, tempered glass side",
+   "Up to 360 mm GPU length",
+   "Front radiators up to 360 mm",
+   "USB 3.1 Type-C on front panel"
+  ],
+  "spec_source": {
+   "url": "https://www.corsair.com/us/en/p/pc-cases/cc-9011200-ww/4000d-airflow-tempered-glass-mid-tower-atx-case-black-cc-9011200-ww",
+   "publisher": "CORSAIR"
+  },
+  "model_match": [
+   "4000D AIRFLOW Tempered Glass Mid-Tower ATX Case"
+  ],
+  "specs": [
+   {
+    "group": "Compatibility",
+    "label": "Motherboard support",
+    "value": "Mini-ITX, Micro-ATX, ATX, E-ATX (305 x 277 mm)",
+    "evidence": "case supported mini-itx | microatx | atx | e-atx (305mm x 277mm)"
+   },
+   {
+    "group": "Dimensions",
+    "label": "Size (H x L x W)",
+    "value": "466 x 453 x 230 mm",
+    "evidence": "case height 466 case length 453 case width 230"
+   },
+   {
+    "group": "Compatibility",
+    "label": "Max GPU length",
+    "value": "360 mm",
+    "evidence": "maximum gpu length 360mm"
+   },
+   {
+    "group": "Compatibility",
+    "label": "Max CPU cooler height",
+    "value": "170 mm",
+    "evidence": "maximum cpu cooler height 170mm"
+   },
+   {
+    "group": "Compatibility",
+    "label": "Max PSU length",
+    "value": "220 mm",
+    "evidence": "maximum psu length 220mm"
+   },
+   {
+    "group": "Cooling",
+    "label": "Front radiator support",
+    "value": "360 mm, 280 mm, 240 mm",
+    "evidence": "radiator support - front 360mm, 280mm, 240mm"
+   },
+   {
+    "group": "Cooling",
+    "label": "Front fan support",
+    "value": "3x 120 mm or 2x 140 mm",
+    "evidence": "fan support - front 3x 120mm; 2x 140mm"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Front I/O",
+    "value": "1x USB 3.1 Type-C, 1x USB 3.0, audio in/out",
+    "evidence": "case front io (1x) usb 3.1 type c, (1x) usb 3.0, (1x) audio in/out"
+   },
+   {
+    "group": "Build",
+    "label": "Expansion slots",
+    "value": "7 horizontal + 2 vertical",
+    "evidence": "case expansion slots 7 horizontal + 2 vertical"
+   },
+   {
+    "group": "Build",
+    "label": "Side panel",
+    "value": "Tempered glass",
+    "evidence": "case window tempered glass"
+   },
+   {
+    "group": "Warranty",
+    "label": "Warranty",
+    "value": "2 years",
+    "evidence": "case warranty 2 year"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Corsair 4000D Airflow mid-tower ATX case.tif",
+    "model_evidence": "4000D Airflow"
+   }
+  ]
+ },
+ {
+  "handle": "real-amd-ryzen-7-7700x",
+  "brand": "AMD",
+  "model": "Ryzen 7 7700X",
+  "mpn": "100-100000591WOF",
+  "variant_title": "Default",
+  "category_handle": "processor",
+  "title": "AMD Ryzen 7 7700X Desktop Processor",
+  "subtitle": "8 cores / 16 threads | up to 5.4 GHz | AM5",
+  "description": "Eight-core Zen 4 processor for the AM5 platform with high single-core clocks, DDR5 memory and PCIe 5.0 support, plus basic integrated Radeon graphics. No cooler in the box. Specifications checked against AMD's official product page.",
+  "highlights": [
+   "8 cores, 16 threads",
+   "Up to 5.4 GHz boost",
+   "AM5 socket, DDR5",
+   "PCIe 5.0"
+  ],
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7700x.html",
+   "publisher": "Advanced Micro Devices, Inc."
+  },
+  "model_match": [
+   "AMD Ryzen™ 7 7700X"
+  ],
+  "specs": [
+   {
+    "group": "Processor",
+    "label": "Cores",
+    "value": "8",
+    "evidence": "# of cpu cores 8"
+   },
+   {
+    "group": "Processor",
+    "label": "Threads",
+    "value": "16",
+    "evidence": "# of threads 16"
+   },
+   {
+    "group": "Clock",
+    "label": "Max boost clock",
+    "value": "Up to 5.4 GHz",
+    "evidence": "up to 5.4 ghz"
+   },
+   {
+    "group": "Clock",
+    "label": "Base clock",
+    "value": "4.5 GHz",
+    "evidence": "4.5 ghz",
+    "context": "base clock"
+   },
+   {
+    "group": "Cache",
+    "label": "L3 cache",
+    "value": "32 MB",
+    "evidence": "l3 cache 32 mb"
+   },
+   {
+    "group": "Power",
+    "label": "Default TDP",
+    "value": "105W",
+    "evidence": "default tdp 105w"
+   },
+   {
+    "group": "Platform",
+    "label": "Socket",
+    "value": "AM5",
+    "evidence": "cpu socket am5"
+   },
+   {
+    "group": "Platform",
+    "label": "PCI Express",
+    "value": "PCIe 5.0",
+    "evidence": "pci express® version pcie® 5.0"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory type",
+    "value": "DDR5, 2 channels",
+    "evidence": "system memory type ddr5 memory channels 2"
+   },
+   {
+    "group": "Graphics",
+    "label": "Integrated graphics",
+    "value": "AMD Radeon Graphics, 2 cores",
+    "evidence": "graphics model amd radeontm graphics graphics core count 2"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Ryzen update to gaming PC (Ryzen 7 7700X).jpg",
+    "model_evidence": "Ryzen 7 7700X"
+   }
+  ]
+ },
+ {
+  "handle": "real-samsung-990-evo-plus-2tb",
+  "brand": "Samsung",
+  "model": "990 EVO Plus",
+  "mpn": "MZ-V9S2T0BW",
+  "variant_title": "2TB",
+  "category_handle": "internal-ssd",
+  "title": "Samsung 990 EVO Plus NVMe M.2 SSD (2TB)",
+  "subtitle": "2TB | PCIe 4.0 x4 / 5.0 x2 | up to 7,250 MB/s read",
+  "description": "DRAM-less Samsung NVMe drive in M.2 2280 form that uses the host memory buffer, offering near top-tier PCIe 4.0 speeds at a lower price and running in either PCIe 4.0 x4 or 5.0 x2 slots. Specifications checked against Samsung's official product page.",
+  "highlights": [
+   "2TB M.2 2280",
+   "PCIe 4.0 x4 / 5.0 x2, NVMe 2.0",
+   "Up to 7,250 MB/s sequential read",
+   "5-year limited warranty"
+  ],
+  "spec_source": {
+   "url": "https://www.samsung.com/uk/memory-storage/nvme-ssd/990-evo-plus-2tb-nvme-pcie-gen-4-mz-v9s2t0bw/",
+   "publisher": "Samsung Electronics"
+  },
+  "model_match": [
+   "990 EVO Plus"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "2,000GB",
+    "evidence": "capacity 2,000gb (1gb=1 billion byte by idema)"
+   },
+   {
+    "group": "Interface",
+    "label": "Interface",
+    "value": "PCIe 4.0 x4 / 5.0 x2, NVMe 2.0",
+    "evidence": "interface pcie® 4.0 x4 / 5.0 x2 nvmetm 2.0"
+   },
+   {
+    "group": "Build",
+    "label": "Form factor",
+    "value": "M.2 (2280)",
+    "evidence": "form factor m.2 (2280)"
+   },
+   {
+    "group": "Performance",
+    "label": "Sequential read",
+    "value": "Up to 7,250 MB/s",
+    "evidence": "sequential read up to 7,250 mb/s"
+   },
+   {
+    "group": "Performance",
+    "label": "Sequential write",
+    "value": "Up to 6,300 MB/s",
+    "evidence": "sequential write up to 6,300 mb/s"
+   },
+   {
+    "group": "Storage",
+    "label": "NAND",
+    "value": "Samsung V-NAND TLC",
+    "evidence": "storage memory samsung v-nand tlc"
+   },
+   {
+    "group": "Storage",
+    "label": "Cache",
+    "value": "Host Memory Buffer (HMB)",
+    "evidence": "cache memory hmb(host memory buffer)"
+   },
+   {
+    "group": "Warranty",
+    "label": "Warranty",
+    "value": "5 years or 1200 TBW",
+    "evidence": "5-year limited warranty or 1200 tbw limited warranty"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:SSD Samsung 990 EVO Plus 2TB, Model MZ-V9S2T0-2800.jpg",
+    "model_evidence": "990 EVO Plus"
+   }
+  ]
+ }
+]

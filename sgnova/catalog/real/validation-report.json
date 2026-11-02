@@ -1,0 +1,862 @@
+{
+ "generated_at": "2026-11-02T17:02:57+00:00",
+ "records": [
+  {
+   "handle": "real-apple-iphone-15-128gb",
+   "brand": "Apple",
+   "model": "iPhone 15",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-14-128gb",
+   "brand": "Apple",
+   "model": "iPhone 14",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-13-128gb",
+   "brand": "Apple",
+   "model": "iPhone 13",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-16-128gb",
+   "brand": "Apple",
+   "model": "iPhone 16",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-16e-128gb",
+   "brand": "Apple",
+   "model": "iPhone 16e",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-se-3rd-gen-64gb",
+   "brand": "Apple",
+   "model": "iPhone SE (3rd generation)",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-ipad-10th-gen-64gb-wifi",
+   "brand": "Apple",
+   "model": "iPad (10th generation)",
+   "category": "tablet",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-watch-series-9-45mm-gps",
+   "brand": "Apple",
+   "model": "Apple Watch Series 9",
+   "category": "smartwatch",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-watch-ultra-2-49mm",
+   "brand": "Apple",
+   "model": "Apple Watch Ultra 2",
+   "category": "smartwatch",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-google-pixel-8-128gb",
+   "brand": "Google",
+   "model": "Pixel 8",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-google-pixel-7a-128gb",
+   "brand": "Google",
+   "model": "Pixel 7a",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 2.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-google-pixel-tablet-128gb",
+   "brand": "Google",
+   "model": "Pixel Tablet",
+   "category": "tablet",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-google-pixel-watch-2-41mm",
+   "brand": "Google",
+   "model": "Pixel Watch 2",
+   "category": "smartwatch",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-fairphone-5-256gb",
+   "brand": "Fairphone",
+   "model": "Fairphone 5",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-xiaomi-14-12gb-256gb",
+   "brand": "Xiaomi",
+   "model": "Xiaomi 14",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-xiaomi-pad-6-8gb-256gb",
+   "brand": "Xiaomi",
+   "model": "Xiaomi Pad 6",
+   "category": "tablet",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-amd-ryzen-7-5800x",
+   "brand": "AMD",
+   "model": "Ryzen 7 5800X",
+   "category": "processor",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 3.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-amd-ryzen-5-5600x",
+   "brand": "AMD",
+   "model": "Ryzen 5 5600X",
+   "category": "processor",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-amd-ryzen-9-5900x",
+   "brand": "AMD",
+   "model": "Ryzen 9 5900X",
+   "category": "processor",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-amd-ryzen-7-7800x3d",
+   "brand": "AMD",
+   "model": "Ryzen 7 7800X3D",
+   "category": "processor",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-samsung-980-pro-1tb",
+   "brand": "Samsung",
+   "model": "980 PRO",
+   "category": "internal-ssd",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-samsung-990-pro-4tb",
+   "brand": "Samsung",
+   "model": "990 PRO",
+   "category": "internal-ssd",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-samsung-970-evo-plus-250gb",
+   "brand": "Samsung",
+   "model": "970 EVO Plus",
+   "category": "internal-ssd",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-nvidia-geforce-rtx-4090-founders-edition",
+   "brand": "NVIDIA",
+   "model": "GeForce RTX 4090",
+   "category": "graphics-card",
+   "status": "fail",
+   "errors": [
+    "image File:NVIDIA RTX 4090 Founders Edition - Nahaufnahme (ZMASLO).png: licence not settled on Commons (Category:License review needed)",
+    "no verified licensed photograph"
+   ],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [],
+   "review_notes": []
+  },
+  {
+   "handle": "real-nvidia-geforce-rtx-3090-founders-edition",
+   "brand": "NVIDIA",
+   "model": "GeForce RTX 3090",
+   "category": "graphics-card",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "NVIDIA page is a shared RTX 3090 / 3090 Ti two-column table; confirm each value is from the RTX 3090 column."
+   ]
+  },
+  {
+   "handle": "real-corsair-vengeance-rgb-ddr5-32gb-6000-c36-white",
+   "brand": "Corsair",
+   "model": "VENGEANCE RGB DDR5 32GB (2x16GB) 6000MHz C36",
+   "category": "desktop-ram",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-corsair-4000d-airflow-black",
+   "brand": "Corsair",
+   "model": "4000D AIRFLOW",
+   "category": "computer-case",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-amd-ryzen-7-7700x",
+   "brand": "AMD",
+   "model": "Ryzen 7 7700X",
+   "category": "processor",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 2.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-samsung-990-evo-plus-2tb",
+   "brand": "Samsung",
+   "model": "990 EVO Plus",
+   "category": "internal-ssd",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-macbook-air-13-m2-16gb-256gb",
+   "brand": "Apple",
+   "model": "MacBook Air (M2, 2022)",
+   "category": "business-laptop",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-macbook-air-15-m2-16gb-256gb",
+   "brand": "Apple",
+   "model": "MacBook Air (15-inch, M2, 2023)",
+   "category": "business-laptop",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Photo matched via category 'MacBook Air M2' and title '15 inch'; confirm it shows the 15-inch M2 model."
+   ]
+  },
+  {
+   "handle": "real-apple-macbook-air-13-m4-16gb-256gb",
+   "brand": "Apple",
+   "model": "MacBook Air (13-inch, M4, 2025)",
+   "category": "business-laptop",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-macbook-air-15-m4-16gb-256gb",
+   "brand": "Apple",
+   "model": "MacBook Air (15-inch, M4, 2025)",
+   "category": "business-laptop",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-macbook-pro-14-m3-8gb-512gb",
+   "brand": "Apple",
+   "model": "MacBook Pro (14-inch, M3, Nov 2023)",
+   "category": "business-laptop",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-macbook-pro-16-m4-pro-24gb-512gb",
+   "brand": "Apple",
+   "model": "MacBook Pro (16-inch, 2024)",
+   "category": "business-laptop",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-macbook-pro-16-2021-m1-pro-16gb-512gb",
+   "brand": "Apple",
+   "model": "MacBook Pro (16-inch, 2021)",
+   "category": "business-laptop",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-mac-mini-2024-m4-16gb-256gb",
+   "brand": "Apple",
+   "model": "Mac mini (2024)",
+   "category": "desktop-pc",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-mac-studio-2022-m1-max-32gb-512gb",
+   "brand": "Apple",
+   "model": "Mac Studio (2022)",
+   "category": "desktop-pc",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 3.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-studio-display-2022",
+   "brand": "Apple",
+   "model": "Studio Display",
+   "category": "office-monitor",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-asus-rog-zephyrus-g14-2025-ga403wr",
+   "brand": "ASUS",
+   "model": "ROG Zephyrus G14 (2025) GA403WR",
+   "category": "gaming-laptop",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 4.0"
+   ],
+   "review_notes": [
+    "Spec page is a multi-SKU comparison table; confirm values belong to the GA403WR column."
+   ]
+  },
+  {
+   "handle": "real-asus-rog-strix-scar-17-2023-g733py",
+   "brand": "ASUS",
+   "model": "ROG Strix Scar 17 (2023) G733PY",
+   "category": "gaming-laptop",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 3.0"
+   ],
+   "review_notes": [
+    "Spec page is a multi-SKU comparison table; confirm values belong to the G733PY column. Photo is a CC BY video still."
+   ]
+  },
+  {
+   "handle": "real-asus-rog-strix-xg32vqr",
+   "brand": "ASUS",
+   "model": "ROG Strix XG32VQR",
+   "category": "gaming-monitor",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Photo is a close-up of the lit screen, not the whole monitor; replace with a full product photo before publishing."
+   ]
+  },
+  {
+   "handle": "real-mikrotik-hap-ac2",
+   "brand": "MikroTik",
+   "model": "hAP ac2",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 3.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-mikrotik-hap-lite-rb941-2nd",
+   "brand": "MikroTik",
+   "model": "hAP lite",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-mikrotik-hap-rb951ui-2nd",
+   "brand": "MikroTik",
+   "model": "hAP",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 2.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-mikrotik-rb260gs",
+   "brand": "MikroTik",
+   "model": "RB260GS",
+   "category": "network-switch",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-netgear-gs108",
+   "brand": "Netgear",
+   "model": "GS108",
+   "category": "network-switch",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 3.0"
+   ],
+   "review_notes": [
+    "Photo may show an older hardware revision of the GS108."
+   ]
+  },
+  {
+   "handle": "real-tp-link-ue300",
+   "brand": "TP-Link",
+   "model": "UE300",
+   "category": "computer-accessory",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-logitech-mx-master-3s",
+   "brand": "Logitech",
+   "model": "MX Master 3S",
+   "category": "computer-accessory",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-airpods-3",
+   "brand": "Apple",
+   "model": "AirPods 3",
+   "category": "headphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-airpods-max",
+   "brand": "Apple",
+   "model": "AirPods Max",
+   "category": "headphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-airpods-pro-2",
+   "brand": "Apple",
+   "model": "AirPods Pro 2",
+   "category": "headphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-logitech-c922-pro-stream",
+   "brand": "Logitech",
+   "model": "C922 Pro Stream",
+   "category": "webcam",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-keychron-k8",
+   "brand": "Keychron",
+   "model": "K8",
+   "category": "mechanical-keyboard",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 2.0"
+   ],
+   "review_notes": [
+    "Official page mixes original and Version 2 details; confirm the sold SKU matches the listed specs."
+   ]
+  },
+  {
+   "handle": "real-netgear-gs105",
+   "brand": "Netgear",
+   "model": "GS105",
+   "category": "network-switch",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 3.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-netgear-gs108e",
+   "brand": "Netgear",
+   "model": "GS108E",
+   "category": "network-switch",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Photo may show an older hardware revision of the GS108E."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "handle": "real-corsair-vengeance-rgb-ddr5-32gb-6000-c36-white",
+ "brand": "Corsair",
+ "model": "VENGEANCE RGB DDR5 32GB (2x16GB) 6000MHz C36",
+ "mpn": "CMH32GX5M2D6000C36W",
+ "category_handle": "desktop-ram",
+ "title": "Corsair Vengeance RGB DDR5 32GB (2x16GB) 6000MT/s CL36 Kit, White",
+ "subtitle": "2x16GB | DDR5-6000 | CL36 | 1.35V | Intel XMP",
+ "description": "Two-module 32GB DDR5 desktop memory kit in white with ten-zone addressable RGB light bars and aluminium heat spreaders. Rated for 6000 MT/s at CL36 through an Intel XMP profile. Specifications checked against Corsair's official product page.",
+ "variant_title": "32GB (2x16GB) White",
+ "specs": [
+  {
+   "group": "Memory",
+   "label": "Kit capacity",
+   "value": "32GB (2 x 16GB)"
+  },
+  {
+   "group": "Memory",
+   "label": "Type",
+   "value": "DDR5"
+  },
+  {
+   "group": "Performance",
+   "label": "Tested speed",
+   "value": "6000 MT/s"
+  },
+  {
+   "group": "Performance",
+   "label": "Tested latency",
+   "value": "CL36"
+  },
+  {
+   "group": "Performance",
+   "label": "Tested voltage",
+   "value": "1.35V"
+  },
+  {
+   "group": "Performance",
+   "label": "Speed rating",
+   "value": "PC5-48000 (DDR5-6000)"
+  },
+  {
+   "group": "Performance",
+   "label": "Profile",
+   "value": "Intel XMP"
+  },
+  {
+   "group": "Build",
+   "label": "Format",
+   "value": "UDIMM, 288-pin"
+  },
+  {
+   "group": "Build",
+   "label": "Heat spreader",
+   "value": "Aluminium"
+  },
+  {
+   "group": "Build",
+   "label": "Colour",
+   "value": "White"
+  }
+ ],
+ "highlights": [
+  "32GB kit (2 x 16GB)",
+  "DDR5-6000, CL36",
+  "Intel XMP profile",
+  "White, addressable RGB"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2d6000c36w/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mhz-c36-memory-kit-white-cmh32gx5m2d6000c36w",
+   "publisher": "CORSAIR",
+   "final_url": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2d6000c36w/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mhz-c36-memory-kit-white-cmh32gx5m2d6000c36w",
+   "retrieved_at": "2026-11-02T16:51:12+00:00",
+   "sha256": "753b195732c3ec5c74563a18275f09b44eac9cfb49133ca822523b73e00701fe",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:50+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:2023 Pamięci Corsair Vengeance RGB.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Corsair RAM DIMMs",
+    "Category:DDR5 RAM DIMMs",
+    "Category:Images by Jacek Halicki",
+    "Category:Quality Images by Jacek Halicki",
+    "Category:Quality images",
+    "Category:Self-published work",
+    "Category:Wikigrant WG 2023-3"
+   ],
+   "width": 3468,
+   "height": 2532,
+   "mime": "image/jpeg",
+   "sha1": "ed32f38b92ff23dd2ce246f8098e9a5197d87775",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/2023_Pami%C4%99ci_Corsair_Vengeance_RGB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/2023_Pami%C4%99ci_Corsair_Vengeance_RGB.jpg/1280px-2023_Pami%C4%99ci_Corsair_Vengeance_RGB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:2023_Pami%C4%99ci_Corsair_Vengeance_RGB.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Jacek Halicki",
+   "credit": "Own work",
+   "description": "Corsair Vengeance RGB, DDR5, 32 GB, 6000MHz, CL36 memories",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-corsair-vengeance-rgb-ddr5-32gb-6000-c36-white/1.jpg",
+   "local_sha256": "c0ae0082c6634b8fc0d8504773108dc08b4bb0829159d83e73046e19d184603d",
+   "local_bytes": 100971
+  }
+ ]
+}

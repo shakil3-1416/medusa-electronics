@@ -1,0 +1,104 @@
+{
+ "handle": "real-samsung-990-pro-4tb",
+ "brand": "Samsung",
+ "model": "990 PRO",
+ "mpn": "MZ-V9P4T0BW",
+ "category_handle": "internal-ssd",
+ "title": "Samsung 990 PRO PCIe 4.0 NVMe M.2 SSD (4TB)",
+ "subtitle": "4TB | PCIe 4.0 x4 | up to 7,450 MB/s read",
+ "description": "High-capacity Samsung 990 PRO in M.2 2280 form, one of the fastest PCIe 4.0 drives, with 4GB of DRAM cache and a 2400 TBW endurance rating. Specifications checked against Samsung's official product page.",
+ "variant_title": "4TB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "4,000GB"
+  },
+  {
+   "group": "Interface",
+   "label": "Interface",
+   "value": "PCIe Gen 4.0 x4, NVMe 2.0"
+  },
+  {
+   "group": "Build",
+   "label": "Form factor",
+   "value": "M.2 (2280)"
+  },
+  {
+   "group": "Performance",
+   "label": "Sequential read",
+   "value": "Up to 7,450 MB/s"
+  },
+  {
+   "group": "Performance",
+   "label": "Sequential write",
+   "value": "Up to 6,900 MB/s"
+  },
+  {
+   "group": "Storage",
+   "label": "NAND",
+   "value": "Samsung V-NAND TLC"
+  },
+  {
+   "group": "Storage",
+   "label": "Cache",
+   "value": "4GB LPDDR4"
+  },
+  {
+   "group": "Warranty",
+   "label": "Warranty",
+   "value": "5 years or 2400 TBW"
+  }
+ ],
+ "highlights": [
+  "4TB M.2 2280",
+  "PCIe Gen 4.0 x4, NVMe 2.0",
+  "Up to 7,450 MB/s sequential read",
+  "5-year limited warranty"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.samsung.com/uk/memory-storage/nvme-ssd/990-pro-4tb-nvme-pcie-gen-4-mz-v9p4t0bw/",
+   "publisher": "Samsung Electronics",
+   "final_url": "https://www.samsung.com/uk/memory-storage/nvme-ssd/990-pro-4tb-nvme-pcie-gen-4-mz-v9p4t0bw/",
+   "retrieved_at": "2026-11-02T16:42:54+00:00",
+   "sha256": "df7a961448f88120ab1f71b3050c6521718353cd5ea70f699fb76e33f2d6b374",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:41+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:SAMSUNG M.2 NVMe SSD 990 PRO 4TB.jpg",
+   "categories": [
+    "Category:4 TB Solid-state drives",
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Samsung MZ-V9P4T0",
+    "Category:Self-published work",
+    "Category:Taken with Canon EOS R5",
+    "Category:Taken with Canon RF 24-70mm F2.8L IS USM"
+   ],
+   "width": 6478,
+   "height": 4357,
+   "mime": "image/jpeg",
+   "sha1": "4742fc1db5147c8dda0366909c787a8d7feb4591",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/SAMSUNG_M.2_NVMe_SSD_990_PRO_4TB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/SAMSUNG_M.2_NVMe_SSD_990_PRO_4TB.jpg/1280px-SAMSUNG_M.2_NVMe_SSD_990_PRO_4TB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:SAMSUNG_M.2_NVMe_SSD_990_PRO_4TB.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Dinkun Chen",
+   "credit": "Own work",
+   "description": "SAMSUNG M.2 NVMe SSD 990 PRO 4TB",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-samsung-990-pro-4tb/1.jpg",
+   "local_sha256": "f86e3adbde476da71b59ebfcc40fcd9cce5be4cdc6fc8b4fecaf3981d3a7659a",
+   "local_bytes": 164171
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "handle": "real-apple-airpods-max",
+ "brand": "Apple",
+ "model": "AirPods Max",
+ "mpn": null,
+ "category_handle": "headphone",
+ "title": "Apple AirPods Max Over-Ear Headphones",
+ "subtitle": "Active noise cancellation | H1 in each ear cup | Up to 20 hours",
+ "description": "Apple's over-ear wireless headphones with active noise cancellation, transparency mode, a Digital Crown for volume and personalised spatial audio. This listing covers the original Lightning-charging model. Specifications verified against Apple's official tech specs page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Audio",
+   "label": "Driver",
+   "value": "Apple-designed dynamic driver"
+  },
+  {
+   "group": "Audio",
+   "label": "Noise control",
+   "value": "Active noise cancellation and transparency mode"
+  },
+  {
+   "group": "Audio",
+   "label": "Chip",
+   "value": "Apple H1 headphone chip in each ear cup"
+  },
+  {
+   "group": "Audio",
+   "label": "Microphones",
+   "value": "Nine microphones, eight used for noise cancellation"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery life",
+   "value": "Up to 20 hours with ANC or transparency on"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.0"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Charging",
+   "value": "Lightning"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight",
+   "value": "384.8 g"
+  }
+ ],
+ "highlights": [
+  "Active Noise Cancellation and Transparency mode",
+  "Apple H1 chip in each ear cup",
+  "Up to 20 hours of listening",
+  "Nine microphones"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111858",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111858",
+   "retrieved_at": "2026-11-02T16:40:33+00:00",
+   "sha256": "d10d4549a9d71a5a17e475b7b1857fbc4f52db694f9b0234c23b2e9157fa4c7f",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:46+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Apple AirPods Max.jpg",
+   "categories": [
+    "Category:AirPods Max",
+    "Category:CC-BY-SA-4.0",
+    "Category:Self-published work"
+   ],
+   "width": 5634,
+   "height": 4024,
+   "mime": "image/jpeg",
+   "sha1": "20b709f040f87300885d4d7b9c87a56f5974c8f6",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Apple_AirPods_Max.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Apple_AirPods_Max.jpg/1280px-Apple_AirPods_Max.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Apple_AirPods_Max.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "SimonWaldherr",
+   "credit": "Own work",
+   "description": "AirPods Max combine high-fidelity audio with industry-leading Active Noise Cancellation to deliver an unparalleled listening experience",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-apple-airpods-max/1.jpg",
+   "local_sha256": "b4d025da1c83bef73d98c71482655afb6815ea307e5b24f5bb833dcb5f0f82f3",
+   "local_bytes": 81770
+  }
+ ]
+}

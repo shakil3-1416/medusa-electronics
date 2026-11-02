@@ -1,0 +1,104 @@
+{
+ "handle": "real-apple-mac-mini-2024-m4-16gb-256gb",
+ "brand": "Apple",
+ "model": "Mac mini (2024)",
+ "mpn": null,
+ "category_handle": "desktop-pc",
+ "title": "Apple Mac mini (M4, 2024) 16GB / 256GB",
+ "subtitle": "Compact desktop | Apple M4 | Thunderbolt 4",
+ "description": "The redesigned 2024 Mac mini in its base Apple M4 configuration (10-core CPU, 10-core GPU) with 16GB unified memory and a 256GB SSD, in a 12.7 cm square enclosure with front USB-C ports.",
+ "variant_title": "M4 / 16GB / 256GB",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "Apple M4, 10-core CPU (4P + 6E), 10-core GPU"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory",
+   "value": "16GB unified memory"
+  },
+  {
+   "group": "Storage",
+   "label": "Storage",
+   "value": "256GB SSD"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Front ports",
+   "value": "Two USB-C (USB 3, up to 10Gb/s)"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Rear ports",
+   "value": "Three Thunderbolt 4 (USB-C), HDMI, Gigabit Ethernet"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "Gigabit Ethernet"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions",
+   "value": "5.0 x 12.7 x 12.7 cm"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "0.67 kg"
+  }
+ ],
+ "highlights": [
+  "Apple M4 with 10-core CPU and 10-core GPU",
+  "16GB unified memory, 256GB SSD",
+  "Three Thunderbolt 4 ports and HDMI",
+  "Front USB-C and headphone jack"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/121555",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/121555",
+   "retrieved_at": "2026-11-02T16:27:29+00:00",
+   "sha256": "ebf03b6a556d612b4f2b9e2f9cc7763634c9f54e6babd21d7824fd2b85f355c9",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:14+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Mac mini 2024.jpg",
+   "categories": [
+    "Category:Apple Stores in 2024",
+    "Category:CC-BY-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Images with extracted images",
+    "Category:Mac mini M4",
+    "Category:Self-published work",
+    "Category:Taken with iPhone 15 Pro"
+   ],
+   "width": 2843,
+   "height": 2924,
+   "mime": "image/jpeg",
+   "sha1": "4e9c479ea92a623a0da0ab8999c168bc1d9044ab",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Mac_mini_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Mac_mini_2024.jpg/1280px-Mac_mini_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Mac_mini_2024.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Seasider53",
+   "credit": "Own work",
+   "description": "Mac mini 2024",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-apple-mac-mini-2024-m4-16gb-256gb/1.jpg",
+   "local_sha256": "e2ff15672f98a964ffb71de1515c0bcb1fd52737350b19a35b99e2020348a7a7",
+   "local_bytes": 393730
+  }
+ ]
+}

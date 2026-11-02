@@ -1,0 +1,104 @@
+{
+ "handle": "real-google-pixel-tablet-128gb",
+ "brand": "Google",
+ "model": "Pixel Tablet",
+ "mpn": null,
+ "category_handle": "tablet",
+ "title": "Google Pixel Tablet (128GB)",
+ "subtitle": "10.95-inch LCD | Google Tensor G2 | 8GB RAM",
+ "description": "Google Pixel Tablet with 128GB of storage, a 10.95-inch 2560 x 1600 LCD, the Google Tensor G2 chip with 8GB of RAM and a 27 Wh battery. Specifications were verified against Google's official Pixel Tablet technical specifications page.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "10.95-inch LCD, 2560 x 1600, 276 ppi"
+  },
+  {
+   "group": "Display",
+   "label": "Brightness",
+   "value": "500 nits (typical)"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Google Tensor G2 with Titan M2"
+  },
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "8GB LPDDR5 RAM, 128GB UFS 3.1"
+  },
+  {
+   "group": "Camera",
+   "label": "Rear camera",
+   "value": "8MP, f/2.0"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery",
+   "value": "27 Wh, up to 12 hours video streaming"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions",
+   "value": "258 x 169 x 8.1 mm"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "493 g"
+  }
+ ],
+ "highlights": [
+  "10.95-inch 2560 x 1600 LCD",
+  "Google Tensor G2 with Titan M2",
+  "Up to 12 hours of video streaming",
+  "USI 2.0 stylus support"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.google.com/googlepixeltablet/answer/13555146?hl=en",
+   "publisher": "Google LLC",
+   "final_url": "https://support.google.com/googlepixeltablet/answer/13555146?hl=en",
+   "retrieved_at": "2026-11-02T16:36:08+00:00",
+   "sha256": "eafeddf4c8f2abbb0662663c9f2a3c05569652299fd239b2e5a4d72febcb3dd1",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:19+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Google Pixel Tablet, shown in Shibuya Stream.jpg",
+   "categories": [
+    "Category:CC-Zero",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Google Pixel Tablet",
+    "Category:Google Shibuya office",
+    "Category:Japan photographs taken on 2023-10-17",
+    "Category:Self-published work",
+    "Category:Uploaded with Mobile/Android"
+   ],
+   "width": 4080,
+   "height": 3072,
+   "mime": "image/jpeg",
+   "sha1": "66e7eba4699a9168b7d2f7a8b25589cf05e0aaba",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Google_Pixel_Tablet%2C_shown_in_Shibuya_Stream.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Google_Pixel_Tablet%2C_shown_in_Shibuya_Stream.jpg/1280px-Google_Pixel_Tablet%2C_shown_in_Shibuya_Stream.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Google_Pixel_Tablet,_shown_in_Shibuya_Stream.jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "Syced",
+   "credit": "Own work",
+   "description": "Shibuya Stream (Skyscraper in Tokyo, Japan)",
+   "attribution_required": "false",
+   "index": 1,
+   "local_path": "/catalog-real/real-google-pixel-tablet-128gb/1.jpg",
+   "local_sha256": "890ee419cb39c5ae78a57ecd9a0611d1a8841e7895b5249e49ffd628682d6588",
+   "local_bytes": 152348
+  }
+ ]
+}

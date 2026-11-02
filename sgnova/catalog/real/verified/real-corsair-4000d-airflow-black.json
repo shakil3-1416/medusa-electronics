@@ -1,0 +1,118 @@
+{
+ "handle": "real-corsair-4000d-airflow-black",
+ "brand": "Corsair",
+ "model": "4000D AIRFLOW",
+ "mpn": "CC-9011200-WW",
+ "category_handle": "computer-case",
+ "title": "Corsair 4000D Airflow Tempered Glass Mid-Tower ATX Case, Black",
+ "subtitle": "Mid-tower | ATX / E-ATX | 360 mm radiator support",
+ "description": "Popular mid-tower case with a perforated steel front panel for strong airflow, a tempered glass side and a cable routing system behind the motherboard tray. Takes boards up to E-ATX and long graphics cards. Specifications checked against Corsair's official product page.",
+ "variant_title": "Black",
+ "specs": [
+  {
+   "group": "Compatibility",
+   "label": "Motherboard support",
+   "value": "Mini-ITX, Micro-ATX, ATX, E-ATX (305 x 277 mm)"
+  },
+  {
+   "group": "Dimensions",
+   "label": "Size (H x L x W)",
+   "value": "466 x 453 x 230 mm"
+  },
+  {
+   "group": "Compatibility",
+   "label": "Max GPU length",
+   "value": "360 mm"
+  },
+  {
+   "group": "Compatibility",
+   "label": "Max CPU cooler height",
+   "value": "170 mm"
+  },
+  {
+   "group": "Compatibility",
+   "label": "Max PSU length",
+   "value": "220 mm"
+  },
+  {
+   "group": "Cooling",
+   "label": "Front radiator support",
+   "value": "360 mm, 280 mm, 240 mm"
+  },
+  {
+   "group": "Cooling",
+   "label": "Front fan support",
+   "value": "3x 120 mm or 2x 140 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Front I/O",
+   "value": "1x USB 3.1 Type-C, 1x USB 3.0, audio in/out"
+  },
+  {
+   "group": "Build",
+   "label": "Expansion slots",
+   "value": "7 horizontal + 2 vertical"
+  },
+  {
+   "group": "Build",
+   "label": "Side panel",
+   "value": "Tempered glass"
+  },
+  {
+   "group": "Warranty",
+   "label": "Warranty",
+   "value": "2 years"
+  }
+ ],
+ "highlights": [
+  "Mid-tower, tempered glass side",
+  "Up to 360 mm GPU length",
+  "Front radiators up to 360 mm",
+  "USB 3.1 Type-C on front panel"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.corsair.com/us/en/p/pc-cases/cc-9011200-ww/4000d-airflow-tempered-glass-mid-tower-atx-case-black-cc-9011200-ww",
+   "publisher": "CORSAIR",
+   "final_url": "https://www.corsair.com/us/en/p/pc-cases/cc-9011200-ww/4000d-airflow-tempered-glass-mid-tower-atx-case-black-cc-9011200-ww",
+   "retrieved_at": "2026-11-02T16:49:19+00:00",
+   "sha256": "007162772b06533bd64572a282082d4d7c00d5262cc51617e725914397519447",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:52+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Corsair 4000D Airflow mid-tower ATX case.tif",
+   "categories": [
+    "Category:ATX computer cases",
+    "Category:CC-BY-SA-4.0",
+    "Category:Corsair products",
+    "Category:Open computer cases",
+    "Category:Self-published work",
+    "Category:Taken with Canon EOS R10"
+   ],
+   "width": 2810,
+   "height": 3635,
+   "mime": "image/tiff",
+   "sha1": "7845a45976f30db7da90a504bc655992f297cb4b",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Corsair_4000D_Airflow_mid-tower_ATX_case.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Corsair_4000D_Airflow_mid-tower_ATX_case.tif/lossy-page1-1280px-Corsair_4000D_Airflow_mid-tower_ATX_case.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Corsair_4000D_Airflow_mid-tower_ATX_case.tif",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "PJ",
+   "credit": "Own work",
+   "description": "A black Corsair 4000D Airflow mid-tower ATX computer case photographed against a white backdrop. The computer case has an open side and no internal components installed. It was manufactured in 2023.",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-corsair-4000d-airflow-black/1.jpg",
+   "local_sha256": "be0990f308ef8464af788a27dd0498de901bf7ca28749fdbbddba5eda5c3e3dd",
+   "local_bytes": 250132
+  }
+ ]
+}

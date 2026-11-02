@@ -1,0 +1,112 @@
+{
+ "handle": "real-amd-ryzen-7-7800x3d",
+ "brand": "AMD",
+ "model": "Ryzen 7 7800X3D",
+ "mpn": "100-100000910WOF",
+ "category_handle": "processor",
+ "title": "AMD Ryzen 7 7800X3D Desktop Processor",
+ "subtitle": "8 cores / 16 threads | 96 MB L3 with 3D V-Cache | AM5",
+ "description": "Eight-core Zen 4 gaming processor for AM5 that stacks extra cache on the die for a total of 96 MB L3. Supports DDR5 and PCIe 5.0; no cooler included. Specifications checked against AMD's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Processor",
+   "label": "Cores",
+   "value": "8"
+  },
+  {
+   "group": "Processor",
+   "label": "Threads",
+   "value": "16"
+  },
+  {
+   "group": "Clock",
+   "label": "Max boost clock",
+   "value": "Up to 5 GHz"
+  },
+  {
+   "group": "Clock",
+   "label": "Base clock",
+   "value": "4.2 GHz"
+  },
+  {
+   "group": "Cache",
+   "label": "L3 cache",
+   "value": "96 MB"
+  },
+  {
+   "group": "Power",
+   "label": "Default TDP",
+   "value": "120W"
+  },
+  {
+   "group": "Platform",
+   "label": "Socket",
+   "value": "AM5"
+  },
+  {
+   "group": "Platform",
+   "label": "PCI Express",
+   "value": "PCIe 5.0"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory type",
+   "value": "DDR5, 2 channels"
+  },
+  {
+   "group": "Graphics",
+   "label": "Integrated graphics",
+   "value": "AMD Radeon Graphics, 2 cores"
+  }
+ ],
+ "highlights": [
+  "8 cores, 16 threads",
+  "96 MB L3 cache",
+  "AM5 socket, DDR5",
+  "PCIe 5.0"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7800x3d.html",
+   "publisher": "Advanced Micro Devices, Inc.",
+   "final_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7800x3d.html",
+   "retrieved_at": "2026-11-02T16:30:45+00:00",
+   "sha256": "d5848127ac99f880c46c7c251abbab5c374f9d40ec98ed54ebd05d48ee06429c",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:36+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:AMD@5nmCCD(6nmIOD)@Zen4@Raphael@Ryzen 7 7800X3D@100-000000910 BS 2312PGY 9LW3390030138 DSCx01.jpg",
+   "categories": [
+    "Category:AMD Ryzen 7 7800X3D",
+    "Category:CC-Zero",
+    "Category:Files uploaded by PantheraLeo1359531",
+    "Category:Flickr images reviewed by FlickreviewR 2",
+    "Category:Photographs by Fritz Fritzchens"
+   ],
+   "width": 3034,
+   "height": 3034,
+   "mime": "image/jpeg",
+   "sha1": "2eac0efb2c70817318b647641ac05270b4cdd683",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/AMD%405nmCCD%286nmIOD%29%40Zen4%40Raphael%40Ryzen_7_7800X3D%40100-000000910_BS_2312PGY_9LW3390030138_DSCx01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/AMD%405nmCCD%286nmIOD%29%40Zen4%40Raphael%40Ryzen_7_7800X3D%40100-000000910_BS_2312PGY_9LW3390030138_DSCx01.jpg/1280px-AMD%405nmCCD%286nmIOD%29%40Zen4%40Raphael%40Ryzen_7_7800X3D%40100-000000910_BS_2312PGY_9LW3390030138_DSCx01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:AMD@5nmCCD(6nmIOD)@Zen4@Raphael@Ryzen_7_7800X3D@100-000000910_BS_2312PGY_9LW3390030138_DSCx01.jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "FritzchensFritz",
+   "credit": "https://www.flickr.com/photos/130561288@N04/52940218052/",
+   "description": "AMD Ryzen 7 7800X3D\n(Zen 4 | Raphael)",
+   "attribution_required": "false",
+   "index": 1,
+   "local_path": "/catalog-real/real-amd-ryzen-7-7800x3d/1.jpg",
+   "local_sha256": "299daa57a1b589abd2f7e66b6aa05742228b2f9ae30a0295ff0585582807c2bd",
+   "local_bytes": 522398
+  }
+ ]
+}

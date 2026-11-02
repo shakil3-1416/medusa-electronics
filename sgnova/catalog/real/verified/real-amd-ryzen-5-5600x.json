@@ -1,0 +1,110 @@
+{
+ "handle": "real-amd-ryzen-5-5600x",
+ "brand": "AMD",
+ "model": "Ryzen 5 5600X",
+ "mpn": "100-100000065BOX",
+ "category_handle": "processor",
+ "title": "AMD Ryzen 5 5600X Desktop Processor",
+ "subtitle": "6 cores / 12 threads | up to 4.6 GHz | Wraith Stealth cooler",
+ "description": "Six-core Zen 3 processor for AM4 boards, a popular mid-range gaming choice. The boxed version includes AMD's Wraith Stealth cooler. Specifications checked against AMD's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Processor",
+   "label": "Cores",
+   "value": "6"
+  },
+  {
+   "group": "Processor",
+   "label": "Threads",
+   "value": "12"
+  },
+  {
+   "group": "Clock",
+   "label": "Max boost clock",
+   "value": "Up to 4.6 GHz"
+  },
+  {
+   "group": "Clock",
+   "label": "Base clock",
+   "value": "3.7 GHz"
+  },
+  {
+   "group": "Cache",
+   "label": "L3 cache",
+   "value": "32 MB"
+  },
+  {
+   "group": "Power",
+   "label": "Default TDP",
+   "value": "65W"
+  },
+  {
+   "group": "Platform",
+   "label": "Socket",
+   "value": "AM4"
+  },
+  {
+   "group": "Cooling",
+   "label": "Bundled cooler",
+   "value": "AMD Wraith Stealth"
+  },
+  {
+   "group": "Platform",
+   "label": "PCI Express",
+   "value": "PCIe 4.0"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory support",
+   "value": "DDR4 up to 3200 MT/s"
+  }
+ ],
+ "highlights": [
+  "6 cores, 12 threads",
+  "Up to 4.6 GHz boost",
+  "65W TDP",
+  "Wraith Stealth cooler included"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-5-5600x.html",
+   "publisher": "Advanced Micro Devices, Inc.",
+   "final_url": "https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-5-5600x.html",
+   "retrieved_at": "2026-11-02T16:30:38+00:00",
+   "sha256": "c22506d6383ae96906aac05f25ec7d0bb6386f049e8d4173d446f47c795b4564",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:32+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:AMD Ryzen 5 5600X.jpg",
+   "categories": [
+    "Category:AMD Ryzen 5 5600X",
+    "Category:CC-BY-SA-4.0",
+    "Category:Self-published work"
+   ],
+   "width": 5028,
+   "height": 5024,
+   "mime": "image/jpeg",
+   "sha1": "1315cd7343cd68aeda6912c3f6a7055a22b92acc",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/AMD_Ryzen_5_5600X.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/AMD_Ryzen_5_5600X.jpg/1280px-AMD_Ryzen_5_5600X.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:AMD_Ryzen_5_5600X.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Phiarc",
+   "credit": "Own work",
+   "description": "Heatspreader of an AMD Ryzen 5 5600X",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-amd-ryzen-5-5600x/1.jpg",
+   "local_sha256": "22eaa2d112a956b9d1155efdf18c01adb498d9dccfa95d605402074dc1752317",
+   "local_bytes": 639909
+  }
+ ]
+}

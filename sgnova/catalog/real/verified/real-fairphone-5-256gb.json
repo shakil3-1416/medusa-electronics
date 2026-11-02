@@ -1,0 +1,96 @@
+{
+ "handle": "real-fairphone-5-256gb",
+ "brand": "Fairphone",
+ "model": "Fairphone 5",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Fairphone 5 (8GB/256GB)",
+ "subtitle": "6.46-inch OLED | Qualcomm QCM6490 | Modular and repairable",
+ "description": "Fairphone 5 in the 8GB RAM and 256GB storage version: a modular, user-repairable phone with a 6.46-inch OLED display, three 50MP cameras and the long-life Qualcomm QCM6490 chipset. Specifications were verified against Fairphone's official support FAQ for this model.",
+ "variant_title": "8GB/256GB",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.46-inch OLED"
+  },
+  {
+   "group": "Performance",
+   "label": "Chipset",
+   "value": "Qualcomm QCM6490"
+  },
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "8GB RAM, 256GB storage"
+  },
+  {
+   "group": "Camera",
+   "label": "Cameras",
+   "value": "Three 50MP ultra-wide cameras"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions",
+   "value": "161.60 x 75.83 x 9.6 mm"
+  },
+  {
+   "group": "Build",
+   "label": "Ingress protection",
+   "value": "IP55"
+  },
+  {
+   "group": "Software",
+   "label": "Security updates",
+   "value": "8 years"
+  }
+ ],
+ "highlights": [
+  "6.46-inch OLED display",
+  "Three 50MP cameras",
+  "Qualcomm QCM6490 long-life chipset",
+  "8 years of security updates"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.fairphone.com/hc/en-us/articles/18020671537041-Fairphone-5-FAQ",
+   "publisher": "Fairphone B.V.",
+   "final_url": "https://support.fairphone.com/hc/en-us/articles/18020671537041-Fairphone-5-Frequently-Asked-Questions-FAQ",
+   "retrieved_at": "2026-11-02T16:36:11+00:00",
+   "sha256": "e712224aacc48213f8f5d9bec2e25752d8f3fbfe42cf1d0ab398380129fc794a",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:23+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Fairphone 5 front.jpg",
+   "categories": [
+    "Category:CC-BY-4.0",
+    "Category:Fairphone 5",
+    "Category:Self-published work",
+    "Category:Taken with Nokia 4.2"
+   ],
+   "width": 2652,
+   "height": 3536,
+   "mime": "image/jpeg",
+   "sha1": "c79bd77312cd48d1c5cee867b922e8c7bf942a62",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Fairphone_5_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Fairphone_5_front.jpg/1280px-Fairphone_5_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Fairphone_5_front.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "S03311251",
+   "credit": "Own work",
+   "description": "The front side of Fairphone 5, showing the main page of Wikipedia.",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-fairphone-5-256gb/1.jpg",
+   "local_sha256": "178a40391bfc5968f56c1d19a77339a19996302ccfd7076a0d6c3db1df584b3a",
+   "local_bytes": 599473
+  }
+ ]
+}

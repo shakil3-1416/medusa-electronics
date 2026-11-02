@@ -1,0 +1,105 @@
+{
+ "handle": "real-google-pixel-7a-128gb",
+ "brand": "Google",
+ "model": "Pixel 7a",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Google Pixel 7a (128GB)",
+ "subtitle": "6.1-inch OLED 90Hz | Google Tensor G2 | 64MP camera",
+ "description": "Google Pixel 7a with 128GB of storage and 8GB of RAM, using the Google Tensor G2 chip, a 6.1-inch 90Hz OLED screen and a 64MP main camera with a 13MP ultrawide. Specifications were verified against Google's official Pixel hardware tech specs page.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.1-inch FHD+ OLED, 1080 x 2400 at 429 ppi, up to 90Hz"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Google Tensor G2"
+  },
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "8GB LPDDR5 RAM, 128GB UFS 3.1"
+  },
+  {
+   "group": "Camera",
+   "label": "Wide camera",
+   "value": "64MP, f/1.89"
+  },
+  {
+   "group": "Camera",
+   "label": "Ultrawide camera",
+   "value": "13MP, f/2.2, 120°"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery capacity",
+   "value": "4385 mAh typical (4300 mAh minimum)"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions",
+   "value": "152 x 72.9 x 9.0 mm"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "193.5 g"
+  }
+ ],
+ "highlights": [
+  "6.1-inch FHD+ OLED, up to 90Hz",
+  "Google Tensor G2 chip",
+  "64MP wide and 13MP ultrawide cameras",
+  "Qi-certified wireless charging"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 7a tech specs",
+   "scope_end": "tech specs",
+   "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "retrieved_at": "2026-11-02T16:29:27+00:00",
+   "sha256": "0f4a52cf5ffd0cb50001020950ea033036dc061faeb1c40b0fdf63beec941e0c",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:16+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Google Pixel 7A.jpg",
+   "categories": [
+    "Category:Backs of smartphones",
+    "Category:CC-BY-2.0",
+    "Category:Flickr images reviewed by FlickreviewR 2",
+    "Category:Google Pixel 7a",
+    "Category:Taken with iPhone 14 Pro Max",
+    "Category:White mobile phones"
+   ],
+   "width": 4032,
+   "height": 3024,
+   "mime": "image/jpeg",
+   "sha1": "a024f3308cdd2d3ec2653ac054756f525e0b0dd6",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Google_Pixel_7A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Google_Pixel_7A.jpg/1280px-Google_Pixel_7A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Google_Pixel_7A.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "artist": "Tatsuo Yamashita",
+   "credit": "https://www.flickr.com/photos/yto/53407514995/",
+   "description": "Google Pixel 7A",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-google-pixel-7a-128gb/1.jpg",
+   "local_sha256": "1c4b96e8124df03aa2cca852276ae35eba30fea67b642bf65d11cee87490f88d",
+   "local_bytes": 169857
+  }
+ ]
+}

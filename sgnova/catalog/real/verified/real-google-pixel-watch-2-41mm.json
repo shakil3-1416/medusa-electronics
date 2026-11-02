@@ -1,0 +1,94 @@
+{
+ "handle": "real-google-pixel-watch-2-41mm",
+ "brand": "Google",
+ "model": "Pixel Watch 2",
+ "mpn": null,
+ "category_handle": "smartwatch",
+ "title": "Google Pixel Watch 2 (41mm)",
+ "subtitle": "AMOLED up to 1000 nits | Snapdragon W5 Gen 1 | Wear OS",
+ "description": "Google Pixel Watch 2 with a 41mm recycled aluminium case, a 320 ppi AMOLED display, the Qualcomm Snapdragon W5 Gen 1 chip and up to 24 hours of battery life with always-on display. Specifications were verified against Google's official Pixel Watch technical specifications page.",
+ "variant_title": "41mm",
+ "specs": [
+  {
+   "group": "Build",
+   "label": "Size and weight",
+   "value": "41 mm diameter, 12.3 mm thick, 31 g without band"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "320 ppi AMOLED, up to 1000 nits"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "Qualcomm Snapdragon W5 Gen 1"
+  },
+  {
+   "group": "Memory",
+   "label": "Storage and RAM",
+   "value": "32GB eMMC, 2GB SDRAM"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery",
+   "value": "306 mAh, up to 24 hours with always-on display"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "5 ATM, IP68"
+  }
+ ],
+ "highlights": [
+  "41mm recycled aluminium case",
+  "Snapdragon W5 Gen 1",
+  "Up to 24 hours with always-on display",
+  "5 ATM and IP68"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.google.com/googlepixelwatch/answer/12651869?hl=en",
+   "publisher": "Google LLC",
+   "final_url": "https://support.google.com/googlepixelwatch/answer/12651869?hl=en",
+   "retrieved_at": "2026-11-02T16:38:54+00:00",
+   "sha256": "86f1b4801713c6202f80eb524ce2491906ede74ba3bed142968ac27e4907a9cf",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:21+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Google Pixel Watch 2, shown in Shibuya Stream.jpg",
+   "categories": [
+    "Category:CC-Zero",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Google Pixel smartwatches",
+    "Category:Google Shibuya office",
+    "Category:Japan photographs taken on 2023-10-17",
+    "Category:Self-published work",
+    "Category:Uploaded with Mobile/Android"
+   ],
+   "width": 3072,
+   "height": 4080,
+   "mime": "image/jpeg",
+   "sha1": "0e8b5aedc75281b7f7e2b9c86b0d788fdf049945",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Google_Pixel_Watch_2%2C_shown_in_Shibuya_Stream.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Google_Pixel_Watch_2%2C_shown_in_Shibuya_Stream.jpg/1280px-Google_Pixel_Watch_2%2C_shown_in_Shibuya_Stream.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Google_Pixel_Watch_2,_shown_in_Shibuya_Stream.jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "Syced",
+   "credit": "Own work",
+   "description": "Shibuya Stream (Skyscraper in Tokyo, Japan)",
+   "attribution_required": "false",
+   "index": 1,
+   "local_path": "/catalog-real/real-google-pixel-watch-2-41mm/1.jpg",
+   "local_sha256": "90d74792853bb4c365fa51b1214b60060a7db6f49b9fb73f0b1868326f53023d",
+   "local_bytes": 245979
+  }
+ ]
+}

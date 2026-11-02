@@ -1,0 +1,100 @@
+{
+ "handle": "real-apple-airpods-3",
+ "brand": "Apple",
+ "model": "AirPods 3",
+ "mpn": null,
+ "category_handle": "headphone",
+ "title": "Apple AirPods (3rd generation)",
+ "subtitle": "H1 chip | Spatial audio | IPX4 | Up to 30 hours with case",
+ "description": "Apple's open-fit wireless earbuds with the H1 chip, personalised spatial audio with head tracking, adaptive EQ and IPX4 sweat and water resistance. Specifications verified against Apple's official tech specs page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Audio",
+   "label": "Chip",
+   "value": "Apple H1 headphone chip"
+  },
+  {
+   "group": "Audio",
+   "label": "Spatial audio",
+   "value": "Personalized Spatial Audio with dynamic head tracking"
+  },
+  {
+   "group": "Battery",
+   "label": "Earbud battery",
+   "value": "Up to 6 hours listening"
+  },
+  {
+   "group": "Battery",
+   "label": "With charging case",
+   "value": "Up to 30 hours listening"
+  },
+  {
+   "group": "Durability",
+   "label": "Water resistance",
+   "value": "IPX4"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.0"
+  },
+  {
+   "group": "Physical",
+   "label": "Earbud weight",
+   "value": "4.28 g each"
+  },
+  {
+   "group": "Physical",
+   "label": "Case weight",
+   "value": "37.91 g"
+  }
+ ],
+ "highlights": [
+  "Apple H1 headphone chip",
+  "Personalized Spatial Audio with head tracking",
+  "Up to 6 hours per charge, 30 hours with case",
+  "IPX4 sweat and water resistant"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111863",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111863",
+   "retrieved_at": "2026-11-02T16:40:30+00:00",
+   "sha256": "c8563ee04ccc51b11b93a0ef54d78a277dd6af1c431c09176ba4d0f8e9e6b846",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:02:43+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:AirPods 3.jpg",
+   "categories": [
+    "Category:AirPods",
+    "Category:CC-Zero",
+    "Category:Self-published work"
+   ],
+   "width": 2120,
+   "height": 1763,
+   "mime": "image/jpeg",
+   "sha1": "6cb3c9c0f8877426b929ff476b4fac3eb7c8e8d4",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/AirPods_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/AirPods_3.jpg/1280px-AirPods_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:AirPods_3.jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "Yovt",
+   "credit": "Own work",
+   "description": "AirPods generation 3",
+   "attribution_required": "false",
+   "index": 1,
+   "local_path": "/catalog-real/real-apple-airpods-3/1.jpg",
+   "local_sha256": "41359798b90babd7ccccc046412630459f96f826bb1e435bb40b7f9bf55259dc",
+   "local_bytes": 161537
+  }
+ ]
+}

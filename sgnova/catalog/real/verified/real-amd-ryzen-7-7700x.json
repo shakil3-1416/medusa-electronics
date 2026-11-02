@@ -1,0 +1,111 @@
+{
+ "handle": "real-amd-ryzen-7-7700x",
+ "brand": "AMD",
+ "model": "Ryzen 7 7700X",
+ "mpn": "100-100000591WOF",
+ "category_handle": "processor",
+ "title": "AMD Ryzen 7 7700X Desktop Processor",
+ "subtitle": "8 cores / 16 threads | up to 5.4 GHz | AM5",
+ "description": "Eight-core Zen 4 processor for the AM5 platform with high single-core clocks, DDR5 memory and PCIe 5.0 support, plus basic integrated Radeon graphics. No cooler in the box. Specifications checked against AMD's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Processor",
+   "label": "Cores",
+   "value": "8"
+  },
+  {
+   "group": "Processor",
+   "label": "Threads",
+   "value": "16"
+  },
+  {
+   "group": "Clock",
+   "label": "Max boost clock",
+   "value": "Up to 5.4 GHz"
+  },
+  {
+   "group": "Clock",
+   "label": "Base clock",
+   "value": "4.5 GHz"
+  },
+  {
+   "group": "Cache",
+   "label": "L3 cache",
+   "value": "32 MB"
+  },
+  {
+   "group": "Power",
+   "label": "Default TDP",
+   "value": "105W"
+  },
+  {
+   "group": "Platform",
+   "label": "Socket",
+   "value": "AM5"
+  },
+  {
+   "group": "Platform",
+   "label": "PCI Express",
+   "value": "PCIe 5.0"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory type",
+   "value": "DDR5, 2 channels"
+  },
+  {
+   "group": "Graphics",
+   "label": "Integrated graphics",
+   "value": "AMD Radeon Graphics, 2 cores"
+  }
+ ],
+ "highlights": [
+  "8 cores, 16 threads",
+  "Up to 5.4 GHz boost",
+  "AM5 socket, DDR5",
+  "PCIe 5.0"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7700x.html",
+   "publisher": "Advanced Micro Devices, Inc.",
+   "final_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7700x.html",
+   "retrieved_at": "2026-11-02T16:57:53+00:00",
+   "sha256": "88b6814a00f9dc46e4e39af6dcb3b918dd891cfcb8c0511352dd30771b3d44b3",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T17:01:54+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Ryzen update to gaming PC (Ryzen 7 7700X).jpg",
+   "categories": [
+    "Category:AMD Ryzen 7 7700X",
+    "Category:CC-BY-2.0",
+    "Category:Files uploaded by PantheraLeo1359531",
+    "Category:Flickr images reviewed by FlickreviewR 2"
+   ],
+   "width": 2150,
+   "height": 2465,
+   "mime": "image/jpeg",
+   "sha1": "136bec7a1aa1837ab34e35814b0033416d261177",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Ryzen_update_to_gaming_PC_%28Ryzen_7_7700X%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Ryzen_update_to_gaming_PC_%28Ryzen_7_7700X%29.jpg/1280px-Ryzen_update_to_gaming_PC_%28Ryzen_7_7700X%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ryzen_update_to_gaming_PC_(Ryzen_7_7700X).jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "artist": "Blake Patterson",
+   "credit": "https://www.flickr.com/photos/blakespot/52625467166/",
+   "description": "Upgrade from Skylake i7-6700K to Ryzen 7 7700X",
+   "attribution_required": "true",
+   "index": 1,
+   "local_path": "/catalog-real/real-amd-ryzen-7-7700x/1.jpg",
+   "local_sha256": "45ea1ed5fe5514402a0d453aef9a0aca4212663a98989290536406ca8bebde5e",
+   "local_bytes": 629409
+  }
+ ]
+}
