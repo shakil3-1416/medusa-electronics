@@ -1,0 +1,121 @@
+{
+ "handle": "real-ubiquiti-nsm5",
+ "brand": "Ubiquiti",
+ "model": "NanoStation M5",
+ "mpn": "NSM5",
+ "category_handle": "router",
+ "title": "Ubiquiti airMAX NanoStation M5",
+ "subtitle": "5 GHz airMAX | 16 dBi dual-polarity | 2 x 10/100",
+ "description": "Classic outdoor 5 GHz airMAX station with a dual-polarity panel antenna and two Ethernet ports, widely used for rural links and hotspot backhaul. Specifications verified against Ubiquiti's official tech specs page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "2 x 10/100 RJ45"
+  },
+  {
+   "group": "Wireless",
+   "label": "Antenna gain",
+   "value": "14.6-16.1 dBi"
+  },
+  {
+   "group": "Power",
+   "label": "Power supply",
+   "value": "24 V, 0.5 A PoE adapter (included)"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "8 W"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "294 x 31 x 80 mm"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight",
+   "value": "400 g"
+  }
+ ],
+ "highlights": [
+  "5 GHz airMAX",
+  "14.6-16.1 dBi antenna",
+  "Two 10/100 Ethernet ports",
+  "PoE adapter included"
+ ],
+ "review_notes": [
+  "Category router used for an outdoor wireless station."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://techspecs.ui.com/uisp/wireless/nsm5",
+   "publisher": "Ubiquiti",
+   "final_url": "https://techspecs.ui.com/uisp/wireless/nsm5",
+   "retrieved_at": "2026-11-02T17:57:23+00:00",
+   "sha256": "6abf020723f4655974c53cbe81c9b906d175d13766ec223a60d62aae037f5262",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:07:51+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Ubiquiti NanoStation M5 P1110402.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Hausfotografie temporärhaus (2026)",
+    "Category:Self-published work",
+    "Category:Ubiquiti NanoStation M5"
+   ],
+   "width": 4016,
+   "height": 6022,
+   "mime": "image/jpeg",
+   "sha1": "b0533b5018dfce697066ce3b730f6e437a6dd1ae",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Ubiquiti_NanoStation_M5_P1110402.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Ubiquiti_NanoStation_M5_P1110402.jpg/1280px-Ubiquiti_NanoStation_M5_P1110402.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ubiquiti_NanoStation_M5_P1110402.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "-stk",
+   "credit": "Own work",
+   "description": "Ubiquiti NanoStation M5 WiFi access point or point to point wireless bridge (5GHz band)",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-ubiquiti-nsm5/1-card.jpg",
+   "local_path": "/catalog-real/real-ubiquiti-nsm5/1.jpg",
+   "local_sha256": "aded5dadf7e635ebd2a5cf4cd6b0cde87ce82786440e5e4aec1f2d25c5d16fe3",
+   "local_bytes": 55692
+  },
+  {
+   "title": "File:Ubiquiti NanoStation M5 P1110403.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Hausfotografie temporärhaus (2026)",
+    "Category:Self-published work",
+    "Category:Ubiquiti NanoStation M5"
+   ],
+   "width": 2105,
+   "height": 3157,
+   "mime": "image/jpeg",
+   "sha1": "b270102c6ad5412292b1bf1d3d0a3dcfbd3b5c01",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Ubiquiti_NanoStation_M5_P1110403.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Ubiquiti_NanoStation_M5_P1110403.jpg/1280px-Ubiquiti_NanoStation_M5_P1110403.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ubiquiti_NanoStation_M5_P1110403.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "-stk",
+   "credit": "Own work",
+   "description": "Ubiquiti NanoStation M5 WiFi access point or point to point wireless bridge (5GHz band)",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-ubiquiti-nsm5/2-card.jpg",
+   "local_path": "/catalog-real/real-ubiquiti-nsm5/2.jpg",
+   "local_sha256": "2af65717e6b7a94c7aa155b1b378086b8f040eb97ea55fb90904b362940c4e80",
+   "local_bytes": 71871
+  }
+ ]
+}

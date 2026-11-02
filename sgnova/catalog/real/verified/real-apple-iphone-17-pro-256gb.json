@@ -1,0 +1,173 @@
+{
+ "handle": "real-apple-iphone-17-pro-256gb",
+ "brand": "Apple",
+ "model": "iPhone 17 Pro",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 17 Pro (256GB)",
+ "subtitle": "6.3-inch all-screen OLED | A19 Pro | 256GB",
+ "description": "Apple iPhone 17 Pro smartphone in the 256GB storage configuration. It runs on the A19 Pro chip and has a 6.3-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "256GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "256GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.3-inch all-screen OLED display"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2622 x 1206 at 460 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A19 Pro, 6-core CPU, 6-core GPU"
+  },
+  {
+   "group": "Camera",
+   "label": "Main camera",
+   "value": "48MP, f/2.2"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "IP68, up to 6 m for 30 minutes"
+  },
+  {
+   "group": "Battery",
+   "label": "Video playback",
+   "value": "Up to 33 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "206 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "150.0 x 71.9 x 8.75 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "Wi-Fi 7 (802.11be)"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "USB-C"
+  }
+ ],
+ "highlights": [
+  "6.3-inch all-screen OLED display",
+  "2622 x 1206 at 460 ppi resolution",
+  "A19 Pro, 6-core CPU, 6-core GPU chip",
+  "Main camera: 48MP, f/2.2"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/125090",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/125090",
+   "retrieved_at": "2026-11-02T17:46:33+00:00",
+   "sha256": "ad7189685cb9b5cc72ab7346f42014c30e798755fed102e228d6e83c8687439b",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:05:23+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPhone 17 Pro (Silver) - Backside.jpg",
+   "categories": [
+    "Category:Backs of iPhones",
+    "Category:CC-Zero",
+    "Category:IPhone 17 Pro",
+    "Category:Self-published work"
+   ],
+   "width": 3261,
+   "height": 4284,
+   "mime": "image/jpeg",
+   "sha1": "70d8961af0d451cde0961b7702bc6d476cc2cad0",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/IPhone_17_Pro_%28Silver%29_-_Backside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/IPhone_17_Pro_%28Silver%29_-_Backside.jpg/1280px-IPhone_17_Pro_%28Silver%29_-_Backside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_17_Pro_(Silver)_-_Backside.jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "AzureSaturn",
+   "credit": "Own work",
+   "description": "A backside view of the iPhone 17 Pro in Silver.",
+   "attribution_required": "false",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-17-pro-256gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-17-pro-256gb/1.jpg",
+   "local_sha256": "bcdd82cfa76be43d2ce51279c0cfb050f7924d4c2c4fcc2e702554403bb59080",
+   "local_bytes": 162917
+  },
+  {
+   "title": "File:IPhone 17 Pro backside (Deep Blue) (Oct 1, 2025).jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Gain-mapped HDR images of phones",
+    "Category:IPhone 17 Pro",
+    "Category:Self-published work",
+    "Category:Taken with iPhone 17"
+   ],
+   "width": 1536,
+   "height": 2048,
+   "mime": "image/jpeg",
+   "sha1": "8524fe69ab9dc8ec7bfe6ce705d01a6508464c71",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/IPhone_17_Pro_backside_%28Deep_Blue%29_%28Oct_1%2C_2025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/IPhone_17_Pro_backside_%28Deep_Blue%29_%28Oct_1%2C_2025%29.jpg/1280px-IPhone_17_Pro_backside_%28Deep_Blue%29_%28Oct_1%2C_2025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_17_Pro_backside_(Deep_Blue)_(Oct_1,_2025).jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "茅野ふたば",
+   "credit": "Own work",
+   "description": "iPhone 17 Pro backside (Deep Blue).",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-17-pro-256gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-17-pro-256gb/2.jpg",
+   "local_sha256": "39669b3b1eaab807b5e3d7dba04c11dd0a08ec31e09660b74107fafb955eaae2",
+   "local_bytes": 165527
+  },
+  {
+   "title": "File:IPhone 17 Pro (2025-12-28).jpg",
+   "categories": [
+    "Category:CC-Zero",
+    "Category:IPhone 17 Pro",
+    "Category:Self-published work",
+    "Category:Taken with iPhone 16"
+   ],
+   "width": 4032,
+   "height": 3024,
+   "mime": "image/jpeg",
+   "sha1": "0146d84c0dc0d0bfc80a42460ee6da6211e3b98e",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/IPhone_17_Pro_%282025-12-28%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/IPhone_17_Pro_%282025-12-28%29.jpg/1280px-IPhone_17_Pro_%282025-12-28%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_17_Pro_(2025-12-28).jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "Olgierd Rudak",
+   "credit": "Own work",
+   "description": "iPhone 17 Pro silver",
+   "attribution_required": "false",
+   "index": 3,
+   "card_path": "/catalog-real/real-apple-iphone-17-pro-256gb/3-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-17-pro-256gb/3.jpg",
+   "local_sha256": "32ab6444fab581f991e1dfc120045e9cd12541c542759a822761e689228af1cb",
+   "local_bytes": 350546
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "handle": "real-oneplus-8t-8gb-128gb",
+ "brand": "OnePlus",
+ "model": "OnePlus 8T",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "OnePlus 8T (8GB+128GB)",
+ "subtitle": "6.55-inch 120Hz Fluid AMOLED | Snapdragon 865 | Warp Charge 65",
+ "description": "OnePlus 8T with 8GB of LPDDR4X RAM and 128GB of UFS 3.1 storage, a 6.55-inch 120Hz Fluid AMOLED display, the Snapdragon 865, a 48MP Sony IMX586 main camera with OIS and a 4500mAh battery with Warp Charge 65. Specifications were verified against OnePlus's official specs page.",
+ "variant_title": "8GB+128GB",
+ "specs": [
+  {
+   "group": "Build",
+   "label": "Dimensions and weight",
+   "value": "160.7 x 74.1 x 8.4 mm, 188 g"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.55-inch, 2400 x 1080, 402 ppi, 120Hz Fluid AMOLED"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Snapdragon 865"
+  },
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "8GB LPDDR4X, 128GB UFS 3.1"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery and charging",
+   "value": "4500mAh, Warp Charge 65"
+  },
+  {
+   "group": "Camera",
+   "label": "Main camera",
+   "value": "48MP Sony IMX586"
+  },
+  {
+   "group": "Camera",
+   "label": "Ultra-wide camera",
+   "value": "16MP, f/2.2, 123°"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "16MP Sony IMX471, f/2.4"
+  }
+ ],
+ "highlights": [
+  "6.55-inch 120Hz Fluid AMOLED",
+  "Snapdragon 865",
+  "48MP main camera with OIS",
+  "4500mAh with Warp Charge 65"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.oneplus.com/global/8t/specs",
+   "publisher": "OnePlus",
+   "final_url": "https://www.oneplus.com/global/8t/specs",
+   "retrieved_at": "2026-11-02T17:59:25+00:00",
+   "sha256": "291c798fd12bf9067d9e7ead02bff9be015392895f678f55357bce58bf41ef97",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:10:09+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:OnePlus 8T.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Front of smartphones",
+    "Category:OnePlus 8T",
+    "Category:Self-published work",
+    "Category:Silver-colored mobile phones",
+    "Category:Taken with OnePlus 5",
+    "Category:Time 18:31"
+   ],
+   "width": 2592,
+   "height": 4608,
+   "mime": "image/jpeg",
+   "sha1": "51329eb91790b43e9800a173c29f0e5ae675762c",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/OnePlus_8T.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/OnePlus_8T.jpg/1280px-OnePlus_8T.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:OnePlus_8T.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Easterlies",
+   "credit": "Own work",
+   "description": "​一加手机8T",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-oneplus-8t-8gb-128gb/1-card.jpg",
+   "local_path": "/catalog-real/real-oneplus-8t-8gb-128gb/1.jpg",
+   "local_sha256": "cad780a986e55a684ba801a6251be1ffd93d06871ca8caa1f89063f5b6243b79",
+   "local_bytes": 154672
+  },
+  {
+   "title": "File:OnePlus 8T Front View.png",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Front of smartphones",
+    "Category:OnePlus 8T",
+    "Category:Self-published work",
+    "Category:Time 08:37"
+   ],
+   "width": 1106,
+   "height": 2389,
+   "mime": "image/png",
+   "sha1": "1951107df4156fa17f1938b44a24d5648f6c5b9c",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/OnePlus_8T_Front_View.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/OnePlus_8T_Front_View.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "page_url": "https://commons.wikimedia.org/wiki/File:OnePlus_8T_Front_View.png",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Willwongprd",
+   "credit": "Own work",
+   "description": "Front view of OnePlus 8T, displaying the lockscreen of HydrogenOS 11, with sandstone bumper case from OnePlus.",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-oneplus-8t-8gb-128gb/2-card.jpg",
+   "local_path": "/catalog-real/real-oneplus-8t-8gb-128gb/2.png",
+   "local_sha256": "eea83e994fde83d1d930cf7b86c673f363b51473aed866a7eba2db0a0cc8a787",
+   "local_bytes": 269131
+  }
+ ]
+}

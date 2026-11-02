@@ -1,0 +1,150 @@
+{
+ "handle": "real-apple-iphone-15-plus-128gb",
+ "brand": "Apple",
+ "model": "iPhone 15 Plus",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 15 Plus (128GB)",
+ "subtitle": "6.7-inch all-screen OLED | A16 Bionic | 128GB",
+ "description": "Apple iPhone 15 Plus smartphone in the 128GB storage configuration. It runs on the A16 Bionic chip and has a 6.7-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "128GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.7-inch all-screen OLED display"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2796 x 1290 at 460 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A16 Bionic, 6-core CPU, 5-core GPU"
+  },
+  {
+   "group": "Camera",
+   "label": "Main camera",
+   "value": "48MP, f/1.6"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "IP68, up to 6 m for 30 minutes"
+  },
+  {
+   "group": "Battery",
+   "label": "Video playback",
+   "value": "Up to 26 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "201 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "160.9 x 77.8 x 7.80 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "Wi-Fi 6 (802.11ax)"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.3"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "USB-C"
+  }
+ ],
+ "highlights": [
+  "6.7-inch all-screen OLED display",
+  "2796 x 1290 at 460 ppi resolution",
+  "A16 Bionic, 6-core CPU, 5-core GPU chip",
+  "Main camera: 48MP, f/1.6"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111830",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111830",
+   "retrieved_at": "2026-11-02T18:33:28+00:00",
+   "sha256": "e6191e7b45d155a6cef06a86897243a6138729b27cfdec70b79ef6b20809463e",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:04:50+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPhone 15 Plus 2024.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:IPhone 15 Plus",
+    "Category:Self-published work"
+   ],
+   "width": 4312,
+   "height": 5760,
+   "mime": "image/jpeg",
+   "sha1": "c841a9d0195ce074aede116691fe6b2bb59cfff8",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/IPhone_15_Plus_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/IPhone_15_Plus_2024.jpg/1280px-IPhone_15_Plus_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_15_Plus_2024.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Captainmorlypogi1959",
+   "credit": "Own work",
+   "description": "iPhone 15 Plus was released in September 22, 2023. Photo locationː Timeline Apple Store - SM City Cabanatuan. Km. 112 Maharlika Highway, Barangay Hermogenes C. Concepcion, Sr. (Pambuan), Cabanatuan City, Nueva Ecija 🇵🇭",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-15-plus-128gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-15-plus-128gb/1.jpg",
+   "local_sha256": "d82cdfa051cb84f8a03967509db87e3eba2e8bcbb03ae9742b5fc5d061c6901c",
+   "local_bytes": 119000
+  },
+  {
+   "title": "File:IPhone 15 Plus, January 28, 2024.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2024-01-28",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 15 Plus",
+    "Category:Self-published work",
+    "Category:Taken with Meizu 20"
+   ],
+   "width": 2292,
+   "height": 4080,
+   "mime": "image/jpeg",
+   "sha1": "034d459cb2e8b9d00a8ec96c262cfd33e494fd91",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/IPhone_15_Plus%2C_January_28%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/IPhone_15_Plus%2C_January_28%2C_2024.jpg/1280px-IPhone_15_Plus%2C_January_28%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_15_Plus,_January_28,_2024.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "メイド理世",
+   "credit": "Own work",
+   "description": "iPhone 15 Plus",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-15-plus-128gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-15-plus-128gb/2.jpg",
+   "local_sha256": "60cd9e82476e755bb517294d5b0dac964f640ce04a7a8a9eb3f3ad5714a2b587",
+   "local_bytes": 115633
+  }
+ ]
+}

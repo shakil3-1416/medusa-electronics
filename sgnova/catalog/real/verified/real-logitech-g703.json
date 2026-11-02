@@ -1,0 +1,95 @@
+{
+ "handle": "real-logitech-g703",
+ "brand": "Logitech",
+ "model": "G703",
+ "mpn": null,
+ "category_handle": "gaming-mouse",
+ "title": "Logitech G703 LIGHTSPEED Wireless Gaming Mouse",
+ "subtitle": "LIGHTSPEED | 1 ms | POWERPLAY compatible",
+ "description": "Right-handed ergonomic wireless gaming mouse with LIGHTSPEED wireless, rubber side grips and POWERPLAY wireless charging support. Specifications verified against Logitech's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Report rate",
+   "value": "1 ms"
+  },
+  {
+   "group": "Performance",
+   "label": "Sensor",
+   "value": "PMW3366"
+  },
+  {
+   "group": "Performance",
+   "label": "DPI range",
+   "value": "200-12000"
+  },
+  {
+   "group": "Design",
+   "label": "Grips",
+   "value": "Rubber left and right"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wireless",
+   "value": "LIGHTSPEED"
+  },
+  {
+   "group": "Power",
+   "label": "Wireless charging",
+   "value": "POWERPLAY compatible"
+  }
+ ],
+ "highlights": [
+  "LIGHTSPEED wireless",
+  "1 ms report rate wired or wireless",
+  "200-12000 DPI range",
+  "POWERPLAY compatible"
+ ],
+ "review_notes": [
+  "Page describes the PMW3366 version of G703."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.logitechg.com/en-us/shop/p/g703-wireless-gaming-mouse",
+   "publisher": "Logitech",
+   "final_url": "https://www.logitechg.com/en-us/shop/p/g703-wireless-gaming-mouse",
+   "retrieved_at": "2026-11-02T18:05:53+00:00",
+   "sha256": "5cb4fd230c81241070497f2abf94be5a2718a42944fa6c31b9f92bf91e4d7c0d",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:08:45+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Logitech(G703) mouse.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Cordless Logitech mice",
+    "Category:Files with coordinates missing SDC location of creation (34° S, 151° E)",
+    "Category:Logitech G mice",
+    "Category:Self-published work"
+   ],
+   "width": 1280,
+   "height": 720,
+   "mime": "image/jpeg",
+   "sha1": "e5048fe4b8a46130bbfb7a3263e83a4f3379f79e",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logitech%28G703%29_mouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logitech%28G703%29_mouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Logitech(G703)_mouse.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Slackman12",
+   "credit": "Own work",
+   "description": "A logitech mouse on top of a mousepad",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-logitech-g703/1-card.jpg",
+   "local_path": "/catalog-real/real-logitech-g703/1.jpg",
+   "local_sha256": "cf7fb1e53fdc7b158fca6941d05abd4e18bc65ae0c1b700e9d8d451cf3f5b5ef",
+   "local_bytes": 117781
+  }
+ ]
+}

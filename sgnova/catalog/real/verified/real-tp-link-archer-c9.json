@@ -1,0 +1,131 @@
+{
+ "handle": "real-tp-link-archer-c9",
+ "brand": "TP-Link",
+ "model": "Archer C9",
+ "mpn": null,
+ "category_handle": "router",
+ "title": "TP-Link Archer C9 AC1900 Dual-Band Router",
+ "subtitle": "AC1900 | Gigabit | USB 3.0 + USB 2.0",
+ "description": "Dual-band AC1900 home router with three detachable antennas, four Gigabit LAN ports and USB 3.0 and USB 2.0 ports for shared storage. Specifications verified against TP-Link's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Wireless",
+   "label": "Wi-Fi class",
+   "value": "AC1900"
+  },
+  {
+   "group": "Wireless",
+   "label": "5 GHz rate",
+   "value": "1300 Mbps"
+  },
+  {
+   "group": "Wireless",
+   "label": "2.4 GHz rate",
+   "value": "600 Mbps"
+  },
+  {
+   "group": "Wireless",
+   "label": "Antennas",
+   "value": "3 detachable"
+  },
+  {
+   "group": "Hardware",
+   "label": "Processor",
+   "value": "1.8 GHz 64-bit quad-core"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "1 x Gigabit WAN, 4 x Gigabit LAN"
+  },
+  {
+   "group": "Connectivity",
+   "label": "USB",
+   "value": "1 x USB 3.0, 1 x USB 2.0"
+  },
+  {
+   "group": "Power",
+   "label": "Power",
+   "value": "12 V 3.3 A"
+  }
+ ],
+ "highlights": [
+  "AC1900 dual-band Wi-Fi 5",
+  "1.8 GHz quad-core CPU",
+  "Gigabit WAN + 4 Gigabit LAN",
+  "USB 3.0 and USB 2.0"
+ ],
+ "review_notes": [
+  "Specs follow the current hardware version listed on TP-Link's page; the Commons photo may show an earlier hardware revision of the same model."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-c9/",
+   "publisher": "TP-Link",
+   "final_url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-c9/",
+   "retrieved_at": "2026-11-02T18:01:02+00:00",
+   "sha256": "95d37bce7874126b7a4a45bb2829f2099df49722bbee6e1d4bddb0882edff0c8",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:07:56+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:TP-Link Archer C9 1.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Self-published work",
+    "Category:Wi-Fi routers and access points"
+   ],
+   "width": 2483,
+   "height": 3357,
+   "mime": "image/jpeg",
+   "sha1": "fbca5592015031222ea2be8d335839d2c272ea00",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/TP-Link_Archer_C9_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/TP-Link_Archer_C9_1.jpg/1280px-TP-Link_Archer_C9_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:TP-Link_Archer_C9_1.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Jb17394",
+   "credit": "Own work",
+   "description": "TP-Link Archer C9 router used to create a wireless network",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-tp-link-archer-c9/1-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-archer-c9/1.jpg",
+   "local_sha256": "443b028fc875369db2fc83820b100182ccb08b26cb6b731f60a2fbf43846be46",
+   "local_bytes": 170479
+  },
+  {
+   "title": "File:TP-LINK Archer C9 AC1900Gigabit無線AP (23163080253).jpg",
+   "categories": [
+    "Category:CC-BY-SA-2.0",
+    "Category:Flickr images missing SDC published in",
+    "Category:Flickr images reviewed by FlickreviewR 2",
+    "Category:TP-Link Archer C9"
+   ],
+   "width": 1200,
+   "height": 1600,
+   "mime": "image/jpeg",
+   "sha1": "0c6b77d057e4184e62bf04ed64d622c42cf834e0",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/TP-LINK_Archer_C9_AC1900Gigabit%E7%84%A1%E7%B7%9AAP_%2823163080253%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/TP-LINK_Archer_C9_AC1900Gigabit%E7%84%A1%E7%B7%9AAP_%2823163080253%29.jpg/960px-TP-LINK_Archer_C9_AC1900Gigabit%E7%84%A1%E7%B7%9AAP_%2823163080253%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:TP-LINK_Archer_C9_AC1900Gigabit%E7%84%A1%E7%B7%9AAP_(23163080253).jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "artist": "Kenming Wang from Taipei, Taiwan",
+   "credit": "TP-LINK Archer C9 AC1900Gigabit無線AP",
+   "description": "TP-LINK Archer C9 AC1900Gigabit無線AP",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-tp-link-archer-c9/2-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-archer-c9/2.jpg",
+   "local_sha256": "821895ac0515bd571ba7fcc8d065f37bac443ae66266c8f81106768c64833cf2",
+   "local_bytes": 146641
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "handle": "real-apple-iphone-7-plus-32gb",
+ "brand": "Apple",
+ "model": "iPhone 7 Plus",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 7 Plus (32GB)",
+ "subtitle": "5.5-inch widescreen LCD | A10 Fusion | 32GB",
+ "description": "Apple iPhone 7 Plus smartphone in the 32GB storage configuration. It runs on the A10 Fusion chip and has a 5.5-inch widescreen LCD screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "32GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "32GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "5.5-inch widescreen LCD Multi-Touch display with IPS technology"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "1920 x 1080 at 401 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A10 Fusion"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "IP67, up to 1 m for 30 minutes"
+  },
+  {
+   "group": "Battery",
+   "label": "Video playback",
+   "value": "Up to 14 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "188 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "158.2 x 77.9 x 7.3 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "802.11ac Wi-Fi"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 4.2"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "Lightning"
+  }
+ ],
+ "highlights": [
+  "5.5-inch widescreen LCD display",
+  "1920 x 1080 at 401 ppi resolution",
+  "A10 Fusion chip",
+  "Water resistance: IP67, up to 1 m for 30 minutes"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111953",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111953",
+   "retrieved_at": "2026-11-02T18:47:17+00:00",
+   "sha256": "a4eb68f9ac33abc7f887d7e374a4de8d002127cf3dac388d185bd50e747b6c87",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:05:34+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPhone 7 Plus Rose Gold 128GB 01.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Front of smartphones",
+    "Category:IPhone 7 Plus",
+    "Category:Photographs by Indrajit Das",
+    "Category:Pink mobile phones",
+    "Category:Self-published work",
+    "Category:Taken with iPhone 12 Pro Max"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "9d398bcd4b4c3e85d82afa0ac7ab9841b7fc84f6",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/IPhone_7_Plus_Rose_Gold_128GB_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/IPhone_7_Plus_Rose_Gold_128GB_01.jpg/1280px-IPhone_7_Plus_Rose_Gold_128GB_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_7_Plus_Rose_Gold_128GB_01.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Indrajit Das",
+   "credit": "Own work",
+   "description": "IPhone 7 Plus Rose Gold 128GB",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-7-plus-32gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-7-plus-32gb/1.jpg",
+   "local_sha256": "cb2cc0935531254636fe0b1ef1fd3dc5f306b66c86c34e189f6162f08fa16b49",
+   "local_bytes": 191700
+  },
+  {
+   "title": "File:IPhone 7 Plus Black dual camera back.jpg",
+   "categories": [
+    "Category:Backs of iPhones",
+    "Category:Black mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:IPhone 7 Plus",
+    "Category:Self-published work"
+   ],
+   "width": 4032,
+   "height": 3024,
+   "mime": "image/jpeg",
+   "sha1": "973a436f3f91aac2e4d42713e04d2083a6f4e862",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/IPhone_7_Plus_Black_dual_camera_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/IPhone_7_Plus_Black_dual_camera_back.jpg/1280px-IPhone_7_Plus_Black_dual_camera_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_7_Plus_Black_dual_camera_back.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Amin",
+   "credit": "Own work",
+   "description": "iPhone 7 Plus Black dual camera back",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-7-plus-32gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-7-plus-32gb/2.jpg",
+   "local_sha256": "3853657fc5f4e1c564240670b01d261f35c896a14ff87e1c25940637ec819455",
+   "local_bytes": 199639
+  }
+ ]
+}

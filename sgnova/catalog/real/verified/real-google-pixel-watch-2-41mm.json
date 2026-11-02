@@ -57,7 +57,7 @@
    "sha256": "86f1b4801713c6202f80eb524ce2491906ede74ba3bed142968ac27e4907a9cf",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:01:21+00:00",
+  "verified_at": "2026-11-02T18:58:09+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -86,9 +86,10 @@
    "description": "Shibuya Stream (Skyscraper in Tokyo, Japan)",
    "attribution_required": "false",
    "index": 1,
+   "card_path": "/catalog-real/real-google-pixel-watch-2-41mm/1-card.jpg",
    "local_path": "/catalog-real/real-google-pixel-watch-2-41mm/1.jpg",
-   "local_sha256": "90d74792853bb4c365fa51b1214b60060a7db6f49b9fb73f0b1868326f53023d",
-   "local_bytes": 245979
+   "local_sha256": "58e6f8f405f1e8da0b947eec7bf0148dd90390c605572f7221b5150b3e84edec",
+   "local_bytes": 144415
   }
  ]
 }

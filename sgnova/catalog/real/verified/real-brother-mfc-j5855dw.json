@@ -1,0 +1,112 @@
+{
+ "handle": "real-brother-mfc-j5855dw",
+ "brand": "Brother",
+ "model": "MFC-J5855DW",
+ "mpn": "MFCJ5855DW",
+ "category_handle": "printer",
+ "title": "Brother MFC-J5855DW INKvestment Colour Inkjet All-in-One",
+ "subtitle": "Print, copy, scan, fax | Up to 11 x 17 in printing | Dual-band Wi-Fi",
+ "description": "Colour inkjet multifunction printer that prints up to ledger size, copies, scans and faxes through a 50-page document feeder, and connects over dual-band Wi-Fi, Ethernet or USB. Specifications verified against Brother's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Print",
+   "label": "Print speed",
+   "value": "Up to 30 ppm (black and colour)"
+  },
+  {
+   "group": "Print",
+   "label": "Print resolution",
+   "value": "4800 x 1200 dpi"
+  },
+  {
+   "group": "Print",
+   "label": "First page out",
+   "value": "4.4 s (black) / 4.6 s (colour)"
+  },
+  {
+   "group": "Paper handling",
+   "label": "Paper tray",
+   "value": "250 sheets"
+  },
+  {
+   "group": "Paper handling",
+   "label": "Multipurpose tray",
+   "value": "100 sheets"
+  },
+  {
+   "group": "Paper handling",
+   "label": "Automatic document feeder",
+   "value": "50 pages"
+  },
+  {
+   "group": "Scan",
+   "label": "Simplex scan speed",
+   "value": "25 ipm / 25 ipm (black / colour)"
+  },
+  {
+   "group": "Copy",
+   "label": "Copy resolution",
+   "value": "600 x 600 dpi"
+  },
+  {
+   "group": "General",
+   "label": "Maximum monthly duty cycle",
+   "value": "Up to 40,000 pages"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Interfaces",
+   "value": "Ethernet, Wi-Fi Direct, dual-band 802.11 b/g/n (2.4GHz) and a/n (5GHz), Hi-Speed USB 2.0"
+  }
+ ],
+ "highlights": [
+  "Up to 30 ppm black and colour",
+  "Prints up to 11 x 17 in (ledger)",
+  "50-page automatic document feeder",
+  "Dual-band Wi-Fi, Ethernet and USB"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.brother-usa.com/products/mfcj5855dw",
+   "publisher": "Brother USA",
+   "final_url": "https://www.brother-usa.com/p/inkjet-printers/MFCJ5855DW",
+   "retrieved_at": "2026-11-02T17:51:00+00:00",
+   "sha256": "7ad1fd3c83b1fb6090eae35a040c3e1cda6e8ac791a481b754dff32cc2eb6a08",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:12:11+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Brother MFC-J5855DW Printer.jpg",
+   "categories": [
+    "Category:Brother multifunction printers",
+    "Category:CC-BY-SA-4.0",
+    "Category:Photographs by TaurusEmerald",
+    "Category:Self-published work"
+   ],
+   "width": 3201,
+   "height": 2613,
+   "mime": "image/jpeg",
+   "sha1": "70f171107a5c87158c845ac651ab846ed56f56cf",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Brother_MFC-J5855DW_Printer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Brother_MFC-J5855DW_Printer.jpg/1280px-Brother_MFC-J5855DW_Printer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Brother_MFC-J5855DW_Printer.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "TaurusEmerald",
+   "credit": "Own work",
+   "description": "A Brother model MFC-J5855DW printer.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-brother-mfc-j5855dw/1-card.jpg",
+   "local_path": "/catalog-real/real-brother-mfc-j5855dw/1.jpg",
+   "local_sha256": "d853582814cf719561fc30c61bc76607068b8dc554d6c80a8bb0f50c9a281165",
+   "local_bytes": 218641
+  }
+ ]
+}

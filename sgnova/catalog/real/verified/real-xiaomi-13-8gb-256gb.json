@@ -1,0 +1,162 @@
+{
+ "handle": "real-xiaomi-13-8gb-256gb",
+ "brand": "Xiaomi",
+ "model": "Xiaomi 13",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Xiaomi 13 (8GB+256GB)",
+ "subtitle": "6.36-inch 120Hz AMOLED | Snapdragon 8 Gen 2 | Leica cameras",
+ "description": "Xiaomi 13 with 8GB of LPDDR5X RAM and 256GB of UFS 4.0 storage, a 6.36-inch 120Hz AMOLED display, the Snapdragon 8 Gen 2 platform, a Leica-tuned 50MP main, 10MP telephoto and 12MP ultra-wide camera system and a 4500mAh battery with 67W wired charging. Specifications were verified against Xiaomi's official global specs page.",
+ "variant_title": "8GB+256GB",
+ "specs": [
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "8GB LPDDR5X RAM, 256GB UFS 4.0"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.36-inch FHD+ AMOLED, 2400 x 1080, 120Hz"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Snapdragon 8 Gen 2 (4nm)"
+  },
+  {
+   "group": "Camera",
+   "label": "Main camera",
+   "value": "50MP Leica, f/1.8, HyperOIS"
+  },
+  {
+   "group": "Camera",
+   "label": "Telephoto camera",
+   "value": "Leica telephoto, 75mm equivalent, f/2.0, OIS"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "32MP, f/2.0"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery and charging",
+   "value": "4500mAh, 67W wired, 50W wireless"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions and weight",
+   "value": "152.8 x 71.5 x 7.98 mm, 189 g"
+  }
+ ],
+ "highlights": [
+  "6.36-inch 120Hz AMOLED",
+  "Snapdragon 8 Gen 2",
+  "Leica 50MP main, 10MP telephoto, 12MP ultra-wide",
+  "4500mAh with 67W wired and 50W wireless charging"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/xiaomi-13/specs/",
+   "publisher": "Xiaomi",
+   "final_url": "https://www.mi.com/global/product/xiaomi-13/specs/",
+   "retrieved_at": "2026-11-02T17:48:16+00:00",
+   "sha256": "9424e9bedae1ec17572299ebc619d080b0babd9b9ac31d466250857571f71d65",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:11:17+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Xiaomi 13 back.jpg",
+   "categories": [
+    "Category:Backs of smartphones",
+    "Category:Black mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Self-published work",
+    "Category:Taken with Xiaomi Redmi Note 10 Pro",
+    "Category:Xiaomi 13"
+   ],
+   "width": 1626,
+   "height": 2168,
+   "mime": "image/jpeg",
+   "sha1": "4eb0693383653e11cf9d24aebc7f8232da7f2130",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Xiaomi_13_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Xiaomi_13_back.jpg/1280px-Xiaomi_13_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Xiaomi_13_back.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Maksdroider",
+   "credit": "Own work",
+   "description": "The back of Xiaomi 13 in Black",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-xiaomi-13-8gb-256gb/1-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-13-8gb-256gb/1.jpg",
+   "local_sha256": "a6c2ad76df5d079ae9c2fa3bf39ab29067006b6c5dea7146cb14dbf55a4114f2",
+   "local_bytes": 137078
+  },
+  {
+   "title": "File:Xiaomi 13 front.jpg",
+   "categories": [
+    "Category:Black mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Front of smartphones",
+    "Category:Self-published work",
+    "Category:Taken with Xiaomi Redmi Note 10 Pro",
+    "Category:Xiaomi 13"
+   ],
+   "width": 1461,
+   "height": 1948,
+   "mime": "image/jpeg",
+   "sha1": "4825641ed6c710293fcaaf993f16df2e85b901b6",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Xiaomi_13_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Xiaomi_13_front.jpg/1280px-Xiaomi_13_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Xiaomi_13_front.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Maksdroider",
+   "credit": "Own work",
+   "description": "The front of Xiaomi 13",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-xiaomi-13-8gb-256gb/2-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-13-8gb-256gb/2.jpg",
+   "local_sha256": "1254dec947bf8598529f90ec387618d178a268da20c85b15b8ab34b95653c8be",
+   "local_bytes": 113245
+  },
+  {
+   "title": "File:Xiaomi 13 20240220.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2024-02-20",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Self-published work",
+    "Category:Taken with Meizu 20",
+    "Category:Xiaomi 13"
+   ],
+   "width": 2292,
+   "height": 4080,
+   "mime": "image/jpeg",
+   "sha1": "ea3e223b97d032144b275aa3f8fb865cf7f8f09e",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Xiaomi_13_20240220.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Xiaomi_13_20240220.jpg/1280px-Xiaomi_13_20240220.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Xiaomi_13_20240220.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "メイド理世",
+   "credit": "Own work",
+   "description": "​小米13在重庆巴南万达广场中拍照。",
+   "attribution_required": "true",
+   "index": 3,
+   "card_path": "/catalog-real/real-xiaomi-13-8gb-256gb/3-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-13-8gb-256gb/3.jpg",
+   "local_sha256": "88a53943eff723a491bcbc4e5fff90a73b1064af46d84ba699632f678f558add",
+   "local_bytes": 176489
+  }
+ ]
+}

@@ -67,7 +67,7 @@
    "sha256": "a61aa6d5e90c6530ac1c83d0da3b80d0ce1b483ac1229e7de5ecd1a61632c52d",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:17+00:00",
+  "verified_at": "2026-11-02T19:00:23+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -95,9 +95,10 @@
    "description": "Front view of Mac Studio (2022)",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-apple-mac-studio-2022-m1-max-32gb-512gb/1-card.jpg",
    "local_path": "/catalog-real/real-apple-mac-studio-2022-m1-max-32gb-512gb/1.jpg",
-   "local_sha256": "0a4add8fa348e1524b55cf79633d4a2c419e6a9b8b40803d2c849a307e17a2f2",
-   "local_bytes": 93233
+   "local_sha256": "ae7359e56049e5fc896cfcb0b44478a9bebcb1e09374bbfafe791a2305b885a9",
+   "local_bytes": 91082
   }
  ]
 }

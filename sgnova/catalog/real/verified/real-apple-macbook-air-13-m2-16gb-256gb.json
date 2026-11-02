@@ -77,7 +77,7 @@
    "sha256": "0285eecc5c0f744b8534e85611dcd2fe3cee25199e68d7a31940f9f29aec56f6",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:01:59+00:00",
+  "verified_at": "2026-11-02T18:59:29+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -104,9 +104,10 @@
    "description": "Macbook Air（2022年、M2）のスターライトモデル。名古屋市内の家電量販店で撮影。",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-apple-macbook-air-13-m2-16gb-256gb/1-card.jpg",
    "local_path": "/catalog-real/real-apple-macbook-air-13-m2-16gb-256gb/1.jpg",
-   "local_sha256": "3b3565b0eaeabcd4beddbfe2b1e4feae8292d6f19a890fd879872e87a2b99fd2",
-   "local_bytes": 234704
+   "local_sha256": "8313e342e35f4a26d9feb5e4419617461d022851f46ba45bb4b297bc643faae1",
+   "local_bytes": 241772
   }
  ]
 }

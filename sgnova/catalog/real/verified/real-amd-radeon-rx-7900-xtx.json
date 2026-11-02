@@ -1,0 +1,118 @@
+{
+ "handle": "real-amd-radeon-rx-7900-xtx",
+ "brand": "AMD",
+ "model": "Radeon RX 7900 XTX",
+ "mpn": null,
+ "category_handle": "graphics-card",
+ "title": "AMD Radeon RX 7900 XTX Graphics Card",
+ "subtitle": "24 GB GDDR6 | 96 compute units | up to 2500 MHz",
+ "description": "AMD-designed reference Radeon RX 7900 XTX desktop graphics card with 24 GB of GDDR6 memory on a None-bit bus and 96 compute units. Specifications checked against AMD's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "GPU",
+   "label": "Compute units",
+   "value": "96"
+  },
+  {
+   "group": "GPU",
+   "label": "Stream processors",
+   "value": "6144"
+  },
+  {
+   "group": "GPU",
+   "label": "Ray accelerators",
+   "value": "96"
+  },
+  {
+   "group": "Clock",
+   "label": "Boost clock",
+   "value": "Up to 2500 MHz"
+  },
+  {
+   "group": "Clock",
+   "label": "Game clock",
+   "value": "2300 MHz"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory size",
+   "value": "24 GB"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory type",
+   "value": "GDDR6"
+  },
+  {
+   "group": "Memory",
+   "label": "Infinity Cache",
+   "value": "96 MB"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory bandwidth",
+   "value": "Up to 960 GB/s"
+  },
+  {
+   "group": "Power",
+   "label": "Typical board power",
+   "value": "355 W"
+  },
+  {
+   "group": "Power",
+   "label": "Minimum PSU",
+   "value": "800W"
+  }
+ ],
+ "highlights": [
+  "24 GB GDDR6",
+  "96 compute units",
+  "Boost up to 2500 MHz",
+  "355 W typical board power"
+ ],
+ "review_notes": [
+  "AMD's page describes the GPU model; the record is for AMD's own reference (MBA) board shown in the photos."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/graphics/desktops/radeon/7000-series/amd-radeon-rx-7900xtx.html",
+   "publisher": "Advanced Micro Devices, Inc.",
+   "final_url": "https://www.amd.com/en/products/graphics/desktops/radeon/7000-series/amd-radeon-rx-7900xtx.html",
+   "retrieved_at": "2026-11-02T17:44:35+00:00",
+   "sha256": "254df37684e402ba5d0e3039d20b6ed4178d434fc07bbea3c50449cb5c5c26f5",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:06:38+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Xtx.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:GPUs",
+    "Category:Self-published work"
+   ],
+   "width": 1920,
+   "height": 1200,
+   "mime": "image/jpeg",
+   "sha1": "8f8cabc1e36a2a0d93997f2880be74d12832c171",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Xtx.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Xtx.jpg/1280px-Xtx.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Xtx.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": ".nexauu",
+   "credit": "Own work",
+   "description": "AMD's Radeon RX 7900 XTX, their current consumer flagship graphics card",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-amd-radeon-rx-7900-xtx/1-card.jpg",
+   "local_path": "/catalog-real/real-amd-radeon-rx-7900-xtx/1.jpg",
+   "local_sha256": "8df5d106cc515dcfda29a4d972df8efdc659178e856b16142f2c657f71a9cea8",
+   "local_bytes": 86149
+  }
+ ]
+}

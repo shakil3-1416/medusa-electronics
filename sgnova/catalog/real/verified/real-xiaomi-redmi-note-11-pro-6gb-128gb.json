@@ -1,0 +1,131 @@
+{
+ "handle": "real-xiaomi-redmi-note-11-pro-6gb-128gb",
+ "brand": "Xiaomi",
+ "model": "Redmi Note 11 Pro",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Redmi Note 11 Pro (6GB+128GB)",
+ "subtitle": "6.67-inch 120Hz AMOLED | Helio G96 | 108MP",
+ "description": "Redmi Note 11 Pro (4G) with 6GB of LPDDR4X RAM and 128GB of UFS 2.2 storage, a 6.67-inch FHD+ AMOLED display at up to 120Hz, the MediaTek Helio G96, a 108MP main camera and a 5000mAh battery with 67W turbo charging. Specifications were verified against Xiaomi's official global specs page.",
+ "variant_title": "6GB+128GB",
+ "specs": [
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "6GB+128GB, LPDDR4X + UFS 2.2"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions and weight",
+   "value": "164.19 x 76.1 x 8.12 mm, 202 g"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "MediaTek Helio G96, up to 2.05GHz"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.67-inch FHD+ AMOLED, up to 120Hz"
+  },
+  {
+   "group": "Camera",
+   "label": "Main camera",
+   "value": "108MP, f/1.9"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "16MP, f/2.4"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery and charging",
+   "value": "5000mAh, 67W"
+  }
+ ],
+ "highlights": [
+  "6.67-inch FHD+ AMOLED, up to 120Hz",
+  "MediaTek Helio G96",
+  "108MP main camera",
+  "5000mAh with 67W turbo charging"
+ ],
+ "review_notes": [
+  "Xiaomi's global page for this slug describes the 4G Helio G96 model; the 5G model is a different product.",
+  "Commons photos are titled Redmi Note 11 Pro without stating 4G or 5G; confirm the pictured unit matches the 4G model."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/redmi-note-11-pro/specs/",
+   "publisher": "Xiaomi",
+   "final_url": "https://www.mi.com/global/product/redmi-note-11-pro/specs/",
+   "retrieved_at": "2026-11-02T17:48:53+00:00",
+   "sha256": "0e41b5932a846b0234bedc648331caaf0592d895dbb477accb9654fc4facde46",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:11:58+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Redmi Note 11 Pro front.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Front of smartphones",
+    "Category:Gray mobile phones",
+    "Category:Redmi Note 11 Pro",
+    "Category:Self-published work",
+    "Category:Taken with Xiaomi Redmi Note 10 Pro"
+   ],
+   "width": 1970,
+   "height": 3505,
+   "mime": "image/jpeg",
+   "sha1": "9461196e3b62664a16287d3e7fcbbfb43ce5b0ad",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Redmi_Note_11_Pro_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Redmi_Note_11_Pro_front.jpg/1280px-Redmi_Note_11_Pro_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Redmi_Note_11_Pro_front.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Maksdroider",
+   "credit": "Own work",
+   "description": "Front of Redmi Note 11 Pro in Graphite Gray",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-xiaomi-redmi-note-11-pro-6gb-128gb/1-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-redmi-note-11-pro-6gb-128gb/1.jpg",
+   "local_sha256": "c365f64190fe9aba945e9c7ef46295f34891e6dba52f7735845abc9c84dc6d69",
+   "local_bytes": 111642
+  },
+  {
+   "title": "File:Redmi Note 11 Pro back.jpg",
+   "categories": [
+    "Category:Backs of smartphones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Gray mobile phones",
+    "Category:Redmi Note 11 Pro",
+    "Category:Self-published work",
+    "Category:Taken with Xiaomi Redmi Note 10 Pro"
+   ],
+   "width": 1937,
+   "height": 3444,
+   "mime": "image/jpeg",
+   "sha1": "db736ed9435a9445e507086562b773fe9fd6fb7a",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Redmi_Note_11_Pro_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Redmi_Note_11_Pro_back.jpg/1280px-Redmi_Note_11_Pro_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Redmi_Note_11_Pro_back.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Maksdroider",
+   "credit": "Own work",
+   "description": "Back of Redmi Note 11 Pro in Graphite Gray",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-xiaomi-redmi-note-11-pro-6gb-128gb/2-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-redmi-note-11-pro-6gb-128gb/2.jpg",
+   "local_sha256": "891baae778b4c9a727e5e954edb18795fabf5cafb4c44351af96eff00f797f11",
+   "local_bytes": 127500
+  }
+ ]
+}

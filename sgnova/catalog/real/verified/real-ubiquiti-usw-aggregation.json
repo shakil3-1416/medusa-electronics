@@ -1,0 +1,101 @@
+{
+ "handle": "real-ubiquiti-usw-aggregation",
+ "brand": "Ubiquiti",
+ "model": "USW-Aggregation",
+ "mpn": "USW-Aggregation",
+ "category_handle": "network-switch",
+ "title": "Ubiquiti UniFi Aggregation 8-Port SFP+ Switch",
+ "subtitle": "8 x 10G SFP+ | 1U rackmount",
+ "description": "Rack-mount UniFi aggregation switch with eight 10G SFP+ ports for linking access switches and servers over fibre or DAC. Specifications verified against Ubiquiti's official tech specs page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "SFP+ ports",
+   "value": "8"
+  },
+  {
+   "group": "Performance",
+   "label": "Switching capacity",
+   "value": "160 Gbps"
+  },
+  {
+   "group": "Performance",
+   "label": "Forwarding rate",
+   "value": "119 Mpps"
+  },
+  {
+   "group": "Performance",
+   "label": "MAC table",
+   "value": "16,000"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "36 W"
+  },
+  {
+   "group": "Power",
+   "label": "Input",
+   "value": "100-240 V AC"
+  },
+  {
+   "group": "Physical",
+   "label": "Form factor",
+   "value": "Rack mount (1U)"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "442 x 120 x 43.7 mm"
+  }
+ ],
+ "highlights": [
+  "Eight 10G SFP+ ports",
+  "160 Gbps switching capacity",
+  "1U rackmount, internal PSU",
+  "1.3-inch touchscreen"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://techspecs.ui.com/unifi/switching/usw-aggregation",
+   "publisher": "Ubiquiti",
+   "final_url": "https://techspecs.ui.com/unifi/switching/usw-aggregation",
+   "retrieved_at": "2026-11-02T17:57:17+00:00",
+   "sha256": "b9b642f5f108074dfba0d3c2a3d4b410efb645ee1ac49d14b8571ec65b417e82",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:07:38+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Ubiquiti USW Aggregation 2022-06-08 1.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Self-published work",
+    "Category:Ubiquiti"
+   ],
+   "width": 4032,
+   "height": 3024,
+   "mime": "image/jpeg",
+   "sha1": "05378ccd622c05a233ce93e8640d718bea4a09d0",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Ubiquiti_USW_Aggregation_2022-06-08_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Ubiquiti_USW_Aggregation_2022-06-08_1.jpg/1280px-Ubiquiti_USW_Aggregation_2022-06-08_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ubiquiti_USW_Aggregation_2022-06-08_1.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Yelderberry (talk)",
+   "credit": "Own work",
+   "description": "Ubiquiti USW Aggregation",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-ubiquiti-usw-aggregation/1-card.jpg",
+   "local_path": "/catalog-real/real-ubiquiti-usw-aggregation/1.jpg",
+   "local_sha256": "f33b545de0a0375bb9570bc87fa822ebd7c788f77102542f7c8a7d1e67e7f67c",
+   "local_bytes": 312770
+  }
+ ]
+}

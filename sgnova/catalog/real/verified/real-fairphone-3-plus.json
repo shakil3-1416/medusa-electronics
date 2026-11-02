@@ -1,0 +1,127 @@
+{
+ "handle": "real-fairphone-3-plus",
+ "brand": "Fairphone",
+ "model": "Fairphone 3+",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Fairphone 3+",
+ "subtitle": "Modular, repairable phone | 48MP camera | NFC",
+ "description": "Fairphone 3+ is the 2020 upgrade of the modular Fairphone 3, with a 48MP rear camera based on the Samsung GM1 sensor (12MP output), a 16MP front camera, a louder 96 dB speaker and a replaceable battery. Specifications were verified against Fairphone's official support FAQ.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Build",
+   "label": "Dimensions",
+   "value": "158 x 71.8 x 9.89 mm"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "189 g"
+  },
+  {
+   "group": "Audio",
+   "label": "Speaker loudness",
+   "value": "96 dB at 10 cm"
+  },
+  {
+   "group": "General",
+   "label": "Year of release",
+   "value": "2020"
+  },
+  {
+   "group": "Camera",
+   "label": "Rear camera",
+   "value": "48MP Samsung GM1"
+  },
+  {
+   "group": "Camera",
+   "label": "Cameras",
+   "value": "48MP (12MP output) rear, 16MP front"
+  },
+  {
+   "group": "Connectivity",
+   "label": "NFC",
+   "value": "Yes, with Google Pay"
+  }
+ ],
+ "highlights": [
+  "Modular, user-repairable design",
+  "48MP Samsung GM1 rear camera (12MP output)",
+  "16MP front camera",
+  "NFC with Google Pay support"
+ ],
+ "review_notes": [
+  "Fairphone's FAQ does not state the RAM/storage configuration; confirm the exact configuration with the supplier before listing.",
+  "Camera specs are read from the FAQ's Fairphone 3 vs 3+ comparison table (second column is Fairphone 3+)."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.fairphone.com/hc/en-us/articles/360047776791-Fairphone-3-Frequently-Asked-Questions-FAQ",
+   "publisher": "Fairphone B.V.",
+   "final_url": "https://support.fairphone.com/hc/en-us/articles/360047776791-Fairphone-3-Frequently-Asked-Questions-FAQ",
+   "retrieved_at": "2026-11-02T18:01:58+00:00",
+   "sha256": "1e9abab7366586f693e746b1f48249d636c34181bb17d3251cbd9c24a24be461",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:10:00+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Fairphone 3+ Product 1 (2) (50273819408).png",
+   "categories": [
+    "Category:CC-BY-SA-2.0",
+    "Category:Fairphone 3+",
+    "Category:Flickr images reviewed by FlickreviewR 2"
+   ],
+   "width": 3320,
+   "height": 2490,
+   "mime": "image/png",
+   "sha1": "9ca5a0c72ce12fba5d059f29ac0ec41c6602848c",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Fairphone_3%2B_Product_1_%282%29_%2850273819408%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Fairphone_3%2B_Product_1_%282%29_%2850273819408%29.png/1280px-Fairphone_3%2B_Product_1_%282%29_%2850273819408%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Fairphone_3%2B_Product_1_(2)_(50273819408).png",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "artist": "Fairphone",
+   "credit": "Fairphone 3+ Product 1 (2)",
+   "description": "Fairphone 3+ Product 1 (2)",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-fairphone-3-plus/1-card.jpg",
+   "local_path": "/catalog-real/real-fairphone-3-plus/1.png",
+   "local_sha256": "2ae9c0b425faa8089d25056d5b346d632a270696908567c5e8072568d12082b8",
+   "local_bytes": 1749691
+  },
+  {
+   "title": "File:Fairphone 3+ Product3 (50273819243).png",
+   "categories": [
+    "Category:CC-BY-SA-2.0",
+    "Category:Fairphone 3+",
+    "Category:Flickr images reviewed by FlickreviewR 2",
+    "Category:Front of smartphones",
+    "Category:People holding smartphones"
+   ],
+   "width": 2490,
+   "height": 3320,
+   "mime": "image/png",
+   "sha1": "0dbbf997338e78c62fb99f91b354f4b9cc4b7e0f",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Fairphone_3%2B_Product3_%2850273819243%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Fairphone_3%2B_Product3_%2850273819243%29.png/1280px-Fairphone_3%2B_Product3_%2850273819243%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Fairphone_3%2B_Product3_(50273819243).png",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "artist": "Fairphone",
+   "credit": "Fairphone 3+ Product3",
+   "description": "Fairphone 3+ Product3",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-fairphone-3-plus/2-card.jpg",
+   "local_path": "/catalog-real/real-fairphone-3-plus/2.png",
+   "local_sha256": "c83dd84382b78d7ac18c7037cb72ecbe0da7f97b6dae02df970c2567a6159489",
+   "local_bytes": 1319365
+  }
+ ]
+}

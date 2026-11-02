@@ -67,7 +67,7 @@
    "sha256": "f7ecea1113f8a5647f8d44f2ce98826183a1c9149dd9dcd8a7a81751e8646179",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:54+00:00",
+  "verified_at": "2026-11-02T19:02:15+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -96,9 +96,10 @@
    "description": "ProSafe 5-port Gigabit Desktop Switch",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-netgear-gs105/1-card.jpg",
    "local_path": "/catalog-real/real-netgear-gs105/1.jpg",
-   "local_sha256": "fa4333836e02d69638a196103cd7228d39b3a5e93f8bc198d29bd31fdc12ce61",
-   "local_bytes": 119191
+   "local_sha256": "0cb29e4067f166a3a3c11be7f51728cdd43ec9de47ff180522a36259ce1bc9f0",
+   "local_bytes": 137545
   }
  ]
 }

@@ -72,7 +72,7 @@
    "sha256": "2acc159c338513a38ac5ce988ec20ade0842666968bcb16a6344e15150be1dca",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:12+00:00",
+  "verified_at": "2026-11-02T19:00:17+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -102,9 +102,10 @@
    "description": "This shows no copyrighted software, and all identifying system elements have been hidden.",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-apple-macbook-pro-16-2021-m1-pro-16gb-512gb/1-card.jpg",
    "local_path": "/catalog-real/real-apple-macbook-pro-16-2021-m1-pro-16gb-512gb/1.jpg",
-   "local_sha256": "15d24f6a0b02afc7f0f38b1680656ec4e1c860ac2d8eb266e4c6bf205c4616ae",
-   "local_bytes": 162385
+   "local_sha256": "dfd311322f0378498129a322bfc332d384c4b41c975cb61f3623d82b867f10e0",
+   "local_bytes": 166639
   }
  ]
 }

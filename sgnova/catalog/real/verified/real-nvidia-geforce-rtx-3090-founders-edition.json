@@ -79,7 +79,7 @@
    "sha256": "8e1758466ee5260a7d5d320cebf93779ca6fc6cc21aa0fc591bea04c029b1ed3",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:01:48+00:00",
+  "verified_at": "2026-11-02T18:59:15+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -105,9 +105,10 @@
    "description": "GeForce RTX 3090 Founders Edition.",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-nvidia-geforce-rtx-3090-founders-edition/1-card.jpg",
    "local_path": "/catalog-real/real-nvidia-geforce-rtx-3090-founders-edition/1.jpg",
-   "local_sha256": "833bfba06d13b52f37ee8bf48ae4eaa3242bdbede087bb7e8afdb6a0de098f1a",
-   "local_bytes": 319862
+   "local_sha256": "303457c1f3c3e8fa20a94f3926d6755fd858100da2ff64df094e118e33caa143",
+   "local_bytes": 315104
   }
  ]
 }

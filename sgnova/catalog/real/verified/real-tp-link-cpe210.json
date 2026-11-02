@@ -1,0 +1,126 @@
+{
+ "handle": "real-tp-link-cpe210",
+ "brand": "TP-Link",
+ "model": "CPE210",
+ "mpn": null,
+ "category_handle": "router",
+ "title": "TP-Link CPE210 2.4 GHz Outdoor CPE",
+ "subtitle": "2.4 GHz 300 Mbps | 9 dBi | IPX5 outdoor",
+ "description": "Outdoor 2.4 GHz CPE with a built-in 9 dBi dual-polarised antenna for point-to-point and point-to-multipoint links, powered by passive PoE. Specifications verified against TP-Link's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Hardware",
+   "label": "Processor",
+   "value": "Qualcomm Atheros 560 MHz, MIPS 74Kc"
+  },
+  {
+   "group": "Hardware",
+   "label": "Memory",
+   "value": "64 MB DDR2, 8 MB flash"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "1 x 10/100 (passive PoE in)"
+  },
+  {
+   "group": "Wireless",
+   "label": "Antenna",
+   "value": "9 dBi 2x2 dual-polarised"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "10.5 W"
+  },
+  {
+   "group": "Power",
+   "label": "Voltage range",
+   "value": "16-27 V DC"
+  },
+  {
+   "group": "Physical",
+   "label": "Protection",
+   "value": "IPX5 waterproof"
+  }
+ ],
+ "highlights": [
+  "2.4 GHz 802.11b/g/n",
+  "Built-in 9 dBi 2x2 antenna",
+  "IPX5 weatherproof",
+  "Passive PoE powered"
+ ],
+ "review_notes": [
+  "Category router used for an outdoor wireless CPE."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.tp-link.com/us/business-networking/outdoor-radio/cpe210/",
+   "publisher": "TP-Link",
+   "final_url": "https://www.tp-link.com/us/business-networking/pharos-cpe/cpe210/",
+   "retrieved_at": "2026-11-02T18:01:13+00:00",
+   "sha256": "83e42c24488a4034fb983583f311e5372ab7c5618028cb9c29ffac2696b06cca",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:08:36+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:TP-Link Pharos CPE210 P1110426.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Hausfotografie temporärhaus (2026)",
+    "Category:Self-published work",
+    "Category:TP-Link CPE210"
+   ],
+   "width": 3501,
+   "height": 5250,
+   "mime": "image/jpeg",
+   "sha1": "a566878de30ca8e6559dd63d93580db51732abe5",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/TP-Link_Pharos_CPE210_P1110426.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/TP-Link_Pharos_CPE210_P1110426.jpg/1280px-TP-Link_Pharos_CPE210_P1110426.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:TP-Link_Pharos_CPE210_P1110426.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "-stk",
+   "credit": "Own work",
+   "description": "TP-Link outdoor WiFi access point CPE210 from their Pharos series, 2.4 GHz",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-tp-link-cpe210/1-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-cpe210/1.jpg",
+   "local_sha256": "3d35c3dd56b9c11a127f7c1ece0f56ece08ca000f422e1b40b03724c231c9ee5",
+   "local_bytes": 45741
+  },
+  {
+   "title": "File:TP-Link Pharos CPE210 P1110427.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Hausfotografie temporärhaus (2026)",
+    "Category:Self-published work",
+    "Category:TP-Link CPE210"
+   ],
+   "width": 4016,
+   "height": 6022,
+   "mime": "image/jpeg",
+   "sha1": "1db9dd52c7d082ba44b231aac3b1fb0b899a4610",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/TP-Link_Pharos_CPE210_P1110427.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/TP-Link_Pharos_CPE210_P1110427.jpg/1280px-TP-Link_Pharos_CPE210_P1110427.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:TP-Link_Pharos_CPE210_P1110427.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "-stk",
+   "credit": "Own work",
+   "description": "TP-Link outdoor WiFi access point CPE210 from their Pharos series, 2.4 GHz",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-tp-link-cpe210/2-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-cpe210/2.jpg",
+   "local_sha256": "011d814553b8fa9b202e65ebeb61734a64b89a55d55023fc399f94ef9948063f",
+   "local_bytes": 53210
+  }
+ ]
+}

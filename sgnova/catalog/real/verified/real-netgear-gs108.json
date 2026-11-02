@@ -69,7 +69,7 @@
    "sha256": "c9c7b4018a2daf60d84a8ce5f371f6a68e19548aa9193be214d3a8b8aa0b8141",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:37+00:00",
+  "verified_at": "2026-11-02T19:01:19+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -99,9 +99,10 @@
    "description": "Netgear 8-port gigabit ethernet network switch, front side.",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-netgear-gs108/1-card.jpg",
    "local_path": "/catalog-real/real-netgear-gs108/1.jpg",
-   "local_sha256": "002c1f0b9e736d16e39a09a1e7bc6a4911767c3663c64466514ae28e55e2bd6c",
-   "local_bytes": 156747
+   "local_sha256": "551fc088d917bd79912ba75a4e65b6cb0f6b3b6ea2f5b565fbb82ac850e1dc71",
+   "local_bytes": 157158
   }
  ]
 }

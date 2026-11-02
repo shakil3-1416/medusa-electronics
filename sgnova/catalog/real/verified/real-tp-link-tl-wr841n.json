@@ -1,0 +1,132 @@
+{
+ "handle": "real-tp-link-tl-wr841n",
+ "brand": "TP-Link",
+ "model": "TL-WR841N",
+ "mpn": null,
+ "category_handle": "router",
+ "title": "TP-Link TL-WR841N 300 Mbps Wireless N Router",
+ "subtitle": "N300 | 2.4 GHz | 4 LAN ports",
+ "description": "Entry-level 2.4 GHz Wi-Fi 4 router with two fixed antennas and Fast Ethernet ports, supporting router, access point, range extender and WISP modes. Specifications verified against TP-Link's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Wireless",
+   "label": "Wi-Fi class",
+   "value": "N300"
+  },
+  {
+   "group": "Wireless",
+   "label": "2.4 GHz rate",
+   "value": "300 Mbps"
+  },
+  {
+   "group": "Wireless",
+   "label": "Antennas",
+   "value": "2 fixed"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "1 x 10/100 WAN, 4 x 10/100 LAN"
+  },
+  {
+   "group": "Power",
+   "label": "Power",
+   "value": "9 V 0.6 A"
+  },
+  {
+   "group": "Wireless",
+   "label": "Working modes",
+   "value": "Router, AP, range extender, WISP"
+  }
+ ],
+ "highlights": [
+  "N300 2.4 GHz Wi-Fi 4",
+  "4 x 10/100 LAN ports",
+  "Router, AP, extender and WISP modes",
+  "Two fixed antennas"
+ ],
+ "review_notes": [
+  "Specs follow the current hardware version listed on TP-Link's page; the Commons photo may show an earlier hardware revision of the same model."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.tp-link.com/us/home-networking/wifi-router/tl-wr841n/",
+   "publisher": "TP-Link",
+   "final_url": "https://www.tp-link.com/us/home-networking/wifi-router/tl-wr841n/",
+   "retrieved_at": "2026-11-02T18:01:17+00:00",
+   "sha256": "cd7fd62204e98e5edbd889cadd6f74952b7f13264bb9b80e3bd94ab5e5276857",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:08:04+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:TP-Link TL-WR841N-2920.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:DSL routers and modems (most including WLAN) with white background",
+    "Category:Files by User:Raymond from de.wikipedia/Objects",
+    "Category:Fotosession im Lokal K (2015)",
+    "Category:Fotosession im Lokal K (IuK-Technik)",
+    "Category:Information field template with formatting",
+    "Category:Self-published work",
+    "Category:TP-Link Wi-Fi routers and access points",
+    "Category:Uploaded with LrMediaWiki",
+    "Category:Wi-Fi antennas on routers and other networking devices"
+   ],
+   "width": 3080,
+   "height": 3080,
+   "mime": "image/jpeg",
+   "sha1": "33131711c72b80d67635a4b887aee74a7e5221e2",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/TP-Link_TL-WR841N-2920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/TP-Link_TL-WR841N-2920.jpg/1280px-TP-Link_TL-WR841N-2920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:TP-Link_TL-WR841N-2920.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Raimond Spekking",
+   "credit": "Own work",
+   "description": "WLAN-Router TP-Link TL-WR841N",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-tp-link-tl-wr841n/1-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-tl-wr841n/1.jpg",
+   "local_sha256": "880cd3224ecd346a2f952efd9bef0842f466fe6a1ce1d818bd4f1bfe3788c305",
+   "local_bytes": 130601
+  },
+  {
+   "title": "File:TP-Link TL-WR841N-2921.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:DSL routers and modems (most including WLAN) with white background",
+    "Category:Files by User:Raymond from de.wikipedia/Objects",
+    "Category:Fotosession im Lokal K (2015)",
+    "Category:Fotosession im Lokal K (IuK-Technik)",
+    "Category:Information field template with formatting",
+    "Category:Self-published work",
+    "Category:TP-Link Wi-Fi routers and access points",
+    "Category:Uploaded with LrMediaWiki"
+   ],
+   "width": 4684,
+   "height": 2635,
+   "mime": "image/jpeg",
+   "sha1": "0256b214fe163e09b0b2dede22d0f85a79c502af",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/TP-Link_TL-WR841N-2921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/TP-Link_TL-WR841N-2921.jpg/1280px-TP-Link_TL-WR841N-2921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:TP-Link_TL-WR841N-2921.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Raimond Spekking",
+   "credit": "Own work",
+   "description": "WLAN-Router TP-Link TL-WR841N. Beschriftung der Buchsen von links nach rechts:\nOn/Off - Power - WAN - 1 - 2 - 3 - 4 - WPS/Reset - Wifi on/off",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-tp-link-tl-wr841n/2-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-tl-wr841n/2.jpg",
+   "local_sha256": "a1cb08b0f715af30d8e18d739757d696d8667f1054f84260dceeb8445d82eed5",
+   "local_bytes": 80842
+  }
+ ]
+}

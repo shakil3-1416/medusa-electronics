@@ -1,0 +1,119 @@
+{
+ "handle": "real-google-pixel-9a-128gb",
+ "brand": "Google",
+ "model": "Pixel 9a",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Google Pixel 9a (128GB)",
+ "subtitle": "6.3-inch 120Hz Actua pOLED | Tensor G4 | 5100 mAh",
+ "description": "Google Pixel 9a with 128GB of storage and 8GB of RAM, powered by Google Tensor G4, with a 6.3-inch Actua pOLED display at 60-120Hz, a 48MP wide plus 13MP ultrawide camera pair and a 5100 mAh typical battery. Specifications were verified against Google's official Pixel hardware tech specs page.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.3-inch Actua pOLED, 1080 x 2424, 422.2 ppi"
+  },
+  {
+   "group": "Display",
+   "label": "Refresh rate",
+   "value": "60-120Hz"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Google Tensor G4"
+  },
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "8GB RAM, 128GB storage"
+  },
+  {
+   "group": "Camera",
+   "label": "Wide camera",
+   "value": "48MP with OIS, f/1.7"
+  },
+  {
+   "group": "Camera",
+   "label": "Ultrawide camera",
+   "value": "13MP, f/2.2"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "13MP, f/2.2"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery capacity",
+   "value": "5100 mAh typical (5000 mAh minimum)"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions",
+   "value": "154.7 x 73.3 x 8.9 mm"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "185.9 g"
+  }
+ ],
+ "highlights": [
+  "6.3-inch Actua pOLED, 60-120Hz",
+  "Google Tensor G4",
+  "48MP wide and 13MP ultrawide cameras",
+  "5100 mAh typical battery"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 9a tech specs",
+   "scope_end": "tech specs",
+   "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "retrieved_at": "2026-11-02T16:29:27+00:00",
+   "sha256": "0f4a52cf5ffd0cb50001020950ea033036dc061faeb1c40b0fdf63beec941e0c",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:10:57+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Pixel 9a back.jpg",
+   "categories": [
+    "Category:Backs of smartphones",
+    "Category:CC-BY-4.0",
+    "Category:Creative Commons Attribution 4.0 missing SDC copyright license",
+    "Category:Creative Commons Attribution missing SDC copyright status",
+    "Category:Google Pixel 9a",
+    "Category:Red mobile phones",
+    "Category:Self-published work",
+    "Category:Self-published work missing SDC copyright license",
+    "Category:Taken with Poco F8 Pro"
+   ],
+   "width": 1825,
+   "height": 3244,
+   "mime": "image/jpeg",
+   "sha1": "3c3ca8671c14bd7060731457ce8371d01ed3013e",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Pixel_9a_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Pixel_9a_back.jpg/1280px-Pixel_9a_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Pixel_9a_back.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Maksdroider",
+   "credit": "Own work",
+   "description": "The back of the Pixel 9a in Peony",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-google-pixel-9a-128gb/1-card.jpg",
+   "local_path": "/catalog-real/real-google-pixel-9a-128gb/1.jpg",
+   "local_sha256": "acff3ad0bbc62ac6b780d0e436bd8f3fcd3a87fccb458e7225f9af4fd665a54d",
+   "local_bytes": 101083
+  }
+ ]
+}

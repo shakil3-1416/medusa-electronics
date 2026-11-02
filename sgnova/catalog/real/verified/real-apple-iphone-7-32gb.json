@@ -1,0 +1,177 @@
+{
+ "handle": "real-apple-iphone-7-32gb",
+ "brand": "Apple",
+ "model": "iPhone 7",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 7 (32GB)",
+ "subtitle": "4.7-inch widescreen LCD | A10 Fusion | 32GB",
+ "description": "Apple iPhone 7 smartphone in the 32GB storage configuration. It runs on the A10 Fusion chip and has a 4.7-inch widescreen LCD screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "32GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "32GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "4.7-inch widescreen LCD Multi-Touch display with IPS technology"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "1334 x 750 at 326 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A10 Fusion"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "IP67, up to 1 m for 30 minutes"
+  },
+  {
+   "group": "Battery",
+   "label": "Video playback",
+   "value": "Up to 13 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "138 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "138.3 x 67.1 x 7.1 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "802.11ac Wi-Fi"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 4.2"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "Lightning"
+  }
+ ],
+ "highlights": [
+  "4.7-inch widescreen LCD display",
+  "1334 x 750 at 326 ppi resolution",
+  "A10 Fusion chip",
+  "Water resistance: IP67, up to 1 m for 30 minutes"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111943",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111943",
+   "retrieved_at": "2026-11-02T18:47:16+00:00",
+   "sha256": "945ac38944b3bfddc5665b8f4e286103f42daaba9debf529741fb474896858a5",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:05:29+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPhone 7 - A1778 Rose Gold - Front.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 7",
+    "Category:Pink mobile phones",
+    "Category:Retouched pictures",
+    "Category:Self-published work"
+   ],
+   "width": 1426,
+   "height": 2541,
+   "mime": "image/jpeg",
+   "sha1": "deb442658690d14715ee0dab8b5d11cf1024df61",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/IPhone_7_-_A1778_Rose_Gold_-_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/IPhone_7_-_A1778_Rose_Gold_-_Front.jpg/1280px-IPhone_7_-_A1778_Rose_Gold_-_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_7_-_A1778_Rose_Gold_-_Front.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "MacRepairDundee.co.uk",
+   "credit": "Own work",
+   "description": "iPhone 7 - A1778 Rose Gold front",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-7-32gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-7-32gb/1.jpg",
+   "local_sha256": "a0dd97fe1b18d3a6df51ac5b8ab0b78fa3b240056a9b1c7d734d6f09386445eb",
+   "local_bytes": 79569
+  },
+  {
+   "title": "File:IPhone 7 - A1778 Rose Gold - Back.jpg",
+   "categories": [
+    "Category:Backs of iPhones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 7",
+    "Category:Pink mobile phones",
+    "Category:Retouched pictures",
+    "Category:Self-published work"
+   ],
+   "width": 1380,
+   "height": 2476,
+   "mime": "image/jpeg",
+   "sha1": "0bb6b0a07ce1afc7ca116d93ea8d21a407cc4b15",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/IPhone_7_-_A1778_Rose_Gold_-_Back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/IPhone_7_-_A1778_Rose_Gold_-_Back.jpg/1280px-IPhone_7_-_A1778_Rose_Gold_-_Back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_7_-_A1778_Rose_Gold_-_Back.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "MacRepairDundee.co.uk",
+   "credit": "Own work",
+   "description": "iPhone 7 - A1778 Rose Gold back",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-7-32gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-7-32gb/2.jpg",
+   "local_sha256": "ba47697d7defe8d6b66dd19bfb33b62cc4e9901f417343b2f1d0fca2f3f27506",
+   "local_bytes": 85928
+  },
+  {
+   "title": "File:IPhone 7 Matte Black.jpg",
+   "categories": [
+    "Category:Backs of iPhones",
+    "Category:Black mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:IPhone 7",
+    "Category:Self-published work"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "4041aaefcb53b93849a9b0897def00b56f086ab2",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/IPhone_7_Matte_Black.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/IPhone_7_Matte_Black.jpg/1280px-IPhone_7_Matte_Black.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_7_Matte_Black.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Pc1878",
+   "credit": "Own work",
+   "description": "iPhone 7 Matte Black",
+   "attribution_required": "true",
+   "index": 3,
+   "card_path": "/catalog-real/real-apple-iphone-7-32gb/3-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-7-32gb/3.jpg",
+   "local_sha256": "0aae208ae03db686d52dd3de6a0671819a7bf7219a28a8dfde6c171adade851e",
+   "local_bytes": 124465
+  }
+ ]
+}

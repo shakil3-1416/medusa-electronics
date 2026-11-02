@@ -67,7 +67,7 @@
    "sha256": "d118d79e04365a184bc024a1013f1055b78377959334045838d1a023de73da19",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:48+00:00",
+  "verified_at": "2026-11-02T19:02:05+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -93,9 +93,10 @@
    "description": "Units and charging case of AirPods Pro (2nd generation)",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-apple-airpods-pro-2/1-card.jpg",
    "local_path": "/catalog-real/real-apple-airpods-pro-2/1.jpg",
-   "local_sha256": "d2ee1bc824a494ea90470a7123c26830c5b83440f288df59116f9d1fc00be985",
-   "local_bytes": 67064
+   "local_sha256": "2651aa910fb67272ffa0f50bff59fc584deb0387032ca2347499d639b36daa5b",
+   "local_bytes": 81268
   }
  ]
 }

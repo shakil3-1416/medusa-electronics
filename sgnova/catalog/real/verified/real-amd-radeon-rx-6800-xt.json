@@ -1,0 +1,176 @@
+{
+ "handle": "real-amd-radeon-rx-6800-xt",
+ "brand": "AMD",
+ "model": "Radeon RX 6800 XT",
+ "mpn": null,
+ "category_handle": "graphics-card",
+ "title": "AMD Radeon RX 6800 XT Graphics Card",
+ "subtitle": "16 GB GDDR6 | 72 compute units | up to 2250 MHz",
+ "description": "AMD-designed reference Radeon RX 6800 XT desktop graphics card with 16 GB of GDDR6 memory on a 256-bit bus and 72 compute units. Specifications checked against AMD's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "GPU",
+   "label": "Compute units",
+   "value": "72"
+  },
+  {
+   "group": "GPU",
+   "label": "Stream processors",
+   "value": "4608"
+  },
+  {
+   "group": "GPU",
+   "label": "Ray accelerators",
+   "value": "72"
+  },
+  {
+   "group": "Clock",
+   "label": "Boost clock",
+   "value": "Up to 2250 MHz"
+  },
+  {
+   "group": "Clock",
+   "label": "Game clock",
+   "value": "2015 MHz"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory size",
+   "value": "16 GB"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory type",
+   "value": "GDDR6"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory interface",
+   "value": "256-bit"
+  },
+  {
+   "group": "Memory",
+   "label": "Infinity Cache",
+   "value": "128 MB"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory bandwidth",
+   "value": "Up to 512 GB/s"
+  },
+  {
+   "group": "Power",
+   "label": "Typical board power",
+   "value": "300 W"
+  },
+  {
+   "group": "Power",
+   "label": "Minimum PSU",
+   "value": "750W"
+  }
+ ],
+ "highlights": [
+  "16 GB GDDR6",
+  "72 compute units",
+  "Boost up to 2250 MHz",
+  "300 W typical board power"
+ ],
+ "review_notes": [
+  "AMD's page describes the GPU model; the record is for AMD's own reference (MBA) board shown in the photos."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/graphics/desktops/radeon/6000-series/amd-radeon-rx-6800-xt.html",
+   "publisher": "Advanced Micro Devices, Inc.",
+   "final_url": "https://www.amd.com/en/products/graphics/desktops/radeon/6000-series/amd-radeon-rx-6800-xt.html",
+   "retrieved_at": "2026-11-02T17:44:37+00:00",
+   "sha256": "98b6bfd6387932e8894e5d9679befa187d3e04d5a6a49723149caa99c09cb8a4",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:07:04+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Amd-radeon-rx6800xt-from2020year-front.jpg",
+   "categories": [
+    "Category:AMD Radeon RX 6000 series video cards",
+    "Category:CC-BY-SA-4.0",
+    "Category:Self-published work"
+   ],
+   "width": 1280,
+   "height": 612,
+   "mime": "image/jpeg",
+   "sha1": "378185223a7092b315b3d9145744ea4d96b87992",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Amd-radeon-rx6800xt-from2020year-front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Amd-radeon-rx6800xt-from2020year-front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Amd-radeon-rx6800xt-from2020year-front.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Vitaly Zdanevich",
+   "credit": "Own work",
+   "description": "AMD Radeon RX 6800 XT, released in 2020: front view",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-amd-radeon-rx-6800-xt/1-card.jpg",
+   "local_path": "/catalog-real/real-amd-radeon-rx-6800-xt/1.jpg",
+   "local_sha256": "dab75384bffaf05a390b55e3f33f67866ef494f60742e2f55b856b9a8e8926a3",
+   "local_bytes": 158597
+  },
+  {
+   "title": "File:Amd-radeon-rx6800xt-from2020year-back.jpg",
+   "categories": [
+    "Category:AMD Radeon RX 6000 series video cards",
+    "Category:CC-BY-SA-4.0",
+    "Category:Self-published work"
+   ],
+   "width": 1280,
+   "height": 963,
+   "mime": "image/jpeg",
+   "sha1": "6488f853e4a0880a25b623001263104bbb38a8a7",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Amd-radeon-rx6800xt-from2020year-back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Amd-radeon-rx6800xt-from2020year-back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Amd-radeon-rx6800xt-from2020year-back.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Vitaly Zdanevich",
+   "credit": "Own work",
+   "description": "AMD Radeon RX 6800 XT, released in 2020: back view",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-amd-radeon-rx-6800-xt/2-card.jpg",
+   "local_path": "/catalog-real/real-amd-radeon-rx-6800-xt/2.jpg",
+   "local_sha256": "2ec12bd483ee7525737f9f81a8fab19f9dcf2a3ec8a7508ba42acaa20da931d9",
+   "local_bytes": 194385
+  },
+  {
+   "title": "File:Amd-radeon-rx6800xt-from2020year-inputs.jpg",
+   "categories": [
+    "Category:AMD Radeon RX 6000 series video cards",
+    "Category:CC-BY-SA-4.0",
+    "Category:Self-published work",
+    "Category:USB-C devices"
+   ],
+   "width": 1280,
+   "height": 576,
+   "mime": "image/jpeg",
+   "sha1": "639c0dd7b2ac725831fe8d829442dbc68a5d6b29",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Amd-radeon-rx6800xt-from2020year-inputs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Amd-radeon-rx6800xt-from2020year-inputs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Amd-radeon-rx6800xt-from2020year-inputs.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Vitaly Zdanevich",
+   "credit": "Own work",
+   "description": "AMD Radeon RX 6800 XT, released in 2020: back view",
+   "attribution_required": "true",
+   "index": 3,
+   "card_path": "/catalog-real/real-amd-radeon-rx-6800-xt/3-card.jpg",
+   "local_path": "/catalog-real/real-amd-radeon-rx-6800-xt/3.jpg",
+   "local_sha256": "4fea0aba45260abab0720a37df0de1fa913502711d6ce0877c4347241ef04ae2",
+   "local_bytes": 133072
+  }
+ ]
+}

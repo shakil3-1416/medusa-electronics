@@ -1,0 +1,117 @@
+{
+ "handle": "real-apple-ipad-air-4th-gen-64gb-wifi",
+ "brand": "Apple",
+ "model": "iPad Air (4th generation)",
+ "mpn": null,
+ "category_handle": "tablet",
+ "title": "Apple iPad Air (4th generation) (64GB Wi-Fi)",
+ "subtitle": "10.9-inch LED-backlit | A14 Bionic | 64GB",
+ "description": "Apple iPad Air (4th generation) tablet, 64GB Wi-Fi configuration, powered by the A14 Bionic chip with a 10.9-inch LED-backlit screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "64GB Wi-Fi",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "64GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "10.9-inch LED-backlit Multi-Touch display with IPS technology"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2360 x 1640 at 264 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A14 Bionic"
+  },
+  {
+   "group": "Camera",
+   "label": "Rear camera",
+   "value": "12MP, f/1.8"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery life",
+   "value": "Up to 10 hours web or video on Wi-Fi"
+  },
+  {
+   "group": "Build",
+   "label": "Weight (Wi-Fi model)",
+   "value": "458 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "247.6 x 178.5 x 6.1 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "802.11ax Wi-Fi"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.0"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "USB-C"
+  }
+ ],
+ "highlights": [
+  "10.9-inch LED-backlit display",
+  "2360 x 1640 at 264 ppi resolution",
+  "A14 Bionic chip",
+  "Rear camera: 12MP, f/1.8"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111905",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111905",
+   "retrieved_at": "2026-11-02T18:52:32+00:00",
+   "sha256": "925218e87c28cb27b6fd2171e70d9ff9b22de63b90e233191eb7089658ccd54d",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:05:53+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPad Air (4th generation) and Magic Keyboard - 1.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:IPad Air (4th generation)",
+    "Category:Self-published work",
+    "Category:Tablets with keyboards"
+   ],
+   "width": 3785,
+   "height": 4514,
+   "mime": "image/jpeg",
+   "sha1": "70ebbc67b38bc048974300e8c6718c164f52a8ed",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/IPad_Air_%284th_generation%29_and_Magic_Keyboard_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/IPad_Air_%284th_generation%29_and_Magic_Keyboard_-_1.jpg/1280px-IPad_Air_%284th_generation%29_and_Magic_Keyboard_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPad_Air_(4th_generation)_and_Magic_Keyboard_-_1.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "KKPCW",
+   "credit": "Own work",
+   "description": "IPad Air (4th generation)と Magic Keyboard。",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-ipad-air-4th-gen-64gb-wifi/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-ipad-air-4th-gen-64gb-wifi/1.jpg",
+   "local_sha256": "67f9c01243ee309aeedbe3d3ac33dc01028291bd4fafc1125bd6e1f97096d09c",
+   "local_bytes": 224245
+  }
+ ]
+}

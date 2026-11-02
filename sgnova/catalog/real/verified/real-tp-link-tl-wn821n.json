@@ -1,0 +1,100 @@
+{
+ "handle": "real-tp-link-tl-wn821n",
+ "brand": "TP-Link",
+ "model": "TL-WN821N",
+ "mpn": null,
+ "category_handle": "computer-accessory",
+ "title": "TP-Link TL-WN821N 300 Mbps USB Wi-Fi Adapter",
+ "subtitle": "N300 | USB 2.0 | WPS button",
+ "description": "USB 2.0 Wi-Fi 4 adapter for adding 2.4 GHz wireless to desktops and laptops, with a WPS button and an extension cable in the box. Specifications verified against TP-Link's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Interface",
+   "value": "USB 2.0"
+  },
+  {
+   "group": "Wireless",
+   "label": "Max rate",
+   "value": "300 Mbps (11n)"
+  },
+  {
+   "group": "Wireless",
+   "label": "Standards",
+   "value": "IEEE 802.11n/g/b"
+  },
+  {
+   "group": "Wireless",
+   "label": "Frequency",
+   "value": "2.400-2.4835 GHz"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "69 x 21 x 9.5 mm"
+  },
+  {
+   "group": "Physical",
+   "label": "Antenna",
+   "value": "On-board"
+  }
+ ],
+ "highlights": [
+  "Up to 300 Mbps on 2.4 GHz",
+  "USB 2.0 interface",
+  "WPS push button",
+  "USB extension cable included"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.tp-link.com/us/home-networking/adapter/tl-wn821n/",
+   "publisher": "TP-Link",
+   "final_url": "https://www.tp-link.com/us/home-networking/adapter/tl-wn821n/",
+   "retrieved_at": "2026-11-02T18:01:19+00:00",
+   "sha256": "6513bdfc816d4f6444e440cbcb38bf878d537358999165ee9c89719e3cbb161f",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:08:11+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Tp-link usb wi-fi dongle tl-wn821n.jpg",
+   "categories": [
+    "Category:CC-BY-SA-3.0",
+    "Category:Electronics in Ukraine",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Media lacking a description",
+    "Category:Objects of Lviv",
+    "Category:October 2016 in Lviv",
+    "Category:Self-published work",
+    "Category:TP-Link USB Wi-Fi adapters",
+    "Category:Taken with Motorola XT1254",
+    "Category:Ukraine photographs taken on 2016-10-23",
+    "Category:Uploaded with Mobile/Android",
+    "Category:Uploaded with Mobile/Android (Jul 2016 - Jun 2017)"
+   ],
+   "width": 5248,
+   "height": 3936,
+   "mime": "image/jpeg",
+   "sha1": "60e432b982afe0fcb53e8f9bde6fd74b2242f9e2",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Tp-link_usb_wi-fi_dongle_tl-wn821n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Tp-link_usb_wi-fi_dongle_tl-wn821n.jpg/1280px-Tp-link_usb_wi-fi_dongle_tl-wn821n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Tp-link_usb_wi-fi_dongle_tl-wn821n.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "artist": "OleksandrOmelchuk",
+   "credit": "Own work",
+   "description": "",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-tp-link-tl-wn821n/1-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-tl-wn821n/1.jpg",
+   "local_sha256": "0a12222e5c8f789c5eae43e2acfc7813f657f384395f8a0902352e72e0f22af0",
+   "local_bytes": 294500
+  }
+ ]
+}

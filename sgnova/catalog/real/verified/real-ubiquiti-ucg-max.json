@@ -1,0 +1,102 @@
+{
+ "handle": "real-ubiquiti-ucg-max",
+ "brand": "Ubiquiti",
+ "model": "Cloud Gateway Max",
+ "mpn": "UCG-Max",
+ "category_handle": "router",
+ "title": "Ubiquiti UniFi Cloud Gateway Max",
+ "subtitle": "5 x 2.5 GbE | 2.3 Gbps IDS/IPS | UniFi OS",
+ "description": "Compact UniFi gateway with five 2.5 GbE ports for small businesses and homes, running UniFi Network, Protect, Access and Talk. Specifications verified against Ubiquiti's official tech specs page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Port layout",
+   "value": "5 x 2.5 GbE RJ45"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Max WAN ports",
+   "value": "4"
+  },
+  {
+   "group": "Performance",
+   "label": "IDS/IPS throughput",
+   "value": "2.3 Gbps"
+  },
+  {
+   "group": "General",
+   "label": "Simultaneous users",
+   "value": "300+"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Quad-core Cortex-A53, 1.5 GHz"
+  },
+  {
+   "group": "Performance",
+   "label": "System memory",
+   "value": "3 GB"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "16.1 W"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "141.8 x 127.6 x 30 mm"
+  }
+ ],
+ "highlights": [
+  "Five 2.5 GbE ports",
+  "2.3 Gbps IDS/IPS throughput",
+  "Quad-core 1.5 GHz, 3 GB RAM",
+  "Up to 4 WAN ports"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://techspecs.ui.com/unifi/cloud-gateways/ucg-max",
+   "publisher": "Ubiquiti",
+   "final_url": "https://techspecs.ui.com/unifi/cloud-gateways/ucg-max",
+   "retrieved_at": "2026-11-02T17:57:07+00:00",
+   "sha256": "93c529afc538cff529dcac1d3eb4e68cd1dbb57d5290384b2a0f778d3abfa4cf",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:07:32+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Ubiquiti UniFi Cloud Gateway Max.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Photographs by TaurusEmerald",
+    "Category:Self-published work",
+    "Category:Ubiquiti"
+   ],
+   "width": 3137,
+   "height": 2247,
+   "mime": "image/jpeg",
+   "sha1": "ead7d96ff8af23be4763df1d7b03d76d05259230",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ubiquiti_UniFi_Cloud_Gateway_Max.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Ubiquiti_UniFi_Cloud_Gateway_Max.jpg/1280px-Ubiquiti_UniFi_Cloud_Gateway_Max.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ubiquiti_UniFi_Cloud_Gateway_Max.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "TaurusEmerald",
+   "credit": "Own work",
+   "description": "A Ubiquiti UniFi Cloud Gateway Max.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-ubiquiti-ucg-max/1-card.jpg",
+   "local_path": "/catalog-real/real-ubiquiti-ucg-max/1.jpg",
+   "local_sha256": "dbe8f3da399fcec856ed0e12c0f7b0289cba545235713d113e14fcf22ce69324",
+   "local_bytes": 117184
+  }
+ ]
+}

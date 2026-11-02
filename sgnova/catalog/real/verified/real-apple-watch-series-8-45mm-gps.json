@@ -1,0 +1,133 @@
+{
+ "handle": "real-apple-watch-series-8-45mm-gps",
+ "brand": "Apple",
+ "model": "Apple Watch Series 8",
+ "mpn": null,
+ "category_handle": "smartwatch",
+ "title": "Apple Watch Series 8 (45mm, GPS)",
+ "subtitle": "45mm always-on OLED | S8 | Crash Detection",
+ "description": "Apple Watch Series 8 with a 45mm aluminium case, GPS version, with a high-g accelerometer for crash detection and IP6X dust resistance. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "45mm GPS, aluminium case",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "45mm, 396 x 484 pixels, 1143 sq mm"
+  },
+  {
+   "group": "Display",
+   "label": "Panel",
+   "value": "Always-on Retina LTPO OLED, up to 1000 nits"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "S8 SiP, 64-bit dual-core"
+  },
+  {
+   "group": "Sensors",
+   "label": "Accelerometer",
+   "value": "High-g, up to 256 g-forces, fall and crash detection"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "50 metres"
+  },
+  {
+   "group": "Build",
+   "label": "Dust resistance",
+   "value": "IP6X"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.3"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery life",
+   "value": "Up to 18 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions",
+   "value": "45 x 38 x 10.7 mm"
+  }
+ ],
+ "highlights": [
+  "45mm always-on Retina LTPO OLED",
+  "S8 SiP with 64-bit dual-core processor",
+  "Crash and fall detection",
+  "IP6X dust resistant, 50 m water resistant"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111848",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111848",
+   "retrieved_at": "2026-11-02T17:58:27+00:00",
+   "sha256": "9049cbf9e065a55b422b05c03dbc6aaccd0327497bbffb6faedb1bdc6bd05528",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:03:26+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Apple Watch Series 8 Midnight Aluminium Case.jpg",
+   "categories": [
+    "Category:Apple Watch Series 8",
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Self-published work"
+   ],
+   "width": 1854,
+   "height": 2317,
+   "mime": "image/jpeg",
+   "sha1": "c5cf44ca2462272923da69c3f0d803645046c8c9",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Apple_Watch_Series_8_Midnight_Aluminium_Case.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Apple_Watch_Series_8_Midnight_Aluminium_Case.jpg/1280px-Apple_Watch_Series_8_Midnight_Aluminium_Case.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Apple_Watch_Series_8_Midnight_Aluminium_Case.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Terminator216",
+   "credit": "Own work",
+   "description": "Apple Watch Series 8 Midnight Aluminium Case",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-watch-series-8-45mm-gps/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-watch-series-8-45mm-gps/1.jpg",
+   "local_sha256": "d9f4ea2de701de174aad42833adaf3fc232fc283d5c6e2e21b051058a2900c52",
+   "local_bytes": 250501
+  },
+  {
+   "title": "File:Apple Watch Series 8.jpg",
+   "categories": [
+    "Category:Apple Watch Series 8",
+    "Category:CC-BY-SA-4.0",
+    "Category:Self-published work"
+   ],
+   "width": 6000,
+   "height": 3376,
+   "mime": "image/jpeg",
+   "sha1": "a2d61893a7a34ea7a5a4b0b63f4abcd40d51880d",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Apple_Watch_Series_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Apple_Watch_Series_8.jpg/1280px-Apple_Watch_Series_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Apple_Watch_Series_8.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "iGeeksBlog",
+   "credit": "Own work",
+   "description": "Apple Watch Series 8 with Sport Band in Midnight color having 45mm case",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-watch-series-8-45mm-gps/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-watch-series-8-45mm-gps/2.jpg",
+   "local_sha256": "444a8122d7743b3e994c31e3756c60d110425b5fb1723018bc1d91998ac37252",
+   "local_bytes": 51312
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "handle": "real-ubiquiti-ucg-industrial",
+ "brand": "Ubiquiti",
+ "model": "Cloud Gateway Industrial",
+ "mpn": "UCG-Industrial",
+ "category_handle": "router",
+ "title": "Ubiquiti UniFi Cloud Gateway Industrial",
+ "subtitle": "10G SFP+ | 10 GbE PoE+++ | 5 Gbps IDS/IPS",
+ "description": "Wall-mountable UniFi gateway for business sites, with 10G SFP+, a 10 GbE PoE+++ port and four 2.5 GbE ports including PoE outputs. Specifications verified against Ubiquiti's official tech specs page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Port layout",
+   "value": "4 x 2.5 GbE (2 PoE+++, 2 PoE+), 1 x 10 GbE PoE+++, 1 x 10G SFP+"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Max WAN ports",
+   "value": "5"
+  },
+  {
+   "group": "Performance",
+   "label": "IDS/IPS throughput",
+   "value": "5 Gbps"
+  },
+  {
+   "group": "General",
+   "label": "Simultaneous users",
+   "value": "500+"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Quad-core Cortex-A73, 2.2 GHz"
+  },
+  {
+   "group": "Performance",
+   "label": "System memory",
+   "value": "3 GB"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "28 W (excluding PoE output)"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "307.9 x 203.5 x 43.7 mm"
+  }
+ ],
+ "highlights": [
+  "10G SFP+, 10 GbE and 4 x 2.5 GbE",
+  "PoE+++ and PoE+ outputs",
+  "5 Gbps IDS/IPS throughput",
+  "Quad-core 2.2 GHz, 3 GB RAM"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://techspecs.ui.com/unifi/cloud-gateways/ucg-industrial",
+   "publisher": "Ubiquiti",
+   "final_url": "https://techspecs.ui.com/unifi/cloud-gateways/ucg-industrial",
+   "retrieved_at": "2026-11-02T17:57:09+00:00",
+   "sha256": "41cfc09608dde089131aa4fda86824d2baf3a810bb65ffe5413ee529f72d4a79",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:09:39+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Ubiquiti UniFi Cloud Gateway Industrial.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Photographs by TaurusEmerald",
+    "Category:Self-published work",
+    "Category:Ubiquiti"
+   ],
+   "width": 3970,
+   "height": 2484,
+   "mime": "image/jpeg",
+   "sha1": "bfc8be5e1a927b7a0bac1b0f75f29cf4d74ad441",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Ubiquiti_UniFi_Cloud_Gateway_Industrial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Ubiquiti_UniFi_Cloud_Gateway_Industrial.jpg/1280px-Ubiquiti_UniFi_Cloud_Gateway_Industrial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ubiquiti_UniFi_Cloud_Gateway_Industrial.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "TaurusEmerald",
+   "credit": "Own work",
+   "description": "A Ubiquiti UniFi Cloud Gateway Industrial.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-ubiquiti-ucg-industrial/1-card.jpg",
+   "local_path": "/catalog-real/real-ubiquiti-ucg-industrial/1.jpg",
+   "local_sha256": "1113b8ccf515c195e71b5969a647b5533f85e359aee0f08923bce9246133e4e3",
+   "local_bytes": 185703
+  }
+ ]
+}

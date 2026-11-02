@@ -1,0 +1,107 @@
+{
+ "handle": "real-ubiquiti-ux7",
+ "brand": "Ubiquiti",
+ "model": "UniFi Express 7",
+ "mpn": "UX7",
+ "category_handle": "router",
+ "title": "Ubiquiti UniFi Express 7 Wi-Fi 7 Gateway",
+ "subtitle": "Wi-Fi 7 | 10 GbE WAN | compact",
+ "description": "Compact UniFi gateway and Wi-Fi 7 router for homes and small offices, with a 10 GbE WAN port and a 2.5 GbE LAN port, powered over USB-C. Specifications verified against Ubiquiti's official tech specs page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "WAN",
+   "value": "1 x 10 GbE RJ45"
+  },
+  {
+   "group": "Connectivity",
+   "label": "LAN",
+   "value": "1 x 2.5 GbE RJ45"
+  },
+  {
+   "group": "Performance",
+   "label": "IDS/IPS throughput",
+   "value": "2.3 Gbps"
+  },
+  {
+   "group": "General",
+   "label": "Simultaneous users",
+   "value": "300+"
+  },
+  {
+   "group": "Wireless",
+   "label": "6 GHz throughput",
+   "value": "5.7 Gbps"
+  },
+  {
+   "group": "Wireless",
+   "label": "5 GHz throughput",
+   "value": "4.3 Gbps"
+  },
+  {
+   "group": "Power",
+   "label": "Power",
+   "value": "USB Type-C (5 V DC / 5 A)"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "22 W"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "117 x 117 x 42.5 mm"
+  }
+ ],
+ "highlights": [
+  "Wi-Fi 7 tri-band incl. 6 GHz",
+  "10 GbE WAN, 2.5 GbE LAN",
+  "2.3 Gbps IDS/IPS throughput",
+  "117 mm square footprint"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://techspecs.ui.com/unifi/cloud-gateways/ux7",
+   "publisher": "Ubiquiti",
+   "final_url": "https://techspecs.ui.com/unifi/cloud-gateways/ux7",
+   "retrieved_at": "2026-11-02T17:57:00+00:00",
+   "sha256": "7bc4a904324d27720c1853cd1f1a1ee1de5a8647b85cdc3c1c2659cab11d9a3a",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:07:27+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Ubiquiti UniFi Express 7.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Photographs by TaurusEmerald",
+    "Category:Self-published work",
+    "Category:Ubiquiti"
+   ],
+   "width": 3096,
+   "height": 2404,
+   "mime": "image/jpeg",
+   "sha1": "fab91468a64062c2336d5f112686dc35daedc3a5",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ubiquiti_UniFi_Express_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Ubiquiti_UniFi_Express_7.jpg/1280px-Ubiquiti_UniFi_Express_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ubiquiti_UniFi_Express_7.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "TaurusEmerald",
+   "credit": "Own work",
+   "description": "A Ubiquiti UniFi Express 7.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-ubiquiti-ux7/1-card.jpg",
+   "local_path": "/catalog-real/real-ubiquiti-ux7/1.jpg",
+   "local_sha256": "9260893dbd6a0943cdcafbe41f1775d7504a6a9dd6b5d549e11aa65ad2cddabf",
+   "local_bytes": 114597
+  }
+ ]
+}

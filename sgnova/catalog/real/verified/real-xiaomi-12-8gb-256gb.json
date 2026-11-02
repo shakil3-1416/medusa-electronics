@@ -1,0 +1,135 @@
+{
+ "handle": "real-xiaomi-12-8gb-256gb",
+ "brand": "Xiaomi",
+ "model": "Xiaomi 12",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Xiaomi 12 (8GB+256GB)",
+ "subtitle": "6.28-inch 120Hz AMOLED | Snapdragon 8 Gen 1 | 50MP camera",
+ "description": "Xiaomi 12 with 8GB of LPDDR5 RAM and 256GB of UFS 3.1 storage, a compact 6.28-inch 120Hz AMOLED display, the Snapdragon 8 Gen 1 platform, a 50MP OIS main camera and a 4500mAh battery with 67W wired and 50W wireless charging. Specifications were verified against Xiaomi's official global specs page.",
+ "variant_title": "8GB+256GB",
+ "specs": [
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "8GB LPDDR5 RAM, 256GB UFS 3.1"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.28-inch FHD+ AMOLED, 2400 x 1080, 419 ppi, 120Hz"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Snapdragon 8 Gen 1 (4nm)"
+  },
+  {
+   "group": "Camera",
+   "label": "Main camera",
+   "value": "50MP, f/1.88, OIS"
+  },
+  {
+   "group": "Camera",
+   "label": "Ultra-wide camera",
+   "value": "13MP, 123° FOV, f/2.4"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "32MP, f/2.45"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery and charging",
+   "value": "4500mAh, 67W wired, 50W wireless"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions and weight",
+   "value": "152.7 x 69.9 x 8.16 mm, 180 g"
+  }
+ ],
+ "highlights": [
+  "6.28-inch 120Hz AMOLED DotDisplay",
+  "Snapdragon 8 Gen 1",
+  "50MP main camera with OIS",
+  "4500mAh with 67W wired charging"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/xiaomi-12/specs/",
+   "publisher": "Xiaomi",
+   "final_url": "https://www.mi.com/global/product/xiaomi-12/specs/",
+   "retrieved_at": "2026-11-02T17:48:21+00:00",
+   "sha256": "5264049551a33422c47d59d35640e29899e48a7f65af1ab33565ddf2b98bedbc",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:11:21+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Xiaomi 12.jpg",
+   "categories": [
+    "Category:Blue mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Front of smartphones",
+    "Category:GFDL",
+    "Category:License migration redundant",
+    "Category:Self-published work",
+    "Category:Xiaomi 12"
+   ],
+   "width": 3000,
+   "height": 4000,
+   "mime": "image/jpeg",
+   "sha1": "8bf35ba32de062149ac4033af4d368d598fea2a5",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Xiaomi_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Xiaomi_12.jpg/1280px-Xiaomi_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Xiaomi_12.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "洛微",
+   "credit": "拍摄于小米之家",
+   "description": "​小米12的机身正面",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-xiaomi-12-8gb-256gb/1-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-12-8gb-256gb/1.jpg",
+   "local_sha256": "d93dadbb97d428d803d8434b8121c221d6a07d3d794827a4acc8f0510f194e5d",
+   "local_bytes": 126919
+  },
+  {
+   "title": "File:The back of Xiaomi 12.jpg",
+   "categories": [
+    "Category:Backs of smartphones",
+    "Category:Blue mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:GFDL",
+    "Category:License migration redundant",
+    "Category:Self-published work",
+    "Category:Xiaomi 12"
+   ],
+   "width": 3000,
+   "height": 4000,
+   "mime": "image/jpeg",
+   "sha1": "0426c78461b4ed10fc17f6e2d99716ec1883b037",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/The_back_of_Xiaomi_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/The_back_of_Xiaomi_12.jpg/1280px-The_back_of_Xiaomi_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:The_back_of_Xiaomi_12.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "洛微",
+   "credit": "拍摄于小米之家",
+   "description": "​小米12的机身背部",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-xiaomi-12-8gb-256gb/2-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-12-8gb-256gb/2.jpg",
+   "local_sha256": "6d3549b0c6ac2c99bd851d800d2a899d1334237411a906ec0be3f9c2d06a56ca",
+   "local_bytes": 106611
+  }
+ ]
+}

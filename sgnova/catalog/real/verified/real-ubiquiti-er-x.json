@@ -1,0 +1,103 @@
+{
+ "handle": "real-ubiquiti-er-x",
+ "brand": "Ubiquiti",
+ "model": "EdgeRouter X",
+ "mpn": "ER-X",
+ "category_handle": "router",
+ "title": "Ubiquiti EdgeRouter X",
+ "subtitle": "5 Gigabit ports | 880 MHz dual-core | PoE passthrough",
+ "description": "Compact five-port Gigabit router running EdgeOS, with PoE input and passthrough, aimed at small offices and advanced home networks. Specifications verified against Ubiquiti's official tech specs page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Dual-core 880 MHz, MIPS1004Kc"
+  },
+  {
+   "group": "Performance",
+   "label": "Memory",
+   "value": "256 MB DDR3"
+  },
+  {
+   "group": "Performance",
+   "label": "Storage",
+   "value": "256 MB NAND"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "3 x 10/100/1000 RJ45 plus PoE-in and PoE passthrough ports"
+  },
+  {
+   "group": "Power",
+   "label": "Power",
+   "value": "12 V DC 0.5 A adapter or 24 V passive PoE"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "5 W"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "110 x 75 x 22 mm"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight",
+   "value": "175 g"
+  }
+ ],
+ "highlights": [
+  "Five Gigabit RJ45 ports",
+  "Dual-core 880 MHz CPU",
+  "256 MB RAM, 256 MB NAND",
+  "PoE in and passthrough"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://techspecs.ui.com/uisp/wired/er-x",
+   "publisher": "Ubiquiti",
+   "final_url": "https://techspecs.ui.com/uisp/wired/er-x",
+   "retrieved_at": "2026-11-02T18:27:59+00:00",
+   "sha256": "2744a95cac9de794abe85b84f24c39a3209eb217172471f0131b1d647d9e8c68",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:09:44+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Ubiquiti edgerouter x router.jpg",
+   "categories": [
+    "Category:CC-BY-4.0",
+    "Category:Denmark photographs taken on 2023-11-24",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Self-published work",
+    "Category:Ubiquiti Edgerouter X"
+   ],
+   "width": 2384,
+   "height": 2384,
+   "mime": "image/jpeg",
+   "sha1": "c367dc6da63d8576d3325d8768e9eb3185a103ae",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ubiquiti_edgerouter_x_router.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Ubiquiti_edgerouter_x_router.jpg/1280px-Ubiquiti_edgerouter_x_router.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ubiquiti_edgerouter_x_router.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Kent Madsen",
+   "credit": "Own work",
+   "description": "ubiquiti edgerouter x",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-ubiquiti-er-x/1-card.jpg",
+   "local_path": "/catalog-real/real-ubiquiti-er-x/1.jpg",
+   "local_sha256": "c76f925b82a64f66b49129d4f091a2d6c52f1f9dd6e11bca2e729292618b8b79",
+   "local_bytes": 177104
+  }
+ ]
+}

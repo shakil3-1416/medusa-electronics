@@ -67,7 +67,7 @@
    "sha256": "ac043c34b81c74819aad0c7a3284b07c0f98ac9cfc95b9e5b2c8aa1b5bbf4fb1",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:19+00:00",
+  "verified_at": "2026-11-02T19:00:26+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -95,9 +95,10 @@
    "description": "Studio Display（2022年モデル）。名古屋市中区のApple Store名古屋栄で撮影。",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-apple-studio-display-2022/1-card.jpg",
    "local_path": "/catalog-real/real-apple-studio-display-2022/1.jpg",
-   "local_sha256": "680c2c7f476c7c466048d80b8ef5ced0a811fcd12dc227f7729fb60aafc6094c",
-   "local_bytes": 230119
+   "local_sha256": "6abed631342d1b9719943c061a9387b7918c6a580852bd4d35f483d1fcfa529a",
+   "local_bytes": 222733
   }
  ]
 }

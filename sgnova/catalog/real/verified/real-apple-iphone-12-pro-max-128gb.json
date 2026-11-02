@@ -1,0 +1,149 @@
+{
+ "handle": "real-apple-iphone-12-pro-max-128gb",
+ "brand": "Apple",
+ "model": "iPhone 12 Pro Max",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 12 Pro Max (128GB)",
+ "subtitle": "6.7-inch all-screen OLED | A14 Bionic | 128GB",
+ "description": "Apple iPhone 12 Pro Max smartphone in the 128GB storage configuration. It runs on the A14 Bionic chip and has a 6.7-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "128GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.7-inch all-screen OLED display"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2778 x 1284 at 458 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A14 Bionic"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "IP68, up to 6 m for 30 minutes"
+  },
+  {
+   "group": "Battery",
+   "label": "Video playback",
+   "value": "Up to 20 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "228 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "160.8 x 78.1 x 7.4 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "Wi-Fi 6 (802.11ax)"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.0"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "Lightning"
+  }
+ ],
+ "highlights": [
+  "6.7-inch all-screen OLED display",
+  "2778 x 1284 at 458 ppi resolution",
+  "A14 Bionic chip",
+  "Water resistance: IP68, up to 6 m for 30 minutes"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111874",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111874",
+   "retrieved_at": "2026-11-02T18:16:22+00:00",
+   "sha256": "e687d95404af3e1844143ba09cacf87f33afab43fe2f82a19a6219c9d3ba534b",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:04:14+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPhone 12 Pro Max Pacific Blue 128g.jpg",
+   "categories": [
+    "Category:Backs of smartphones",
+    "Category:Blue mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Dongguan photographs taken on 2025-03-31",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 12 Pro",
+    "Category:Images by 茅野ふたば taken with iPhone 14 Pro Max",
+    "Category:Self-published work",
+    "Category:Smartphones in Dongguan",
+    "Category:Taken with iPhone 14 Pro Max"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "e6cb75c897ef6f657ae4defee16cf51a426939ea",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/IPhone_12_Pro_Max_Pacific_Blue_128g.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/IPhone_12_Pro_Max_Pacific_Blue_128g.jpg/1280px-IPhone_12_Pro_Max_Pacific_Blue_128g.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_12_Pro_Max_Pacific_Blue_128g.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "茅野ふたば",
+   "credit": "Own work",
+   "description": "iPhone 12 Pro Max Pacific Blue 128g.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-12-pro-max-128gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-12-pro-max-128gb/1.jpg",
+   "local_sha256": "a8fce268befb79b37033a6625d725d6856c2436d947b1f9b494973b1fc7ee0c0",
+   "local_bytes": 203179
+  },
+  {
+   "title": "File:IPhone 12 Pro Max - 2.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:IPhone 12 Pro",
+    "Category:Self-published work"
+   ],
+   "width": 1685,
+   "height": 3321,
+   "mime": "image/jpeg",
+   "sha1": "cc473b0b40bdb74eecc109c4afccf35d4416dde4",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/IPhone_12_Pro_Max_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/IPhone_12_Pro_Max_-_2.jpg/1280px-IPhone_12_Pro_Max_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_12_Pro_Max_-_2.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "KKPCW",
+   "credit": "Own work",
+   "description": "名古屋市内の家電量販店に展示されていた「iPhone 12 Pro Max」の側面。",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-12-pro-max-128gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-12-pro-max-128gb/2.jpg",
+   "local_sha256": "f1ef2822792f310a9e6cdf49f0881b9249a16012dfcdb13ca686f6266ba2a3bf",
+   "local_bytes": 103858
+  }
+ ]
+}

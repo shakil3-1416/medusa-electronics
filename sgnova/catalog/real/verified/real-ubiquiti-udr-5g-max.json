@@ -1,0 +1,102 @@
+{
+ "handle": "real-ubiquiti-udr-5g-max",
+ "brand": "Ubiquiti",
+ "model": "Dream Router 5G Max",
+ "mpn": "UDR-5G-Max",
+ "category_handle": "router",
+ "title": "Ubiquiti UniFi Dream Router 5G Max",
+ "subtitle": "5G gateway | 10G SFP+ | Wi-Fi",
+ "description": "UniFi Dream Router variant with built-in 5G cellular WAN, a 10G SFP+ port and four 2.5 GbE ports, running the UniFi application suite. Specifications verified against Ubiquiti's official tech specs page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Port layout",
+   "value": "4 x 2.5 GbE (1 PoE), 1 x 10G SFP+"
+  },
+  {
+   "group": "Performance",
+   "label": "IDS/IPS throughput",
+   "value": "2.3 Gbps"
+  },
+  {
+   "group": "General",
+   "label": "Simultaneous users",
+   "value": "300+"
+  },
+  {
+   "group": "Wireless",
+   "label": "Coverage area",
+   "value": "160 m2"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Quad-core Cortex-A53, 1.5 GHz"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "34.5 W (excluding PoE output)"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "110 x 110 x 250 mm"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight",
+   "value": "1.4 kg"
+  }
+ ],
+ "highlights": [
+  "Built-in 5G cellular",
+  "10G SFP+ and 4 x 2.5 GbE",
+  "2.3 Gbps IDS/IPS throughput",
+  "Covers about 160 m2"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://techspecs.ui.com/unifi/cloud-gateways/udr-5g-max",
+   "publisher": "Ubiquiti",
+   "final_url": "https://techspecs.ui.com/unifi/cloud-gateways/udr-5g-max",
+   "retrieved_at": "2026-11-02T18:27:46+00:00",
+   "sha256": "c5377cd9265e559d9af225789e12523ad713239dd892c45cb8b64cb48d511700",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:09:41+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Ubiquiti UniFi Dream Router 5G Max.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Photographs by TaurusEmerald",
+    "Category:Self-published work",
+    "Category:Ubiquiti"
+   ],
+   "width": 2534,
+   "height": 3828,
+   "mime": "image/jpeg",
+   "sha1": "da887766a6d3bc6675b105fc6003d72f9f3067bc",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Ubiquiti_UniFi_Dream_Router_5G_Max.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Ubiquiti_UniFi_Dream_Router_5G_Max.jpg/1280px-Ubiquiti_UniFi_Dream_Router_5G_Max.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ubiquiti_UniFi_Dream_Router_5G_Max.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "TaurusEmerald",
+   "credit": "Own work",
+   "description": "A Ubiquiti UniFi Dream Router 5G Max.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-ubiquiti-udr-5g-max/1-card.jpg",
+   "local_path": "/catalog-real/real-ubiquiti-udr-5g-max/1.jpg",
+   "local_sha256": "546d19f4e0d73d69ccf3db70c75df8e0aba7ac934e483666c53759d56b42e0c3",
+   "local_bytes": 103905
+  }
+ ]
+}

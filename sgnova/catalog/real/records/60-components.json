@@ -1,0 +1,1381 @@
+[
+ {
+  "handle": "real-amd-ryzen-9-9950x",
+  "brand": "AMD",
+  "model": "Ryzen 9 9950X",
+  "mpn": "100-100001277WOF",
+  "variant_title": "Default",
+  "category_handle": "processor",
+  "title": "AMD Ryzen 9 9950X Desktop Processor",
+  "subtitle": "16 cores / 32 threads | up to 5.7 GHz | AM5",
+  "description": "16-core AMD desktop processor for the AM5 socket with 64 MB of L3 cache and boost clocks up to 5.7 GHz. Specifications checked against AMD's official product page.",
+  "highlights": [
+   "16 cores, 32 threads",
+   "Up to 5.7 GHz boost",
+   "64 MB L3 cache",
+   "AM5 socket, DDR5 memory"
+  ],
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x.html",
+   "publisher": "Advanced Micro Devices, Inc."
+  },
+  "model_match": [
+   "AMD Ryzen™ 9 9950X"
+  ],
+  "specs": [
+   {
+    "group": "Processor",
+    "label": "Cores",
+    "value": "16",
+    "evidence": "# of cpu cores 16"
+   },
+   {
+    "group": "Processor",
+    "label": "Threads",
+    "value": "32",
+    "evidence": "# of threads 32"
+   },
+   {
+    "group": "Clock",
+    "label": "Max boost clock",
+    "value": "Up to 5.7 GHz",
+    "evidence": "up to 5.7 ghz"
+   },
+   {
+    "group": "Clock",
+    "label": "Base clock",
+    "value": "4.3 GHz",
+    "evidence": "4.3 ghz",
+    "context": "base clock"
+   },
+   {
+    "group": "Cache",
+    "label": "L3 cache",
+    "value": "64 MB",
+    "evidence": "l3 cache 64 mb"
+   },
+   {
+    "group": "Power",
+    "label": "Default TDP",
+    "value": "170W",
+    "evidence": "default tdp 170w"
+   },
+   {
+    "group": "Platform",
+    "label": "Socket",
+    "value": "AM5",
+    "evidence": "cpu socket am5"
+   },
+   {
+    "group": "Platform",
+    "label": "PCI Express",
+    "value": "PCIe 5.0",
+    "evidence": "pci express® version pcie® 5.0"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory type",
+    "value": "DDR5",
+    "evidence": "system memory type ddr5"
+   },
+   {
+    "group": "Build",
+    "label": "Process",
+    "value": "TSMC 4nm FinFET",
+    "evidence": "processor technology for cpu cores tsmc 4nm finfet"
+   },
+   {
+    "group": "Graphics",
+    "label": "Integrated graphics",
+    "value": "AMD Radeon Graphics",
+    "evidence": "graphics model amd radeontm graphics"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:AMD Ryzen 9 9950X.jpg",
+    "model_evidence": "Ryzen 9 9950X"
+   },
+   {
+    "commons_file": "File:AMD Ryzen 9 9950X 2.jpg",
+    "model_evidence": "Ryzen 9 9950X"
+   }
+  ]
+ },
+ {
+  "handle": "real-amd-ryzen-5-9600x",
+  "brand": "AMD",
+  "model": "Ryzen 5 9600X",
+  "mpn": "100-100001405WOF",
+  "variant_title": "Default",
+  "category_handle": "processor",
+  "title": "AMD Ryzen 5 9600X Desktop Processor",
+  "subtitle": "6 cores / 12 threads | up to 5.4 GHz | AM5",
+  "description": "6-core AMD desktop processor for the AM5 socket with 32 MB of L3 cache and boost clocks up to 5.4 GHz. Specifications checked against AMD's official product page.",
+  "highlights": [
+   "6 cores, 12 threads",
+   "Up to 5.4 GHz boost",
+   "32 MB L3 cache",
+   "AM5 socket, DDR5 memory"
+  ],
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-5-9600x.html",
+   "publisher": "Advanced Micro Devices, Inc."
+  },
+  "model_match": [
+   "AMD Ryzen™ 5 9600X"
+  ],
+  "specs": [
+   {
+    "group": "Processor",
+    "label": "Cores",
+    "value": "6",
+    "evidence": "# of cpu cores 6"
+   },
+   {
+    "group": "Processor",
+    "label": "Threads",
+    "value": "12",
+    "evidence": "# of threads 12"
+   },
+   {
+    "group": "Clock",
+    "label": "Max boost clock",
+    "value": "Up to 5.4 GHz",
+    "evidence": "up to 5.4 ghz"
+   },
+   {
+    "group": "Clock",
+    "label": "Base clock",
+    "value": "3.9 GHz",
+    "evidence": "3.9 ghz",
+    "context": "base clock"
+   },
+   {
+    "group": "Cache",
+    "label": "L3 cache",
+    "value": "32 MB",
+    "evidence": "l3 cache 32 mb"
+   },
+   {
+    "group": "Power",
+    "label": "Default TDP",
+    "value": "65W",
+    "evidence": "default tdp 65w"
+   },
+   {
+    "group": "Platform",
+    "label": "Socket",
+    "value": "AM5",
+    "evidence": "cpu socket am5"
+   },
+   {
+    "group": "Platform",
+    "label": "PCI Express",
+    "value": "PCIe 5.0",
+    "evidence": "pci express® version pcie® 5.0"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory type",
+    "value": "DDR5",
+    "evidence": "system memory type ddr5"
+   },
+   {
+    "group": "Build",
+    "label": "Process",
+    "value": "TSMC 4nm FinFET",
+    "evidence": "processor technology for cpu cores tsmc 4nm finfet"
+   },
+   {
+    "group": "Graphics",
+    "label": "Integrated graphics",
+    "value": "AMD Radeon Graphics",
+    "evidence": "graphics model amd radeontm graphics"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:AMD@4nmCCD(6nmIOD)@Zen5@Granite Ridge@Ryzen 5 9600X@100-000001405 BY 2429SUY 9AEQ579S40073 DSCx01.jpg",
+    "model_evidence": "Ryzen 5 9600X"
+   },
+   {
+    "commons_file": "File:AMD@4nmCCD(6nmIOD)@Zen5@Granite Ridge@Ryzen 5 9600X@100-000001405 BY 2429SUY 9AEQ579S40073 DSCx02.jpg",
+    "model_evidence": "Ryzen 5 9600X"
+   }
+  ]
+ },
+ {
+  "handle": "real-amd-ryzen-9-7900x",
+  "brand": "AMD",
+  "model": "Ryzen 9 7900X",
+  "mpn": "100-100000589WOF",
+  "variant_title": "Default",
+  "category_handle": "processor",
+  "title": "AMD Ryzen 9 7900X Desktop Processor",
+  "subtitle": "12 cores / 24 threads | up to 5.6 GHz | AM5",
+  "description": "12-core AMD desktop processor for the AM5 socket with 64 MB of L3 cache and boost clocks up to 5.6 GHz. Specifications checked against AMD's official product page.",
+  "highlights": [
+   "12 cores, 24 threads",
+   "Up to 5.6 GHz boost",
+   "64 MB L3 cache",
+   "AM5 socket, DDR5 memory"
+  ],
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7900x.html",
+   "publisher": "Advanced Micro Devices, Inc."
+  },
+  "model_match": [
+   "AMD Ryzen™ 9 7900X"
+  ],
+  "specs": [
+   {
+    "group": "Processor",
+    "label": "Cores",
+    "value": "12",
+    "evidence": "# of cpu cores 12"
+   },
+   {
+    "group": "Processor",
+    "label": "Threads",
+    "value": "24",
+    "evidence": "# of threads 24"
+   },
+   {
+    "group": "Clock",
+    "label": "Max boost clock",
+    "value": "Up to 5.6 GHz",
+    "evidence": "up to 5.6 ghz"
+   },
+   {
+    "group": "Clock",
+    "label": "Base clock",
+    "value": "4.7 GHz",
+    "evidence": "4.7 ghz",
+    "context": "base clock"
+   },
+   {
+    "group": "Cache",
+    "label": "L3 cache",
+    "value": "64 MB",
+    "evidence": "l3 cache 64 mb"
+   },
+   {
+    "group": "Power",
+    "label": "Default TDP",
+    "value": "170W",
+    "evidence": "default tdp 170w"
+   },
+   {
+    "group": "Platform",
+    "label": "Socket",
+    "value": "AM5",
+    "evidence": "cpu socket am5"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory type",
+    "value": "DDR5",
+    "evidence": "system memory type ddr5"
+   },
+   {
+    "group": "Build",
+    "label": "Process",
+    "value": "TSMC 5nm FinFET",
+    "evidence": "processor technology for cpu cores tsmc 5nm finfet"
+   },
+   {
+    "group": "Graphics",
+    "label": "Integrated graphics",
+    "value": "AMD Radeon Graphics",
+    "evidence": "graphics model amd radeontm graphics"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:AMD Ryzen 9 7900X.jpg",
+    "model_evidence": "Ryzen 9 7900X"
+   }
+  ]
+ },
+ {
+  "handle": "real-amd-ryzen-7-1800x",
+  "brand": "AMD",
+  "model": "Ryzen 7 1800X",
+  "mpn": "YD180XBCAEWOF",
+  "variant_title": "Default",
+  "category_handle": "processor",
+  "title": "AMD Ryzen 7 1800X Desktop Processor",
+  "subtitle": "8 cores / 16 threads | up to 4 GHz | AM4",
+  "description": "8-core AMD desktop processor for the AM4 socket with 16 MB of L3 cache and boost clocks up to 4 GHz. Specifications checked against AMD's official product page.",
+  "highlights": [
+   "8 cores, 16 threads",
+   "Up to 4 GHz boost",
+   "16 MB L3 cache",
+   "AM4 socket, DDR4 memory"
+  ],
+  "spec_source": {
+   "url": "https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-1000-series/amd-ryzen-7-1800x.html",
+   "publisher": "Advanced Micro Devices, Inc."
+  },
+  "model_match": [
+   "AMD Ryzen™ 7 1800X"
+  ],
+  "specs": [
+   {
+    "group": "Processor",
+    "label": "Cores",
+    "value": "8",
+    "evidence": "# of cpu cores 8"
+   },
+   {
+    "group": "Processor",
+    "label": "Threads",
+    "value": "16",
+    "evidence": "# of threads 16"
+   },
+   {
+    "group": "Clock",
+    "label": "Max boost clock",
+    "value": "Up to 4 GHz",
+    "evidence": "up to 4 ghz base clock"
+   },
+   {
+    "group": "Clock",
+    "label": "Base clock",
+    "value": "3.6 GHz",
+    "evidence": "3.6 ghz",
+    "context": "base clock"
+   },
+   {
+    "group": "Cache",
+    "label": "L3 cache",
+    "value": "16 MB",
+    "evidence": "l3 cache 16 mb"
+   },
+   {
+    "group": "Power",
+    "label": "Default TDP",
+    "value": "95W",
+    "evidence": "default tdp 95w"
+   },
+   {
+    "group": "Platform",
+    "label": "Socket",
+    "value": "AM4",
+    "evidence": "cpu socket am4"
+   },
+   {
+    "group": "Platform",
+    "label": "PCI Express",
+    "value": "PCIe 3.0",
+    "evidence": "pci express® version pcie® 3.0"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory type",
+    "value": "DDR4",
+    "evidence": "system memory type ddr4"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:AMD Ryzen 7 1800X.jpg",
+    "model_evidence": "Ryzen 7 1800X"
+   }
+  ],
+  "review_notes": [
+   "AMD's current spec table for this processor is published on its official drivers & support page."
+  ]
+ },
+ {
+  "handle": "real-amd-ryzen-5-1600",
+  "brand": "AMD",
+  "model": "Ryzen 5 1600",
+  "mpn": "YD1600BBAEBOX",
+  "variant_title": "Default",
+  "category_handle": "processor",
+  "title": "AMD Ryzen 5 1600 Desktop Processor",
+  "subtitle": "6 cores / 12 threads | up to 3.6 GHz | AM4",
+  "description": "6-core AMD desktop processor for the AM4 socket with 16 MB of L3 cache and boost clocks up to 3.6 GHz. Specifications checked against AMD's official product page.",
+  "highlights": [
+   "6 cores, 12 threads",
+   "Up to 3.6 GHz boost",
+   "16 MB L3 cache",
+   "AM4 socket, DDR4 memory"
+  ],
+  "spec_source": {
+   "url": "https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-1000-series/amd-ryzen-5-1600.html",
+   "publisher": "Advanced Micro Devices, Inc."
+  },
+  "model_match": [
+   "AMD Ryzen™ 5 1600"
+  ],
+  "specs": [
+   {
+    "group": "Processor",
+    "label": "Cores",
+    "value": "6",
+    "evidence": "# of cpu cores 6"
+   },
+   {
+    "group": "Processor",
+    "label": "Threads",
+    "value": "12",
+    "evidence": "# of threads 12"
+   },
+   {
+    "group": "Clock",
+    "label": "Max boost clock",
+    "value": "Up to 3.6 GHz",
+    "evidence": "up to 3.6 ghz"
+   },
+   {
+    "group": "Clock",
+    "label": "Base clock",
+    "value": "3.2 GHz",
+    "evidence": "3.2 ghz",
+    "context": "base clock"
+   },
+   {
+    "group": "Cache",
+    "label": "L3 cache",
+    "value": "16 MB",
+    "evidence": "l3 cache 16 mb"
+   },
+   {
+    "group": "Power",
+    "label": "Default TDP",
+    "value": "65W",
+    "evidence": "default tdp 65w"
+   },
+   {
+    "group": "Platform",
+    "label": "Socket",
+    "value": "AM4",
+    "evidence": "cpu socket am4"
+   },
+   {
+    "group": "Platform",
+    "label": "PCI Express",
+    "value": "PCIe 3.0",
+    "evidence": "pci express® version pcie® 3.0"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory type",
+    "value": "DDR4",
+    "evidence": "system memory type ddr4"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:AMD Ryzen 5 1600 processor with Wraith Spire cooler - detail view of processor.jpg",
+    "model_evidence": "Ryzen 5 1600"
+   },
+   {
+    "commons_file": "File:AMD Ryzen 5 1600 processor with Wraith Spire cooler - detail view of cooler.jpg",
+    "model_evidence": "Ryzen 5 1600"
+   }
+  ],
+  "review_notes": [
+   "AMD's current spec table for this processor is published on its official drivers & support page."
+  ]
+ },
+ {
+  "handle": "real-amd-ryzen-5-2600",
+  "brand": "AMD",
+  "model": "Ryzen 5 2600",
+  "mpn": "YD2600BBAFBOX",
+  "variant_title": "Default",
+  "category_handle": "processor",
+  "title": "AMD Ryzen 5 2600 Desktop Processor",
+  "subtitle": "6 cores / 12 threads | up to 3.9 GHz | AM4",
+  "description": "6-core AMD desktop processor for the AM4 socket with 16 MB of L3 cache and boost clocks up to 3.9 GHz. Specifications checked against AMD's official product page.",
+  "highlights": [
+   "6 cores, 12 threads",
+   "Up to 3.9 GHz boost",
+   "16 MB L3 cache",
+   "AM4 socket, DDR4 memory"
+  ],
+  "spec_source": {
+   "url": "https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-2000-series/amd-ryzen-5-2600.html",
+   "publisher": "Advanced Micro Devices, Inc."
+  },
+  "model_match": [
+   "AMD Ryzen™ 5 2600"
+  ],
+  "specs": [
+   {
+    "group": "Processor",
+    "label": "Cores",
+    "value": "6",
+    "evidence": "# of cpu cores 6"
+   },
+   {
+    "group": "Processor",
+    "label": "Threads",
+    "value": "12",
+    "evidence": "# of threads 12"
+   },
+   {
+    "group": "Clock",
+    "label": "Max boost clock",
+    "value": "Up to 3.9 GHz",
+    "evidence": "up to 3.9 ghz"
+   },
+   {
+    "group": "Clock",
+    "label": "Base clock",
+    "value": "3.4 GHz",
+    "evidence": "3.4 ghz",
+    "context": "base clock"
+   },
+   {
+    "group": "Cache",
+    "label": "L3 cache",
+    "value": "16 MB",
+    "evidence": "l3 cache 16 mb"
+   },
+   {
+    "group": "Power",
+    "label": "Default TDP",
+    "value": "65W",
+    "evidence": "default tdp 65w"
+   },
+   {
+    "group": "Platform",
+    "label": "Socket",
+    "value": "AM4",
+    "evidence": "cpu socket am4"
+   },
+   {
+    "group": "Platform",
+    "label": "PCI Express",
+    "value": "PCIe 3.0",
+    "evidence": "pci express® version pcie® 3.0"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory type",
+    "value": "DDR4",
+    "evidence": "system memory type ddr4"
+   },
+   {
+    "group": "Build",
+    "label": "Process",
+    "value": "12nm FinFET",
+    "evidence": "processor technology for cpu cores 12nm finfet"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:AMD Ryzen 5 2600 (39851733273).jpg",
+    "model_evidence": "Ryzen 5 2600"
+   }
+  ],
+  "review_notes": [
+   "AMD's current spec table for this processor is published on its official drivers & support page."
+  ]
+ },
+ {
+  "handle": "real-amd-ryzen-5-3600",
+  "brand": "AMD",
+  "model": "Ryzen 5 3600",
+  "mpn": "100-100000031BOX",
+  "variant_title": "Default",
+  "category_handle": "processor",
+  "title": "AMD Ryzen 5 3600 Desktop Processor",
+  "subtitle": "6 cores / 12 threads | up to 4.2 GHz | AM4",
+  "description": "6-core AMD desktop processor for the AM4 socket with 32 MB of L3 cache and boost clocks up to 4.2 GHz. Specifications checked against AMD's official product page.",
+  "highlights": [
+   "6 cores, 12 threads",
+   "Up to 4.2 GHz boost",
+   "32 MB L3 cache",
+   "AM4 socket, DDR4 memory"
+  ],
+  "spec_source": {
+   "url": "https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-3000-series/amd-ryzen-5-3600.html",
+   "publisher": "Advanced Micro Devices, Inc."
+  },
+  "model_match": [
+   "AMD Ryzen™ 5 3600"
+  ],
+  "specs": [
+   {
+    "group": "Processor",
+    "label": "Cores",
+    "value": "6",
+    "evidence": "# of cpu cores 6"
+   },
+   {
+    "group": "Processor",
+    "label": "Threads",
+    "value": "12",
+    "evidence": "# of threads 12"
+   },
+   {
+    "group": "Clock",
+    "label": "Max boost clock",
+    "value": "Up to 4.2 GHz",
+    "evidence": "up to 4.2 ghz"
+   },
+   {
+    "group": "Clock",
+    "label": "Base clock",
+    "value": "3.6 GHz",
+    "evidence": "3.6 ghz",
+    "context": "base clock"
+   },
+   {
+    "group": "Cache",
+    "label": "L3 cache",
+    "value": "32 MB",
+    "evidence": "l3 cache 32 mb"
+   },
+   {
+    "group": "Power",
+    "label": "Default TDP",
+    "value": "65W",
+    "evidence": "default tdp 65w"
+   },
+   {
+    "group": "Platform",
+    "label": "Socket",
+    "value": "AM4",
+    "evidence": "cpu socket am4"
+   },
+   {
+    "group": "Platform",
+    "label": "PCI Express",
+    "value": "PCIe 4.0",
+    "evidence": "pci express® version pcie® 4.0"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory type",
+    "value": "DDR4",
+    "evidence": "system memory type ddr4"
+   },
+   {
+    "group": "Build",
+    "label": "Process",
+    "value": "TSMC 7nm FinFET",
+    "evidence": "processor technology for cpu cores tsmc 7nm finfet"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:AMD@7nm(12nmIO)@Zen2@Matisse@Ryzen 5 3600@100-000000031 BF 1923SUT 9HM6935R90062 DSCx1.jpg",
+    "model_evidence": "Ryzen 5 3600"
+   }
+  ],
+  "review_notes": [
+   "AMD's current spec table for this processor is published on its official drivers & support page."
+  ]
+ },
+ {
+  "handle": "real-amd-ryzen-9-3900x",
+  "brand": "AMD",
+  "model": "Ryzen 9 3900X",
+  "mpn": "100-100000023BOX",
+  "variant_title": "Default",
+  "category_handle": "processor",
+  "title": "AMD Ryzen 9 3900X Desktop Processor",
+  "subtitle": "12 cores / 24 threads | up to 4.6 GHz | AM4",
+  "description": "12-core AMD desktop processor for the AM4 socket with 64 MB of L3 cache and boost clocks up to 4.6 GHz. Specifications checked against AMD's official product page.",
+  "highlights": [
+   "12 cores, 24 threads",
+   "Up to 4.6 GHz boost",
+   "64 MB L3 cache",
+   "AM4 socket, DDR4 memory"
+  ],
+  "spec_source": {
+   "url": "https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-3000-series/amd-ryzen-9-3900x.html",
+   "publisher": "Advanced Micro Devices, Inc."
+  },
+  "model_match": [
+   "AMD Ryzen™ 9 3900X"
+  ],
+  "specs": [
+   {
+    "group": "Processor",
+    "label": "Cores",
+    "value": "12",
+    "evidence": "# of cpu cores 12"
+   },
+   {
+    "group": "Processor",
+    "label": "Threads",
+    "value": "24",
+    "evidence": "# of threads 24"
+   },
+   {
+    "group": "Clock",
+    "label": "Max boost clock",
+    "value": "Up to 4.6 GHz",
+    "evidence": "up to 4.6 ghz"
+   },
+   {
+    "group": "Clock",
+    "label": "Base clock",
+    "value": "3.8 GHz",
+    "evidence": "3.8 ghz",
+    "context": "base clock"
+   },
+   {
+    "group": "Cache",
+    "label": "L3 cache",
+    "value": "64 MB",
+    "evidence": "l3 cache 64 mb"
+   },
+   {
+    "group": "Power",
+    "label": "Default TDP",
+    "value": "105W",
+    "evidence": "default tdp 105w"
+   },
+   {
+    "group": "Platform",
+    "label": "Socket",
+    "value": "AM4",
+    "evidence": "cpu socket am4"
+   },
+   {
+    "group": "Platform",
+    "label": "PCI Express",
+    "value": "PCIe 4.0",
+    "evidence": "pci express® version pcie® 4.0"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory type",
+    "value": "DDR4",
+    "evidence": "system memory type ddr4"
+   },
+   {
+    "group": "Build",
+    "label": "Process",
+    "value": "TSMC 7nm FinFET",
+    "evidence": "processor technology for cpu cores tsmc 7nm finfet"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:AMD Ryzen 9 3900X - ISO by Phillip Voss.jpg",
+    "model_evidence": "Ryzen 9 3900X"
+   },
+   {
+    "commons_file": "File:AMD Ryzen 9 3900X - ISO Back by Phillip Voss.jpg",
+    "model_evidence": "Ryzen 9 3900X"
+   },
+   {
+    "commons_file": "File:AMD Ryzen 9 3900X - Pin Center by Phillip Voss.jpg",
+    "model_evidence": "Ryzen 9 3900X"
+   }
+  ],
+  "review_notes": [
+   "AMD's current spec table for this processor is published on its official drivers & support page."
+  ]
+ },
+ {
+  "handle": "real-amd-radeon-rx-7900-xtx",
+  "brand": "AMD",
+  "model": "Radeon RX 7900 XTX",
+  "variant_title": "Default",
+  "category_handle": "graphics-card",
+  "title": "AMD Radeon RX 7900 XTX Graphics Card",
+  "subtitle": "24 GB GDDR6 | 96 compute units | up to 2500 MHz",
+  "description": "AMD-designed reference Radeon RX 7900 XTX desktop graphics card with 24 GB of GDDR6 memory on a None-bit bus and 96 compute units. Specifications checked against AMD's official product page.",
+  "highlights": [
+   "24 GB GDDR6",
+   "96 compute units",
+   "Boost up to 2500 MHz",
+   "355 W typical board power"
+  ],
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/graphics/desktops/radeon/7000-series/amd-radeon-rx-7900xtx.html",
+   "publisher": "Advanced Micro Devices, Inc."
+  },
+  "model_match": [
+   "AMD Radeon™ RX 7900 XTX"
+  ],
+  "specs": [
+   {
+    "group": "GPU",
+    "label": "Compute units",
+    "value": "96",
+    "evidence": "compute units 96"
+   },
+   {
+    "group": "GPU",
+    "label": "Stream processors",
+    "value": "6144",
+    "evidence": "stream processors 6144"
+   },
+   {
+    "group": "GPU",
+    "label": "Ray accelerators",
+    "value": "96",
+    "evidence": "ray accelerators 96"
+   },
+   {
+    "group": "Clock",
+    "label": "Boost clock",
+    "value": "Up to 2500 MHz",
+    "evidence": "up to 2500 mhz"
+   },
+   {
+    "group": "Clock",
+    "label": "Game clock",
+    "value": "2300 MHz",
+    "evidence": "2300 mhz",
+    "context": "game frequency"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory size",
+    "value": "24 GB",
+    "evidence": "max memory size 24 gb"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory type",
+    "value": "GDDR6",
+    "evidence": "memory type gddr6"
+   },
+   {
+    "group": "Memory",
+    "label": "Infinity Cache",
+    "value": "96 MB",
+    "evidence": "amd infinity cache technology 96 mb"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory bandwidth",
+    "value": "Up to 960 GB/s",
+    "evidence": "memory bandwidth up to 960 gb/s"
+   },
+   {
+    "group": "Power",
+    "label": "Typical board power",
+    "value": "355 W",
+    "evidence": "typical board power (desktop) 355 w"
+   },
+   {
+    "group": "Power",
+    "label": "Minimum PSU",
+    "value": "800W",
+    "evidence": "minimum psu recommendation 800w"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Xtx.jpg",
+    "model_evidence": "Radeon RX 7900 XTX"
+   }
+  ],
+  "review_notes": [
+   "AMD's page describes the GPU model; the record is for AMD's own reference (MBA) board shown in the photos."
+  ]
+ },
+ {
+  "handle": "real-amd-radeon-rx-7900-xt",
+  "brand": "AMD",
+  "model": "Radeon RX 7900 XT",
+  "variant_title": "Default",
+  "category_handle": "graphics-card",
+  "title": "AMD Radeon RX 7900 XT Graphics Card",
+  "subtitle": "20 GB GDDR6 | 84 compute units | up to 2400 MHz",
+  "description": "AMD-designed reference Radeon RX 7900 XT desktop graphics card with 20 GB of GDDR6 memory on a None-bit bus and 84 compute units. Specifications checked against AMD's official product page.",
+  "highlights": [
+   "20 GB GDDR6",
+   "84 compute units",
+   "Boost up to 2400 MHz",
+   "315 W typical board power"
+  ],
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/graphics/desktops/radeon/7000-series/amd-radeon-rx-7900xt.html",
+   "publisher": "Advanced Micro Devices, Inc."
+  },
+  "model_match": [
+   "AMD Radeon™ RX 7900 XT"
+  ],
+  "specs": [
+   {
+    "group": "GPU",
+    "label": "Compute units",
+    "value": "84",
+    "evidence": "compute units 84"
+   },
+   {
+    "group": "GPU",
+    "label": "Stream processors",
+    "value": "5376",
+    "evidence": "stream processors 5376"
+   },
+   {
+    "group": "GPU",
+    "label": "Ray accelerators",
+    "value": "84",
+    "evidence": "ray accelerators 84"
+   },
+   {
+    "group": "Clock",
+    "label": "Boost clock",
+    "value": "Up to 2400 MHz",
+    "evidence": "up to 2400 mhz"
+   },
+   {
+    "group": "Clock",
+    "label": "Game clock",
+    "value": "2000 MHz",
+    "evidence": "2000 mhz",
+    "context": "game frequency"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory size",
+    "value": "20 GB",
+    "evidence": "max memory size 20 gb"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory type",
+    "value": "GDDR6",
+    "evidence": "memory type gddr6"
+   },
+   {
+    "group": "Memory",
+    "label": "Infinity Cache",
+    "value": "80 MB",
+    "evidence": "amd infinity cache technology 80 mb"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory bandwidth",
+    "value": "Up to 800 GB/s",
+    "evidence": "memory bandwidth up to 800 gb/s"
+   },
+   {
+    "group": "Power",
+    "label": "Typical board power",
+    "value": "315 W",
+    "evidence": "typical board power (desktop) 315 w"
+   },
+   {
+    "group": "Power",
+    "label": "Minimum PSU",
+    "value": "750W",
+    "evidence": "minimum psu recommendation 750w"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:7900XT 1.jpg",
+    "model_evidence": "Radeon RX 7900 XT"
+   },
+   {
+    "commons_file": "File:7900XT 2.jpg",
+    "model_evidence": "Radeon RX 7900 XT"
+   },
+   {
+    "commons_file": "File:7900XT 3.jpg",
+    "model_evidence": "Radeon RX 7900 XT"
+   }
+  ],
+  "review_notes": [
+   "AMD's page describes the GPU model; the record is for AMD's own reference (MBA) board shown in the photos."
+  ]
+ },
+ {
+  "handle": "real-samsung-t7-shield-4tb",
+  "brand": "Samsung",
+  "model": "Portable SSD T7 Shield",
+  "mpn": "MU-PE4T0S/EU",
+  "variant_title": "4TB",
+  "category_handle": "external-storage",
+  "title": "Samsung Portable SSD T7 Shield 4TB",
+  "subtitle": "4TB | USB 3.2 Gen 2 | up to 1,050 MB/s read",
+  "description": "Rugged pocket-sized NVMe-based external SSD from Samsung with a rubberised shell, USB 3.2 Gen 2 (10Gbps) connection and 256-bit AES hardware encryption. Specifications checked against Samsung UK's official product page.",
+  "highlights": [
+   "4TB capacity",
+   "Up to 1,050 MB/s sequential read",
+   "USB 3.2 Gen 2 (10Gbps)",
+   "AES 256-bit hardware encryption"
+  ],
+  "spec_source": {
+   "url": "https://www.samsung.com/uk/memory-storage/portable-ssd/t7-shield-4tb-black-external-storage-nvme-1050-mbs-mu-pe4t0s-eu/",
+   "publisher": "Samsung Electronics"
+  },
+  "model_match": [
+   "T7 Shield"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "4TB",
+    "evidence": "general feature capacity 4tb"
+   },
+   {
+    "group": "Performance",
+    "label": "Sequential read",
+    "value": "Up to 1,050 MB/s",
+    "evidence": "sequential read: up to 1,050mb/s"
+   },
+   {
+    "group": "Performance",
+    "label": "Sequential write",
+    "value": "Up to 1,000 MB/s",
+    "evidence": "sequential write: up to 1,000 mb/s"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Interface",
+    "value": "USB 3.2 Gen 2 (10Gbps)",
+    "evidence": "interface usb 3.2 gen.2 (10gbps)"
+   },
+   {
+    "group": "Physical",
+    "label": "Dimensions (W x H x D)",
+    "value": "59 x 88 x 13 mm",
+    "evidence": "dimension (wxhxd) 59 x 88 x 13mm"
+   },
+   {
+    "group": "Physical",
+    "label": "Weight",
+    "value": "98 g",
+    "evidence": "weight 98g",
+    "context": "dimension (wxhxd)"
+   },
+   {
+    "group": "Security",
+    "label": "Encryption",
+    "value": "AES 256-bit hardware encryption",
+    "evidence": "encryption aes 256-bit hardware encryption"
+   },
+   {
+    "group": "Support",
+    "label": "Warranty",
+    "value": "Limited 3-year",
+    "evidence": "warranty limited 3-year"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:SAMSUNG PROTABLE SSD T7 SHIELD 4TB FRONT SIDE.jpg",
+    "model_evidence": "T7 Shield"
+   },
+   {
+    "commons_file": "File:SAMSUNG PROTABLE SSD T7 SHIELD 4TB REAR SIDE.jpg",
+    "model_evidence": "T7 Shield"
+   },
+   {
+    "commons_file": "File:SAMSUNG PROTABLE SSD T7 SHIELD 4TB LEFT SIDE.jpg",
+    "model_evidence": "T7 Shield"
+   }
+  ],
+  "review_notes": [
+   "Spec page is the black MU-PE4T0S/EU listing; the colour of the drive in the Commons photos was not checked against the listing."
+  ]
+ },
+ {
+  "handle": "real-samsung-t9-4tb",
+  "brand": "Samsung",
+  "model": "Portable SSD T9",
+  "mpn": "MU-PG4T0B/EU",
+  "variant_title": "4TB",
+  "category_handle": "external-storage",
+  "title": "Samsung Portable SSD T9 4TB",
+  "subtitle": "4TB | USB 3.2 Gen 2x2 (20Gbps) | up to 2,000 MB/s",
+  "description": "Samsung's fastest USB portable SSD line, using a USB 3.2 Gen 2x2 (20Gbps) link for up to 2,000 MB/s reads and writes, with drop resistance up to 3 metres and a five-year limited warranty. Specifications checked against Samsung UK's official product page.",
+  "highlights": [
+   "4TB capacity",
+   "Up to 2,000 MB/s read and write",
+   "USB 3.2 Gen 2x2 (20Gbps)",
+   "5-year limited warranty"
+  ],
+  "spec_source": {
+   "url": "https://www.samsung.com/uk/memory-storage/portable-ssd/portable-ssd-t9-4tb-black-mu-pg4t0b-eu/",
+   "publisher": "Samsung Electronics"
+  },
+  "model_match": [
+   "T9"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "4TB",
+    "evidence": "general feature capacity 4tb"
+   },
+   {
+    "group": "Performance",
+    "label": "Sequential read",
+    "value": "Up to 2,000 MB/s",
+    "evidence": "sequential read up to 2,000 mb/s"
+   },
+   {
+    "group": "Performance",
+    "label": "Sequential write",
+    "value": "Up to 2,000 MB/s",
+    "evidence": "sequential write up to 2,000 mb/s"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Interface",
+    "value": "USB 3.2 Gen 2x2 (20Gbps)",
+    "evidence": "interface usb 3.2 gen 2x2 (20gbps)"
+   },
+   {
+    "group": "Physical",
+    "label": "Dimensions (W x H x D)",
+    "value": "88 x 60 x 14 mm",
+    "evidence": "dimension (wxhxd) 88 x 60 x14 mm"
+   },
+   {
+    "group": "Physical",
+    "label": "Weight",
+    "value": "122 g",
+    "evidence": "weight 122 grams"
+   },
+   {
+    "group": "Durability",
+    "label": "Drop resistance",
+    "value": "Up to 3 m",
+    "evidence": "durability up to 3-meter drop resistant"
+   },
+   {
+    "group": "Security",
+    "label": "Encryption",
+    "value": "AES 256-bit hardware encryption",
+    "evidence": "encryption aes 256-bit hardware encryption"
+   },
+   {
+    "group": "Support",
+    "label": "Warranty",
+    "value": "5-year limited",
+    "evidence": "warranty five (5) year limited warranty"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:SAMSUNG PROTABLE SSD T5 EVO 8TB & SAMSUNG PROTABLE SSD T9 4TB FRONT SIDE.jpg",
+    "model_evidence": "T9"
+   },
+   {
+    "commons_file": "File:SAMSUNG PROTABLE SSD T5 EVO 8TB & SAMSUNG PROTABLE SSD T9 4TB REAR SIDE.jpg",
+    "model_evidence": "T9"
+   }
+  ],
+  "review_notes": [
+   "Both Commons photos show the T9 4TB next to a T5 EVO 8TB; crop or caption accordingly on the product page."
+  ]
+ },
+ {
+  "handle": "real-amd-ryzen-threadripper-1950x",
+  "brand": "AMD",
+  "model": "Ryzen Threadripper 1950X",
+  "mpn": "YD195XA8AEWOF",
+  "variant_title": "Default",
+  "category_handle": "processor",
+  "title": "AMD Ryzen Threadripper 1950X Desktop Processor",
+  "subtitle": "16 cores / 32 threads | up to 4 GHz | sTR4",
+  "description": "16-core AMD desktop processor for the sTR4 socket with 32 MB of L3 cache and boost clocks up to 4 GHz. Specifications checked against AMD's official product page.",
+  "highlights": [
+   "16 cores, 32 threads",
+   "Up to 4 GHz boost",
+   "32 MB L3 cache",
+   "sTR4 socket, DDR4 memory"
+  ],
+  "spec_source": {
+   "url": "https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-threadripper/ryzen-threadripper-1000-series/amd-ryzen-threadripper-1950x.html",
+   "publisher": "Advanced Micro Devices, Inc."
+  },
+  "model_match": [
+   "Threadripper™ 1950X"
+  ],
+  "specs": [
+   {
+    "group": "Processor",
+    "label": "Cores",
+    "value": "16",
+    "evidence": "# of cpu cores 16"
+   },
+   {
+    "group": "Processor",
+    "label": "Threads",
+    "value": "32",
+    "evidence": "# of threads 32"
+   },
+   {
+    "group": "Clock",
+    "label": "Max boost clock",
+    "value": "Up to 4 GHz",
+    "evidence": "up to 4 ghz base clock"
+   },
+   {
+    "group": "Clock",
+    "label": "Base clock",
+    "value": "3.4 GHz",
+    "evidence": "3.4 ghz",
+    "context": "base clock"
+   },
+   {
+    "group": "Cache",
+    "label": "L3 cache",
+    "value": "32 MB",
+    "evidence": "l3 cache 32 mb"
+   },
+   {
+    "group": "Power",
+    "label": "Default TDP",
+    "value": "180W",
+    "evidence": "default tdp 180w"
+   },
+   {
+    "group": "Platform",
+    "label": "Socket",
+    "value": "sTR4",
+    "evidence": "cpu socket str4"
+   },
+   {
+    "group": "Platform",
+    "label": "PCI Express",
+    "value": "PCIe 3.0",
+    "evidence": "pci express® version pcie® 3.0"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory type",
+    "value": "DDR4",
+    "evidence": "system memory type ddr4"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Threadripper 1950X in socket.JPG",
+    "model_evidence": "Threadripper 1950X"
+   }
+  ],
+  "review_notes": [
+   "AMD's current spec table for this processor is published on its official drivers & support page."
+  ]
+ },
+ {
+  "handle": "real-amd-radeon-rx-6800-xt",
+  "brand": "AMD",
+  "model": "Radeon RX 6800 XT",
+  "variant_title": "Default",
+  "category_handle": "graphics-card",
+  "title": "AMD Radeon RX 6800 XT Graphics Card",
+  "subtitle": "16 GB GDDR6 | 72 compute units | up to 2250 MHz",
+  "description": "AMD-designed reference Radeon RX 6800 XT desktop graphics card with 16 GB of GDDR6 memory on a 256-bit bus and 72 compute units. Specifications checked against AMD's official product page.",
+  "highlights": [
+   "16 GB GDDR6",
+   "72 compute units",
+   "Boost up to 2250 MHz",
+   "300 W typical board power"
+  ],
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/graphics/desktops/radeon/6000-series/amd-radeon-rx-6800-xt.html",
+   "publisher": "Advanced Micro Devices, Inc."
+  },
+  "model_match": [
+   "AMD Radeon™ RX 6800 XT"
+  ],
+  "specs": [
+   {
+    "group": "GPU",
+    "label": "Compute units",
+    "value": "72",
+    "evidence": "compute units 72"
+   },
+   {
+    "group": "GPU",
+    "label": "Stream processors",
+    "value": "4608",
+    "evidence": "stream processors 4608"
+   },
+   {
+    "group": "GPU",
+    "label": "Ray accelerators",
+    "value": "72",
+    "evidence": "ray accelerators 72"
+   },
+   {
+    "group": "Clock",
+    "label": "Boost clock",
+    "value": "Up to 2250 MHz",
+    "evidence": "up to 2250 mhz"
+   },
+   {
+    "group": "Clock",
+    "label": "Game clock",
+    "value": "2015 MHz",
+    "evidence": "2015 mhz",
+    "context": "game frequency"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory size",
+    "value": "16 GB",
+    "evidence": "max memory size 16 gb"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory type",
+    "value": "GDDR6",
+    "evidence": "memory type gddr6"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory interface",
+    "value": "256-bit",
+    "evidence": "memory interface 256-bit"
+   },
+   {
+    "group": "Memory",
+    "label": "Infinity Cache",
+    "value": "128 MB",
+    "evidence": "amd infinity cache technology 128 mb"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory bandwidth",
+    "value": "Up to 512 GB/s",
+    "evidence": "memory bandwidth up to 512 gb/s"
+   },
+   {
+    "group": "Power",
+    "label": "Typical board power",
+    "value": "300 W",
+    "evidence": "typical board power (desktop) 300 w"
+   },
+   {
+    "group": "Power",
+    "label": "Minimum PSU",
+    "value": "750W",
+    "evidence": "minimum psu recommendation 750w"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Amd-radeon-rx6800xt-from2020year-front.jpg",
+    "model_evidence": "Radeon RX 6800 XT"
+   },
+   {
+    "commons_file": "File:Amd-radeon-rx6800xt-from2020year-back.jpg",
+    "model_evidence": "Radeon RX 6800 XT"
+   },
+   {
+    "commons_file": "File:Amd-radeon-rx6800xt-from2020year-inputs.jpg",
+    "model_evidence": "Radeon RX 6800 XT"
+   }
+  ],
+  "review_notes": [
+   "AMD's page describes the GPU model; the record is for AMD's own reference (MBA) board shown in the photos."
+  ]
+ }
+]

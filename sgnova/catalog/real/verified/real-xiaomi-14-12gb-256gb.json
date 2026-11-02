@@ -77,7 +77,7 @@
    "sha256": "c86d4ddab2d9135d3eab0ca91d3fb0ceb01ab39a9869686ebc8816f70b9cfaa3",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:01:25+00:00",
+  "verified_at": "2026-11-02T18:58:15+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -106,9 +106,10 @@
    "description": "Xiaomi 14 rear.",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-xiaomi-14-12gb-256gb/1-card.jpg",
    "local_path": "/catalog-real/real-xiaomi-14-12gb-256gb/1.jpg",
-   "local_sha256": "c23b535d2814f030ca43a5577336e0e37289dcfd449e5177ba2d832495293566",
-   "local_bytes": 286148
+   "local_sha256": "0a6ff6824c95ee409d1ec7078ba43587ccf8e545a0d721ce8fa7ca383cd0087d",
+   "local_bytes": 162628
   }
  ]
 }

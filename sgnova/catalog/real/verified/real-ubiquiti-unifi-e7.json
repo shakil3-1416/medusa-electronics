@@ -1,0 +1,109 @@
+{
+ "handle": "real-ubiquiti-unifi-e7",
+ "brand": "Ubiquiti",
+ "model": "E7",
+ "mpn": "E7",
+ "category_handle": "router",
+ "title": "Ubiquiti UniFi E7 Enterprise Wi-Fi 7 Access Point",
+ "subtitle": "Wi-Fi 7 | 10 spatial streams | 10 GbE + 1 GbE",
+ "description": "Enterprise-class Wi-Fi 7 access point with 4x4 radios on 6 GHz and 5 GHz, a 10 GbE uplink plus a 1 GbE port, and ceiling, wall or VESA mounting. Specifications verified against Ubiquiti's official tech specs page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Wireless",
+   "label": "Wi-Fi standard",
+   "value": "Wi-Fi 7"
+  },
+  {
+   "group": "Wireless",
+   "label": "Spatial streams",
+   "value": "10"
+  },
+  {
+   "group": "Wireless",
+   "label": "6 GHz max rate",
+   "value": "11.4 Gbps"
+  },
+  {
+   "group": "Wireless",
+   "label": "Coverage area",
+   "value": "185 m2"
+  },
+  {
+   "group": "Wireless",
+   "label": "Max clients",
+   "value": "1000+"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Ports",
+   "value": "1 x 10 GbE + 1 x 1 GbE RJ45"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "43 W"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "250 x 250 x 43.5 mm"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight",
+   "value": "1.8 kg"
+  }
+ ],
+ "highlights": [
+  "Wi-Fi 7, 10 spatial streams",
+  "Up to 1000+ clients",
+  "10 GbE and 1 GbE ports",
+  "Covers about 185 m2"
+ ],
+ "review_notes": [
+  "Category router used for an access point."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://techspecs.ui.com/unifi/wifi/e7",
+   "publisher": "Ubiquiti",
+   "final_url": "https://techspecs.ui.com/unifi/wifi/e7",
+   "retrieved_at": "2026-11-02T17:56:55+00:00",
+   "sha256": "3d44a44f6fde9e30339de1f4ab29432f5f506c171c95443a26d00ab02b2d6891",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:07:23+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Ubiquiti UniFi E7.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Photographs by TaurusEmerald",
+    "Category:Self-published work",
+    "Category:Ubiquiti"
+   ],
+   "width": 2608,
+   "height": 2399,
+   "mime": "image/jpeg",
+   "sha1": "c510279a9482153cfefe8da689dbf8208c524990",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Ubiquiti_UniFi_E7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Ubiquiti_UniFi_E7.jpg/1280px-Ubiquiti_UniFi_E7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ubiquiti_UniFi_E7.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "TaurusEmerald",
+   "credit": "Own work",
+   "description": "A Ubiquiti UniFi E7.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-ubiquiti-unifi-e7/1-card.jpg",
+   "local_path": "/catalog-real/real-ubiquiti-unifi-e7/1.jpg",
+   "local_sha256": "f8e122ff1b45ab8778a6f91ec6b624dcfc7affedf891f0553af4689336e2826e",
+   "local_bytes": 136881
+  }
+ ]
+}

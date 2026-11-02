@@ -1,0 +1,184 @@
+{
+ "handle": "real-apple-iphone-xr-64gb",
+ "brand": "Apple",
+ "model": "iPhone XR",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone XR (64GB)",
+ "subtitle": "6.1-inch all-screen LCD | A12 Bionic | 64GB",
+ "description": "Apple iPhone XR smartphone in the 64GB storage configuration. It runs on the A12 Bionic chip and has a 6.1-inch all-screen LCD screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "64GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "64GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.1-inch all-screen LCD Multi-Touch display with IPS technology"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "1792 x 828 at 326 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A12 Bionic"
+  },
+  {
+   "group": "Camera",
+   "label": "Main camera",
+   "value": "12MP, f/1.8"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "IP67, up to 1 m for 30 minutes"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "194 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "150.9 x 75.7 x 8.3 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "802.11ac Wi-Fi"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.0"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "Lightning"
+  }
+ ],
+ "highlights": [
+  "6.1-inch all-screen LCD display",
+  "1792 x 828 at 326 ppi resolution",
+  "A12 Bionic chip",
+  "Main camera: 12MP, f/1.8"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111868",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111868",
+   "retrieved_at": "2026-11-02T17:57:00+00:00",
+   "sha256": "d7c53da6af6a81b363c663ebadbe3b2c985c90c7b79d01ea19206d1282384f1d",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:03:15+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPhone XR Product Red A1984 US version front.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2025-03-11",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Front of smartphones",
+    "Category:IPhone XR",
+    "Category:Images by 茅野ふたば taken with iPhone 14 Pro Max",
+    "Category:Product Red",
+    "Category:Red mobile phones",
+    "Category:Self-published work",
+    "Category:Time 12:29"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "27957c2b8b4afe161931f7febbac13940e79f341",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/IPhone_XR_Product_Red_A1984_US_version_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/IPhone_XR_Product_Red_A1984_US_version_front.jpg/1280px-IPhone_XR_Product_Red_A1984_US_version_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_XR_Product_Red_A1984_US_version_front.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "茅野ふたば",
+   "credit": "Own work",
+   "description": "IPhone XR Product Red A1984 US version front.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-xr-64gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-xr-64gb/1.jpg",
+   "local_sha256": "bcc3f363741a6245ad464a88d01f62f71398ee35d19974905e4a1d50e61e884b",
+   "local_bytes": 222539
+  },
+  {
+   "title": "File:IPhone XR Product Red A1984 US version back.jpg",
+   "categories": [
+    "Category:Backs of smartphones",
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2025-03-11",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone XR",
+    "Category:Images by 茅野ふたば taken with iPhone 14 Pro Max",
+    "Category:Product Red",
+    "Category:Red mobile phones",
+    "Category:Self-published work"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "5b3ff3f9ecaaf6899b25ffd59e6a22458f947f7c",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/IPhone_XR_Product_Red_A1984_US_version_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/IPhone_XR_Product_Red_A1984_US_version_back.jpg/1280px-IPhone_XR_Product_Red_A1984_US_version_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_XR_Product_Red_A1984_US_version_back.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "茅野ふたば",
+   "credit": "Own work",
+   "description": "iPhone XR Product Red A1984 US version back.",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-xr-64gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-xr-64gb/2.jpg",
+   "local_sha256": "e68eafc06b8b3576b74b62284eb1182031d2c24fae12ea0049a6aaaa3978d070",
+   "local_bytes": 195367
+  },
+  {
+   "title": "File:Back view of iPhone XR white.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2024-10-02",
+    "Category:IPhone XR",
+    "Category:October 2024 in Dongguan",
+    "Category:Self-published work",
+    "Category:Taken with iPhone 14 Plus"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "0064f3ccf2493ba572c1c7f24f584eac39497e22",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Back_view_of_iPhone_XR_white.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Back_view_of_iPhone_XR_white.jpg/1280px-Back_view_of_iPhone_XR_white.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Back_view_of_iPhone_XR_white.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "メイド理世",
+   "credit": "Own work",
+   "description": "Back view of iPhone XR white",
+   "attribution_required": "true",
+   "index": 3,
+   "card_path": "/catalog-real/real-apple-iphone-xr-64gb/3-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-xr-64gb/3.jpg",
+   "local_sha256": "0c1ea7fc404049e2fcfd5fe1a0c27f95e77147d470ee901fb9154510f16feaf6",
+   "local_bytes": 150873
+  }
+ ]
+}

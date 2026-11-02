@@ -1,0 +1,134 @@
+{
+ "handle": "real-google-pixel-6a-128gb",
+ "brand": "Google",
+ "model": "Pixel 6a",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Google Pixel 6a (128GB)",
+ "subtitle": "6.1-inch OLED | Google Tensor | 12.2MP dual camera",
+ "description": "Google Pixel 6a with 128GB of storage and 6GB of RAM, using the Google Tensor chip with a 6.1-inch FHD+ OLED display, a 12.2MP wide plus 12MP ultrawide camera pair and a 4410 mAh typical battery. Specifications were verified against Google's official Pixel hardware tech specs page.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.134-inch FHD+ OLED, 1080 x 2400, 429 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Google Tensor"
+  },
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "6GB LPDDR5 RAM, 128GB UFS 3.1"
+  },
+  {
+   "group": "Camera",
+   "label": "Wide camera",
+   "value": "12.2MP, f/1.7"
+  },
+  {
+   "group": "Camera",
+   "label": "Ultrawide camera",
+   "value": "12MP, f/2.2"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "8MP, f/2.0"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery capacity",
+   "value": "4410 mAh typical (4306 mAh minimum)"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions",
+   "value": "152.2 x 71.8 x 8.9 mm"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "178 g"
+  }
+ ],
+ "highlights": [
+  "6.1-inch FHD+ OLED display",
+  "Google Tensor with Titan M2",
+  "12.2MP wide and 12MP ultrawide cameras",
+  "4410 mAh typical battery"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 6a tech specs",
+   "scope_end": "tech specs",
+   "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "retrieved_at": "2026-11-02T16:29:27+00:00",
+   "sha256": "0f4a52cf5ffd0cb50001020950ea033036dc061faeb1c40b0fdf63beec941e0c",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:10:29+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Google Pixel 6a front.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Google Pixel 6a",
+    "Category:Self-published work"
+   ],
+   "width": 2268,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "20464c188016ac7babc04bb9fe6bd574178fa3cf",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Google_Pixel_6a_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Google_Pixel_6a_front.jpg/1280px-Google_Pixel_6a_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Google_Pixel_6a_front.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Nisiguti",
+   "credit": "Own work",
+   "description": "Google Pixel 6a 正面、日本語表記",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-google-pixel-6a-128gb/1-card.jpg",
+   "local_path": "/catalog-real/real-google-pixel-6a-128gb/1.jpg",
+   "local_sha256": "383239d2ed54d5501d8a7859db27249f6337f1cdea636b95af3a7153932f475d",
+   "local_bytes": 184212
+  },
+  {
+   "title": "File:Google Pixel 6a back.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Google Pixel 6a",
+    "Category:Self-published work"
+   ],
+   "width": 2268,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "90ff2e1580429474ec5f82f841397a93599bba94",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Google_Pixel_6a_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Google_Pixel_6a_back.jpg/1280px-Google_Pixel_6a_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Google_Pixel_6a_back.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Nisiguti",
+   "credit": "Own work",
+   "description": "Google Pixel 6a 背面",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-google-pixel-6a-128gb/2-card.jpg",
+   "local_path": "/catalog-real/real-google-pixel-6a-128gb/2.jpg",
+   "local_sha256": "c2e623c1b3fec34d46c5c2fc63a3a916cff88e75dbbfae11772c86f3e2dca1a7",
+   "local_bytes": 159725
+  }
+ ]
+}

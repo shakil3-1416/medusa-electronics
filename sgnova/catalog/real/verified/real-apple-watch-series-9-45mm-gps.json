@@ -62,7 +62,7 @@
    "sha256": "43349e89cc3133d2ed42cd1fc2347d717bc92629cf223cfe775a0e72a35df86f",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:01:09+00:00",
+  "verified_at": "2026-11-02T18:57:48+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -90,9 +90,10 @@
    "description": "Apple Watch Series 9",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-apple-watch-series-9-45mm-gps/1-card.jpg",
    "local_path": "/catalog-real/real-apple-watch-series-9-45mm-gps/1.jpg",
-   "local_sha256": "5421cc286d0286a96497a26f7646caf4af2c0e89779ebbebad4df70f89fe9b3f",
-   "local_bytes": 287936
+   "local_sha256": "8a7ec86653add0f3dc8ece0270b060a03aca29b178477a60f05f8a564f3b638a",
+   "local_bytes": 291545
   }
  ]
 }

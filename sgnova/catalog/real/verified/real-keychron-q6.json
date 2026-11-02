@@ -1,0 +1,99 @@
+{
+ "handle": "real-keychron-q6",
+ "brand": "Keychron",
+ "model": "Q6",
+ "mpn": null,
+ "category_handle": "mechanical-keyboard",
+ "title": "Keychron Q6 QMK Custom Mechanical Keyboard",
+ "subtitle": "Full-size aluminium | gasket mount | hot-swappable",
+ "description": "Full-size CNC-machined aluminium custom keyboard with a gasket mount, knob option, hot-swappable Gateron G Pro switches and QMK firmware. Specifications verified against Keychron's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Layout",
+   "label": "Layout",
+   "value": "100% full size, ANSI"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connectivity",
+   "value": "Wired; 1000 Hz polling"
+  },
+  {
+   "group": "Build",
+   "label": "Switches",
+   "value": "Gateron G Pro red/blue/brown, hot-swappable"
+  },
+  {
+   "group": "Build",
+   "label": "Build",
+   "value": "Full CNC machined aluminium, gasket mount, steel plate"
+  },
+  {
+   "group": "Build",
+   "label": "Keycaps",
+   "value": "Double-shot PBT"
+  },
+  {
+   "group": "Build",
+   "label": "Backlight",
+   "value": "South-facing RGB"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight (assembled)",
+   "value": "2420 g"
+  }
+ ],
+ "highlights": [
+  "Full CNC aluminium case",
+  "Gasket mount, steel plate",
+  "Hot-swappable 3- and 5-pin",
+  "QMK/VIA programmable"
+ ],
+ "review_notes": [
+  "Photo shows a Q6 with aftermarket keycaps."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.keychron.com/products/keychron-q6-qmk-custom-mechanical-keyboard",
+   "publisher": "Keychron",
+   "final_url": "https://www.keychron.com/products/keychron-q6-qmk-custom-mechanical-keyboard",
+   "retrieved_at": "2026-11-02T18:07:40+00:00",
+   "sha256": "c525c8ba6a8c5aa64e0285464e32227a35867e77ef0ce0bec11196af6942b16a",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:09:17+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Keychron-q6-whacky-ozzy (52978547316).jpg",
+   "categories": [
+    "Category:CC-Zero",
+    "Category:Flickr images missing SDC published in",
+    "Category:Flickr images reviewed by FlickreviewR 2",
+    "Category:Keychron keyboards"
+   ],
+   "width": 3867,
+   "height": 2286,
+   "mime": "image/jpeg",
+   "sha1": "c3ad90afaa487cc5f780c03b48c66899b2509b24",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Keychron-q6-whacky-ozzy_%2852978547316%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Keychron-q6-whacky-ozzy_%2852978547316%29.jpg/1280px-Keychron-q6-whacky-ozzy_%2852978547316%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Keychron-q6-whacky-ozzy_(52978547316).jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "Chris Heil",
+   "credit": "keychron-q6-whacky-ozzy",
+   "description": "A Keychron Q6 keyboard with custom keycaps installed",
+   "attribution_required": "false",
+   "index": 1,
+   "card_path": "/catalog-real/real-keychron-q6/1-card.jpg",
+   "local_path": "/catalog-real/real-keychron-q6/1.jpg",
+   "local_sha256": "5d7dcb14f4d15721a892b004138cf63a44c19458966b9448907aeae5e3fb5994",
+   "local_bytes": 242736
+  }
+ ]
+}

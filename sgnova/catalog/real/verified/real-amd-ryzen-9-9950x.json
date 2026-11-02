@@ -1,0 +1,150 @@
+{
+ "handle": "real-amd-ryzen-9-9950x",
+ "brand": "AMD",
+ "model": "Ryzen 9 9950X",
+ "mpn": "100-100001277WOF",
+ "category_handle": "processor",
+ "title": "AMD Ryzen 9 9950X Desktop Processor",
+ "subtitle": "16 cores / 32 threads | up to 5.7 GHz | AM5",
+ "description": "16-core AMD desktop processor for the AM5 socket with 64 MB of L3 cache and boost clocks up to 5.7 GHz. Specifications checked against AMD's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Processor",
+   "label": "Cores",
+   "value": "16"
+  },
+  {
+   "group": "Processor",
+   "label": "Threads",
+   "value": "32"
+  },
+  {
+   "group": "Clock",
+   "label": "Max boost clock",
+   "value": "Up to 5.7 GHz"
+  },
+  {
+   "group": "Clock",
+   "label": "Base clock",
+   "value": "4.3 GHz"
+  },
+  {
+   "group": "Cache",
+   "label": "L3 cache",
+   "value": "64 MB"
+  },
+  {
+   "group": "Power",
+   "label": "Default TDP",
+   "value": "170W"
+  },
+  {
+   "group": "Platform",
+   "label": "Socket",
+   "value": "AM5"
+  },
+  {
+   "group": "Platform",
+   "label": "PCI Express",
+   "value": "PCIe 5.0"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory type",
+   "value": "DDR5"
+  },
+  {
+   "group": "Build",
+   "label": "Process",
+   "value": "TSMC 4nm FinFET"
+  },
+  {
+   "group": "Graphics",
+   "label": "Integrated graphics",
+   "value": "AMD Radeon Graphics"
+  }
+ ],
+ "highlights": [
+  "16 cores, 32 threads",
+  "Up to 5.7 GHz boost",
+  "64 MB L3 cache",
+  "AM5 socket, DDR5 memory"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x.html",
+   "publisher": "Advanced Micro Devices, Inc.",
+   "final_url": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x.html",
+   "retrieved_at": "2026-11-02T17:55:32+00:00",
+   "sha256": "ed54ae10e29a46ce05a3f6a9c864eef7ed45f99b69e2af398136da6f5b77c92f",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:06:11+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:AMD Ryzen 9 9950X.jpg",
+   "categories": [
+    "Category:AMD Ryzen 9 9950X",
+    "Category:AMD microprocessors on white background",
+    "Category:CC-BY-4.0",
+    "Category:DataMatrix codes on microprocessors",
+    "Category:Photographs by User:4300streetcar",
+    "Category:Self-published work",
+    "Category:Top views of microprocessors"
+   ],
+   "width": 3305,
+   "height": 3305,
+   "mime": "image/jpeg",
+   "sha1": "c22bdd255cc95d7fb7f7c099f980f902e5a75bb3",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/AMD_Ryzen_9_9950X.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/AMD_Ryzen_9_9950X.jpg/1280px-AMD_Ryzen_9_9950X.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:AMD_Ryzen_9_9950X.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "4300streetcar",
+   "credit": "Own work",
+   "description": "An AMD Ryzen 9 9950X CPU",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-amd-ryzen-9-9950x/1-card.jpg",
+   "local_path": "/catalog-real/real-amd-ryzen-9-9950x/1.jpg",
+   "local_sha256": "f807d22580da73be517ef71eb2c579b713d0aefbbb22ff695d2da575983383fb",
+   "local_bytes": 389068
+  },
+  {
+   "title": "File:AMD Ryzen 9 9950X 2.jpg",
+   "categories": [
+    "Category:AMD Ryzen 9 9950X",
+    "Category:AMD microprocessors on white background",
+    "Category:CC-BY-4.0",
+    "Category:DataMatrix codes on microprocessors",
+    "Category:Photographs by User:4300streetcar",
+    "Category:Self-published work",
+    "Category:Top views of microprocessors"
+   ],
+   "width": 3426,
+   "height": 3426,
+   "mime": "image/jpeg",
+   "sha1": "1a363e9b3fe5048ef60946e747f5bdf250adf0dd",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/AMD_Ryzen_9_9950X_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/AMD_Ryzen_9_9950X_2.jpg/1280px-AMD_Ryzen_9_9950X_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:AMD_Ryzen_9_9950X_2.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "4300streetcar",
+   "credit": "Own work",
+   "description": "AMD Ryzen 9 9950X CPU",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-amd-ryzen-9-9950x/2-card.jpg",
+   "local_path": "/catalog-real/real-amd-ryzen-9-9950x/2.jpg",
+   "local_sha256": "16fac390d3b42cc6de28c9594f82b279cc2ae318090788b0c3abbec9f034535e",
+   "local_bytes": 374771
+  }
+ ]
+}

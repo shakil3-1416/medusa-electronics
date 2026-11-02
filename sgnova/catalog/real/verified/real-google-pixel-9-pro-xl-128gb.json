@@ -1,0 +1,172 @@
+{
+ "handle": "real-google-pixel-9-pro-xl-128gb",
+ "brand": "Google",
+ "model": "Pixel 9 Pro XL",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Google Pixel 9 Pro XL (128GB)",
+ "subtitle": "6.8-inch Super Actua LTPO | Tensor G4 | 5x telephoto",
+ "description": "Google Pixel 9 Pro XL with 128GB of storage and 16GB of RAM, powered by Google Tensor G4, with a 6.8-inch Super Actua LTPO OLED display at 1-120Hz, a triple rear camera with a 48MP 5x telephoto and a 5060 mAh typical battery. Specifications were verified against Google's official Pixel hardware tech specs page.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.8-inch Super Actua LTPO OLED, 1344 x 2992, 486 ppi"
+  },
+  {
+   "group": "Display",
+   "label": "Refresh rate",
+   "value": "1-120Hz"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Google Tensor G4"
+  },
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "16GB RAM, 128GB storage"
+  },
+  {
+   "group": "Camera",
+   "label": "Wide camera",
+   "value": "50MP, f/1.68"
+  },
+  {
+   "group": "Camera",
+   "label": "Telephoto camera",
+   "value": "48MP, f/2.8, 5x optical zoom"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "42MP with autofocus, f/2.2"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery capacity",
+   "value": "5060 mAh typical (4942 mAh minimum)"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions",
+   "value": "162.8 x 76.6 x 8.5 mm"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "221 g"
+  }
+ ],
+ "highlights": [
+  "6.8-inch Super Actua LTPO OLED, 1-120Hz",
+  "Google Tensor G4 with 16GB RAM",
+  "50MP wide, 48MP ultrawide, 48MP 5x telephoto",
+  "5060 mAh typical battery"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 9 pro xl tech specs",
+   "scope_end": "tech specs",
+   "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "retrieved_at": "2026-11-02T16:29:27+00:00",
+   "sha256": "0f4a52cf5ffd0cb50001020950ea033036dc061faeb1c40b0fdf63beec941e0c",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:10:54+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Google Pixel 9 Pro XL (back).jpg",
+   "categories": [
+    "Category:Backs of smartphones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Google Pixel 9 Pro XL",
+    "Category:Green mobile phones",
+    "Category:Periscope lenses",
+    "Category:Self-published work"
+   ],
+   "width": 4794,
+   "height": 3175,
+   "mime": "image/jpeg",
+   "sha1": "df7322810e3096952d527762f91e81164cc5dfc5",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Google_Pixel_9_Pro_XL_%28back%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Google_Pixel_9_Pro_XL_%28back%29.jpg/1280px-Google_Pixel_9_Pro_XL_%28back%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Google_Pixel_9_Pro_XL_(back).jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "D.328",
+   "credit": "Own work",
+   "description": "Google Pixel 9 Pro XL Back Side (Hazel)",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-google-pixel-9-pro-xl-128gb/1-card.jpg",
+   "local_path": "/catalog-real/real-google-pixel-9-pro-xl-128gb/1.jpg",
+   "local_sha256": "990cefb2458afadff2141531ff4fc9992126f5c96e396d72db908bdd671ab849",
+   "local_bytes": 313994
+  },
+  {
+   "title": "File:Google Pixel 9 Pro XL (front).jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Google Pixel 9 Pro XL",
+    "Category:Self-published work"
+   ],
+   "width": 4826,
+   "height": 3196,
+   "mime": "image/jpeg",
+   "sha1": "0617a92c047572e846def343c1d701858803cb12",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Google_Pixel_9_Pro_XL_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Google_Pixel_9_Pro_XL_%28front%29.jpg/1280px-Google_Pixel_9_Pro_XL_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Google_Pixel_9_Pro_XL_(front).jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "D.328",
+   "credit": "Own work",
+   "description": "Google Pixel 9 Pro XL Front Side (Hazel)",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-google-pixel-9-pro-xl-128gb/2-card.jpg",
+   "local_path": "/catalog-real/real-google-pixel-9-pro-xl-128gb/2.jpg",
+   "local_sha256": "eb6ca5129817d29bac032b2e3b6979d98ec1ccb1cede2f515c3c49e5331ac559",
+   "local_bytes": 344637
+  },
+  {
+   "title": "File:Pixel 9 Pro XL.jpg",
+   "categories": [
+    "Category:Backs of smartphones",
+    "Category:Black mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Google Pixel 9 Pro XL",
+    "Category:Periscope lenses",
+    "Category:Self-published work",
+    "Category:Taken with OnePlus 12"
+   ],
+   "width": 3072,
+   "height": 3072,
+   "mime": "image/jpeg",
+   "sha1": "655ab301af4144e133a5d0b3bf0ecc1dc9894e2c",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Pixel_9_Pro_XL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Pixel_9_Pro_XL.jpg/1280px-Pixel_9_Pro_XL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Pixel_9_Pro_XL.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Miyako Fujimiya",
+   "credit": "Own work",
+   "description": "Trên tay Pixel 9 Pro XL",
+   "attribution_required": "true",
+   "index": 3,
+   "card_path": "/catalog-real/real-google-pixel-9-pro-xl-128gb/3-card.jpg",
+   "local_path": "/catalog-real/real-google-pixel-9-pro-xl-128gb/3.jpg",
+   "local_sha256": "1ec2902a2d5493dcc14feb15dd9ee05cddb6483c540bb5342bba2e58b41afbcf",
+   "local_bytes": 211793
+  }
+ ]
+}

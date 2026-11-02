@@ -69,7 +69,7 @@
    "sha256": "8a8dd9117c8df8b6c896d4cf357bad904d506b4bf12d675c3671dcf4a3ca6b3a",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:21+00:00",
+  "verified_at": "2026-11-02T19:00:29+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -95,9 +95,10 @@
    "description": "日本の千葉県千葉市美浜区にある幕張メッセで開催された東京ゲームショウ2025。ホール3のASUS JAPANのRepublic Of Gamersのブース。ゲーミングノートパソコンのROG Zephyrus G14 GA403WRの展示。",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-asus-rog-zephyrus-g14-2025-ga403wr/1-card.jpg",
    "local_path": "/catalog-real/real-asus-rog-zephyrus-g14-2025-ga403wr/1.jpg",
-   "local_sha256": "59ccaf65790b6992d145e1a0ebaff9df06e6bdacfca4b108016f5f56d4dc40dc",
-   "local_bytes": 268983
+   "local_sha256": "ab7e6de2e5740e347505e81d365ea4017d7da16a6342c72d2821a0f0171c586c",
+   "local_bytes": 270026
   }
  ]
 }

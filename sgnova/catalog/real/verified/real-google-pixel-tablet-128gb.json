@@ -67,7 +67,7 @@
    "sha256": "eafeddf4c8f2abbb0662663c9f2a3c05569652299fd239b2e5a4d72febcb3dd1",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:01:19+00:00",
+  "verified_at": "2026-11-02T18:58:06+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -96,9 +96,10 @@
    "description": "Shibuya Stream (Skyscraper in Tokyo, Japan)",
    "attribution_required": "false",
    "index": 1,
+   "card_path": "/catalog-real/real-google-pixel-tablet-128gb/1-card.jpg",
    "local_path": "/catalog-real/real-google-pixel-tablet-128gb/1.jpg",
-   "local_sha256": "890ee419cb39c5ae78a57ecd9a0611d1a8841e7895b5249e49ffd628682d6588",
-   "local_bytes": 152348
+   "local_sha256": "f87f7257c507f5dff035b5899856eb7df1d07e29728385d74a9f268b128e98a1",
+   "local_bytes": 147440
   }
  ]
 }

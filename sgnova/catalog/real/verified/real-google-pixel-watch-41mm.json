@@ -1,0 +1,138 @@
+{
+ "handle": "real-google-pixel-watch-41mm",
+ "brand": "Google",
+ "model": "Pixel Watch",
+ "mpn": null,
+ "category_handle": "smartwatch",
+ "title": "Google Pixel Watch (41mm)",
+ "subtitle": "41mm domed AMOLED | Exynos 9110 | Wear OS",
+ "description": "The first-generation Google Pixel Watch with a 41mm recycled stainless steel case, a domed 320 ppi AMOLED display under Gorilla Glass 5, an Exynos 9110 chip with 32GB of storage and a 294 mAh battery rated for up to 24 hours. Specifications were verified against Google's official Pixel Watch technical specifications page.",
+ "variant_title": "41mm",
+ "specs": [
+  {
+   "group": "Build",
+   "label": "Case size and weight",
+   "value": "41 mm diameter, 12.3 mm height, 36 g without band"
+  },
+  {
+   "group": "Build",
+   "label": "Case material",
+   "value": "80% recycled stainless steel"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "320 ppi AMOLED, DCI-P3, up to 1000 nits"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "Exynos 9110 with Cortex M33 co-processor"
+  },
+  {
+   "group": "Memory",
+   "label": "Storage and memory",
+   "value": "32GB eMMC, 2GB SDRAM"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery",
+   "value": "294 mAh, up to 24 hours"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connectivity",
+   "value": "Bluetooth 5.0, Wi-Fi 802.11 b/g/n, NFC"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "5 ATM"
+  }
+ ],
+ "highlights": [
+  "41mm stainless steel case",
+  "320 ppi AMOLED always-on display",
+  "Exynos 9110 with 32GB storage",
+  "5 ATM water resistance"
+ ],
+ "review_notes": [
+  "The spec page lists LTE and Bluetooth/Wi-Fi connectivity together; confirm the connectivity variant with the supplier before listing."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.google.com/googlepixelwatch/answer/12651869?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "google pixel watch specifications",
+   "scope_end": "accessory charger specifications",
+   "final_url": "https://support.google.com/googlepixelwatch/answer/12651869?hl=en",
+   "retrieved_at": "2026-11-02T16:38:54+00:00",
+   "sha256": "86f1b4801713c6202f80eb524ce2491906ede74ba3bed142968ac27e4907a9cf",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:11:10+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Google Pixel Watch - 1.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Google Pixel Watch",
+    "Category:Images with extracted images",
+    "Category:Nagoya photographs taken on 2022-10-13",
+    "Category:Self-published work",
+    "Category:Smartwatches",
+    "Category:Time 09:30",
+    "Category:Watches on wrist"
+   ],
+   "width": 2160,
+   "height": 3840,
+   "mime": "image/jpeg",
+   "sha1": "a91f4ad6b733fb78643aa1c7818874cd0b1db37f",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Google_Pixel_Watch_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Google_Pixel_Watch_-_1.jpg/1280px-Google_Pixel_Watch_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Google_Pixel_Watch_-_1.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "KKPCW（Kyu3）",
+   "credit": "Own work",
+   "description": "Google社のスマートウォッチ「Pixel Watch」。名古屋市内の家電量販店で撮影。",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-google-pixel-watch-41mm/1-card.jpg",
+   "local_path": "/catalog-real/real-google-pixel-watch-41mm/1.jpg",
+   "local_sha256": "91509b66303a3a2549d2ef68a543de9d3a535cf45431940e1fbb630969163677",
+   "local_bytes": 132940
+  },
+  {
+   "title": "File:Google Pixel Watch - 2.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Google Pixel Watch",
+    "Category:Nagoya photographs taken on 2022-10-13",
+    "Category:Self-published work",
+    "Category:Smartwatches"
+   ],
+   "width": 2160,
+   "height": 3840,
+   "mime": "image/jpeg",
+   "sha1": "f5dda6bf9d788b462831dff816097688c37b398f",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Google_Pixel_Watch_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Google_Pixel_Watch_-_2.jpg/1280px-Google_Pixel_Watch_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Google_Pixel_Watch_-_2.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "KKPCW（Kyu3）",
+   "credit": "Own work",
+   "description": "Google社のスマートウォッチ「Pixel Watch」。名古屋市内の家電量販店で撮影。",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-google-pixel-watch-41mm/2-card.jpg",
+   "local_path": "/catalog-real/real-google-pixel-watch-41mm/2.jpg",
+   "local_sha256": "825db68b94b096dcd2b00e90522d691eb1b85715c89e19b104fdc91f79b1b0ad",
+   "local_bytes": 132488
+  }
+ ]
+}

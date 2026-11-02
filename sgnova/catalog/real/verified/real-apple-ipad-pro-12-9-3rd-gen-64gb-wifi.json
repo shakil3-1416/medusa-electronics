@@ -1,0 +1,130 @@
+{
+ "handle": "real-apple-ipad-pro-12-9-3rd-gen-64gb-wifi",
+ "brand": "Apple",
+ "model": "iPad Pro 12.9-inch (3rd generation)",
+ "mpn": null,
+ "category_handle": "tablet",
+ "title": "Apple iPad Pro 12.9-inch (3rd generation) (64GB Wi-Fi)",
+ "subtitle": "12.9-inch LED-backlit | A12X Bionic | 64GB",
+ "description": "Apple iPad Pro 12.9-inch (3rd generation) tablet, 64GB Wi-Fi configuration, powered by the A12X Bionic chip with a 12.9-inch LED-backlit screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "64GB Wi-Fi",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "64GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "12.9-inch LED-backlit Multi-Touch display with IPS technology"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2732 x 2048 at 264 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A12X Bionic"
+  },
+  {
+   "group": "Build",
+   "label": "Weight (Wi-Fi model)",
+   "value": "631 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "280.6 x 214.9 x 5.9 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.0"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "USB-C"
+  }
+ ],
+ "highlights": [
+  "12.9-inch LED-backlit display",
+  "2732 x 2048 at 264 ppi resolution",
+  "A12X Bionic chip"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111979",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111979",
+   "retrieved_at": "2026-11-02T18:52:32+00:00",
+   "sha256": "427b9bbf2655c2f772ac68448d6d3a0113c8866277f511d07903818567687f51",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:05:51+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPad Pro 12.9-inch (3rd generation) front side (20250525 155242).jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPad Pro (3rd generation)",
+    "Category:Self-published work",
+    "Category:Taken with Honor X60 Pro"
+   ],
+   "width": 4000,
+   "height": 3000,
+   "mime": "image/jpeg",
+   "sha1": "1bf1415413e7e315e05392d1f63f0402496b202c",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/IPad_Pro_12.9-inch_%283rd_generation%29_front_side_%2820250525_155242%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/IPad_Pro_12.9-inch_%283rd_generation%29_front_side_%2820250525_155242%29.jpg/1280px-IPad_Pro_12.9-inch_%283rd_generation%29_front_side_%2820250525_155242%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPad_Pro_12.9-inch_(3rd_generation)_front_side_(20250525_155242).jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "茅野ふたば",
+   "credit": "Own work",
+   "description": "iPad Pro 12.9-inch (3rd generation) front side.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-ipad-pro-12-9-3rd-gen-64gb-wifi/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-ipad-pro-12-9-3rd-gen-64gb-wifi/1.jpg",
+   "local_sha256": "03cef0713d0bb78f8ab1ae0de5b81c4bcb66caf2e46930fd19e9fb882ec97517",
+   "local_bytes": 153379
+  },
+  {
+   "title": "File:IPad Pro 12.9-inch (3rd generation) back side (20250525 155242).jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPad Pro (3rd generation)",
+    "Category:Self-published work",
+    "Category:Taken with Honor X60 Pro"
+   ],
+   "width": 3000,
+   "height": 4000,
+   "mime": "image/jpeg",
+   "sha1": "7ef3fc182e87b3530652b6f1caedc0d108e210aa",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/IPad_Pro_12.9-inch_%283rd_generation%29_back_side_%2820250525_155242%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/IPad_Pro_12.9-inch_%283rd_generation%29_back_side_%2820250525_155242%29.jpg/1280px-IPad_Pro_12.9-inch_%283rd_generation%29_back_side_%2820250525_155242%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPad_Pro_12.9-inch_(3rd_generation)_back_side_(20250525_155242).jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "茅野ふたば",
+   "credit": "Own work",
+   "description": "iPad Pro 12.9-inch (3rd generation) back side.",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-ipad-pro-12-9-3rd-gen-64gb-wifi/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-ipad-pro-12-9-3rd-gen-64gb-wifi/2.jpg",
+   "local_sha256": "d17c61c29acdbbac6e838e12b0d5f709938ff012c3235ae1f993800d0db44c96",
+   "local_bytes": 131510
+  }
+ ]
+}

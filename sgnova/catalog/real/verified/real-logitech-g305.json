@@ -1,0 +1,93 @@
+{
+ "handle": "real-logitech-g305",
+ "brand": "Logitech",
+ "model": "G305",
+ "mpn": null,
+ "category_handle": "gaming-mouse",
+ "title": "Logitech G305 LIGHTSPEED Wireless Gaming Mouse",
+ "subtitle": "HERO sensor | LIGHTSPEED | 250 h on one AA",
+ "description": "Lightweight wireless gaming mouse with the HERO sensor and LIGHTSPEED wireless, running up to 250 hours on a single AA battery. Specifications verified against Logitech's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "Sensor",
+   "value": "HERO"
+  },
+  {
+   "group": "Performance",
+   "label": "DPI range",
+   "value": "200-12,000"
+  },
+  {
+   "group": "Power",
+   "label": "Battery life",
+   "value": "Up to 250 hours"
+  },
+  {
+   "group": "Power",
+   "label": "Battery",
+   "value": "One AA"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wireless",
+   "value": "LIGHTSPEED"
+  },
+  {
+   "group": "Performance",
+   "label": "Power efficiency",
+   "value": "Up to 10x previous generation"
+  }
+ ],
+ "highlights": [
+  "HERO sensor, 200-12,000 DPI",
+  "LIGHTSPEED wireless",
+  "Up to 250 h on one AA battery",
+  "Available in several colours"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.logitechg.com/en-us/shop/p/g305-lightspeed-wireless-gaming-mouse",
+   "publisher": "Logitech",
+   "final_url": "https://www.logitechg.com/en-us/shop/p/g305-lightspeed-wireless-gaming-mouse",
+   "retrieved_at": "2026-11-02T18:06:08+00:00",
+   "sha256": "6645cfd4b601c17082313e81452f80d8838f59e87014460be605d41b1bb98b84",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:09:28+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Une souris Logitech G305..jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Computer mice on wooden background",
+    "Category:Cordless Logitech mice",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Self-published work"
+   ],
+   "width": 4032,
+   "height": 3024,
+   "mime": "image/jpeg",
+   "sha1": "30b502fa4258870e43363a7b4339ee56bcbe2bcc",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Une_souris_Logitech_G305..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Une_souris_Logitech_G305..jpg/1280px-Une_souris_Logitech_G305..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Une_souris_Logitech_G305..jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Julien Sinan",
+   "credit": "Own work",
+   "description": "Une souris gaming Logitech G305.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-logitech-g305/1-card.jpg",
+   "local_path": "/catalog-real/real-logitech-g305/1.jpg",
+   "local_sha256": "b3e025ef709d78594f2c965ebb470db50f931576c3d955c0a34099d1fabff882",
+   "local_bytes": 259407
+  }
+ ]
+}

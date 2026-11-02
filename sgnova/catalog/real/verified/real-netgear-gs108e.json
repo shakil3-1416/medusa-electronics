@@ -74,7 +74,7 @@
    "sha256": "949f06f0345efd7c32ddf18cc3be3d89bc78943f599f8afff9e4b041af17382a",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:57+00:00",
+  "verified_at": "2026-11-02T19:02:17+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -105,9 +105,10 @@
    "description": "Netgear GS108E - ProSafe 8-Port Gigabit Plus Switch",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-netgear-gs108e/1-card.jpg",
    "local_path": "/catalog-real/real-netgear-gs108e/1.jpg",
-   "local_sha256": "fcd6ba0065ed491cf249bcfe9cc0e6b3fc8fab4705f2f9743fe17bc763003c43",
-   "local_bytes": 156234
+   "local_sha256": "5a9b7726f4ae54602cb729a4a26ab081a45ecd6605858fd76233bee2e7054ea0",
+   "local_bytes": 156011
   }
  ]
 }

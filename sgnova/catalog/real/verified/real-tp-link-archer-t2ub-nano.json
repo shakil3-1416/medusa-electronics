@@ -1,0 +1,92 @@
+{
+ "handle": "real-tp-link-archer-t2ub-nano",
+ "brand": "TP-Link",
+ "model": "Archer T2UB Nano",
+ "mpn": null,
+ "category_handle": "computer-accessory",
+ "title": "TP-Link Archer T2UB Nano AC600 Wi-Fi + Bluetooth USB Adapter",
+ "subtitle": "AC600 | Bluetooth | nano USB",
+ "description": "Nano-sized USB adapter combining dual-band AC600 Wi-Fi and Bluetooth for laptops and desktops. Specifications verified against TP-Link's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Interface",
+   "value": "USB 2.0"
+  },
+  {
+   "group": "Wireless",
+   "label": "5 GHz rate",
+   "value": "433 Mbps (11ac)"
+  },
+  {
+   "group": "Wireless",
+   "label": "2.4 GHz rate",
+   "value": "200 Mbps (11n)"
+  },
+  {
+   "group": "Wireless",
+   "label": "Standards",
+   "value": "IEEE 802.11ac/a/n/g/b"
+  },
+  {
+   "group": "Wireless",
+   "label": "Security",
+   "value": "WPA/WPA2/WPA3"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "15.7 x 7.4 x 19.2 mm"
+  }
+ ],
+ "highlights": [
+  "Dual-band AC600 Wi-Fi",
+  "Bluetooth built in",
+  "Nano USB 2.0 form factor",
+  "WPA3 support"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.tp-link.com/us/home-networking/usb-adapter/archer-t2ub-nano/",
+   "publisher": "TP-Link",
+   "final_url": "https://www.tp-link.com/us/home-networking/usb-adapter/archer-t2ub-nano/",
+   "retrieved_at": "2026-11-02T18:01:42+00:00",
+   "sha256": "c0be0f2d2947dbb7bb88dde3703bd86cceee5ae513f57241b25c28f0a434437c",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:08:26+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:TP-Link Archer T2UB Nano dongle plugged in to a computer.jpg",
+   "categories": [
+    "Category:CC-BY-4.0",
+    "Category:Dongles",
+    "Category:Self-published work",
+    "Category:TP-Link USB Wi-Fi adapters"
+   ],
+   "width": 3746,
+   "height": 2634,
+   "mime": "image/jpeg",
+   "sha1": "aece0ca6c02240fb5a0d325697cc7e0b95b5c754",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/TP-Link_Archer_T2UB_Nano_dongle_plugged_in_to_a_computer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/TP-Link_Archer_T2UB_Nano_dongle_plugged_in_to_a_computer.jpg/1280px-TP-Link_Archer_T2UB_Nano_dongle_plugged_in_to_a_computer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:TP-Link_Archer_T2UB_Nano_dongle_plugged_in_to_a_computer.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Paowee",
+   "credit": "Own work",
+   "description": "A TP-Link Archer T2UB Nano dongle. This dongle provides both Wi-Fi and Bluetooth functionality on a computer running Windows.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-tp-link-archer-t2ub-nano/1-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-archer-t2ub-nano/1.jpg",
+   "local_sha256": "2c688caa8b3d1307233e20333eca3cdbf7a604e13e2f1c16f35f0398b4348e3e",
+   "local_bytes": 210367
+  }
+ ]
+}

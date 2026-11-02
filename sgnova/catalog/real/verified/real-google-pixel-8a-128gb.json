@@ -1,0 +1,145 @@
+{
+ "handle": "real-google-pixel-8a-128gb",
+ "brand": "Google",
+ "model": "Pixel 8a",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Google Pixel 8a (128GB)",
+ "subtitle": "6.1-inch 120Hz Actua OLED | Tensor G3 | 64MP camera",
+ "description": "Google Pixel 8a with 128GB of storage and 8GB of RAM, powered by Google Tensor G3, with a 6.1-inch Actua OLED display at up to 120Hz, a 64MP wide plus 13MP ultrawide camera pair and seven years of OS and security updates. Specifications were verified against Google's official Pixel hardware tech specs page.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.1-inch Actua OLED, 1080 x 2400, 430 ppi"
+  },
+  {
+   "group": "Display",
+   "label": "Refresh rate",
+   "value": "Up to 120Hz"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Google Tensor G3"
+  },
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "8GB LPDDR5X RAM, 128GB UFS 3.1"
+  },
+  {
+   "group": "Camera",
+   "label": "Wide camera",
+   "value": "64MP, f/1.89"
+  },
+  {
+   "group": "Camera",
+   "label": "Ultrawide camera",
+   "value": "13MP, f/2.2"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "13MP, f/2.2"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery capacity",
+   "value": "4492 mAh typical (4404 mAh minimum)"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions and weight",
+   "value": "152.1 x 72.7 x 8.9 mm, 189 g"
+  },
+  {
+   "group": "Software",
+   "label": "Updates",
+   "value": "7 years of OS, security and Pixel Drop updates"
+  }
+ ],
+ "highlights": [
+  "6.1-inch Actua OLED, up to 120Hz",
+  "Google Tensor G3",
+  "64MP wide and 13MP ultrawide cameras",
+  "7 years of OS and security updates"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 8a tech specs",
+   "scope_end": "tech specs",
+   "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "retrieved_at": "2026-11-02T16:29:27+00:00",
+   "sha256": "0f4a52cf5ffd0cb50001020950ea033036dc061faeb1c40b0fdf63beec941e0c",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:10:38+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Pixel 8a.jpg",
+   "categories": [
+    "Category:Black mobile phones",
+    "Category:CC-BY-4.0",
+    "Category:Front of smartphones",
+    "Category:Google Pixel 8a",
+    "Category:Self-published work",
+    "Category:Taken with iPhone 15 Pro Max"
+   ],
+   "width": 4000,
+   "height": 4000,
+   "mime": "image/jpeg",
+   "sha1": "177093503a8defa8fe4ec0cb39b90dd09792783a",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Pixel_8a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Pixel_8a.jpg/1280px-Pixel_8a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Pixel_8a.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Miyako Fujimiya",
+   "credit": "Own work",
+   "description": "Mặt trước của Pixel 8a",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-google-pixel-8a-128gb/1-card.jpg",
+   "local_path": "/catalog-real/real-google-pixel-8a-128gb/1.jpg",
+   "local_sha256": "e3806fb0bd9d5b1efc383b388ec5da36acc8ff6b44b753b9e0c79ec69d67e713",
+   "local_bytes": 264409
+  },
+  {
+   "title": "File:Rear view of Pixel 8a.jpg",
+   "categories": [
+    "Category:Backs of smartphones",
+    "Category:Black mobile phones",
+    "Category:CC-BY-4.0",
+    "Category:Google Pixel 8a",
+    "Category:Self-published work",
+    "Category:Taken with iPhone 15 Pro Max"
+   ],
+   "width": 3024,
+   "height": 3024,
+   "mime": "image/jpeg",
+   "sha1": "c992ccdecd06ab5551827be5e5eb851aa4d4f532",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Rear_view_of_Pixel_8a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Rear_view_of_Pixel_8a.jpg/1280px-Rear_view_of_Pixel_8a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Rear_view_of_Pixel_8a.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Miyako Fujimiya",
+   "credit": "Own work",
+   "description": "Mặt sau của Pixel 8a",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-google-pixel-8a-128gb/2-card.jpg",
+   "local_path": "/catalog-real/real-google-pixel-8a-128gb/2.jpg",
+   "local_sha256": "d9d7efa6021cb830bcec3849a3562b533e6f3acb2217137748c3d95722f120b9",
+   "local_bytes": 280971
+  }
+ ]
+}

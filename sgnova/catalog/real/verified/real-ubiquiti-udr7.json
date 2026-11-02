@@ -1,0 +1,102 @@
+{
+ "handle": "real-ubiquiti-udr7",
+ "brand": "Ubiquiti",
+ "model": "Dream Router 7",
+ "mpn": "UDR7",
+ "category_handle": "router",
+ "title": "Ubiquiti UniFi Dream Router 7",
+ "subtitle": "Wi-Fi 7 router | 10G SFP+ WAN | UniFi OS",
+ "description": "All-in-one UniFi gateway with built-in tri-band Wi-Fi 7, a 10G SFP+ port, four 2.5 GbE ports and support for the Protect, Access and Talk applications. Specifications verified against Ubiquiti's official tech specs page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "General",
+   "label": "Simultaneous users",
+   "value": "300+"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Port layout",
+   "value": "4 x 2.5 GbE RJ45 (1 PoE), 1 x 10G SFP+"
+  },
+  {
+   "group": "Performance",
+   "label": "IDS/IPS throughput",
+   "value": "2.3 Gbps"
+  },
+  {
+   "group": "Wireless",
+   "label": "Wi-Fi standard",
+   "value": "802.11be (Wi-Fi 7)"
+  },
+  {
+   "group": "Wireless",
+   "label": "6 GHz throughput",
+   "value": "5.7 Gbps"
+  },
+  {
+   "group": "Wireless",
+   "label": "Coverage area",
+   "value": "160 m2"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "26 W (excluding PoE output)"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "110 x 184.1 mm (diameter x height)"
+  }
+ ],
+ "highlights": [
+  "Integrated Wi-Fi 7 incl. 6 GHz",
+  "10G SFP+ and 2.5 GbE ports",
+  "2.3 Gbps IDS/IPS throughput",
+  "Runs UniFi Network and Protect"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://techspecs.ui.com/unifi/cloud-gateways/udr7",
+   "publisher": "Ubiquiti",
+   "final_url": "https://techspecs.ui.com/unifi/cloud-gateways/udr7",
+   "retrieved_at": "2026-11-02T17:56:59+00:00",
+   "sha256": "4989f1f681d99762fcaa514a15046dda9897222274eb750e0895d65923ad984c",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:07:25+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Ubiquiti UniFi Dream Router 7.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Photographs by TaurusEmerald",
+    "Category:Self-published work",
+    "Category:Ubiquiti"
+   ],
+   "width": 2260,
+   "height": 3400,
+   "mime": "image/jpeg",
+   "sha1": "e64d8bfb4c1cae83d79946278ec354f897c21f02",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Ubiquiti_UniFi_Dream_Router_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Ubiquiti_UniFi_Dream_Router_7.jpg/1280px-Ubiquiti_UniFi_Dream_Router_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ubiquiti_UniFi_Dream_Router_7.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "TaurusEmerald",
+   "credit": "Own work",
+   "description": "A Ubiquiti UniFi Dream Router 7.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-ubiquiti-udr7/1-card.jpg",
+   "local_path": "/catalog-real/real-ubiquiti-udr7/1.jpg",
+   "local_sha256": "35905259de9a8cffd03a711e26cfb34796dbdc1e9019aa5fbccdf7a2215266d2",
+   "local_bytes": 119373
+  }
+ ]
+}

@@ -67,7 +67,7 @@
    "sha256": "10ae8038af0704123385670ad8949e2c74b01a7edde50efb01356141c74f031f",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:01:43+00:00",
+  "verified_at": "2026-11-02T18:59:09+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -100,9 +100,10 @@
    "description": "Samsung 970 EVO Plus 250GB solid-state drive",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-samsung-970-evo-plus-250gb/1-card.jpg",
    "local_path": "/catalog-real/real-samsung-970-evo-plus-250gb/1.jpg",
-   "local_sha256": "155ba01d9ccfc4582b14f94117018f0138245323c0f98186d409802e66b44b1d",
-   "local_bytes": 127718
+   "local_sha256": "bef2487a32d8758b7eea0c20591603560731a69d1569ad6b62a84505342a429b",
+   "local_bytes": 117637
   }
  ]
 }

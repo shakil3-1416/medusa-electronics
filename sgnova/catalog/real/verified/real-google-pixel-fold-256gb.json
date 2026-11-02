@@ -1,0 +1,139 @@
+{
+ "handle": "real-google-pixel-fold-256gb",
+ "brand": "Google",
+ "model": "Pixel Fold",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Google Pixel Fold (256GB)",
+ "subtitle": "7.6-inch foldable OLED | Tensor G2 | 5x telephoto",
+ "description": "Google Pixel Fold with 256GB of storage and 12GB of RAM, powered by Google Tensor G2. It pairs a 5.8-inch outer OLED with a 7.6-inch inner folding OLED, both at up to 120Hz, and carries a 48MP wide, 10.8MP ultrawide and 10.8MP 5x telephoto camera. Specifications were verified against Google's official Pixel hardware tech specs page.",
+ "variant_title": "256GB",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Cover display",
+   "value": "5.8-inch FHD+ OLED, 2092 x 1080, 408 ppi"
+  },
+  {
+   "group": "Display",
+   "label": "Inner display",
+   "value": "7.6-inch folding OLED, 2208 x 1840, 380 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Google Tensor G2"
+  },
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "12GB LPDDR5 RAM, 256GB UFS 3.1"
+  },
+  {
+   "group": "Camera",
+   "label": "Wide camera",
+   "value": "48MP with OIS, f/1.7"
+  },
+  {
+   "group": "Camera",
+   "label": "Telephoto camera",
+   "value": "10.8MP, f/3.05, 5x optical zoom"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery capacity",
+   "value": "4821 mAh typical (4727 mAh minimum)"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions folded",
+   "value": "139.7 x 79.5 x 12.1 mm"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "283 g"
+  }
+ ],
+ "highlights": [
+  "7.6-inch folding OLED plus 5.8-inch cover display",
+  "Google Tensor G2 with 12GB RAM",
+  "48MP wide with 10.8MP 5x telephoto",
+  "4821 mAh typical battery"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel fold tech specs",
+   "scope_end": "tech specs",
+   "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "retrieved_at": "2026-11-02T16:29:27+00:00",
+   "sha256": "0f4a52cf5ffd0cb50001020950ea033036dc061faeb1c40b0fdf63beec941e0c",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:11:01+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Google Pixel Fold - 2.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Google Pixel Fold",
+    "Category:Nagoya photographs taken on 2023-07-02",
+    "Category:Self-published work"
+   ],
+   "width": 2160,
+   "height": 3840,
+   "mime": "image/jpeg",
+   "sha1": "e75db2a58673aadeda7d8d5d420af870547a3028",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Google_Pixel_Fold_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Google_Pixel_Fold_-_2.jpg/1280px-Google_Pixel_Fold_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Google_Pixel_Fold_-_2.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Kyu3",
+   "credit": "Own work",
+   "description": "Google Pixel Fold。名古屋市内の家電量販店で撮影。",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-google-pixel-fold-256gb/1-card.jpg",
+   "local_path": "/catalog-real/real-google-pixel-fold-256gb/1.jpg",
+   "local_sha256": "0d36f6cee0f475c877c36048901142b53230820bbfc2d17b576483192de9813a",
+   "local_bytes": 128406
+  },
+  {
+   "title": "File:Google Pixel Fold, shown in Shibuya Stream 10.jpg",
+   "categories": [
+    "Category:CC-Zero",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Google Pixel Fold",
+    "Category:Google Shibuya office",
+    "Category:Japan photographs taken on 2023-10-17",
+    "Category:Self-published work",
+    "Category:Uploaded with Mobile/Android"
+   ],
+   "width": 3072,
+   "height": 4080,
+   "mime": "image/jpeg",
+   "sha1": "69016549e49b56a2a23af96940791567425569d3",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Google_Pixel_Fold%2C_shown_in_Shibuya_Stream_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Google_Pixel_Fold%2C_shown_in_Shibuya_Stream_10.jpg/1280px-Google_Pixel_Fold%2C_shown_in_Shibuya_Stream_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Google_Pixel_Fold,_shown_in_Shibuya_Stream_10.jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "Syced",
+   "credit": "Own work",
+   "description": "Shibuya Stream (Skyscraper in Tokyo, Japan)",
+   "attribution_required": "false",
+   "index": 2,
+   "card_path": "/catalog-real/real-google-pixel-fold-256gb/2-card.jpg",
+   "local_path": "/catalog-real/real-google-pixel-fold-256gb/2.jpg",
+   "local_sha256": "6e3a19e13564544c557dd9dd05ac8cc47c7318b04e26e00b27a2fa203a15860a",
+   "local_bytes": 191303
+  }
+ ]
+}

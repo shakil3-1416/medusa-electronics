@@ -1,0 +1,102 @@
+{
+ "handle": "real-ubiquiti-ucg-fiber",
+ "brand": "Ubiquiti",
+ "model": "Cloud Gateway Fiber",
+ "mpn": "UCG-Fiber",
+ "category_handle": "router",
+ "title": "Ubiquiti UniFi Cloud Gateway Fiber",
+ "subtitle": "10G SFP+ x2 | 10 GbE | 5 Gbps IDS/IPS",
+ "description": "Compact UniFi gateway for multi-gigabit fibre connections, with two 10G SFP+ ports, a 10 GbE port and four 2.5 GbE ports, plus local NVR support. Specifications verified against Ubiquiti's official tech specs page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Port layout",
+   "value": "4 x 2.5 GbE, 1 x 10 GbE, 2 x 10G SFP+"
+  },
+  {
+   "group": "Performance",
+   "label": "IDS/IPS throughput",
+   "value": "5 Gbps"
+  },
+  {
+   "group": "General",
+   "label": "Managed UniFi devices",
+   "value": "50+"
+  },
+  {
+   "group": "General",
+   "label": "Simultaneous users",
+   "value": "500+"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Quad-core Cortex-A73, 2.2 GHz"
+  },
+  {
+   "group": "Performance",
+   "label": "System memory",
+   "value": "3 GB"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "29.4 W (excluding PoE output)"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "212.8 x 127.6 x 30 mm"
+  }
+ ],
+ "highlights": [
+  "Two 10G SFP+ and one 10 GbE port",
+  "5 Gbps IDS/IPS throughput",
+  "Quad-core 2.2 GHz, 3 GB RAM",
+  "Manages 50+ UniFi devices"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://techspecs.ui.com/unifi/cloud-gateways/ucg-fiber",
+   "publisher": "Ubiquiti",
+   "final_url": "https://techspecs.ui.com/unifi/cloud-gateways/ucg-fiber",
+   "retrieved_at": "2026-11-02T17:57:04+00:00",
+   "sha256": "d886ae400e5f4626434f2acb44a58c6e864eef2be765fb522e67dae88e60284a",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:07:29+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Ubiquiti UniFi Cloud Gateway Fiber.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Photographs by TaurusEmerald",
+    "Category:Self-published work",
+    "Category:Ubiquiti"
+   ],
+   "width": 3865,
+   "height": 2317,
+   "mime": "image/jpeg",
+   "sha1": "8b0aa67d92bf834c9d7e547d10f6ad3ecf808cfb",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ubiquiti_UniFi_Cloud_Gateway_Fiber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Ubiquiti_UniFi_Cloud_Gateway_Fiber.jpg/1280px-Ubiquiti_UniFi_Cloud_Gateway_Fiber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ubiquiti_UniFi_Cloud_Gateway_Fiber.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "TaurusEmerald",
+   "credit": "Own work",
+   "description": "A Ubiquiti UniFi Cloud Gateway Fiber.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-ubiquiti-ucg-fiber/1-card.jpg",
+   "local_path": "/catalog-real/real-ubiquiti-ucg-fiber/1.jpg",
+   "local_sha256": "2d6f168cefb5f23c407cdc08ae9241311f2559d5b22bbfc4e86dfeeef999be2f",
+   "local_bytes": 89838
+  }
+ ]
+}

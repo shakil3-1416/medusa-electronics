@@ -1,0 +1,148 @@
+{
+ "handle": "real-apple-iphone-8-64gb",
+ "brand": "Apple",
+ "model": "iPhone 8",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 8 (64GB)",
+ "subtitle": "4.7-inch widescreen LCD | A11 Bionic | 64GB",
+ "description": "Apple iPhone 8 smartphone in the 64GB storage configuration. It runs on the A11 Bionic chip and has a 4.7-inch widescreen LCD screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "64GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "64GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "4.7-inch widescreen LCD Multi-Touch display with IPS technology"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "1334 x 750 at 326 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A11 Bionic"
+  },
+  {
+   "group": "Camera",
+   "label": "Main camera",
+   "value": "12MP, f/1.8"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "IP67, up to 1 m for 30 minutes"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "148 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "138.4 x 67.3 x 7.3 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "802.11ac Wi-Fi"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.0"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "Lightning"
+  }
+ ],
+ "highlights": [
+  "4.7-inch widescreen LCD display",
+  "1334 x 750 at 326 ppi resolution",
+  "A11 Bionic chip",
+  "Main camera: 12MP, f/1.8"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111976",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111976",
+   "retrieved_at": "2026-11-02T17:54:49+00:00",
+   "sha256": "fc83f0fb4264185ba247eac353c89b8555c0cd72d31d954069f055c4791e99b3",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:02:22+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPhone 8 silver with white rear.jpg",
+   "categories": [
+    "Category:Backs of iPhones",
+    "Category:CC-Zero",
+    "Category:F-number f/7.1",
+    "Category:Flickr images reviewed by FlickreviewR",
+    "Category:IPhone 8",
+    "Category:Lens focal length 63 mm",
+    "Category:Silver-colored mobile phones",
+    "Category:Taken with Fujifilm GFX 50S"
+   ],
+   "width": 4836,
+   "height": 3224,
+   "mime": "image/jpeg",
+   "sha1": "4296ad09d629039faf3f9eb04f7ff874881c223c",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/IPhone_8_silver_with_white_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/IPhone_8_silver_with_white_rear.jpg/1280px-IPhone_8_silver_with_white_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_8_silver_with_white_rear.jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "Tinh tế Photo",
+   "credit": "_DSF9409-Edit",
+   "description": "iPhone 8 in silver with white rear side, holding in the hand",
+   "attribution_required": "false",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-8-64gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-8-64gb/1.jpg",
+   "local_sha256": "69a48bb1a3910072b09c491999770a6ce72d7cd9d38e748d147be0a26650f523",
+   "local_bytes": 99870
+  },
+  {
+   "title": "File:Unboxed iPhone 8.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:IPhone 8",
+    "Category:Self-published work",
+    "Category:Silver-colored mobile phones"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "20c65d111ea08afa62cdde20722b21ad8e5a81e2",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Unboxed_iPhone_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Unboxed_iPhone_8.jpg/1280px-Unboxed_iPhone_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Unboxed_iPhone_8.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Rberchie",
+   "credit": "Own work",
+   "description": "Unboxed iPhone 8 with accessories.",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-8-64gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-8-64gb/2.jpg",
+   "local_sha256": "6d92adf91e5ae7442ae86614e957c5a2892b2b7ccf1f17acf0013f5043bfb3e4",
+   "local_bytes": 275882
+  }
+ ]
+}

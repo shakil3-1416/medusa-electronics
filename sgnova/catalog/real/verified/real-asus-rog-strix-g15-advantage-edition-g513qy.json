@@ -1,0 +1,172 @@
+{
+ "handle": "real-asus-rog-strix-g15-advantage-edition-g513qy",
+ "brand": "ASUS",
+ "model": "ROG Strix G15 Advantage Edition G513QY",
+ "mpn": "G513QY",
+ "category_handle": "gaming-laptop",
+ "title": "ASUS ROG Strix G15 Advantage Edition (G513QY) Gaming Laptop",
+ "subtitle": "Ryzen 9 5900HX | Radeon RX 6800M 12GB | 15.6\" WQHD 165Hz",
+ "description": "All-AMD 15.6-inch gaming laptop pairing a Ryzen 9 5900HX processor with Radeon RX 6800M graphics and a 165Hz WQHD IPS-level display, with two SO-DIMM slots and two M.2 slots for upgrades. Specifications verified against ASUS ROG's official tech-spec page.",
+ "variant_title": "Ryzen 9 5900HX / RX 6800M",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "AMD Ryzen 9 5900HX (8-core/16-thread, up to 4.6 GHz)"
+  },
+  {
+   "group": "Performance",
+   "label": "Graphics",
+   "value": "AMD Radeon RX 6800M 12GB GDDR6"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "15.6-inch WQHD (2560 x 1440) IPS-level, 165Hz, 3ms"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory",
+   "value": "8GB DDR4-3200 SO-DIMM x 2, max 32GB"
+  },
+  {
+   "group": "Storage",
+   "label": "Storage",
+   "value": "1TB PCIe 3.0 NVMe M.2 SSD"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wireless",
+   "value": "Wi-Fi 6 (802.11ax) + Bluetooth 5.1"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Video out",
+   "value": "1x HDMI 2.0b"
+  },
+  {
+   "group": "Power",
+   "label": "Battery",
+   "value": "90Wh, 4-cell Li-ion"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight",
+   "value": "2.50 kg"
+  }
+ ],
+ "highlights": [
+  "AMD Ryzen 9 5900HX, 8 cores / 16 threads",
+  "AMD Radeon RX 6800M 12GB GDDR6",
+  "15.6-inch WQHD 165Hz, 100% DCI-P3",
+  "90Wh battery, 280W adapter"
+ ],
+ "review_notes": "Spec page lists the G513QY-R9X8G6T-O configuration (16GB as 2x8GB, 1TB); photos show the G513QY-HQ012T regional configuration of the same G513QY chassis/CPU/GPU. Memory and storage may differ by regional SKU.",
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://rog.asus.com/laptops/rog-strix/2021-rog-strix-g15-advantage-edition-series/spec/",
+   "publisher": "ASUS ROG",
+   "final_url": "https://rog.asus.com/laptops/rog-strix/2021-rog-strix-g15-advantage-edition-series/spec/",
+   "retrieved_at": "2026-11-02T18:13:55+00:00",
+   "sha256": "3cf6b2fab0596ee541de23456ce60a6b8c99887a50a64334e245220e34a9822c",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:12:26+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:ASUS ROG Strix G15 (G513QY-HQ012T)-front oblique PNr°0884.jpg",
+   "categories": [
+    "Category:ASUS ROG G513QY",
+    "Category:CC-BY-SA-4.0",
+    "Category:Created with RawTherapee",
+    "Category:Files taken by D-Kuru",
+    "Category:Photographs taken on 2021-10-26",
+    "Category:Taken with Canon EF-S 60mm F2.8 Macro USM",
+    "Category:Taken with Canon EOS 40D"
+   ],
+   "width": 3304,
+   "height": 2592,
+   "mime": "image/jpeg",
+   "sha1": "0912b10a6d063c84a82c6294f494310d1a3b5dd5",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/ASUS_ROG_Strix_G15_%28G513QY-HQ012T%29-front_oblique_PNr%C2%B00884.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/ASUS_ROG_Strix_G15_%28G513QY-HQ012T%29-front_oblique_PNr%C2%B00884.jpg/1280px-ASUS_ROG_Strix_G15_%28G513QY-HQ012T%29-front_oblique_PNr%C2%B00884.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:ASUS_ROG_Strix_G15_(G513QY-HQ012T)-front_oblique_PNr%C2%B00884.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "D-Kuru",
+   "credit": "Own work",
+   "description": "An ASUS ROG Strix G15 (G513QY-HQ012T) laptop",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-asus-rog-strix-g15-advantage-edition-g513qy/1-card.jpg",
+   "local_path": "/catalog-real/real-asus-rog-strix-g15-advantage-edition-g513qy/1.jpg",
+   "local_sha256": "781852e62f2e6b6525c2329e012759492f275fb841c409aece9ad3d5735d8aee",
+   "local_bytes": 103892
+  },
+  {
+   "title": "File:ASUS ROG Strix G15 (G513QY-HQ012T)-top keyboard PNr°0887.jpg",
+   "categories": [
+    "Category:ASUS ROG G513QY",
+    "Category:Black computer keyboards",
+    "Category:CC-BY-SA-4.0",
+    "Category:Computer keyboards with QWERTZ layout",
+    "Category:Created with RawTherapee",
+    "Category:Files taken by D-Kuru",
+    "Category:Photographs taken on 2021-10-26",
+    "Category:Taken with Canon EF-S 60mm F2.8 Macro USM",
+    "Category:Taken with Canon EOS 40D"
+   ],
+   "width": 3249,
+   "height": 2336,
+   "mime": "image/jpeg",
+   "sha1": "3524ac5b96493760578ddaaf23f384069573c3f3",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/ASUS_ROG_Strix_G15_%28G513QY-HQ012T%29-top_keyboard_PNr%C2%B00887.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/ASUS_ROG_Strix_G15_%28G513QY-HQ012T%29-top_keyboard_PNr%C2%B00887.jpg/1280px-ASUS_ROG_Strix_G15_%28G513QY-HQ012T%29-top_keyboard_PNr%C2%B00887.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:ASUS_ROG_Strix_G15_(G513QY-HQ012T)-top_keyboard_PNr%C2%B00887.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "D-Kuru",
+   "credit": "Own work",
+   "description": "The keyboard of an ASUS ROG Strix G15 (G513QY-HQ012T) laptop",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-asus-rog-strix-g15-advantage-edition-g513qy/2-card.jpg",
+   "local_path": "/catalog-real/real-asus-rog-strix-g15-advantage-edition-g513qy/2.jpg",
+   "local_sha256": "6935eef04ba7cee528435ce1ac66f2e4527e52b3e3d40e31f2e29274d5dfc20d",
+   "local_bytes": 169913
+  },
+  {
+   "title": "File:ASUS ROG Strix G15 (G513QY-HQ012T)-top cover illuminated PNr°0886.jpg",
+   "categories": [
+    "Category:ASUS ROG G513QY",
+    "Category:CC-BY-SA-4.0",
+    "Category:Created with RawTherapee",
+    "Category:Files taken by D-Kuru",
+    "Category:Photographs taken on 2021-10-26",
+    "Category:Taken with Canon EF-S 60mm F2.8 Macro USM",
+    "Category:Taken with Canon EOS 40D"
+   ],
+   "width": 3072,
+   "height": 2339,
+   "mime": "image/jpeg",
+   "sha1": "8b6f6d796818deef2a52d35e14b34cfc8e6f8268",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/ASUS_ROG_Strix_G15_%28G513QY-HQ012T%29-top_cover_illuminated_PNr%C2%B00886.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/ASUS_ROG_Strix_G15_%28G513QY-HQ012T%29-top_cover_illuminated_PNr%C2%B00886.jpg/1280px-ASUS_ROG_Strix_G15_%28G513QY-HQ012T%29-top_cover_illuminated_PNr%C2%B00886.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:ASUS_ROG_Strix_G15_(G513QY-HQ012T)-top_cover_illuminated_PNr%C2%B00886.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "D-Kuru",
+   "credit": "Own work",
+   "description": "The top of an ASUS ROG Strix G15 (G513QY-HQ012T) laptop",
+   "attribution_required": "true",
+   "index": 3,
+   "card_path": "/catalog-real/real-asus-rog-strix-g15-advantage-edition-g513qy/3-card.jpg",
+   "local_path": "/catalog-real/real-asus-rog-strix-g15-advantage-edition-g513qy/3.jpg",
+   "local_sha256": "3c47c5e127a70f49d1f1504a9c970125405782737272b787fc693b49c0a2b847",
+   "local_bytes": 206490
+  }
+ ]
+}

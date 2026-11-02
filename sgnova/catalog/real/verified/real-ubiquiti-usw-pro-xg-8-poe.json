@@ -1,0 +1,102 @@
+{
+ "handle": "real-ubiquiti-usw-pro-xg-8-poe",
+ "brand": "Ubiquiti",
+ "model": "USW-Pro-XG-8-PoE",
+ "mpn": "USW-Pro-XG-8-PoE",
+ "category_handle": "network-switch",
+ "title": "Ubiquiti UniFi Pro XG 8 PoE Switch",
+ "subtitle": "8 x 10 GbE PoE++ | 2 x SFP+ | Layer 3",
+ "description": "Layer 3 UniFi switch with eight 10 GbE PoE++ ports and two 10G SFP+ uplinks, a 155 W PoE budget and Etherlighting port indicators. Specifications verified against Ubiquiti's official tech specs page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "10 GbE PoE++ ports",
+   "value": "8"
+  },
+  {
+   "group": "Connectivity",
+   "label": "SFP+ ports",
+   "value": "2"
+  },
+  {
+   "group": "Power",
+   "label": "Total PoE budget",
+   "value": "155 W"
+  },
+  {
+   "group": "Performance",
+   "label": "Switching capacity",
+   "value": "200 Gbps"
+  },
+  {
+   "group": "Performance",
+   "label": "Forwarding rate",
+   "value": "149 Mpps"
+  },
+  {
+   "group": "Performance",
+   "label": "MAC table",
+   "value": "32,000"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "210 W including PoE output"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "210.4 x 173.8 x 43.7 mm"
+  }
+ ],
+ "highlights": [
+  "Eight 10 GbE PoE++ ports",
+  "Two 10G SFP+ ports",
+  "155 W total PoE budget",
+  "Layer 3 routing features"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://techspecs.ui.com/unifi/switching/usw-pro-xg-8-poe",
+   "publisher": "Ubiquiti",
+   "final_url": "https://techspecs.ui.com/unifi/switching/usw-pro-xg-8-poe",
+   "retrieved_at": "2026-11-02T17:57:15+00:00",
+   "sha256": "ff6487cc21d05602488cafff478954ab754f471ee4cb7e7b3c3eeaebd3b0ce69",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:07:36+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Ubiquiti UniFi Switch Pro XG 8 PoE.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Photographs by TaurusEmerald",
+    "Category:Self-published work",
+    "Category:Ubiquiti"
+   ],
+   "width": 3592,
+   "height": 2230,
+   "mime": "image/jpeg",
+   "sha1": "09fd827782410084911a686beabc4ff04f253c15",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ubiquiti_UniFi_Switch_Pro_XG_8_PoE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Ubiquiti_UniFi_Switch_Pro_XG_8_PoE.jpg/1280px-Ubiquiti_UniFi_Switch_Pro_XG_8_PoE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ubiquiti_UniFi_Switch_Pro_XG_8_PoE.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "TaurusEmerald",
+   "credit": "Own work",
+   "description": "A Ubiquiti UniFi Switch Pro XG 8 PoE.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-ubiquiti-usw-pro-xg-8-poe/1-card.jpg",
+   "local_path": "/catalog-real/real-ubiquiti-usw-pro-xg-8-poe/1.jpg",
+   "local_sha256": "a21b14fbd4eb91bb318ed7289a9ea8a31dd81d1dacda9a67bfa435edf2d43bf8",
+   "local_bytes": 139392
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "handle": "real-xiaomi-redmi-note-12-pro-8gb-256gb",
+ "brand": "Xiaomi",
+ "model": "Redmi Note 12 Pro",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Redmi Note 12 Pro (8GB+256GB)",
+ "subtitle": "6.67-inch 120Hz AMOLED | Snapdragon 732G | 67W",
+ "description": "Redmi Note 12 Pro (4G) with 8GB of LPDDR4X RAM and 256GB of UFS 2.2 storage, a 6.67-inch FHD+ AMOLED display at up to 120Hz, the Snapdragon 732G, a 108MP main camera and a 5000mAh battery with 67W turbo charging. Specifications were verified against Xiaomi's official global specs page.",
+ "variant_title": "8GB+256GB",
+ "specs": [
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "8GB LPDDR4X, 256GB UFS 2.2"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions and weight",
+   "value": "164.20 x 76.1 x 8.12 mm, 201.8 g"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Snapdragon 732G, up to 2.2GHz"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.67-inch FHD+ AMOLED, up to 120Hz"
+  },
+  {
+   "group": "Camera",
+   "label": "Main camera",
+   "value": "108MP, f/1.9"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "16MP, f/2.4"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery and charging",
+   "value": "5000mAh, 67W"
+  }
+ ],
+ "highlights": [
+  "6.67-inch FHD+ AMOLED, up to 120Hz",
+  "Snapdragon 732G",
+  "108MP main camera",
+  "5000mAh with 67W turbo charging"
+ ],
+ "review_notes": [
+  "Xiaomi's global page for this slug describes the 4G Snapdragon 732G model; the 5G model is a different product."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/redmi-note-12-pro/specs/",
+   "publisher": "Xiaomi",
+   "final_url": "https://www.mi.com/global/product/redmi-note-12-pro/specs/",
+   "retrieved_at": "2026-11-02T17:48:43+00:00",
+   "sha256": "d027fec59bfaf8fe40359d8a69b1539f4d3e9b500a8e657cfaa386567b6c195c",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:11:50+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Redmi note 12 pro 4G Gray.jpg",
+   "categories": [
+    "Category:CC-BY-4.0",
+    "Category:Redmi Note 12 Pro (4G)",
+    "Category:Self-published work",
+    "Category:Xiaomi Redmi Note 12 Pro (4G)"
+   ],
+   "width": 2448,
+   "height": 3264,
+   "mime": "image/jpeg",
+   "sha1": "c22b6ebf824c25588f7cc2a775a43f6b10c8b44b",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Redmi_note_12_pro_4G_Gray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Redmi_note_12_pro_4G_Gray.jpg/1280px-Redmi_note_12_pro_4G_Gray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Redmi_note_12_pro_4G_Gray.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "MobilGalantsuper1999PS",
+   "credit": "Own work",
+   "description": "Hp saudara saya",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-xiaomi-redmi-note-12-pro-8gb-256gb/1-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-redmi-note-12-pro-8gb-256gb/1.jpg",
+   "local_sha256": "be83b27b1748a9585feb6fcc1d27d58d97b40c4f4029042d3ff63bcaaf6f7b4e",
+   "local_bytes": 167809
+  }
+ ]
+}

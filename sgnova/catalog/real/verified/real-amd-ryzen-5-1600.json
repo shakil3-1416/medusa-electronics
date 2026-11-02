@@ -1,0 +1,136 @@
+{
+ "handle": "real-amd-ryzen-5-1600",
+ "brand": "AMD",
+ "model": "Ryzen 5 1600",
+ "mpn": "YD1600BBAEBOX",
+ "category_handle": "processor",
+ "title": "AMD Ryzen 5 1600 Desktop Processor",
+ "subtitle": "6 cores / 12 threads | up to 3.6 GHz | AM4",
+ "description": "6-core AMD desktop processor for the AM4 socket with 16 MB of L3 cache and boost clocks up to 3.6 GHz. Specifications checked against AMD's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Processor",
+   "label": "Cores",
+   "value": "6"
+  },
+  {
+   "group": "Processor",
+   "label": "Threads",
+   "value": "12"
+  },
+  {
+   "group": "Clock",
+   "label": "Max boost clock",
+   "value": "Up to 3.6 GHz"
+  },
+  {
+   "group": "Clock",
+   "label": "Base clock",
+   "value": "3.2 GHz"
+  },
+  {
+   "group": "Cache",
+   "label": "L3 cache",
+   "value": "16 MB"
+  },
+  {
+   "group": "Power",
+   "label": "Default TDP",
+   "value": "65W"
+  },
+  {
+   "group": "Platform",
+   "label": "Socket",
+   "value": "AM4"
+  },
+  {
+   "group": "Platform",
+   "label": "PCI Express",
+   "value": "PCIe 3.0"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory type",
+   "value": "DDR4"
+  }
+ ],
+ "highlights": [
+  "6 cores, 12 threads",
+  "Up to 3.6 GHz boost",
+  "16 MB L3 cache",
+  "AM4 socket, DDR4 memory"
+ ],
+ "review_notes": [
+  "AMD's current spec table for this processor is published on its official drivers & support page."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-1000-series/amd-ryzen-5-1600.html",
+   "publisher": "Advanced Micro Devices, Inc.",
+   "final_url": "https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-1000-series/amd-ryzen-5-1600.html",
+   "retrieved_at": "2026-11-02T17:55:37+00:00",
+   "sha256": "6bcaf18ff1e19ccffbf29c1e1bfde2f26348ca211cee140efe732c09bbd2c074",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:06:24+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:AMD Ryzen 5 1600 processor with Wraith Spire cooler - detail view of processor.jpg",
+   "categories": [
+    "Category:AMD microprocessors",
+    "Category:CC-BY-SA-4.0",
+    "Category:Computer cooling",
+    "Category:Uploaded with OpenRefine"
+   ],
+   "width": 3000,
+   "height": 3000,
+   "mime": "image/jpeg",
+   "sha1": "d51ba4f30cf2b5b299393fd6147e0a17b1ba6eda",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/AMD_Ryzen_5_1600_processor_with_Wraith_Spire_cooler_-_detail_view_of_processor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/AMD_Ryzen_5_1600_processor_with_Wraith_Spire_cooler_-_detail_view_of_processor.jpg/1280px-AMD_Ryzen_5_1600_processor_with_Wraith_Spire_cooler_-_detail_view_of_processor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:AMD_Ryzen_5_1600_processor_with_Wraith_Spire_cooler_-_detail_view_of_processor.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "ITEagle Europe - Sebastiaan Broekhoven",
+   "credit": "Own work",
+   "description": "Detail view of processor of an AMD Ryzen 5 1600 processor with Wraith Spire cooler.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-amd-ryzen-5-1600/1-card.jpg",
+   "local_path": "/catalog-real/real-amd-ryzen-5-1600/1.jpg",
+   "local_sha256": "34d47699f343cf168f98b45fa7d936063dc3cf321484d389f0049f755fdf1647",
+   "local_bytes": 383029
+  },
+  {
+   "title": "File:AMD Ryzen 5 1600 processor with Wraith Spire cooler - detail view of cooler.jpg",
+   "categories": [
+    "Category:AMD microprocessors",
+    "Category:CC-BY-SA-4.0",
+    "Category:Computer cooling",
+    "Category:Uploaded with OpenRefine"
+   ],
+   "width": 3000,
+   "height": 4000,
+   "mime": "image/jpeg",
+   "sha1": "a0e94a1f548db6548ca832f70d3705fc940439c6",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/AMD_Ryzen_5_1600_processor_with_Wraith_Spire_cooler_-_detail_view_of_cooler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/AMD_Ryzen_5_1600_processor_with_Wraith_Spire_cooler_-_detail_view_of_cooler.jpg/1280px-AMD_Ryzen_5_1600_processor_with_Wraith_Spire_cooler_-_detail_view_of_cooler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:AMD_Ryzen_5_1600_processor_with_Wraith_Spire_cooler_-_detail_view_of_cooler.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "ITEagle Europe - Sebastiaan Broekhoven",
+   "credit": "Own work",
+   "description": "Detail view of cooler of an AMD Ryzen 5 1600 processor with Wraith Spire cooler.",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-amd-ryzen-5-1600/2-card.jpg",
+   "local_path": "/catalog-real/real-amd-ryzen-5-1600/2.jpg",
+   "local_sha256": "5a826e199977c03314ded68306128fdf0d6d71900f3e5a4dcea01bb588c91b1a",
+   "local_bytes": 185559
+  }
+ ]
+}

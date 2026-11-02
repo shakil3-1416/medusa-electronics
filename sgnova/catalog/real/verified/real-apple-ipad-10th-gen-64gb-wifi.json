@@ -67,7 +67,7 @@
    "sha256": "b6ae3ae8e3b985fafed5c472a320acf0349c209b1fc6003092ee17e7295ad6ab",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:01:07+00:00",
+  "verified_at": "2026-11-02T18:57:45+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -94,9 +94,10 @@
    "description": "iPad 10th Generation was released in October 26, 2022. Photo locationː Timeline Apple Store - SM City Cabanatuan. Km. 112 Maharlika Highway, Barangay Hermogenes C. Concepcion, Sr. (Pambuan), Cabanatuan City, Nueva Ecija 🇵🇭",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-apple-ipad-10th-gen-64gb-wifi/1-card.jpg",
    "local_path": "/catalog-real/real-apple-ipad-10th-gen-64gb-wifi/1.jpg",
-   "local_sha256": "27ba045b86eb2f5c82fef2ac218086f69a71856999893cef22f6ada8d0f0e9f6",
-   "local_bytes": 174100
+   "local_sha256": "2f5740def82d5b24239297b5b20e41213c50a58871651e334ed9ae3909195bc4",
+   "local_bytes": 170681
   }
  ]
 }

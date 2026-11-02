@@ -1,0 +1,143 @@
+{
+ "handle": "real-apple-ipad-pro-11-m4-256gb-wifi",
+ "brand": "Apple",
+ "model": "iPad Pro 11-inch (M4)",
+ "mpn": null,
+ "category_handle": "tablet",
+ "title": "Apple iPad Pro 11-inch (M4) (256GB Wi-Fi)",
+ "subtitle": "M4 | 256GB",
+ "description": "Apple iPad Pro 11-inch (M4) tablet, 256GB Wi-Fi configuration, powered by the M4 chip. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "256GB Wi-Fi",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "256GB"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2420 x 1668 at 264 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "M4"
+  },
+  {
+   "group": "Camera",
+   "label": "Rear camera",
+   "value": "12MP, f/1.8"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery life",
+   "value": "Up to 10 hours web or video on Wi-Fi"
+  },
+  {
+   "group": "Build",
+   "label": "Weight (Wi-Fi model)",
+   "value": "444 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "249.7 x 177.5 x 5.3 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "Wi-Fi 6E (802.11ax)"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.3"
+  }
+ ],
+ "highlights": [
+  "2420 x 1668 at 264 ppi resolution",
+  "M4 chip",
+  "Rear camera: 12MP, f/1.8",
+  "Battery life: Up to 10 hours web or video on Wi-Fi"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/119892",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/119892",
+   "retrieved_at": "2026-11-02T17:47:55+00:00",
+   "sha256": "aa9596c8f5159b97b831e0301c5d354a7dbca970858fcd63eca260c5ba704a5f",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:05:45+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPad Pro M4 11-inch.jpeg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Files with no machine-readable author",
+    "Category:Files with no machine-readable source",
+    "Category:GFDL",
+    "Category:License migration candidates",
+    "Category:License migration redundant",
+    "Category:Media missing infobox template",
+    "Category:Self-published work"
+   ],
+   "width": 5122,
+   "height": 3841,
+   "mime": "image/jpeg",
+   "sha1": "28699b07ddf63971b05628dbf3fa43cef94cb1a3",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/IPad_Pro_M4_11-inch.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/IPad_Pro_M4_11-inch.jpeg/1280px-IPad_Pro_M4_11-inch.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPad_Pro_M4_11-inch.jpeg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "",
+   "credit": "",
+   "description": "",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-ipad-pro-11-m4-256gb-wifi/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-ipad-pro-11-m4-256gb-wifi/1.jpg",
+   "local_sha256": "68ac47e5ad872907a55e74878b2e8e3fba9ab3aaa8b2467c8c06df8650100379",
+   "local_bytes": 203934
+  },
+  {
+   "title": "File:About iPad Pro 11-inch (M4).jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2024-10-02",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPad Pro (7th generation)",
+    "Category:October 2024 in Dongguan",
+    "Category:Self-published work",
+    "Category:Tablets with keyboards",
+    "Category:Taken with iPhone 14 Plus"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "6f9686b94ca66ca8a3dc6fb0f7b872e388bf2fb9",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/About_iPad_Pro_11-inch_%28M4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/About_iPad_Pro_11-inch_%28M4%29.jpg/1280px-About_iPad_Pro_11-inch_%28M4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:About_iPad_Pro_11-inch_(M4).jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "メイド理世",
+   "credit": "Own work",
+   "description": "About iPad Pro 11-inch (M4)",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-ipad-pro-11-m4-256gb-wifi/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-ipad-pro-11-m4-256gb-wifi/2.jpg",
+   "local_sha256": "6570935aa26138eef0d6df9de5717192485a1d1f668e47a12ec55031b9a7653b",
+   "local_bytes": 191644
+  }
+ ]
+}

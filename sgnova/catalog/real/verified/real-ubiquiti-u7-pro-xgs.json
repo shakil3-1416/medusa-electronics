@@ -1,0 +1,109 @@
+{
+ "handle": "real-ubiquiti-u7-pro-xgs",
+ "brand": "Ubiquiti",
+ "model": "U7 Pro XGS",
+ "mpn": "U7-Pro-XGS",
+ "category_handle": "router",
+ "title": "Ubiquiti UniFi U7 Pro XGS Wi-Fi 7 Access Point",
+ "subtitle": "Wi-Fi 7 tri-band | 10 GbE uplink | PoE++",
+ "description": "Ceiling-mounted tri-band Wi-Fi 7 access point with a 10 GbE uplink and 6 GHz support, intended for busy offices and dense home networks. Specifications verified against Ubiquiti's official tech specs page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Wireless",
+   "label": "Wi-Fi standard",
+   "value": "Wi-Fi 7"
+  },
+  {
+   "group": "Wireless",
+   "label": "Spatial streams",
+   "value": "8"
+  },
+  {
+   "group": "Wireless",
+   "label": "6 GHz max rate",
+   "value": "5.8 Gbps"
+  },
+  {
+   "group": "Wireless",
+   "label": "5 GHz max rate",
+   "value": "8.6 Gbps"
+  },
+  {
+   "group": "Wireless",
+   "label": "Coverage area",
+   "value": "160 m2"
+  },
+  {
+   "group": "Wireless",
+   "label": "Max clients",
+   "value": "500+"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Uplink",
+   "value": "10 GbE, PoE++"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "29 W"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "215 x 32.5 mm (diameter x height)"
+  }
+ ],
+ "highlights": [
+  "Wi-Fi 7 with 6 GHz band",
+  "8 spatial streams",
+  "10 GbE PoE++ uplink",
+  "Up to 500+ clients"
+ ],
+ "review_notes": [
+  "Category router used for an access point."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://techspecs.ui.com/unifi/wifi/u7-pro-xgs",
+   "publisher": "Ubiquiti",
+   "final_url": "https://techspecs.ui.com/unifi/wifi/u7-pro-xgs",
+   "retrieved_at": "2026-11-02T17:56:51+00:00",
+   "sha256": "b62de59d30f5ce90dbf850cf1c9aca3e51d09ec6c9d6c1787b794986e976e919",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:07:20+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Ubiquiti UniFi U7 Pro XGS.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Photographs by TaurusEmerald",
+    "Category:Self-published work",
+    "Category:Ubiquiti"
+   ],
+   "width": 2103,
+   "height": 2103,
+   "mime": "image/jpeg",
+   "sha1": "0d99cd2407c136ef832cd0093eda2e19e0f0b355",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Ubiquiti_UniFi_U7_Pro_XGS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Ubiquiti_UniFi_U7_Pro_XGS.jpg/1280px-Ubiquiti_UniFi_U7_Pro_XGS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ubiquiti_UniFi_U7_Pro_XGS.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "TaurusEmerald",
+   "credit": "Own work",
+   "description": "A Ubiquiti UniFi U7 Pro XGS.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-ubiquiti-u7-pro-xgs/1-card.jpg",
+   "local_path": "/catalog-real/real-ubiquiti-u7-pro-xgs/1.jpg",
+   "local_sha256": "9b4d9d9e35bf6565cc53cc634728818dd6e93bfd3cf5cddd0a22fb666f58294e",
+   "local_bytes": 202530
+  }
+ ]
+}

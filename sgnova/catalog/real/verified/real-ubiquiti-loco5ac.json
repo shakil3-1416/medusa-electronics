@@ -1,0 +1,127 @@
+{
+ "handle": "real-ubiquiti-loco5ac",
+ "brand": "Ubiquiti",
+ "model": "NanoStation 5AC Loco",
+ "mpn": "Loco5AC",
+ "category_handle": "router",
+ "title": "Ubiquiti airMAX NanoStation 5AC Loco",
+ "subtitle": "5 GHz airMAX ac | compact outdoor CPE | GbE",
+ "description": "Small outdoor 5 GHz airMAX ac station for short wireless links and customer premises installations, powered by passive PoE. Specifications verified against Ubiquiti's official tech specs page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "1 x GbE RJ45"
+  },
+  {
+   "group": "Power",
+   "label": "Power method",
+   "value": "Passive PoE, 24 V"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "7 W"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "179 x 77.5 x 59.1 mm"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight",
+   "value": "180 g"
+  },
+  {
+   "group": "General",
+   "label": "Channel bandwidth",
+   "value": "10/20/30/40/50/60/80 MHz"
+  },
+  {
+   "group": "General",
+   "label": "Operating temperature",
+   "value": "-40 to 70 C"
+  }
+ ],
+ "highlights": [
+  "5 GHz airMAX ac",
+  "Gigabit Ethernet port",
+  "180 g, pole mount included",
+  "7 W max power draw"
+ ],
+ "review_notes": [
+  "Photo titles say 'NanoStation AC loco', the marketing name of Loco5AC; PoE supply is not included per the page.",
+  "Category router used for an outdoor wireless station."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://techspecs.ui.com/uisp/wireless/loco5ac",
+   "publisher": "Ubiquiti",
+   "final_url": "https://techspecs.ui.com/uisp/wireless/loco5ac",
+   "retrieved_at": "2026-11-02T17:57:21+00:00",
+   "sha256": "e3f35f91f7d48048a77f010bb316bb05d525705b4fd3305bd2f9e523904614f3",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:07:47+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Ubiquiti NanoStation AC loco P1110410.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Hausfotografie temporärhaus (2026)",
+    "Category:Self-published work",
+    "Category:Ubiquiti NanoStation AC loco"
+   ],
+   "width": 4016,
+   "height": 6022,
+   "mime": "image/jpeg",
+   "sha1": "4908de2c5552c35011ce05886cf24484086d979b",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Ubiquiti_NanoStation_AC_loco_P1110410.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Ubiquiti_NanoStation_AC_loco_P1110410.jpg/1280px-Ubiquiti_NanoStation_AC_loco_P1110410.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ubiquiti_NanoStation_AC_loco_P1110410.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "-stk",
+   "credit": "Own work",
+   "description": "Ubiquiti NanoStation AC loco (NS-5ACL) WiFi access point",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-ubiquiti-loco5ac/1-card.jpg",
+   "local_path": "/catalog-real/real-ubiquiti-loco5ac/1.jpg",
+   "local_sha256": "4f0ce6aa82559c10e50c1026b0f591e6d00188f485cb575c23c0922a19eab420",
+   "local_bytes": 54997
+  },
+  {
+   "title": "File:Ubiquiti NanoStation AC loco P1110411.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Hausfotografie temporärhaus (2026)",
+    "Category:Self-published work",
+    "Category:Ubiquiti NanoStation AC loco"
+   ],
+   "width": 4016,
+   "height": 6022,
+   "mime": "image/jpeg",
+   "sha1": "eaa503c387a268d4d285199461b603289de1adad",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ubiquiti_NanoStation_AC_loco_P1110411.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Ubiquiti_NanoStation_AC_loco_P1110411.jpg/1280px-Ubiquiti_NanoStation_AC_loco_P1110411.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ubiquiti_NanoStation_AC_loco_P1110411.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "-stk",
+   "credit": "Own work",
+   "description": "Ubiquiti NanoStation AC loco (NS-5ACL) WiFi access point",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-ubiquiti-loco5ac/2-card.jpg",
+   "local_path": "/catalog-real/real-ubiquiti-loco5ac/2.jpg",
+   "local_sha256": "b93cab91d7fe12e49cbd442e867e6bac2b0990e6a1c75aa49bbb6debb94f71ae",
+   "local_bytes": 71609
+  }
+ ]
+}

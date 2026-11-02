@@ -1,0 +1,114 @@
+{
+ "handle": "real-amd-ryzen-5-2600",
+ "brand": "AMD",
+ "model": "Ryzen 5 2600",
+ "mpn": "YD2600BBAFBOX",
+ "category_handle": "processor",
+ "title": "AMD Ryzen 5 2600 Desktop Processor",
+ "subtitle": "6 cores / 12 threads | up to 3.9 GHz | AM4",
+ "description": "6-core AMD desktop processor for the AM4 socket with 16 MB of L3 cache and boost clocks up to 3.9 GHz. Specifications checked against AMD's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Processor",
+   "label": "Cores",
+   "value": "6"
+  },
+  {
+   "group": "Processor",
+   "label": "Threads",
+   "value": "12"
+  },
+  {
+   "group": "Clock",
+   "label": "Max boost clock",
+   "value": "Up to 3.9 GHz"
+  },
+  {
+   "group": "Clock",
+   "label": "Base clock",
+   "value": "3.4 GHz"
+  },
+  {
+   "group": "Cache",
+   "label": "L3 cache",
+   "value": "16 MB"
+  },
+  {
+   "group": "Power",
+   "label": "Default TDP",
+   "value": "65W"
+  },
+  {
+   "group": "Platform",
+   "label": "Socket",
+   "value": "AM4"
+  },
+  {
+   "group": "Platform",
+   "label": "PCI Express",
+   "value": "PCIe 3.0"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory type",
+   "value": "DDR4"
+  },
+  {
+   "group": "Build",
+   "label": "Process",
+   "value": "12nm FinFET"
+  }
+ ],
+ "highlights": [
+  "6 cores, 12 threads",
+  "Up to 3.9 GHz boost",
+  "16 MB L3 cache",
+  "AM4 socket, DDR4 memory"
+ ],
+ "review_notes": [
+  "AMD's current spec table for this processor is published on its official drivers & support page."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-2000-series/amd-ryzen-5-2600.html",
+   "publisher": "Advanced Micro Devices, Inc.",
+   "final_url": "https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-2000-series/amd-ryzen-5-2600.html",
+   "retrieved_at": "2026-11-02T17:55:38+00:00",
+   "sha256": "8812e283e70063e1e443e98c0fd4b3396d6c5983e27dfc96a151edda0e680ced",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:06:26+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:AMD Ryzen 5 2600 (39851733273).jpg",
+   "categories": [
+    "Category:AMD Ryzen 5 2600",
+    "Category:CC-Zero",
+    "Category:Flickr images reviewed by FlickreviewR 2",
+    "Category:Photographs by Fritz Fritzchens"
+   ],
+   "width": 3706,
+   "height": 2778,
+   "mime": "image/jpeg",
+   "sha1": "ccafc1625d336055f821977323f68b1b285334fd",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/AMD_Ryzen_5_2600_%2839851733273%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/AMD_Ryzen_5_2600_%2839851733273%29.jpg/1280px-AMD_Ryzen_5_2600_%2839851733273%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:AMD_Ryzen_5_2600_(39851733273).jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "Fritzchens Fritz",
+   "credit": "https://www.flickr.com/photos/130561288@N04/39851733273/",
+   "description": "AMD Ryzen 5 2600 processor (Pinnacle Ridge)",
+   "attribution_required": "false",
+   "index": 1,
+   "card_path": "/catalog-real/real-amd-ryzen-5-2600/1-card.jpg",
+   "local_path": "/catalog-real/real-amd-ryzen-5-2600/1.jpg",
+   "local_sha256": "9e4d7c35b536e061fec34513436b8e7c511ffd6634973b9177cc760a32c2df3c",
+   "local_bytes": 213889
+  }
+ ]
+}

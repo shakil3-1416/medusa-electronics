@@ -62,7 +62,7 @@
    "sha256": "93cf193eee0d531ed5fd9cca668da612245b9a8e31911fa2678431f7f8f662f6",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:32+00:00",
+  "verified_at": "2026-11-02T19:01:14+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -88,9 +88,10 @@
    "description": "hAP RB951Ui-2nD Top\n\nAuthor is User:Jcutrer on Commons.",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-mikrotik-hap-rb951ui-2nd/1-card.jpg",
    "local_path": "/catalog-real/real-mikrotik-hap-rb951ui-2nd/1.jpg",
-   "local_sha256": "4011c56683f53dce0b71c290d773d647b05a0dbb922415411722389c7a851597",
-   "local_bytes": 201883
+   "local_sha256": "56a791f4c0d6487f640393f4e967f02047d4a23e9e724153ed65798fbcfdd213",
+   "local_bytes": 209072
   }
  ]
 }

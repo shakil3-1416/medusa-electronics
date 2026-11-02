@@ -1,0 +1,133 @@
+{
+ "handle": "real-oneplus-9-pro-12gb-256gb",
+ "brand": "OnePlus",
+ "model": "OnePlus 9 Pro",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "OnePlus 9 Pro (12GB+256GB)",
+ "subtitle": "6.7-inch QHD+ LTPO Fluid AMOLED | Snapdragon 888 | 50W wireless",
+ "description": "OnePlus 9 Pro with 12GB of LPDDR5 RAM and 256GB of UFS 3.1 storage, a 6.7-inch QHD+ 120Hz Fluid AMOLED display with LTPO, the Snapdragon 888, a 48MP Sony IMX789 main camera with OIS, and a 4500mAh battery with Warp Charge 65T and 50W wireless charging. Specifications were verified against OnePlus's official specs page.",
+ "variant_title": "12GB+256GB",
+ "specs": [
+  {
+   "group": "Build",
+   "label": "Dimensions and weight",
+   "value": "163.2 x 73.6 x 8.7 mm, 197 g"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.7-inch, 3216 x 1440, 525 ppi, 120Hz Fluid AMOLED with LTPO"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Snapdragon 888"
+  },
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "12GB LPDDR5, 256GB UFS 3.1"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery and charging",
+   "value": "4500mAh, Warp Charge 65T, 50W wireless"
+  },
+  {
+   "group": "Camera",
+   "label": "Main camera",
+   "value": "48MP Sony IMX789, OIS, f/1.8"
+  },
+  {
+   "group": "Camera",
+   "label": "Telephoto camera",
+   "value": "8MP, OIS, f/2.4"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "16MP Sony IMX471, f/2.4"
+  }
+ ],
+ "highlights": [
+  "6.7-inch QHD+ 120Hz Fluid AMOLED with LTPO",
+  "Snapdragon 888",
+  "48MP main, 50MP ultra-wide, 8MP telephoto",
+  "4500mAh with 65T wired and 50W wireless"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.oneplus.com/global/9-pro/specs",
+   "publisher": "OnePlus",
+   "final_url": "https://www.oneplus.com/global/9-pro/specs",
+   "retrieved_at": "2026-11-02T17:59:21+00:00",
+   "sha256": "baed0e0eb7f23e582283cc526ee58b837f0e4255ed793ff0de48726b0be099b2",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:10:05+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:OnePlus 9 Pro back.jpg",
+   "categories": [
+    "Category:Blue mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Green mobile phones",
+    "Category:OnePlus 7 Pro",
+    "Category:OnePlus 9 Pro",
+    "Category:Self-published work",
+    "Category:Taken with Sony ILCE-7RM4"
+   ],
+   "width": 6336,
+   "height": 9504,
+   "mime": "image/jpeg",
+   "sha1": "7020fdd94db293e58b183a452fae5370ba900777",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/OnePlus_9_Pro_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/OnePlus_9_Pro_back.jpg/1280px-OnePlus_9_Pro_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:OnePlus_9_Pro_back.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "金琛玮",
+   "credit": "Own work",
+   "description": "OnePlus 9 Pro back side.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-oneplus-9-pro-12gb-256gb/1-card.jpg",
+   "local_path": "/catalog-real/real-oneplus-9-pro-12gb-256gb/1.jpg",
+   "local_sha256": "3913f53b65dd606ee61daa0f6ae708604120987e167cfe63811a8f244a126a1e",
+   "local_bytes": 112042
+  },
+  {
+   "title": "File:OnePlus 9 Pro Camera Module.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Green mobile phones",
+    "Category:OnePlus 9 Pro",
+    "Category:Self-published work",
+    "Category:Taken with Sony ILCE-7RM4"
+   ],
+   "width": 9504,
+   "height": 6336,
+   "mime": "image/jpeg",
+   "sha1": "a14f45b65b89704e5484d8404e802c715a9cc158",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/OnePlus_9_Pro_Camera_Module.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/OnePlus_9_Pro_Camera_Module.jpg/1280px-OnePlus_9_Pro_Camera_Module.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:OnePlus_9_Pro_Camera_Module.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "金琛玮",
+   "credit": "Own work",
+   "description": "​一加9 Pro机型的相机模组。\n具备等效23mm的主相机、等效14mm的超广角、长焦，以及一款黑白镜头。",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-oneplus-9-pro-12gb-256gb/2-card.jpg",
+   "local_path": "/catalog-real/real-oneplus-9-pro-12gb-256gb/2.jpg",
+   "local_sha256": "6a67a79a3a4f164989451baa1ca68937bf79cb6dc14eb3fd1dc149b50c8e78a0",
+   "local_bytes": 89419
+  }
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "handle": "real-mikrotik-rb493g",
+ "brand": "MikroTik",
+ "model": "RB493G",
+ "mpn": "RB493G",
+ "category_handle": "router",
+ "title": "MikroTik RouterBOARD RB493G",
+ "subtitle": "9 Gigabit ports | 3 miniPCI slots | RouterOS L5",
+ "description": "Bare RouterBOARD with nine Gigabit Ethernet ports and three miniPCI slots for wireless cards, for building custom multi-radio routers and enclosures. Specifications verified against MikroTik's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "CPU",
+   "value": "AR7161, 1 core, 680 MHz"
+  },
+  {
+   "group": "Performance",
+   "label": "RAM",
+   "value": "256 MB"
+  },
+  {
+   "group": "Performance",
+   "label": "Storage",
+   "value": "128 MB NAND"
+  },
+  {
+   "group": "Performance",
+   "label": "RouterOS licence",
+   "value": "Level 5"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Gigabit Ethernet",
+   "value": "9 ports"
+  },
+  {
+   "group": "Connectivity",
+   "label": "miniPCI slots",
+   "value": "3"
+  },
+  {
+   "group": "Connectivity",
+   "label": "USB",
+   "value": "USB Type-A"
+  },
+  {
+   "group": "Power",
+   "label": "Input voltage",
+   "value": "8-28 V (DC jack or passive PoE)"
+  },
+  {
+   "group": "Physical",
+   "label": "Board size",
+   "value": "105 x 160 mm"
+  }
+ ],
+ "highlights": [
+  "Nine Gigabit Ethernet ports",
+  "Three miniPCI slots",
+  "256 MB RAM, 128 MB NAND",
+  "RouterOS level 5 licence"
+ ],
+ "review_notes": [
+  "Sold as a bare board without enclosure; category router."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://mikrotik.com/product/RB493G",
+   "publisher": "MikroTik",
+   "final_url": "https://mikrotik.com/product/RB493G",
+   "retrieved_at": "2026-11-02T18:08:57+00:00",
+   "sha256": "593f2c691f76aa3f00f47580c0f8b777f829b36c64ad8c0cde4b0bf9c006b189",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:09:24+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:RouterBOARD RB493G top view.jpg",
+   "categories": [
+    "Category:CC-BY-SA-3.0",
+    "Category:Embedded systems",
+    "Category:GFDL",
+    "Category:License migration redundant",
+    "Category:MikroTik",
+    "Category:Self-published work"
+   ],
+   "width": 1024,
+   "height": 768,
+   "mime": "image/jpeg",
+   "sha1": "3b8fc79688bd67f662cd71a14a2d4b04264f3822",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/RouterBOARD_RB493G_top_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/RouterBOARD_RB493G_top_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "page_url": "https://commons.wikimedia.org/wiki/File:RouterBOARD_RB493G_top_view.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "artist": "Dsimic",
+   "credit": "Own work",
+   "description": "Top view of a RouterBOARD RB493G",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-mikrotik-rb493g/1-card.jpg",
+   "local_path": "/catalog-real/real-mikrotik-rb493g/1.jpg",
+   "local_sha256": "576035f6db80baee974a42776ccf1ce6dfd4fadb947be9b501e2ac0cd81bb0e1",
+   "local_bytes": 253591
+  },
+  {
+   "title": "File:RouterBOARD RB493G bottom view.jpg",
+   "categories": [
+    "Category:CC-BY-SA-3.0",
+    "Category:Embedded systems",
+    "Category:GFDL",
+    "Category:License migration redundant",
+    "Category:MikroTik",
+    "Category:Self-published work"
+   ],
+   "width": 1024,
+   "height": 768,
+   "mime": "image/jpeg",
+   "sha1": "939e0b7a0b7f6f3172aa37669a0d4a19e471adf3",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/RouterBOARD_RB493G_bottom_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/RouterBOARD_RB493G_bottom_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "page_url": "https://commons.wikimedia.org/wiki/File:RouterBOARD_RB493G_bottom_view.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "artist": "Dsimic",
+   "credit": "Own work",
+   "description": "Bottom view of a RouterBOARD RB493G",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-mikrotik-rb493g/2-card.jpg",
+   "local_path": "/catalog-real/real-mikrotik-rb493g/2.jpg",
+   "local_sha256": "88536b679ea9c14a17fec1bbac1399da84604ed13e31afbd68d1acd8242cf4f0",
+   "local_bytes": 246106
+  }
+ ]
+}

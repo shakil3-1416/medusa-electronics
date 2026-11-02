@@ -1,0 +1,170 @@
+{
+ "handle": "real-amd-radeon-rx-7900-xt",
+ "brand": "AMD",
+ "model": "Radeon RX 7900 XT",
+ "mpn": null,
+ "category_handle": "graphics-card",
+ "title": "AMD Radeon RX 7900 XT Graphics Card",
+ "subtitle": "20 GB GDDR6 | 84 compute units | up to 2400 MHz",
+ "description": "AMD-designed reference Radeon RX 7900 XT desktop graphics card with 20 GB of GDDR6 memory on a None-bit bus and 84 compute units. Specifications checked against AMD's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "GPU",
+   "label": "Compute units",
+   "value": "84"
+  },
+  {
+   "group": "GPU",
+   "label": "Stream processors",
+   "value": "5376"
+  },
+  {
+   "group": "GPU",
+   "label": "Ray accelerators",
+   "value": "84"
+  },
+  {
+   "group": "Clock",
+   "label": "Boost clock",
+   "value": "Up to 2400 MHz"
+  },
+  {
+   "group": "Clock",
+   "label": "Game clock",
+   "value": "2000 MHz"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory size",
+   "value": "20 GB"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory type",
+   "value": "GDDR6"
+  },
+  {
+   "group": "Memory",
+   "label": "Infinity Cache",
+   "value": "80 MB"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory bandwidth",
+   "value": "Up to 800 GB/s"
+  },
+  {
+   "group": "Power",
+   "label": "Typical board power",
+   "value": "315 W"
+  },
+  {
+   "group": "Power",
+   "label": "Minimum PSU",
+   "value": "750W"
+  }
+ ],
+ "highlights": [
+  "20 GB GDDR6",
+  "84 compute units",
+  "Boost up to 2400 MHz",
+  "315 W typical board power"
+ ],
+ "review_notes": [
+  "AMD's page describes the GPU model; the record is for AMD's own reference (MBA) board shown in the photos."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/graphics/desktops/radeon/7000-series/amd-radeon-rx-7900xt.html",
+   "publisher": "Advanced Micro Devices, Inc.",
+   "final_url": "https://www.amd.com/en/products/graphics/desktops/radeon/7000-series/amd-radeon-rx-7900xt.html",
+   "retrieved_at": "2026-11-02T17:57:51+00:00",
+   "sha256": "62eb61140453daaa95e14576225586873530beee1f470847ad466b41c8319743",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:06:44+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:7900XT 1.jpg",
+   "categories": [
+    "Category:AMD Radeon RX 7000 series video cards",
+    "Category:CC-BY-4.0",
+    "Category:Self-published work"
+   ],
+   "width": 3757,
+   "height": 4951,
+   "mime": "image/jpeg",
+   "sha1": "e174a46e27c1fa4e4af11b8057254b6d6aff18fb",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/7900XT_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/7900XT_1.jpg/1280px-7900XT_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:7900XT_1.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Shinobara",
+   "credit": "Own work",
+   "description": "​Radeon RX 7900 XT 或许是 RX 7000 系列中最具性价比的型号。低端型号相比前代产品性能提升并不明显，XTX 的价格对于 Radeon 显卡来说仍然偏高，而 GRE 型号实际上只是 RX 6950 XT 的升级版。虽然它的价格并不便宜，但它拥有更大的显存、更出色的光线追踪性能以及 DisplayPort 2.1 和 AV1 支持等新功能——然而，它的前代产品 RX 6900 XT 目前却是二手市场上性价比最高的显卡之一。",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-amd-radeon-rx-7900-xt/1-card.jpg",
+   "local_path": "/catalog-real/real-amd-radeon-rx-7900-xt/1.jpg",
+   "local_sha256": "d6b9bb426f5f6380d6ec116f1758551c759c676071d091548f1acb75124f5d13",
+   "local_bytes": 411046
+  },
+  {
+   "title": "File:7900XT 2.jpg",
+   "categories": [
+    "Category:AMD Radeon RX 7000 series video cards",
+    "Category:CC-BY-4.0",
+    "Category:Self-published work"
+   ],
+   "width": 3733,
+   "height": 4936,
+   "mime": "image/jpeg",
+   "sha1": "5689121700d1ceef9c24e8d5cb2079184ff873c8",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/7900XT_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/7900XT_2.jpg/1280px-7900XT_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:7900XT_2.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Shinobara",
+   "credit": "Own work",
+   "description": "Radeon RX 7900 XT 或许是 RX 7000 系列中最具性价比的型号。低端型号相比前代产品性能提升并不明显，XTX 的价格对于 Radeon 显卡来说仍然偏高，而 GRE 型号实际上只是 RX 6950 XT 的升级版。虽然它的价格并不便宜，但它拥有更大的显存、更出色的光线追踪性能以及 DisplayPort 2.1 和 AV1 支持等新功能——然而，它的前代产品 RX 6900 XT 目前却是二手市场上性价比最高的显卡之一。",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-amd-radeon-rx-7900-xt/2-card.jpg",
+   "local_path": "/catalog-real/real-amd-radeon-rx-7900-xt/2.jpg",
+   "local_sha256": "f0ec2aea24593b49740eb6cc5700d1449f9bd2fe7c584a37e7a63103373f5973",
+   "local_bytes": 359699
+  },
+  {
+   "title": "File:7900XT 3.jpg",
+   "categories": [
+    "Category:AMD Radeon RX 7000 series video cards",
+    "Category:CC-BY-4.0",
+    "Category:Self-published work"
+   ],
+   "width": 3710,
+   "height": 4920,
+   "mime": "image/jpeg",
+   "sha1": "fec318059bdca595a5624557c4cd3ed421f25483",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/7900XT_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/7900XT_3.jpg/1280px-7900XT_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:7900XT_3.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Shinobara",
+   "credit": "Own work",
+   "description": "​Radeon RX 7900 XT 或许是 RX 7000 系列中最具性价比的型号。低端型号相比前代产品性能提升并不明显，XTX 的价格对于 Radeon 显卡来说仍然偏高，而 GRE 型号实际上只是 RX 6950 XT 的升级版。虽然它的价格并不便宜，但它拥有更大的显存、更出色的光线追踪性能以及 DisplayPort 2.1 和 AV1 支持等新功能——然而，它的前代产品 RX 6900 XT 目前却是二手市场上性价比最高的显卡之一。",
+   "attribution_required": "true",
+   "index": 3,
+   "card_path": "/catalog-real/real-amd-radeon-rx-7900-xt/3-card.jpg",
+   "local_path": "/catalog-real/real-amd-radeon-rx-7900-xt/3.jpg",
+   "local_sha256": "6f54e3b6fa65d6b77afc80c2a1d7cce58da9f8ac9ff1d6a7f2db207e7f17c5ef",
+   "local_bytes": 388413
+  }
+ ]
+}

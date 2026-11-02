@@ -1,0 +1,156 @@
+{
+ "handle": "real-apple-iphone-13-pro-max-128gb",
+ "brand": "Apple",
+ "model": "iPhone 13 Pro Max",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 13 Pro Max (128GB)",
+ "subtitle": "6.7-inch all-screen OLED | A15 Bionic | 128GB",
+ "description": "Apple iPhone 13 Pro Max smartphone in the 128GB storage configuration. It runs on the A15 Bionic chip and has a 6.7-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "128GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.7-inch all-screen OLED display"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2778 x 1284 at 458 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A15 Bionic, 6-core CPU, 5-core GPU"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "IP68, up to 6 m for 30 minutes"
+  },
+  {
+   "group": "Battery",
+   "label": "Video playback",
+   "value": "Up to 28 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "240 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "160.8 x 78.1 x 7.65 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "Wi-Fi 6 (802.11ax)"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.0"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "Lightning"
+  }
+ ],
+ "highlights": [
+  "6.7-inch all-screen OLED display",
+  "2778 x 1284 at 458 ppi resolution",
+  "A15 Bionic, 6-core CPU, 5-core GPU chip",
+  "Water resistance: IP68, up to 6 m for 30 minutes"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111870",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111870",
+   "retrieved_at": "2026-11-02T16:34:21+00:00",
+   "sha256": "50f58b7fdc83d08a5255918b04c12758e733b58e49be49fa58d8975270d58478",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:04:25+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPhone 13 Pro Max Sierra Blue 128g.jpg",
+   "categories": [
+    "Category:Backs of smartphones",
+    "Category:Blue mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Dongguan photographs taken on 2025-03-31",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 13 Pro Max",
+    "Category:Images by 茅野ふたば taken with iPhone 14 Pro Max",
+    "Category:Self-published work",
+    "Category:Smartphones in Dongguan",
+    "Category:Taken with iPhone 14 Pro Max"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "53389994e42f66e424c089cdbaf8b67b8d25d6fb",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/IPhone_13_Pro_Max_Sierra_Blue_128g.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/IPhone_13_Pro_Max_Sierra_Blue_128g.jpg/1280px-IPhone_13_Pro_Max_Sierra_Blue_128g.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_13_Pro_Max_Sierra_Blue_128g.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "茅野ふたば",
+   "credit": "Own work",
+   "description": "iPhone 13 Pro Max Sierra Blue 128g.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-13-pro-max-128gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-13-pro-max-128gb/1.jpg",
+   "local_sha256": "72322e1b0c56c5860b094733536f46cc378515010b4e006956838a07f9d8e668",
+   "local_bytes": 190134
+  },
+  {
+   "title": "File:Back view of iPhone 13 Pro Max Gold.jpg",
+   "categories": [
+    "Category:Apple Stores in China",
+    "Category:Apple Stores in Guangdong",
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2024-10-01",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 13 Pro Max",
+    "Category:October 2024 in Dongguan",
+    "Category:Self-published work",
+    "Category:Shopping malls in Dongguan",
+    "Category:Taken with iPhone 14 Plus"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "566d7589047336d939d43ed3347714a0fd9643fd",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Back_view_of_iPhone_13_Pro_Max_Gold.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Back_view_of_iPhone_13_Pro_Max_Gold.jpg/1280px-Back_view_of_iPhone_13_Pro_Max_Gold.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Back_view_of_iPhone_13_Pro_Max_Gold.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "メイド理世",
+   "credit": "Own work",
+   "description": "Back view of iPhone 13 Pro Max Gold",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-13-pro-max-128gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-13-pro-max-128gb/2.jpg",
+   "local_sha256": "47d7608a7e653c49464a1daf33f41f138fa630f0ad48fe19fd99a41b79c61cc2",
+   "local_bytes": 170612
+  }
+ ]
+}

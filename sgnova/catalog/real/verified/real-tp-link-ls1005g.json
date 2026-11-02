@@ -1,0 +1,131 @@
+{
+ "handle": "real-tp-link-ls1005g",
+ "brand": "TP-Link",
+ "model": "LS1005G",
+ "mpn": null,
+ "category_handle": "network-switch",
+ "title": "TP-Link LS1005G 5-Port Gigabit Desktop Switch",
+ "subtitle": "5 x Gigabit | fanless | plug and play",
+ "description": "Small fanless unmanaged switch with five Gigabit ports in a plastic desktop case, powered by a 5 V adapter. Specifications verified against TP-Link's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Ports",
+   "value": "5 x 10/100/1000 Mbps"
+  },
+  {
+   "group": "Performance",
+   "label": "Switching capacity",
+   "value": "10 Gbps"
+  },
+  {
+   "group": "Performance",
+   "label": "Forwarding rate",
+   "value": "7.4 Mpps"
+  },
+  {
+   "group": "Performance",
+   "label": "MAC table",
+   "value": "2K"
+  },
+  {
+   "group": "Performance",
+   "label": "Jumbo frame",
+   "value": "16 KB"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "3.7 W"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "90 x 72 x 23 mm"
+  },
+  {
+   "group": "Physical",
+   "label": "Cooling",
+   "value": "Fanless"
+  }
+ ],
+ "highlights": [
+  "Five Gigabit ports",
+  "10 Gbps switching capacity",
+  "Fanless, 3.7 W max",
+  "90 x 72 x 23 mm"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.tp-link.com/en/home-networking/soho-switch/ls1005g/",
+   "publisher": "TP-Link",
+   "final_url": "https://www.tp-link.com/en/home-networking/soho-switch/ls1005g/",
+   "retrieved_at": "2026-11-02T18:01:48+00:00",
+   "sha256": "5587c112445bf606484662cbbc79c0cb4213137c184c3974f9dfdd08184e803f",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:08:32+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:TP-Link LS1005G.jpg",
+   "categories": [
+    "Category:4-port switches",
+    "Category:CC-BY-4.0",
+    "Category:Self-published work",
+    "Category:TP-Link switches",
+    "Category:Wikigrant WG 2022-29/Newer"
+   ],
+   "width": 4400,
+   "height": 3300,
+   "mime": "image/jpeg",
+   "sha1": "10d150873d0c94c1e15558f03820ac3c14fba421",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/TP-Link_LS1005G.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/TP-Link_LS1005G.jpg/1280px-TP-Link_LS1005G.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:TP-Link_LS1005G.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Piotr Doroszewski",
+   "credit": "Own work",
+   "description": "TP-Link LS1005G, pięcioportowy niezarządzalny przełącznik sieciowy (switch).",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-tp-link-ls1005g/1-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-ls1005g/1.jpg",
+   "local_sha256": "acf4c0cafb1d260aeb030e7aa5f6a6041faa26d3d02cdbef05d218661fcece75",
+   "local_bytes": 74805
+  },
+  {
+   "title": "File:TP-Link LS1005G - spód.jpg",
+   "categories": [
+    "Category:4-port switches",
+    "Category:CC-BY-4.0",
+    "Category:Self-published work",
+    "Category:TP-Link switches",
+    "Category:Wikigrant WG 2022-29/Newer"
+   ],
+   "width": 4000,
+   "height": 3000,
+   "mime": "image/jpeg",
+   "sha1": "5562846fb709b6ad4744578fe51fbdd4242852c5",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/TP-Link_LS1005G_-_sp%C3%B3d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/TP-Link_LS1005G_-_sp%C3%B3d.jpg/1280px-TP-Link_LS1005G_-_sp%C3%B3d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:TP-Link_LS1005G_-_sp%C3%B3d.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Piotr Doroszewski",
+   "credit": "Own work",
+   "description": "TP-Link LS1005G, pięcioportowy niezarządzalny przełącznik sieciowy (switch).",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-tp-link-ls1005g/2-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-ls1005g/2.jpg",
+   "local_sha256": "bff5b35c2bdec22d347550ab586ca421b16bb83afdf805cf6e5b6c5102615adf",
+   "local_bytes": 124946
+  }
+ ]
+}

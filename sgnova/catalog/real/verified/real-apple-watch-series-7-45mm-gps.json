@@ -1,0 +1,134 @@
+{
+ "handle": "real-apple-watch-series-7-45mm-gps",
+ "brand": "Apple",
+ "model": "Apple Watch Series 7",
+ "mpn": null,
+ "category_handle": "smartwatch",
+ "title": "Apple Watch Series 7 (45mm, GPS)",
+ "subtitle": "45mm always-on OLED | S7 | USB-C fast charging",
+ "description": "Apple Watch Series 7 with a 45mm aluminium case, GPS version, with a larger always-on display and USB-C fast charging. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "45mm GPS, aluminium case",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "45mm, 396 x 484 pixels, 1143 sq mm"
+  },
+  {
+   "group": "Display",
+   "label": "Panel",
+   "value": "Always-on Retina LTPO OLED, 1000 nits"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "S7, 64-bit dual-core"
+  },
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "32GB"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "50 metres"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery life",
+   "value": "Up to 18 hours"
+  },
+  {
+   "group": "Battery",
+   "label": "Charging",
+   "value": "USB-C magnetic fast charging cable"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions",
+   "value": "45 x 38 x 10.7 mm"
+  },
+  {
+   "group": "Build",
+   "label": "Weight (aluminium)",
+   "value": "38.8 g"
+  }
+ ],
+ "highlights": [
+  "45mm always-on Retina LTPO OLED",
+  "S7 with 64-bit dual-core processor",
+  "Blood oxygen and ECG apps",
+  "USB-C magnetic fast charging"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111909",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111909",
+   "retrieved_at": "2026-11-02T17:58:27+00:00",
+   "sha256": "f3ef4a5e00fdfedbe074106957cbcaefc378b32e011e8e1b24eb42614ffa3fa2",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:03:21+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Apple Watch Series 7 Black 45mm.jpg",
+   "categories": [
+    "Category:Apple Watch Series 7",
+    "Category:CC-BY-SA-4.0",
+    "Category:Self-published work"
+   ],
+   "width": 3264,
+   "height": 2448,
+   "mime": "image/jpeg",
+   "sha1": "959e8fa8888d619eed593e5cd6d26708b187b9c9",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Apple_Watch_Series_7_Black_45mm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Apple_Watch_Series_7_Black_45mm.jpg/1280px-Apple_Watch_Series_7_Black_45mm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Apple_Watch_Series_7_Black_45mm.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Luther King School Photos",
+   "credit": "Own work",
+   "description": "Nothing",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-watch-series-7-45mm-gps/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-watch-series-7-45mm-gps/1.jpg",
+   "local_sha256": "b641f08b316eb8df2d3da48985dc26e79303413067f62d315c2aa3651def413c",
+   "local_bytes": 159217
+  },
+  {
+   "title": "File:Apple Watch Series 7; January 2022 (01).jpg",
+   "categories": [
+    "Category:Apple Watch Series 7",
+    "Category:CC-BY-2.0",
+    "Category:Files from MIKI Yoshihito Flickr stream",
+    "Category:Flickr images reviewed by FlickreviewR 2",
+    "Category:Japan photographs taken on 2022-01-30"
+   ],
+   "width": 3561,
+   "height": 5341,
+   "mime": "image/jpeg",
+   "sha1": "cd3701859312e5e6b6b7f28c10063793418d350b",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Apple_Watch_Series_7%3B_January_2022_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Apple_Watch_Series_7%3B_January_2022_%2801%29.jpg/1280px-Apple_Watch_Series_7%3B_January_2022_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Apple_Watch_Series_7;_January_2022_(01).jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "artist": "MIKI Yoshihito",
+   "credit": "https://www.flickr.com/photos/mujitra/51851994299/",
+   "description": "Apple Watch Series 7, made by Apple.",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-watch-series-7-45mm-gps/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-watch-series-7-45mm-gps/2.jpg",
+   "local_sha256": "700185ce4e5eb964e51ccf352267ccc17dbb0c7c82068b8a026be21ba2e321cc",
+   "local_bytes": 158557
+  }
+ ]
+}

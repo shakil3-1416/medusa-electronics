@@ -57,7 +57,7 @@
    "sha256": "bca9a50e6be5216fbfae35421de2b6b4d6bf6873ac91ce823c43f2e794cd26f3",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:50+00:00",
+  "verified_at": "2026-11-02T19:02:08+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -83,9 +83,10 @@
    "description": "Modern expensive webcam mainly made for streaming and professional video conferencing",
    "attribution_required": "false",
    "index": 1,
+   "card_path": "/catalog-real/real-logitech-c922-pro-stream/1-card.jpg",
    "local_path": "/catalog-real/real-logitech-c922-pro-stream/1.jpg",
-   "local_sha256": "1d5818f682fb4b3dd7f4a767ca2bcfc7aaf86a05b661cefc6497fe843ca7d72e",
-   "local_bytes": 180587
+   "local_sha256": "40b6c97fc2390817967d01fba3ccd2274cf4e517814af1a514b2fc80f6ea4d85",
+   "local_bytes": 186668
   }
  ]
 }

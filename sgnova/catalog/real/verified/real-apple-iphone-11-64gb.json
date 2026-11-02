@@ -1,0 +1,213 @@
+{
+ "handle": "real-apple-iphone-11-64gb",
+ "brand": "Apple",
+ "model": "iPhone 11",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 11 (64GB)",
+ "subtitle": "6.1-inch all-screen LCD | A13 Bionic | 64GB",
+ "description": "Apple iPhone 11 smartphone in the 64GB storage configuration. It runs on the A13 Bionic chip and has a 6.1-inch all-screen LCD screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "64GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "64GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.1-inch all-screen LCD Multi-Touch display with IPS technology"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "1792 x 828 at 326 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A13 Bionic, 6-core CPU, 4-core GPU"
+  },
+  {
+   "group": "Camera",
+   "label": "Main camera",
+   "value": "12MP, f/1.8"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "IP68, up to 2 m for 30 minutes"
+  },
+  {
+   "group": "Battery",
+   "label": "Video playback",
+   "value": "Up to 17 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "194 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "150.9 x 75.7 x 8.3 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "802.11ax Wi-Fi"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.0"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "Lightning"
+  }
+ ],
+ "highlights": [
+  "6.1-inch all-screen LCD display",
+  "1792 x 828 at 326 ppi resolution",
+  "A13 Bionic, 6-core CPU, 4-core GPU chip",
+  "Main camera: 12MP, f/1.8"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111865",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111865",
+   "retrieved_at": "2026-11-02T17:59:32+00:00",
+   "sha256": "e27c562f749760923b981720a4023e64bd3a26c5edf0663d70ca0d0894b666c2",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:03:48+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPhone 11.jpeg",
+   "categories": [
+    "Category:Backs of iPhones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 11",
+    "Category:Purple mobile phones",
+    "Category:Self-published work",
+    "Category:Taken with iPhone XS Max"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "b3c232f5a07796eb7ddcc34c09850de3dd7f3c4b",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/IPhone_11.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/IPhone_11.jpeg/1280px-IPhone_11.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_11.jpeg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Rberchie",
+   "credit": "Own work",
+   "description": "Little Rock, United States, September 2019",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-11-64gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-11-64gb/1.jpg",
+   "local_sha256": "756896dcb6ff29f4760d08a018b34e2ac230e338b1158bd081c838f1520b46b1",
+   "local_bytes": 197435
+  },
+  {
+   "title": "File:Back view of iPhone 11 white.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2024-10-02",
+    "Category:IPhone 11",
+    "Category:October 2024 in Dongguan",
+    "Category:Self-published work",
+    "Category:Taken with iPhone 14 Plus"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "df0bf3ffe409e00cc956fd7c55a82795697daaf8",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Back_view_of_iPhone_11_white.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Back_view_of_iPhone_11_white.jpg/1280px-Back_view_of_iPhone_11_white.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Back_view_of_iPhone_11_white.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "メイド理世",
+   "credit": "Own work",
+   "description": "Back view of iPhone 11 white",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-11-64gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-11-64gb/2.jpg",
+   "local_sha256": "18b089ebe0963304c0b73479e3bef504820196c5e641204c28d8250d6878340a",
+   "local_bytes": 131024
+  },
+  {
+   "title": "File:IPhone 11 Product Red 128g.jpg",
+   "categories": [
+    "Category:Backs of smartphones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Dongguan photographs taken on 2025-03-31",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 11",
+    "Category:Images by 茅野ふたば taken with iPhone 14 Pro Max",
+    "Category:Red mobile phones",
+    "Category:Self-published work",
+    "Category:Smartphones in Dongguan",
+    "Category:Taken with iPhone 14 Pro Max"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "8a8112e894071a38b295aba064bb80422cf5e184",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/IPhone_11_Product_Red_128g.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/IPhone_11_Product_Red_128g.jpg/1280px-IPhone_11_Product_Red_128g.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_11_Product_Red_128g.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "茅野ふたば",
+   "credit": "Own work",
+   "description": "iPhone 11 Product Red 128g.",
+   "attribution_required": "true",
+   "index": 3,
+   "card_path": "/catalog-real/real-apple-iphone-11-64gb/3-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-11-64gb/3.jpg",
+   "local_sha256": "c314c548765e236c7ea5cef25bc9cd048fc2686e6a584ec6e22fa505fad4df95",
+   "local_bytes": 203949
+  },
+  {
+   "title": "File:Apple iPhone 11 - Tischkante.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:IPhone 11",
+    "Category:Self-published work"
+   ],
+   "width": 6000,
+   "height": 4000,
+   "mime": "image/jpeg",
+   "sha1": "ac610cacc4e2346dbfac5afe4ffd5179d55626a8",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Apple_iPhone_11_-_Tischkante.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Apple_iPhone_11_-_Tischkante.jpg/1280px-Apple_iPhone_11_-_Tischkante.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Apple_iPhone_11_-_Tischkante.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "PPuis / Wikimedia Commons",
+   "credit": "Own work",
+   "description": "Ein Apple iPhone liegt auf einer Holz Tischkante.",
+   "attribution_required": "true",
+   "index": 4,
+   "card_path": "/catalog-real/real-apple-iphone-11-64gb/4-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-11-64gb/4.jpg",
+   "local_sha256": "eb3012cf79aa12d1c65402a902a52e7ae9257c81c00dae6ef9fb2ceae8317192",
+   "local_bytes": 147634
+  }
+ ]
+}

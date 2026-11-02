@@ -1,0 +1,94 @@
+{
+ "handle": "real-logitech-g-pro-keyboard",
+ "brand": "Logitech",
+ "model": "PRO Keyboard",
+ "mpn": null,
+ "category_handle": "mechanical-keyboard",
+ "title": "Logitech G PRO Mechanical Gaming Keyboard (TKL)",
+ "subtitle": "Tenkeyless | GX Blue clicky | LIGHTSYNC RGB",
+ "description": "Tournament-oriented tenkeyless mechanical keyboard with GX Blue clicky switches, a detachable cable, LIGHTSYNC RGB and onboard memory. Specifications verified against Logitech's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "Switches",
+   "value": "GX Blue clicky"
+  },
+  {
+   "group": "Design",
+   "label": "Layout",
+   "value": "Tenkeyless"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Cable",
+   "value": "Detachable micro USB"
+  },
+  {
+   "group": "Features",
+   "label": "Lighting",
+   "value": "LIGHTSYNC RGB"
+  },
+  {
+   "group": "Features",
+   "label": "Macros",
+   "value": "12 programmable F-keys"
+  },
+  {
+   "group": "Features",
+   "label": "Onboard memory",
+   "value": "Stores static lighting"
+  }
+ ],
+ "highlights": [
+  "Tenkeyless layout",
+  "GX Blue clicky switches",
+  "Detachable micro-USB cable",
+  "12 programmable F-key macros"
+ ],
+ "review_notes": [
+  "Photo is titled 'G PRO TKL', matching the tenkeyless G PRO keyboard on this page."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.logitechg.com/en-us/shop/p/pro-mechanical-gaming-keyboard",
+   "publisher": "Logitech",
+   "final_url": "https://www.logitechg.com/en-us/shop/p/pro-mechanical-gaming-keyboard",
+   "retrieved_at": "2026-11-02T18:05:24+00:00",
+   "sha256": "4f49a18b6e2a3b97c2c6939d6247a528bcdf22d169515f4f6c601e0b45825f42",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:09:03+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Logitech G PRO TKL gaming keyboard - English (United States) layout.jpg",
+   "categories": [
+    "Category:Backlit computer keyboards",
+    "Category:CC-Zero",
+    "Category:Logitech G keyboards",
+    "Category:Self-published work"
+   ],
+   "width": 5400,
+   "height": 2720,
+   "mime": "image/jpeg",
+   "sha1": "764e608c121adfaebfa3874e60a56501a620b515",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Logitech_G_PRO_TKL_gaming_keyboard_-_English_%28United_States%29_layout.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Logitech_G_PRO_TKL_gaming_keyboard_-_English_%28United_States%29_layout.jpg/1280px-Logitech_G_PRO_TKL_gaming_keyboard_-_English_%28United_States%29_layout.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Logitech_G_PRO_TKL_gaming_keyboard_-_English_(United_States)_layout.jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "AzureSaturn",
+   "credit": "Own work",
+   "description": "A Logitech G PRO TKL gaming keyboard with its RGB lighting set to white, English (United States) keyboard layout",
+   "attribution_required": "false",
+   "index": 1,
+   "card_path": "/catalog-real/real-logitech-g-pro-keyboard/1-card.jpg",
+   "local_path": "/catalog-real/real-logitech-g-pro-keyboard/1.jpg",
+   "local_sha256": "30d7deee878f145aeba6d2e3c0c46f7a6d457fa632e8a1b5b441639b2e41c1a6",
+   "local_bytes": 185532
+  }
+ ]
+}

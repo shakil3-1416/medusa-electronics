@@ -1,0 +1,143 @@
+{
+ "handle": "real-apple-iphone-11-pro-64gb",
+ "brand": "Apple",
+ "model": "iPhone 11 Pro",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 11 Pro (64GB)",
+ "subtitle": "5.8-inch all-screen OLED | A13 Bionic | 64GB",
+ "description": "Apple iPhone 11 Pro smartphone in the 64GB storage configuration. It runs on the A13 Bionic chip and has a 5.8-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "64GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "64GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "5.8-inch all-screen OLED Multi-Touch display"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2436 x 1125 at 458 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A13 Bionic"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "IP68, up to 4 m for 30 minutes"
+  },
+  {
+   "group": "Battery",
+   "label": "Video playback",
+   "value": "Up to 18 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "188 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "144.0 x 71.4 x 8.1 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "802.11ax Wi-Fi"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.0"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "Lightning"
+  }
+ ],
+ "highlights": [
+  "5.8-inch all-screen OLED display",
+  "2436 x 1125 at 458 ppi resolution",
+  "A13 Bionic chip",
+  "Water resistance: IP68, up to 4 m for 30 minutes"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111879",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111879",
+   "retrieved_at": "2026-11-02T18:02:32+00:00",
+   "sha256": "bc981af29ca843f67151308fdde12326a677cc4f1712dd923ec18da494cc7dd8",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:03:52+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:2019-12-22 IPhone 11 Pro.jpg",
+   "categories": [
+    "Category:CC-BY-2.0",
+    "Category:Flickr images reviewed by FlickreviewR 2",
+    "Category:IPhone 11 Pro"
+   ],
+   "width": 4032,
+   "height": 3024,
+   "mime": "image/jpeg",
+   "sha1": "e3a6e3777afd26bb4f9f3e2f2c34e741f17b756f",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/2019-12-22_IPhone_11_Pro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/2019-12-22_IPhone_11_Pro.jpg/1280px-2019-12-22_IPhone_11_Pro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:2019-12-22_IPhone_11_Pro.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "artist": "Shinji",
+   "credit": "https://www.flickr.com/photos/cinz/49267464703/",
+   "description": "IPhone 11 Pro",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-11-pro-64gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-11-pro-64gb/1.jpg",
+   "local_sha256": "371f9a7cb56b3fe6d9f1d2586e5eb23f3fde6551551008e035322a001d25961f",
+   "local_bytes": 189471
+  },
+  {
+   "title": "File:Close-Up of the iPhone 11 Pro's cameras.jpg",
+   "categories": [
+    "Category:CC-BY-2.0",
+    "Category:Flickr images missing SDC published in",
+    "Category:Flickr images reviewed by FlickreviewR 2",
+    "Category:IPhone 11 Pro"
+   ],
+   "width": 5248,
+   "height": 3499,
+   "mime": "image/jpeg",
+   "sha1": "0cece1e6bca9cb3c4f1cc93eaba275036abe3d61",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Close-Up_of_the_iPhone_11_Pro%27s_cameras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Close-Up_of_the_iPhone_11_Pro%27s_cameras.jpg/1280px-Close-Up_of_the_iPhone_11_Pro%27s_cameras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Close-Up_of_the_iPhone_11_Pro%27s_cameras.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "artist": "David Stewart",
+   "credit": "https://www.flickr.com/photos/homegetscom/49605901806/",
+   "description": "Close-Up of the iPhone 11 Pro's cameras",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-11-pro-64gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-11-pro-64gb/2.jpg",
+   "local_sha256": "428551b3360552d4eb63e66a32b9fc643f15c62be413e9edd5c19de4e3b6dd66",
+   "local_bytes": 90225
+  }
+ ]
+}

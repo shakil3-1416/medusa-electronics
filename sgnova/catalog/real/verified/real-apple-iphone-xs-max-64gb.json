@@ -1,0 +1,147 @@
+{
+ "handle": "real-apple-iphone-xs-max-64gb",
+ "brand": "Apple",
+ "model": "iPhone XS Max",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone XS Max (64GB)",
+ "subtitle": "6.5-inch all-screen OLED | A12 Bionic | 64GB",
+ "description": "Apple iPhone XS Max smartphone in the 64GB storage configuration. It runs on the A12 Bionic chip and has a 6.5-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "64GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "64GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.5-inch all-screen OLED Multi-Touch display"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2688 x 1242 at 458 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A12 Bionic"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "IP68, up to 2 m for 30 minutes"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "208 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "157.5 x 77.4 x 7.7 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "802.11ac Wi-Fi"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.0"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "Lightning"
+  }
+ ],
+ "highlights": [
+  "6.5-inch all-screen OLED display",
+  "2688 x 1242 at 458 ppi resolution",
+  "A12 Bionic chip",
+  "Water resistance: IP68, up to 2 m for 30 minutes"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111880",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111880",
+   "retrieved_at": "2026-11-02T17:59:31+00:00",
+   "sha256": "182744acda0d54916b73f615cbeceadbf44d736491b2b660873626646f4629de",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:03:39+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPhone XS Max.jpg",
+   "categories": [
+    "Category:CC-Zero",
+    "Category:Flickr images missing SDC published in",
+    "Category:Flickr images reviewed by FlickreviewR 2",
+    "Category:IPhone XS",
+    "Category:IPhone XS Max"
+   ],
+   "width": 1600,
+   "height": 2000,
+   "mime": "image/jpeg",
+   "sha1": "7d57c1394c3cb0c8c7afbe2961b5ac758b00ae9f",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/IPhone_XS_Max.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/IPhone_XS_Max.jpg/1280px-IPhone_XS_Max.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_XS_Max.jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "Markus Kniebes",
+   "credit": "https://www.flickr.com/photos/deep-resonance/30235331037/",
+   "description": "Just after a couple of months I am so done with Android, so I got a recent iPhone. It's large, it's fast and I like it.",
+   "attribution_required": "false",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-xs-max-64gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-xs-max-64gb/1.jpg",
+   "local_sha256": "934ca940d549a13866bc7462dc3656a4793f8820cac0af7a64d2775f49952a91",
+   "local_bytes": 206732
+  },
+  {
+   "title": "File:IPhone XS Max gold & Cappuccino 20180921.jpg",
+   "categories": [
+    "Category:Backs of iPhones",
+    "Category:CC-BY-2.0",
+    "Category:Cups of cappuccino",
+    "Category:Files from GillyBerlin Flickr stream",
+    "Category:Flickr files uploaded by Solomon203 in 2023",
+    "Category:Flickr images reviewed by FlickreviewR 2",
+    "Category:Golden mobile phones",
+    "Category:Hygge",
+    "Category:IPhone XS Max",
+    "Category:Latte art with cappuccino",
+    "Category:Wooden background"
+   ],
+   "width": 5647,
+   "height": 3678,
+   "mime": "image/jpeg",
+   "sha1": "baf06aa07b158d21decb25704cb843c1ced1e37b",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/IPhone_XS_Max_gold_%26_Cappuccino_20180921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/IPhone_XS_Max_gold_%26_Cappuccino_20180921.jpg/1280px-IPhone_XS_Max_gold_%26_Cappuccino_20180921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_XS_Max_gold_%26_Cappuccino_20180921.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "artist": "GillyBerlin",
+   "credit": "https://www.flickr.com/photos/gillyberlin/44928216971/",
+   "description": "iPhone XS Max Gold and a cup of cappuccino.",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-xs-max-64gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-xs-max-64gb/2.jpg",
+   "local_sha256": "a1e8b1b5edcc54d0f59d925e24f1ccde95a26b9ab9e6860422af638d23f36d96",
+   "local_bytes": 188124
+  }
+ ]
+}

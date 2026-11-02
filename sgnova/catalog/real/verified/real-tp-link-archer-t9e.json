@@ -1,0 +1,129 @@
+{
+ "handle": "real-tp-link-archer-t9e",
+ "brand": "TP-Link",
+ "model": "Archer T9E",
+ "mpn": null,
+ "category_handle": "computer-accessory",
+ "title": "TP-Link Archer T9E AC1900 PCIe Wi-Fi Adapter",
+ "subtitle": "AC1900 | PCI Express | dual-band",
+ "description": "Dual-band AC1900 PCI Express Wi-Fi card for desktop PCs, rated up to 1300 Mbps on 5 GHz and 600 Mbps on 2.4 GHz. Specifications verified against TP-Link's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Interface",
+   "value": "PCI Express"
+  },
+  {
+   "group": "Wireless",
+   "label": "5 GHz rate",
+   "value": "1300 Mbps (11ac)"
+  },
+  {
+   "group": "Wireless",
+   "label": "2.4 GHz rate",
+   "value": "600 Mbps (11n)"
+  },
+  {
+   "group": "Wireless",
+   "label": "Standards",
+   "value": "IEEE 802.11ac/a/n/g/b"
+  },
+  {
+   "group": "Wireless",
+   "label": "Antenna",
+   "value": "Omni-directional"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "115.2 x 120.8 x 21.5 mm"
+  }
+ ],
+ "highlights": [
+  "AC1900 dual-band Wi-Fi",
+  "Up to 1300 Mbps on 5 GHz",
+  "PCI Express interface",
+  "Omni-directional antennas"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.tp-link.com/us/home-networking/pci-adapter/archer-t9e/",
+   "publisher": "TP-Link",
+   "final_url": "https://www.tp-link.com/us/home-networking/pci-adapter/archer-t9e/",
+   "retrieved_at": "2026-11-02T18:01:39+00:00",
+   "sha256": "53ac182ad381f9be36725e8ebf1fb416133b62d0672cbc38fbe9ceed60522a8e",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:08:24+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:TP-LINK Archer T9E AC1900 1 2016-05-20.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files by Fastily",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:PCIe network cards",
+    "Category:PCIe x1 cards",
+    "Category:Passive cooling",
+    "Category:Self-published work",
+    "Category:TP-Link Wi-Fi network cards",
+    "Category:Wi-Fi antennas in disassembled, or on, end user devices"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "7d0688fb834d5130075660546b7ff144bdb355e9",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/TP-LINK_Archer_T9E_AC1900_1_2016-05-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/TP-LINK_Archer_T9E_AC1900_1_2016-05-20.jpg/1280px-TP-LINK_Archer_T9E_AC1900_1_2016-05-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:TP-LINK_Archer_T9E_AC1900_1_2016-05-20.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "FASTILY",
+   "credit": "Own work",
+   "description": "TP-LINK Archer T9E AC1900",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-tp-link-archer-t9e/1-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-archer-t9e/1.jpg",
+   "local_sha256": "dee31c9b657af14fcfb801f0ae35b88686415bd0d9139a2196c99b8c7c3cee80",
+   "local_bytes": 151879
+  },
+  {
+   "title": "File:TP-LINK Archer T9E AC1900 2 2016-05-20.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files by Fastily",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:PCIe network cards",
+    "Category:PCIe x1 cards",
+    "Category:Passive cooling",
+    "Category:Self-published work",
+    "Category:TP-Link Wi-Fi network cards",
+    "Category:Wi-Fi antennas in disassembled, or on, end user devices"
+   ],
+   "width": 4032,
+   "height": 3024,
+   "mime": "image/jpeg",
+   "sha1": "48c38e902edcc15a148edca0724551e7823710d2",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/TP-LINK_Archer_T9E_AC1900_2_2016-05-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/TP-LINK_Archer_T9E_AC1900_2_2016-05-20.jpg/1280px-TP-LINK_Archer_T9E_AC1900_2_2016-05-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:TP-LINK_Archer_T9E_AC1900_2_2016-05-20.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "FASTILY",
+   "credit": "Own work",
+   "description": "TP-LINK Archer T9E AC1900",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-tp-link-archer-t9e/2-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-archer-t9e/2.jpg",
+   "local_sha256": "805e699ea5c9c96dd128823afbd02c3714e55e81fc378eaea4f16513cd8a97bb",
+   "local_bytes": 182815
+  }
+ ]
+}

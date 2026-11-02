@@ -1,0 +1,108 @@
+{
+ "handle": "real-mikrotik-wap-60g",
+ "brand": "MikroTik",
+ "model": "wAP 60G",
+ "mpn": "RBwAPG-60ad",
+ "category_handle": "router",
+ "title": "MikroTik wAP 60G 60 GHz Wireless Bridge",
+ "subtitle": "60 GHz point-to-point | Gigabit port | IP55 outdoor",
+ "description": "Weatherproof 60 GHz wireless unit for short-range gigabit point-to-point links between buildings, powered over PoE and managed with RouterOS. Specifications verified against MikroTik's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "CPU",
+   "value": "IPQ-4019, 4 cores, 448-896 MHz"
+  },
+  {
+   "group": "Performance",
+   "label": "RAM",
+   "value": "256 MB"
+  },
+  {
+   "group": "Performance",
+   "label": "Storage",
+   "value": "16 MB flash"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "1 x 10/100/1000"
+  },
+  {
+   "group": "Power",
+   "label": "PoE-in",
+   "value": "802.3af/at"
+  },
+  {
+   "group": "Power",
+   "label": "Input voltage",
+   "value": "12-57 V"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "5 W"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "185 x 85 x 30 mm"
+  },
+  {
+   "group": "Physical",
+   "label": "Ingress protection",
+   "value": "IP55"
+  }
+ ],
+ "highlights": [
+  "60 GHz 802.11ad link",
+  "Gigabit Ethernet port",
+  "IP55 outdoor enclosure",
+  "802.3af/at PoE-in"
+ ],
+ "review_notes": [
+  "Category router used for a wireless bridge (no dedicated wireless-bridge category)."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://mikrotik.com/product/wap_60g",
+   "publisher": "MikroTik",
+   "final_url": "https://mikrotik.com/product/wap_60g",
+   "retrieved_at": "2026-11-02T17:46:39+00:00",
+   "sha256": "43f73dd482bb8653f63e48faa74bfab7638caf4207485a1a0bb3ce7414a98fcc",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:07:13+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:2020-10-05 - Mikrotik wap60g.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:MikroTik",
+    "Category:Self-published work"
+   ],
+   "width": 4640,
+   "height": 6960,
+   "mime": "image/jpeg",
+   "sha1": "d2e9e9e8f35be1a79db8d411685d1345fa1e28e9",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/2020-10-05_-_Mikrotik_wap60g.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/2020-10-05_-_Mikrotik_wap60g.jpg/1280px-2020-10-05_-_Mikrotik_wap60g.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:2020-10-05_-_Mikrotik_wap60g.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Fabian Horst",
+   "credit": "Own work",
+   "description": "Blick in einen geöffneten 60 GHz Access Point der Firma Mikrotik mit einem Öffnungswinkel von 60° Grad. Productcode: RBwAPG-60ad (Seriennummer sind in diesem Bild verfremdet worden.)",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-mikrotik-wap-60g/1-card.jpg",
+   "local_path": "/catalog-real/real-mikrotik-wap-60g/1.jpg",
+   "local_sha256": "7b5d7b675efa00df07ed8d2c1530c6fe187ca253dcc2fae95ff44c041ff47322",
+   "local_bytes": 287063
+  }
+ ]
+}

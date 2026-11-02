@@ -1,0 +1,111 @@
+{
+ "handle": "real-amd-ryzen-9-7900x",
+ "brand": "AMD",
+ "model": "Ryzen 9 7900X",
+ "mpn": "100-100000589WOF",
+ "category_handle": "processor",
+ "title": "AMD Ryzen 9 7900X Desktop Processor",
+ "subtitle": "12 cores / 24 threads | up to 5.6 GHz | AM5",
+ "description": "12-core AMD desktop processor for the AM5 socket with 64 MB of L3 cache and boost clocks up to 5.6 GHz. Specifications checked against AMD's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Processor",
+   "label": "Cores",
+   "value": "12"
+  },
+  {
+   "group": "Processor",
+   "label": "Threads",
+   "value": "24"
+  },
+  {
+   "group": "Clock",
+   "label": "Max boost clock",
+   "value": "Up to 5.6 GHz"
+  },
+  {
+   "group": "Clock",
+   "label": "Base clock",
+   "value": "4.7 GHz"
+  },
+  {
+   "group": "Cache",
+   "label": "L3 cache",
+   "value": "64 MB"
+  },
+  {
+   "group": "Power",
+   "label": "Default TDP",
+   "value": "170W"
+  },
+  {
+   "group": "Platform",
+   "label": "Socket",
+   "value": "AM5"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory type",
+   "value": "DDR5"
+  },
+  {
+   "group": "Build",
+   "label": "Process",
+   "value": "TSMC 5nm FinFET"
+  },
+  {
+   "group": "Graphics",
+   "label": "Integrated graphics",
+   "value": "AMD Radeon Graphics"
+  }
+ ],
+ "highlights": [
+  "12 cores, 24 threads",
+  "Up to 5.6 GHz boost",
+  "64 MB L3 cache",
+  "AM5 socket, DDR5 memory"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7900x.html",
+   "publisher": "Advanced Micro Devices, Inc.",
+   "final_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7900x.html",
+   "retrieved_at": "2026-11-02T17:55:34+00:00",
+   "sha256": "7b632202517b205969a900cdeddf64dddc5db9be0e73473ee2fdc2215ee89819",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:06:18+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:AMD Ryzen 9 7900X.jpg",
+   "categories": [
+    "Category:AMD Ryzen 9 7900X",
+    "Category:CC-BY-SA-4.0",
+    "Category:Self-published work"
+   ],
+   "width": 3068,
+   "height": 3068,
+   "mime": "image/jpeg",
+   "sha1": "7343f308277f6b0771757a4be78458e74d8604f1",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/AMD_Ryzen_9_7900X.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/AMD_Ryzen_9_7900X.jpg/1280px-AMD_Ryzen_9_7900X.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:AMD_Ryzen_9_7900X.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "CristoCalis",
+   "credit": "Own work",
+   "description": "Front IHS design for AMD's Zen 4-based Ryzen 9 7900X processor",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-amd-ryzen-9-7900x/1-card.jpg",
+   "local_path": "/catalog-real/real-amd-ryzen-9-7900x/1.jpg",
+   "local_sha256": "93337274d07249d88cab8dbe79c3f7a8c38d5170c841e2d1ffc1c5e1cebed2e8",
+   "local_bytes": 395489
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "handle": "real-tp-link-archer-a6",
+ "brand": "TP-Link",
+ "model": "Archer A6",
+ "mpn": null,
+ "category_handle": "router",
+ "title": "TP-Link Archer A6 AC1200 MU-MIMO Router",
+ "subtitle": "AC1200 | MU-MIMO | Gigabit ports",
+ "description": "Dual-band AC1200 router with MU-MIMO, four fixed antennas and Gigabit wired ports, with EasyMesh and VPN support for homes. Specifications verified against TP-Link's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Wireless",
+   "label": "Wi-Fi class",
+   "value": "AC1200"
+  },
+  {
+   "group": "Wireless",
+   "label": "5 GHz rate",
+   "value": "867 Mbps"
+  },
+  {
+   "group": "Wireless",
+   "label": "2.4 GHz rate",
+   "value": "300 Mbps"
+  },
+  {
+   "group": "Wireless",
+   "label": "Antennas",
+   "value": "4 fixed"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "1 x Gigabit WAN, 4 x Gigabit LAN"
+  },
+  {
+   "group": "Power",
+   "label": "Power",
+   "value": "12 V 1 A"
+  },
+  {
+   "group": "Wireless",
+   "label": "Encryption",
+   "value": "WPA, WPA2, WPA3"
+  }
+ ],
+ "highlights": [
+  "AC1200 dual-band with MU-MIMO",
+  "Gigabit WAN + 4 Gigabit LAN",
+  "Four fixed antennas",
+  "OpenVPN, PPTP and WireGuard"
+ ],
+ "review_notes": [
+  "Specs follow the current hardware version listed on TP-Link's page; the Commons photo may show an earlier hardware revision of the same model."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-a6/",
+   "publisher": "TP-Link",
+   "final_url": "https://www.tp-link.com/us/home-networking/wifi-router/archer-a6/",
+   "retrieved_at": "2026-11-02T18:01:09+00:00",
+   "sha256": "f3ae72895f6932ea3563c70fddcc4f513b9d7fdd191634d2e2cc92776ae24ff7",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:08:00+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:TP-link Archer A6 Router (v4) - Front Side.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Self-published work",
+    "Category:TP-Link Wi-Fi routers and access points"
+   ],
+   "width": 3139,
+   "height": 2446,
+   "mime": "image/jpeg",
+   "sha1": "d643fa1c29a445f84de34abc04b2f4bf2c6f8e49",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/TP-link_Archer_A6_Router_%28v4%29_-_Front_Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/TP-link_Archer_A6_Router_%28v4%29_-_Front_Side.jpg/1280px-TP-link_Archer_A6_Router_%28v4%29_-_Front_Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:TP-link_Archer_A6_Router_(v4)_-_Front_Side.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Paowee",
+   "credit": "Own work",
+   "description": "A TP-Link Archer A6 router (rev. 4 or v4), showing it's front side with the router powered on, and the LED's showing the status of the router.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-tp-link-archer-a6/1-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-archer-a6/1.jpg",
+   "local_sha256": "415f78f6d8ccddb27260e7786e0b33bc564fccd8dd78661d1819ad7c81c56254",
+   "local_bytes": 187267
+  },
+  {
+   "title": "File:TP-Link Archer A6 Router (v4) - Back Side.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Self-published work",
+    "Category:TP-Link Wi-Fi routers and access points"
+   ],
+   "width": 2889,
+   "height": 2736,
+   "mime": "image/jpeg",
+   "sha1": "da8be02aefcbbf7a0ae7696f2fe9c17ec68a5e5f",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/TP-Link_Archer_A6_Router_%28v4%29_-_Back_Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/TP-Link_Archer_A6_Router_%28v4%29_-_Back_Side.jpg/1280px-TP-Link_Archer_A6_Router_%28v4%29_-_Back_Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:TP-Link_Archer_A6_Router_(v4)_-_Back_Side.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Paowee",
+   "credit": "Own work",
+   "description": "A TP-Link Archer A6 router (rev. 4 or v4), showing it's back side. The LAN, WAN, AC barrel jack, WPS/Wifi Radio, the antenna standoffs and RESET buttons are present on the back side.",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-tp-link-archer-a6/2-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-archer-a6/2.jpg",
+   "local_sha256": "c9756035cb13f10cde271ebebe4126abce5a662063ee201dfa55725fda0b3ac5",
+   "local_bytes": 281815
+  }
+ ]
+}

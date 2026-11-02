@@ -1,0 +1,129 @@
+{
+ "handle": "real-xiaomi-14t-pro-12gb-256gb",
+ "brand": "Xiaomi",
+ "model": "Xiaomi 14T Pro",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Xiaomi 14T Pro (12GB+256GB)",
+ "subtitle": "6.67-inch 144Hz AMOLED | Dimensity 9300+ | 120W HyperCharge",
+ "description": "Xiaomi 14T Pro with 12GB of LPDDR5X RAM and 256GB of UFS 4.0 storage, a 144Hz AMOLED display, the MediaTek Dimensity 9300+, a Leica-tuned 50MP Light Fusion 900 main camera with a 50MP telephoto and a 5000mAh battery with 120W wired and 50W wireless HyperCharge. Specifications were verified against Xiaomi's official global specs page.",
+ "variant_title": "12GB+256GB",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "MediaTek Dimensity 9300+ (4nm)"
+  },
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "12GB LPDDR5X RAM, 256GB UFS 4.0"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions and weight",
+   "value": "160.4 x 75.1 x 8.39 mm, 209 g"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "AMOLED, 2712 x 1220, 446 ppi, up to 144Hz"
+  },
+  {
+   "group": "Camera",
+   "label": "Main camera",
+   "value": "50MP Light Fusion 900, f/1.6, OIS"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "32MP, f/2.0"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery and charging",
+   "value": "5000mAh, 120W wired, 50W wireless"
+  }
+ ],
+ "highlights": [
+  "144Hz AMOLED, 2712 x 1220",
+  "MediaTek Dimensity 9300+",
+  "Leica 50MP Light Fusion 900 main camera",
+  "5000mAh with 120W wired and 50W wireless"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/xiaomi-14t-pro/specs/",
+   "publisher": "Xiaomi",
+   "final_url": "https://www.mi.com/global/product/xiaomi-14t-pro/specs/",
+   "retrieved_at": "2026-11-02T17:48:20+00:00",
+   "sha256": "354d49d414d2506a628fb2c64682f172e77efa168fbb15f8c329109bffd56716",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:11:30+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Xiaomi 14T Pro.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:F-number f/5",
+    "Category:Lens focal length 34 mm",
+    "Category:Self-published work",
+    "Category:Taken with Panasonic Lumix DMC-G85/G80",
+    "Category:Unassessed QI candidates",
+    "Category:Xiaomi 14T Pro"
+   ],
+   "width": 3196,
+   "height": 4340,
+   "mime": "image/jpeg",
+   "sha1": "a463951e415fcf8359041152e700f779bbb783ad",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Xiaomi_14T_Pro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Xiaomi_14T_Pro.jpg/1280px-Xiaomi_14T_Pro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Xiaomi_14T_Pro.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Petar Milošević",
+   "credit": "Own work",
+   "description": "Xiaomi 14T Pro in Titan Blue color",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-xiaomi-14t-pro-12gb-256gb/1-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-14t-pro-12gb-256gb/1.jpg",
+   "local_sha256": "bea1188f25aaf736d053512d4cd560c0d9042ea641c8985d2fbbac0520bc71ad",
+   "local_bytes": 134772
+  },
+  {
+   "title": "File:Xiaomi 14T Pro front.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:F-number f/4",
+    "Category:Lens focal length 21 mm",
+    "Category:Self-published work",
+    "Category:Taken with Panasonic Lumix DMC-G85/G80",
+    "Category:Xiaomi 14T Pro"
+   ],
+   "width": 2908,
+   "height": 3761,
+   "mime": "image/jpeg",
+   "sha1": "21b576471fbf2da7f7896e9c2d59b9f538868bc2",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Xiaomi_14T_Pro_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Xiaomi_14T_Pro_front.jpg/1280px-Xiaomi_14T_Pro_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Xiaomi_14T_Pro_front.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Petar Milošević",
+   "credit": "Own work",
+   "description": "Xiaomi 14T Pro front",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-xiaomi-14t-pro-12gb-256gb/2-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-14t-pro-12gb-256gb/2.jpg",
+   "local_sha256": "d46f1d34492d3215e21fc06ead812300324213a700858ea093c1ba66fce3740e",
+   "local_bytes": 197957
+  }
+ ]
+}

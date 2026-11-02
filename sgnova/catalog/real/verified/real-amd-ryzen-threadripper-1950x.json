@@ -1,0 +1,109 @@
+{
+ "handle": "real-amd-ryzen-threadripper-1950x",
+ "brand": "AMD",
+ "model": "Ryzen Threadripper 1950X",
+ "mpn": "YD195XA8AEWOF",
+ "category_handle": "processor",
+ "title": "AMD Ryzen Threadripper 1950X Desktop Processor",
+ "subtitle": "16 cores / 32 threads | up to 4 GHz | sTR4",
+ "description": "16-core AMD desktop processor for the sTR4 socket with 32 MB of L3 cache and boost clocks up to 4 GHz. Specifications checked against AMD's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Processor",
+   "label": "Cores",
+   "value": "16"
+  },
+  {
+   "group": "Processor",
+   "label": "Threads",
+   "value": "32"
+  },
+  {
+   "group": "Clock",
+   "label": "Max boost clock",
+   "value": "Up to 4 GHz"
+  },
+  {
+   "group": "Clock",
+   "label": "Base clock",
+   "value": "3.4 GHz"
+  },
+  {
+   "group": "Cache",
+   "label": "L3 cache",
+   "value": "32 MB"
+  },
+  {
+   "group": "Power",
+   "label": "Default TDP",
+   "value": "180W"
+  },
+  {
+   "group": "Platform",
+   "label": "Socket",
+   "value": "sTR4"
+  },
+  {
+   "group": "Platform",
+   "label": "PCI Express",
+   "value": "PCIe 3.0"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory type",
+   "value": "DDR4"
+  }
+ ],
+ "highlights": [
+  "16 cores, 32 threads",
+  "Up to 4 GHz boost",
+  "32 MB L3 cache",
+  "sTR4 socket, DDR4 memory"
+ ],
+ "review_notes": [
+  "AMD's current spec table for this processor is published on its official drivers & support page."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-threadripper/ryzen-threadripper-1000-series/amd-ryzen-threadripper-1950x.html",
+   "publisher": "Advanced Micro Devices, Inc.",
+   "final_url": "https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-threadripper/ryzen-threadripper-1000-series/amd-ryzen-threadripper-1950x.html",
+   "retrieved_at": "2026-11-02T18:14:36+00:00",
+   "sha256": "232e5f6fea50e878b722c11d5bbc77a0aae1a0d02aa8234cc63683396f2b3947",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:06:58+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Threadripper 1950X in socket.JPG",
+   "categories": [
+    "Category:AMD Ryzen Threadripper",
+    "Category:CC-BY-SA-4.0",
+    "Category:Retouched pictures",
+    "Category:Self-published work"
+   ],
+   "width": 5388,
+   "height": 4296,
+   "mime": "image/jpeg",
+   "sha1": "84c335caa0ef54b3199c66939078697252ef4190",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Threadripper_1950X_in_socket.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Threadripper_1950X_in_socket.JPG/1280px-Threadripper_1950X_in_socket.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Threadripper_1950X_in_socket.JPG",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Geni",
+   "credit": "photo by user:geni",
+   "description": "Photo of a Threadripper 1950X in a TR4 socket.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-amd-ryzen-threadripper-1950x/1-card.jpg",
+   "local_path": "/catalog-real/real-amd-ryzen-threadripper-1950x/1.jpg",
+   "local_sha256": "30500f7c03ed7241a1a7af627b72c8672596cb8c6e4cad708db0abdc54fd5020",
+   "local_bytes": 269759
+  }
+ ]
+}

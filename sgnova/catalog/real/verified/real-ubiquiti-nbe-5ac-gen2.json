@@ -1,0 +1,127 @@
+{
+ "handle": "real-ubiquiti-nbe-5ac-gen2",
+ "brand": "Ubiquiti",
+ "model": "NanoBeam 5AC Gen2",
+ "mpn": "NBE-5AC-Gen2",
+ "category_handle": "router",
+ "title": "Ubiquiti airMAX NanoBeam 5AC Gen2",
+ "subtitle": "5 GHz airMAX ac | outdoor PtP/PtMP | 2 GbE ports",
+ "description": "Outdoor 5 GHz airMAX ac radio with an integrated dish antenna for point-to-point and point-to-multipoint wireless links, with two Gigabit ports. Specifications verified against Ubiquiti's official tech specs page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "2 x GbE RJ45"
+  },
+  {
+   "group": "Power",
+   "label": "Power supply",
+   "value": "24 V, 0.5 A Gigabit PoE adapter (included)"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "8.5 W"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "189 x 189 x 125 mm"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight",
+   "value": "530 g"
+  },
+  {
+   "group": "Physical",
+   "label": "Wind survivability",
+   "value": "200 km/h"
+  },
+  {
+   "group": "General",
+   "label": "Operating temperature",
+   "value": "-40 to 80 C"
+  }
+ ],
+ "highlights": [
+  "5 GHz airMAX ac",
+  "Two Gigabit Ethernet ports",
+  "Survives 200 km/h wind",
+  "PoE adapter included"
+ ],
+ "review_notes": [
+  "Photo titles say 'NanoBeam AC Gen2', Ubiquiti's marketing name for NBE-5AC-Gen2.",
+  "Category router used for an outdoor wireless bridge."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://techspecs.ui.com/uisp/wireless/nbe-5ac-gen2",
+   "publisher": "Ubiquiti",
+   "final_url": "https://techspecs.ui.com/uisp/wireless/nanobeam-5ac",
+   "retrieved_at": "2026-11-02T17:57:19+00:00",
+   "sha256": "dd8d3ebff6677201abdb52112473247cf4b2750df0920e2b26c22424b3821353",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:07:43+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Ubiquiti NanoBeam AC Gen2 P1110422.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Hausfotografie temporärhaus (2026)",
+    "Category:Self-published work",
+    "Category:Ubiquiti NanoBeam AC Gen2"
+   ],
+   "width": 3801,
+   "height": 5702,
+   "mime": "image/jpeg",
+   "sha1": "a8cac4d41dd942147a6694434afde40b547305ea",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Ubiquiti_NanoBeam_AC_Gen2_P1110422.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Ubiquiti_NanoBeam_AC_Gen2_P1110422.jpg/1280px-Ubiquiti_NanoBeam_AC_Gen2_P1110422.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ubiquiti_NanoBeam_AC_Gen2_P1110422.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "-stk",
+   "credit": "Own work",
+   "description": "Ubiquiti NanoBeam AC Gen2 WiFi wireless bridge endpoint",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-ubiquiti-nbe-5ac-gen2/1-card.jpg",
+   "local_path": "/catalog-real/real-ubiquiti-nbe-5ac-gen2/1.jpg",
+   "local_sha256": "aa006145309c8e5b7ac92a4a096b0f90182b0a653ef5fe0003d66191b566bc1e",
+   "local_bytes": 47144
+  },
+  {
+   "title": "File:Ubiquiti NanoBeam AC Gen2 P1110424.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Hausfotografie temporärhaus (2026)",
+    "Category:Self-published work",
+    "Category:Ubiquiti NanoBeam AC Gen2"
+   ],
+   "width": 3440,
+   "height": 5159,
+   "mime": "image/jpeg",
+   "sha1": "3934e9cdc4fa39d2c205e979606f6292cfa251c5",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ubiquiti_NanoBeam_AC_Gen2_P1110424.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Ubiquiti_NanoBeam_AC_Gen2_P1110424.jpg/1280px-Ubiquiti_NanoBeam_AC_Gen2_P1110424.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ubiquiti_NanoBeam_AC_Gen2_P1110424.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "-stk",
+   "credit": "Own work",
+   "description": "Ubiquiti NanoBeam AC Gen2 WiFi wireless bridge endpoint",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-ubiquiti-nbe-5ac-gen2/2-card.jpg",
+   "local_path": "/catalog-real/real-ubiquiti-nbe-5ac-gen2/2.jpg",
+   "local_sha256": "7fe333a6e5ae5853b767b53df001bacf6bdda649d9a5271fd2f7b1220d4d5654",
+   "local_bytes": 67019
+  }
+ ]
+}

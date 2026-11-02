@@ -1,0 +1,114 @@
+{
+ "handle": "real-logitech-f310",
+ "brand": "Logitech",
+ "model": "F310",
+ "mpn": null,
+ "category_handle": "computer-accessory",
+ "title": "Logitech G F310 Wired Gamepad",
+ "subtitle": "Wired USB | XInput/DirectInput | four-switch D-pad",
+ "description": "Wired console-style gamepad for PC and Android TV with a four-switch D-pad and a 6-foot USB cable, supporting XInput and DirectInput. Specifications verified against Logitech's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Connection",
+   "value": "Wired USB, 6 ft cable"
+  },
+  {
+   "group": "Features",
+   "label": "D-pad",
+   "value": "Four-switch"
+  },
+  {
+   "group": "Features",
+   "label": "Input modes",
+   "value": "XInput/DirectInput"
+  },
+  {
+   "group": "Features",
+   "label": "Platforms",
+   "value": "PC, Android TV"
+  },
+  {
+   "group": "Features",
+   "label": "Programmable",
+   "value": "Buttons fully programmable"
+  }
+ ],
+ "highlights": [
+  "Four-switch D-pad",
+  "6 ft USB cable",
+  "XInput and DirectInput",
+  "Steam Big Picture ready"
+ ],
+ "review_notes": [
+  "Category computer-accessory used for a gamepad."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.logitechg.com/en-us/shop/p/f310-gamepad",
+   "publisher": "Logitech",
+   "final_url": "https://www.logitechg.com/en-us/shop/p/f310-gamepad",
+   "retrieved_at": "2026-11-02T18:04:35+00:00",
+   "sha256": "188661a61e1ea9d3b480a90c71769b502bdddd11ceefe3efc6060f4968faf242",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:08:59+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Logitech F310, forward.jpg",
+   "categories": [
+    "Category:CC-BY-4.0",
+    "Category:Logitech Gamepad F310",
+    "Category:Self-published work"
+   ],
+   "width": 6000,
+   "height": 4000,
+   "mime": "image/jpeg",
+   "sha1": "03ffe581946f4749de0676c0d53039eea9dd7ce0",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Logitech_F310%2C_forward.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Logitech_F310%2C_forward.jpg/1280px-Logitech_F310%2C_forward.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Logitech_F310,_forward.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "FreeMediaKid!",
+   "credit": "Own work",
+   "description": "A raw photograph of a Logitech F310, a gamepad, facing mostly forward. I have two of these at home as of this photo. I cannot tell whether this is the one I got—I think—in the late 2000s or it is the newer unit.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-logitech-f310/1-card.jpg",
+   "local_path": "/catalog-real/real-logitech-f310/1.jpg",
+   "local_sha256": "66864e6e209175e95dbae9620d6f2c549991588290aaa39f1fa11c3a05746012",
+   "local_bytes": 102833
+  },
+  {
+   "title": "File:Logitech F310, reverse.jpg",
+   "categories": [
+    "Category:CC-BY-4.0",
+    "Category:Logitech Gamepad F310",
+    "Category:Self-published work"
+   ],
+   "width": 6000,
+   "height": 4000,
+   "mime": "image/jpeg",
+   "sha1": "8ae6bfc2cf1cc8c543d86e520c8ff87d600c23d3",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Logitech_F310%2C_reverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Logitech_F310%2C_reverse.jpg/1280px-Logitech_F310%2C_reverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Logitech_F310,_reverse.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "FreeMediaKid!",
+   "credit": "Own work",
+   "description": "A raw photograph of a Logitech F310, a gamepad, turned mostly toward the camera. I have two of these at home as of this photo. I cannot tell whether this is the one I got—I think—in the late 2000s or it is the newer unit.",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-logitech-f310/2-card.jpg",
+   "local_path": "/catalog-real/real-logitech-f310/2.jpg",
+   "local_sha256": "13942a9f6246bb4ae6a436b22683973883ef242e93daca3c1e5d616c2615d31c",
+   "local_bytes": 110210
+  }
+ ]
+}

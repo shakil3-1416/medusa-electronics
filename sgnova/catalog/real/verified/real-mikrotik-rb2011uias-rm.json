@@ -1,0 +1,112 @@
+{
+ "handle": "real-mikrotik-rb2011uias-rm",
+ "brand": "MikroTik",
+ "model": "RB2011UiAS-RM",
+ "mpn": "RB2011UiAS-RM",
+ "category_handle": "router",
+ "title": "MikroTik RB2011UiAS-RM Rackmount Router",
+ "subtitle": "10 Ethernet ports | SFP | RouterOS L5 | 1U rackmount",
+ "description": "Rack-mountable RouterOS router with five Gigabit and five Fast Ethernet ports, an SFP cage, USB, a serial console port and passive PoE output, suited to small ISP and office racks. Specifications verified against MikroTik's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "CPU",
+   "value": "AR9344, 1 core, 600 MHz"
+  },
+  {
+   "group": "Performance",
+   "label": "RAM",
+   "value": "128 MB"
+  },
+  {
+   "group": "Performance",
+   "label": "Storage",
+   "value": "128 MB NAND"
+  },
+  {
+   "group": "Performance",
+   "label": "RouterOS licence",
+   "value": "Level 5"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Fast Ethernet",
+   "value": "5 x 10/100"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Gigabit Ethernet",
+   "value": "5 x 10/100/1000"
+  },
+  {
+   "group": "Connectivity",
+   "label": "SFP",
+   "value": "1 port"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Serial console",
+   "value": "RJ45"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "28 W"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "443 x 92 x 44 mm"
+  }
+ ],
+ "highlights": [
+  "5 Gigabit + 5 Fast Ethernet ports",
+  "SFP cage for fibre",
+  "RouterOS level 5 licence",
+  "Passive PoE-out on port 10"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://mikrotik.com/product/RB2011UiAS-RM",
+   "publisher": "MikroTik",
+   "final_url": "https://mikrotik.com/product/RB2011UiAS-RM",
+   "retrieved_at": "2026-11-02T17:46:31+00:00",
+   "sha256": "1d0a3c5e8521df1e3bac9e40f06aca21c47363a0a101f3d9c5ae068f01820725",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:07:09+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Mikrotik RB2011UiAS-RM (19174658945).jpg",
+   "categories": [
+    "Category:CC-BY-2.0",
+    "Category:Flickr images reviewed by FlickreviewR 2",
+    "Category:MikroTik",
+    "Category:Photographs by Dmitry Grigoriev"
+   ],
+   "width": 5472,
+   "height": 3648,
+   "mime": "image/jpeg",
+   "sha1": "0510a1c90564044d97b5fe30b6ed3483dc1158c5",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Mikrotik_RB2011UiAS-RM_%2819174658945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Mikrotik_RB2011UiAS-RM_%2819174658945%29.jpg/1280px-Mikrotik_RB2011UiAS-RM_%2819174658945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Mikrotik_RB2011UiAS-RM_(19174658945).jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "artist": "Dmitry Grigoriev from Nakhabino, Russia",
+   "credit": "Mikrotik RB2011UiAS-RM",
+   "description": "MikroTik",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-mikrotik-rb2011uias-rm/1-card.jpg",
+   "local_path": "/catalog-real/real-mikrotik-rb2011uias-rm/1.jpg",
+   "local_sha256": "7a4726ee234200b79f23ca0cbd451dc702b425c1f2cf89b007004aaf10d7bc7b",
+   "local_bytes": 124336
+  }
+ ]
+}

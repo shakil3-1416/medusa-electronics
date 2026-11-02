@@ -1,0 +1,122 @@
+{
+ "handle": "real-tp-link-tl-wr740n",
+ "brand": "TP-Link",
+ "model": "TL-WR740N",
+ "mpn": null,
+ "category_handle": "router",
+ "title": "TP-Link TL-WR740N 150 Mbps Wireless N Router",
+ "subtitle": "150 Mbps | 2.4 GHz | 4 LAN ports",
+ "description": "Basic 2.4 GHz 802.11n router with a single fixed 5 dBi antenna and Fast Ethernet ports, for small homes and light browsing. Specifications verified against TP-Link's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "4 x 10/100 LAN, 1 x 10/100 WAN"
+  },
+  {
+   "group": "Wireless",
+   "label": "Max rate",
+   "value": "150 Mbps (11n)"
+  },
+  {
+   "group": "Wireless",
+   "label": "Antenna",
+   "value": "5 dBi fixed omni"
+  },
+  {
+   "group": "Wireless",
+   "label": "Frequency",
+   "value": "2.4-2.4835 GHz"
+  },
+  {
+   "group": "Power",
+   "label": "Power supply",
+   "value": "5 V DC 0.6 A"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "174 x 118 x 33 mm"
+  }
+ ],
+ "highlights": [
+  "150 Mbps 802.11n",
+  "4 x 10/100 LAN + 1 WAN",
+  "5 dBi fixed antenna",
+  "Compact 174 x 118 mm case"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.tp-link.com/us/home-networking/wifi-router/tl-wr740n/",
+   "publisher": "TP-Link",
+   "final_url": "https://www.tp-link.com/us/home-networking/wifi-router/tl-wr740n/",
+   "retrieved_at": "2026-11-02T16:37:03+00:00",
+   "sha256": "4866e4884ad077b3d3365f47d934f5429f8d61bc8775260cd95d142f6b1058d6",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:08:09+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:TP-Link TL-WR740N router HS1.jpg",
+   "categories": [
+    "Category:CC-BY-4.0",
+    "Category:Computer hardware with white background",
+    "Category:Images with extracted images",
+    "Category:Photographs by Hayden Schiff",
+    "Category:TP-Link TL-WR740N",
+    "Category:Taken with Nikon D7100"
+   ],
+   "width": 4000,
+   "height": 4000,
+   "mime": "image/jpeg",
+   "sha1": "44aeab8bcd2a61e8e9940f88ff1b00f13460196a",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/TP-Link_TL-WR740N_router_HS1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/TP-Link_TL-WR740N_router_HS1.jpg/1280px-TP-Link_TL-WR740N_router_HS1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:TP-Link_TL-WR740N_router_HS1.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Hayden Schiff",
+   "credit": "Own work",
+   "description": "TP-Link TL-WR740N 150Mbps Wireless N Router",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-tp-link-tl-wr740n/1-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-tl-wr740n/1.jpg",
+   "local_sha256": "7da33c3e52e4370b87846ecdedbec8b72c0117a83ad3abf3588bd697abe80ee2",
+   "local_bytes": 121673
+  },
+  {
+   "title": "File:TP-Link TL-WR740N router HS2.jpg",
+   "categories": [
+    "Category:CC-BY-4.0",
+    "Category:Computer hardware with white background",
+    "Category:Photographs by Hayden Schiff",
+    "Category:TP-Link TL-WR740N",
+    "Category:Taken with Nikon D7100"
+   ],
+   "width": 6000,
+   "height": 4000,
+   "mime": "image/jpeg",
+   "sha1": "c7bd090f1a8c6592af1030a2b8c692df1519757e",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/TP-Link_TL-WR740N_router_HS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/TP-Link_TL-WR740N_router_HS2.jpg/1280px-TP-Link_TL-WR740N_router_HS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:TP-Link_TL-WR740N_router_HS2.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Hayden Schiff",
+   "credit": "Own work",
+   "description": "TP-Link TL-WR740N 150Mbps Wireless N Router",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-tp-link-tl-wr740n/2-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-tl-wr740n/2.jpg",
+   "local_sha256": "ecee953b5dd3712614235000649c5464c2d00a88c000cd8dcf7dbddbb5fcd133",
+   "local_bytes": 86180
+  }
+ ]
+}

@@ -67,7 +67,7 @@
    "sha256": "73d2b5131f5237c922e22bb38cc1d63817cc023e12e35b1f20e548eecd011a31",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:00:58+00:00",
+  "verified_at": "2026-11-02T18:57:33+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -97,9 +97,10 @@
    "description": "iPhone 13 camera lens group",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-13-128gb/1-card.jpg",
    "local_path": "/catalog-real/real-apple-iphone-13-128gb/1.jpg",
-   "local_sha256": "52f678d009562f83d42342c05ee518b0c6f9a12dfb7a309741018d5856196fd4",
-   "local_bytes": 108039
+   "local_sha256": "8e34f953204a5a9773d0f9aa2c29943d52abc21bf9294b585d8bff2c2f6c8369",
+   "local_bytes": 117761
   }
  ]
 }

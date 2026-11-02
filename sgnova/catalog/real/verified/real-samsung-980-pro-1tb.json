@@ -72,7 +72,7 @@
    "sha256": "a1daffc776a563ba5ab7f47dcbb8053b0923cbe62ad274059782cca702ff7926",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:01:39+00:00",
+  "verified_at": "2026-11-02T18:59:03+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -108,9 +108,10 @@
    "description": "A Samsung 980 Pro m.2 PCIe NVMe SSD with 1TB of storage capacity",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-samsung-980-pro-1tb/1-card.jpg",
    "local_path": "/catalog-real/real-samsung-980-pro-1tb/1.jpg",
-   "local_sha256": "6e2ff56b8a51765c19732a8c8ba37d5598e3eb84e06e73d3be424507f7cdcf89",
-   "local_bytes": 112782
+   "local_sha256": "866fca29cbd10f8964788b15041283e07ca4b5064be0a7c36a24a8cb8627962c",
+   "local_bytes": 105671
   }
  ]
 }

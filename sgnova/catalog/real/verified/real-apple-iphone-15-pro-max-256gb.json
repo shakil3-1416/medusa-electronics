@@ -1,0 +1,172 @@
+{
+ "handle": "real-apple-iphone-15-pro-max-256gb",
+ "brand": "Apple",
+ "model": "iPhone 15 Pro Max",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 15 Pro Max (256GB)",
+ "subtitle": "6.7-inch all-screen OLED | A17 Pro | 256GB",
+ "description": "Apple iPhone 15 Pro Max smartphone in the 256GB storage configuration. It runs on the A17 Pro chip and has a 6.7-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "256GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "256GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.7-inch all-screen OLED display"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2796 x 1290 at 460 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A17 Pro, 6-core CPU, 6-core GPU"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "IP68, up to 6 m for 30 minutes"
+  },
+  {
+   "group": "Battery",
+   "label": "Video playback",
+   "value": "Up to 29 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "221 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "159.9 x 76.7 x 8.25 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "Wi-Fi 6E (802.11ax)"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.3"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "USB-C"
+  }
+ ],
+ "highlights": [
+  "6.7-inch all-screen OLED display",
+  "2796 x 1290 at 460 ppi resolution",
+  "A17 Pro, 6-core CPU, 6-core GPU chip",
+  "Water resistance: IP68, up to 6 m for 30 minutes"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111828",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111828",
+   "retrieved_at": "2026-11-02T18:33:32+00:00",
+   "sha256": "100cddfc709499d1c1379ee51ed8d47cef26f0524ebce842f9c1966bec5e5d5b",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:05:03+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Front of iPhone 15 Pro Max.jpg",
+   "categories": [
+    "Category:CC-BY-4.0",
+    "Category:IPhone 15 Pro Max",
+    "Category:Self-published work"
+   ],
+   "width": 2147,
+   "height": 4219,
+   "mime": "image/jpeg",
+   "sha1": "9b85e31c54fcc819e93abbae9378f011bef15a5f",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Front_of_iPhone_15_Pro_Max.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Front_of_iPhone_15_Pro_Max.jpg/1280px-Front_of_iPhone_15_Pro_Max.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Front_of_iPhone_15_Pro_Max.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Ayamano2021",
+   "credit": "Own work",
+   "description": "front of iPhone 15 Pro Max at the store in philippines",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-15-pro-max-256gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-15-pro-max-256gb/1.jpg",
+   "local_sha256": "3fea2da4632cdd1562cd44786d15114b5eb72c5469c44f629a4be8439f72fc2d",
+   "local_bytes": 134557
+  },
+  {
+   "title": "File:Back view of iPhone 15 Pro Max Natural Titanium.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2024-10-02",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 15 Pro Max",
+    "Category:October 2024 in Dongguan",
+    "Category:Self-published work",
+    "Category:Taken with iPhone 14 Plus"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "2b4fb1f8ba524e814aa329bc1a57225f5af70fd2",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Back_view_of_iPhone_15_Pro_Max_Natural_Titanium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Back_view_of_iPhone_15_Pro_Max_Natural_Titanium.jpg/1280px-Back_view_of_iPhone_15_Pro_Max_Natural_Titanium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Back_view_of_iPhone_15_Pro_Max_Natural_Titanium.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "メイド理世",
+   "credit": "Own work",
+   "description": "Back view of iPhone 15 Pro Max Natural Titanium",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-15-pro-max-256gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-15-pro-max-256gb/2.jpg",
+   "local_sha256": "a2b945a404debba95869f413fea5c3a098013cd112a6651170ba5c31a9ca0817",
+   "local_bytes": 165659
+  },
+  {
+   "title": "File:Side of iPhone 15 Pro Max - 1.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:IPhone 15 Pro Max",
+    "Category:Self-published work"
+   ],
+   "width": 2160,
+   "height": 3840,
+   "mime": "image/jpeg",
+   "sha1": "4bdb2b8a43c7eef505fea16658828ac11dcfe5b6",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Side_of_iPhone_15_Pro_Max_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Side_of_iPhone_15_Pro_Max_-_1.jpg/1280px-Side_of_iPhone_15_Pro_Max_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Side_of_iPhone_15_Pro_Max_-_1.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Kyu3",
+   "credit": "Own work",
+   "description": "iPhone 15 Pro Maxの側面部。上がアクションボタン。下の2つが音量調整ボタン。",
+   "attribution_required": "true",
+   "index": 3,
+   "card_path": "/catalog-real/real-apple-iphone-15-pro-max-256gb/3-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-15-pro-max-256gb/3.jpg",
+   "local_sha256": "bf0024f4545896569a897299a04fa84cc304781a1d5622bd0cf91905fbd36d2e",
+   "local_bytes": 154134
+  }
+ ]
+}

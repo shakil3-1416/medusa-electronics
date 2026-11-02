@@ -69,7 +69,7 @@
    "sha256": "0f4a52cf5ffd0cb50001020950ea033036dc061faeb1c40b0fdf63beec941e0c",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:01:16+00:00",
+  "verified_at": "2026-11-02T18:58:03+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -97,9 +97,10 @@
    "description": "Google Pixel 7A",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-google-pixel-7a-128gb/1-card.jpg",
    "local_path": "/catalog-real/real-google-pixel-7a-128gb/1.jpg",
-   "local_sha256": "1c4b96e8124df03aa2cca852276ae35eba30fea67b642bf65d11cee87490f88d",
-   "local_bytes": 169857
+   "local_sha256": "723e66061e0bdff2aa95e6d08c35421606ae84e4805aad1cdb2cbf6c2ae866c3",
+   "local_bytes": 173532
   }
  ]
 }

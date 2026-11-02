@@ -1,0 +1,114 @@
+{
+ "handle": "real-amd-ryzen-5-3600",
+ "brand": "AMD",
+ "model": "Ryzen 5 3600",
+ "mpn": "100-100000031BOX",
+ "category_handle": "processor",
+ "title": "AMD Ryzen 5 3600 Desktop Processor",
+ "subtitle": "6 cores / 12 threads | up to 4.2 GHz | AM4",
+ "description": "6-core AMD desktop processor for the AM4 socket with 32 MB of L3 cache and boost clocks up to 4.2 GHz. Specifications checked against AMD's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Processor",
+   "label": "Cores",
+   "value": "6"
+  },
+  {
+   "group": "Processor",
+   "label": "Threads",
+   "value": "12"
+  },
+  {
+   "group": "Clock",
+   "label": "Max boost clock",
+   "value": "Up to 4.2 GHz"
+  },
+  {
+   "group": "Clock",
+   "label": "Base clock",
+   "value": "3.6 GHz"
+  },
+  {
+   "group": "Cache",
+   "label": "L3 cache",
+   "value": "32 MB"
+  },
+  {
+   "group": "Power",
+   "label": "Default TDP",
+   "value": "65W"
+  },
+  {
+   "group": "Platform",
+   "label": "Socket",
+   "value": "AM4"
+  },
+  {
+   "group": "Platform",
+   "label": "PCI Express",
+   "value": "PCIe 4.0"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory type",
+   "value": "DDR4"
+  },
+  {
+   "group": "Build",
+   "label": "Process",
+   "value": "TSMC 7nm FinFET"
+  }
+ ],
+ "highlights": [
+  "6 cores, 12 threads",
+  "Up to 4.2 GHz boost",
+  "32 MB L3 cache",
+  "AM4 socket, DDR4 memory"
+ ],
+ "review_notes": [
+  "AMD's current spec table for this processor is published on its official drivers & support page."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-3000-series/amd-ryzen-5-3600.html",
+   "publisher": "Advanced Micro Devices, Inc.",
+   "final_url": "https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-3000-series/amd-ryzen-5-3600.html",
+   "retrieved_at": "2026-11-02T17:55:39+00:00",
+   "sha256": "74744162f445d1144277f1022dadd2b925789763fb29297bf7e950822728487b",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:06:29+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:AMD@7nm(12nmIO)@Zen2@Matisse@Ryzen 5 3600@100-000000031 BF 1923SUT 9HM6935R90062 DSCx1.jpg",
+   "categories": [
+    "Category:AMD Ryzen 5 3600",
+    "Category:CC-Zero",
+    "Category:Flickr images reviewed by FlickreviewR 2",
+    "Category:Photographs by Fritz Fritzchens"
+   ],
+   "width": 2798,
+   "height": 2773,
+   "mime": "image/jpeg",
+   "sha1": "cd6b60da6adc02d156ca88d9a71a50d6013a136f",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/AMD%407nm%2812nmIO%29%40Zen2%40Matisse%40Ryzen_5_3600%40100-000000031_BF_1923SUT_9HM6935R90062_DSCx1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/AMD%407nm%2812nmIO%29%40Zen2%40Matisse%40Ryzen_5_3600%40100-000000031_BF_1923SUT_9HM6935R90062_DSCx1.jpg/1280px-AMD%407nm%2812nmIO%29%40Zen2%40Matisse%40Ryzen_5_3600%40100-000000031_BF_1923SUT_9HM6935R90062_DSCx1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:AMD@7nm(12nmIO)@Zen2@Matisse@Ryzen_5_3600@100-000000031_BF_1923SUT_9HM6935R90062_DSCx1.jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "Fritzchens Fritz",
+   "credit": "https://www.flickr.com/photos/130561288@N04/48258240636/",
+   "description": "AMD Ryzen 5 3600 processor (Matisse).",
+   "attribution_required": "false",
+   "index": 1,
+   "card_path": "/catalog-real/real-amd-ryzen-5-3600/1-card.jpg",
+   "local_path": "/catalog-real/real-amd-ryzen-5-3600/1.jpg",
+   "local_sha256": "87807fd1f7d16cb63541b38f992a27cff442a7128deced40389a65e5d0b69161",
+   "local_bytes": 570806
+  }
+ ]
+}

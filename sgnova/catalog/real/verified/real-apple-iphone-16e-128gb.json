@@ -67,7 +67,7 @@
    "sha256": "5120ee3c3b0a51f0666e7be596602159195b41d4bbee70d3578d7614cfc17b10",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:01:03+00:00",
+  "verified_at": "2026-11-02T18:57:39+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -92,9 +92,10 @@
    "description": "IPhone 16e ブラックモデル。愛知県春日井市の家電量販店で撮影。",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-16e-128gb/1-card.jpg",
    "local_path": "/catalog-real/real-apple-iphone-16e-128gb/1.jpg",
-   "local_sha256": "57321e89101439a964a5d9e071d2802cc3b4f8848df973e4492fe66f7a929923",
-   "local_bytes": 430966
+   "local_sha256": "436f1072e7be18dfeb4bca79fc0969ed097630eaf91a3808d2ed7bd627de1a41",
+   "local_bytes": 184845
   }
  ]
 }

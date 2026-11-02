@@ -1,0 +1,97 @@
+{
+ "handle": "real-keychron-k5-se",
+ "brand": "Keychron",
+ "model": "K5 SE",
+ "mpn": null,
+ "category_handle": "mechanical-keyboard",
+ "title": "Keychron K5 SE Ultra-Slim Wireless Mechanical Keyboard",
+ "subtitle": "Full-size | low profile | aluminium",
+ "description": "Ultra-slim full-size wireless mechanical keyboard with low-profile switches, an aluminium frame and Bluetooth plus wired modes. Specifications verified against Keychron's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Layout",
+   "label": "Layout",
+   "value": "100% full size, ANSI"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connectivity",
+   "value": "Bluetooth, wired; 1000 Hz polling"
+  },
+  {
+   "group": "Build",
+   "label": "Build",
+   "value": "Aluminium, tray mount"
+  },
+  {
+   "group": "Build",
+   "label": "Keycaps",
+   "value": "LSA ABS"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery",
+   "value": "2000 mAh, up to 90 hours"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight",
+   "value": "673 g"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "435 x 120.00 mm"
+  }
+ ],
+ "highlights": [
+  "100% full-size ANSI",
+  "Low-profile switches",
+  "Aluminium frame",
+  "2000 mAh battery"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.keychron.com/products/keychron-k5-se-ultra-slim-wireless-mechanical-keyboard",
+   "publisher": "Keychron",
+   "final_url": "https://www.keychron.com/products/keychron-k5-se-ultra-slim-wireless-mechanical-keyboard",
+   "retrieved_at": "2026-11-02T18:07:38+00:00",
+   "sha256": "7bb9b979b5d82d19d7a504b1f84cf2c046e770417d644f5b56b3bfb6b8511c65",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:09:14+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Keychron K5 SE with parts and cat (52712217774) (cropped).jpg",
+   "categories": [
+    "Category:CC-BY-SA-2.0",
+    "Category:Extracted images",
+    "Category:Keychron keyboards",
+    "Category:Mechanical computer keyboards"
+   ],
+   "width": 5146,
+   "height": 3361,
+   "mime": "image/jpeg",
+   "sha1": "d869400ae1dec20702bf4cffb92d7f511c3e3a98",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Keychron_K5_SE_with_parts_and_cat_%2852712217774%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Keychron_K5_SE_with_parts_and_cat_%2852712217774%29_%28cropped%29.jpg/1280px-Keychron_K5_SE_with_parts_and_cat_%2852712217774%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Keychron_K5_SE_with_parts_and_cat_(52712217774)_(cropped).jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "artist": "Big Ben in Japan from Kawasaki, Japan",
+   "credit": "Teto helps me sell a keyboard",
+   "description": "Keychron K5 SE with box, manual, extra keycaps, and keycap puller (and cat)",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-keychron-k5-se/1-card.jpg",
+   "local_path": "/catalog-real/real-keychron-k5-se/1.jpg",
+   "local_sha256": "0e2922651a1727cdca3e8ff166c597b1c2d95ce8a1679f174245aae93c225ad9",
+   "local_bytes": 171588
+  }
+ ]
+}

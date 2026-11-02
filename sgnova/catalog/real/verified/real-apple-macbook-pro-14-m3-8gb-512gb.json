@@ -72,7 +72,7 @@
    "sha256": "36bd112d995ce3ff03ffb75a292723d31577e931f3032366146b937ac533b389",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:08+00:00",
+  "verified_at": "2026-11-02T19:00:11+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -99,9 +99,10 @@
    "description": "M3のMacbook Pro 14インチのスペースグレーモデル。日本の家電量販店で撮影。",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-apple-macbook-pro-14-m3-8gb-512gb/1-card.jpg",
    "local_path": "/catalog-real/real-apple-macbook-pro-14-m3-8gb-512gb/1.jpg",
-   "local_sha256": "b65cd5866d84e03b09dea75dbf3c8d1823bc348780f6df6dab49dfe18a9a0050",
-   "local_bytes": 207263
+   "local_sha256": "7cf0e65009209672e45d404be46d759bd4c39c50d07a1ab4edfa7e3f2ee2df8b",
+   "local_bytes": 212649
   }
  ]
 }

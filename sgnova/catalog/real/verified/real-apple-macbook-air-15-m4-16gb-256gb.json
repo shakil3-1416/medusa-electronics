@@ -72,7 +72,7 @@
    "sha256": "f94bbc43ab925ba127f8ab70cd1a79c3a62458957c11ffcb7a01659bf6ef1959",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:06+00:00",
+  "verified_at": "2026-11-02T19:00:08+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -97,9 +97,10 @@
    "description": "A top view of the 15-inch M4 MacBook Air in Silver running macOS Tahoe.",
    "attribution_required": "false",
    "index": 1,
+   "card_path": "/catalog-real/real-apple-macbook-air-15-m4-16gb-256gb/1-card.jpg",
    "local_path": "/catalog-real/real-apple-macbook-air-15-m4-16gb-256gb/1.jpg",
-   "local_sha256": "ab280b0aea0b6f198cb8c7acdecb1f208ec034782bd7c2aef5fa8c6b80d18a5c",
-   "local_bytes": 351100
+   "local_sha256": "691615803ddc0b34ada83b9aff4d117f4516505a078181baf7ddb374b0ecd082",
+   "local_bytes": 350942
   }
  ]
 }

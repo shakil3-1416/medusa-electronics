@@ -1,0 +1,125 @@
+{
+ "handle": "real-logitech-m510",
+ "brand": "Logitech",
+ "model": "M510",
+ "mpn": null,
+ "category_handle": "computer-accessory",
+ "title": "Logitech M510 Wireless Mouse",
+ "subtitle": "Full-size | 24-month battery | Unifying receiver",
+ "description": "Full-size wireless mouse with a sculpted shape, rubber grips, five programmable buttons and a tilt wheel, connecting through a USB receiver. Specifications verified against Logitech's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Power",
+   "label": "Battery life",
+   "value": "Up to 24 months"
+  },
+  {
+   "group": "Features",
+   "label": "Programmable buttons",
+   "value": "5"
+  },
+  {
+   "group": "Features",
+   "label": "Scroll wheel",
+   "value": "Rubber wheel with tilt"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wireless range",
+   "value": "Up to 10 m"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Receiver pairing",
+   "value": "Up to six devices (Unifying)"
+  },
+  {
+   "group": "Design",
+   "label": "Handedness",
+   "value": "Ambidextrous"
+  }
+ ],
+ "highlights": [
+  "Up to 24 months battery life",
+  "5 programmable buttons",
+  "Tilt wheel for side scrolling",
+  "Unifying receiver, 10 m range"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.logitech.com/en-us/shop/p/m510-wireless-mouse",
+   "publisher": "Logitech",
+   "final_url": "https://www.logitech.com/en-us/shop/p/m510-wireless-mouse",
+   "retrieved_at": "2026-11-02T18:04:31+00:00",
+   "sha256": "e2a17bac6b0c400544621f08bdec6ac1f1201430f8b1a19fff76e6946fc7f1a4",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:08:50+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Logitech M510 mouse HS3.jpg",
+   "categories": [
+    "Category:CC-BY-4.0",
+    "Category:Computer mice with white background",
+    "Category:Logitech M510",
+    "Category:Photographs by Hayden Schiff",
+    "Category:Self-published work",
+    "Category:Taken with Nikon D7100",
+    "Category:Uploaded with OpenRefine"
+   ],
+   "width": 6000,
+   "height": 4000,
+   "mime": "image/jpeg",
+   "sha1": "086c8de8bcab7e138f4daa6ad35a7435d272a24b",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Logitech_M510_mouse_HS3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Logitech_M510_mouse_HS3.jpg/1280px-Logitech_M510_mouse_HS3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Logitech_M510_mouse_HS3.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Hayden Schiff",
+   "credit": "Own work",
+   "description": "Close-up photo of Logitech M510 mouse",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-logitech-m510/1-card.jpg",
+   "local_path": "/catalog-real/real-logitech-m510/1.jpg",
+   "local_sha256": "3503ced0e8a6e536a69066a1d9d503497cf085a8880a0f60ab0160f2a3090294",
+   "local_bytes": 88299
+  },
+  {
+   "title": "File:Logitech M510 mouse HS4.jpg",
+   "categories": [
+    "Category:CC-BY-4.0",
+    "Category:Computer mice with white background",
+    "Category:Logitech M510",
+    "Category:Photographs by Hayden Schiff",
+    "Category:Self-published work",
+    "Category:Taken with Nikon D7100",
+    "Category:Uploaded with OpenRefine"
+   ],
+   "width": 6000,
+   "height": 4000,
+   "mime": "image/jpeg",
+   "sha1": "b3c7b229fc31ef64280c9eb9cf7295660016b4b5",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Logitech_M510_mouse_HS4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Logitech_M510_mouse_HS4.jpg/1280px-Logitech_M510_mouse_HS4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Logitech_M510_mouse_HS4.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Hayden Schiff",
+   "credit": "Own work",
+   "description": "Close-up photo of Logitech M510 mouse",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-logitech-m510/2-card.jpg",
+   "local_path": "/catalog-real/real-logitech-m510/2.jpg",
+   "local_sha256": "14641402fdb74caf2a0fd455d5c196324d81ebef1ccea8d737bdb4ab9e21d5de",
+   "local_bytes": 84988
+  }
+ ]
+}

@@ -1,0 +1,165 @@
+{
+ "handle": "real-amd-ryzen-9-3900x",
+ "brand": "AMD",
+ "model": "Ryzen 9 3900X",
+ "mpn": "100-100000023BOX",
+ "category_handle": "processor",
+ "title": "AMD Ryzen 9 3900X Desktop Processor",
+ "subtitle": "12 cores / 24 threads | up to 4.6 GHz | AM4",
+ "description": "12-core AMD desktop processor for the AM4 socket with 64 MB of L3 cache and boost clocks up to 4.6 GHz. Specifications checked against AMD's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Processor",
+   "label": "Cores",
+   "value": "12"
+  },
+  {
+   "group": "Processor",
+   "label": "Threads",
+   "value": "24"
+  },
+  {
+   "group": "Clock",
+   "label": "Max boost clock",
+   "value": "Up to 4.6 GHz"
+  },
+  {
+   "group": "Clock",
+   "label": "Base clock",
+   "value": "3.8 GHz"
+  },
+  {
+   "group": "Cache",
+   "label": "L3 cache",
+   "value": "64 MB"
+  },
+  {
+   "group": "Power",
+   "label": "Default TDP",
+   "value": "105W"
+  },
+  {
+   "group": "Platform",
+   "label": "Socket",
+   "value": "AM4"
+  },
+  {
+   "group": "Platform",
+   "label": "PCI Express",
+   "value": "PCIe 4.0"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory type",
+   "value": "DDR4"
+  },
+  {
+   "group": "Build",
+   "label": "Process",
+   "value": "TSMC 7nm FinFET"
+  }
+ ],
+ "highlights": [
+  "12 cores, 24 threads",
+  "Up to 4.6 GHz boost",
+  "64 MB L3 cache",
+  "AM4 socket, DDR4 memory"
+ ],
+ "review_notes": [
+  "AMD's current spec table for this processor is published on its official drivers & support page."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-3000-series/amd-ryzen-9-3900x.html",
+   "publisher": "Advanced Micro Devices, Inc.",
+   "final_url": "https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-3000-series/amd-ryzen-9-3900x.html",
+   "retrieved_at": "2026-11-02T17:55:40+00:00",
+   "sha256": "79fe1f989cfc295888ca0e15d89bb9077f233ee0efa799cb8537e3e0037438ac",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:06:35+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:AMD Ryzen 9 3900X - ISO by Phillip Voss.jpg",
+   "categories": [
+    "Category:AMD Ryzen 9 3900X",
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation (51° N, 7° E)"
+   ],
+   "width": 4032,
+   "height": 2268,
+   "mime": "image/jpeg",
+   "sha1": "b17b08319da7532856fce9ee794f6de80a01cc5d",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/AMD_Ryzen_9_3900X_-_ISO_by_Phillip_Voss.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/AMD_Ryzen_9_3900X_-_ISO_by_Phillip_Voss.jpg/1280px-AMD_Ryzen_9_3900X_-_ISO_by_Phillip_Voss.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:AMD_Ryzen_9_3900X_-_ISO_by_Phillip_Voss.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Phillip Voß",
+   "credit": "Own work",
+   "description": "AMD Ryzen 9 3900X ISO. ISO Ansicht",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-amd-ryzen-9-3900x/1-card.jpg",
+   "local_path": "/catalog-real/real-amd-ryzen-9-3900x/1.jpg",
+   "local_sha256": "954f6ebd6f5bf22d3393d5d382aea33560ef85c2672abf5990d1eec7ac02847f",
+   "local_bytes": 333127
+  },
+  {
+   "title": "File:AMD Ryzen 9 3900X - ISO Back by Phillip Voss.jpg",
+   "categories": [
+    "Category:AMD Ryzen 9 3900X",
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation (51° N, 7° E)"
+   ],
+   "width": 4032,
+   "height": 3024,
+   "mime": "image/jpeg",
+   "sha1": "f19ca35d364759dfbc2da4eedbf34968ad006a1b",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/AMD_Ryzen_9_3900X_-_ISO_Back_by_Phillip_Voss.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/AMD_Ryzen_9_3900X_-_ISO_Back_by_Phillip_Voss.jpg/1280px-AMD_Ryzen_9_3900X_-_ISO_Back_by_Phillip_Voss.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:AMD_Ryzen_9_3900X_-_ISO_Back_by_Phillip_Voss.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Phillip Voß",
+   "credit": "Own work",
+   "description": "AMD Ryzen 9 3900X ISO Back. ISO Ansicht Rückseite",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-amd-ryzen-9-3900x/2-card.jpg",
+   "local_path": "/catalog-real/real-amd-ryzen-9-3900x/2.jpg",
+   "local_sha256": "d2aa71c1d9ca3ea09de4726d804e25993dd79c999cf1af101fce9fb11d71b43e",
+   "local_bytes": 490949
+  },
+  {
+   "title": "File:AMD Ryzen 9 3900X - Pin Center by Phillip Voss.jpg",
+   "categories": [
+    "Category:AMD Ryzen 9 3900X",
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation (51° N, 7° E)"
+   ],
+   "width": 4032,
+   "height": 3024,
+   "mime": "image/jpeg",
+   "sha1": "836702fdac4b497d761ca511f7d3ee29c2f36d54",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/AMD_Ryzen_9_3900X_-_Pin_Center_by_Phillip_Voss.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/AMD_Ryzen_9_3900X_-_Pin_Center_by_Phillip_Voss.jpg/1280px-AMD_Ryzen_9_3900X_-_Pin_Center_by_Phillip_Voss.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:AMD_Ryzen_9_3900X_-_Pin_Center_by_Phillip_Voss.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Phillip Voß --P399915243",
+   "credit": "Own work",
+   "description": "AMD Ryzen 9 3900X Pin Center, Detailansicht Pins Mittig",
+   "attribution_required": "true",
+   "index": 3,
+   "card_path": "/catalog-real/real-amd-ryzen-9-3900x/3-card.jpg",
+   "local_path": "/catalog-real/real-amd-ryzen-9-3900x/3.jpg",
+   "local_sha256": "77917d47f6edcc9206c96770f877884a90c4a146f21eb2c70f461c3cd9a79b90",
+   "local_bytes": 427106
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "handle": "real-xiaomi-redmi-12-8gb-256gb",
+ "brand": "Xiaomi",
+ "model": "Redmi 12",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Redmi 12 (8GB+256GB)",
+ "subtitle": "6.79-inch 90Hz FHD+ | Helio G88 | 50MP",
+ "description": "Redmi 12 with 8GB of LPDDR4X RAM and 256GB of eMMC 5.1 storage, a large 6.79-inch FHD+ display with adaptive refresh up to 90Hz, the MediaTek Helio G88, a 50MP triple rear camera and a 5000mAh battery with 18W fast charging. Specifications were verified against Xiaomi's official global specs page.",
+ "variant_title": "8GB+256GB",
+ "specs": [
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "8GB LPDDR4X, 256GB eMMC 5.1"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions and weight",
+   "value": "168.60 x 76.28 x 8.17 mm, 198.5 g"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "MediaTek Helio G88 (12nm)"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.79-inch FHD+, 2460 x 1080, 396 ppi, up to 90Hz"
+  },
+  {
+   "group": "Camera",
+   "label": "Rear cameras",
+   "value": "50MP main f/1.8, 8MP ultra-wide, 2MP macro"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "8MP, f/2.1"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery and charging",
+   "value": "5000mAh, 18W"
+  }
+ ],
+ "highlights": [
+  "6.79-inch FHD+ display, up to 90Hz",
+  "MediaTek Helio G88",
+  "50MP triple camera",
+  "5000mAh with 18W fast charging"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/redmi-12/specs/",
+   "publisher": "Xiaomi",
+   "final_url": "https://www.mi.com/global/product/redmi-12/specs/",
+   "retrieved_at": "2026-11-02T17:48:29+00:00",
+   "sha256": "07dd6e8e7cb6eee9671d637f9a088a9a3810b5edf30b86349056808cae960738",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:11:54+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Redmi 12 front.jpg",
+   "categories": [
+    "Category:Blue mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Front of smartphones",
+    "Category:Redmi 12",
+    "Category:Self-published work",
+    "Category:Taken with Xiaomi Redmi Note 10 Pro",
+    "Category:Time 15:03"
+   ],
+   "width": 974,
+   "height": 1731,
+   "mime": "image/jpeg",
+   "sha1": "cb98903cd9841a785e0e89a535158f5b492f12af",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Redmi_12_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Redmi_12_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Redmi_12_front.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Maksdroider",
+   "credit": "Own work",
+   "description": "The back of Redmi 12",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-xiaomi-redmi-12-8gb-256gb/1-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-redmi-12-8gb-256gb/1.jpg",
+   "local_sha256": "f9e0ca258787614e08666a910eb8e8b5ee3d6bb0c2e49efad922ccb5773694ed",
+   "local_bytes": 93476
+  },
+  {
+   "title": "File:Redmi 12 back.jpg",
+   "categories": [
+    "Category:Backs of smartphones",
+    "Category:Blue mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Redmi 12",
+    "Category:Self-published work",
+    "Category:Taken with Xiaomi Redmi Note 10 Pro"
+   ],
+   "width": 1043,
+   "height": 1854,
+   "mime": "image/jpeg",
+   "sha1": "a9b8e17c48789dc33968c4c43ab4c7ca2d9b51fb",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Redmi_12_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Redmi_12_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Redmi_12_back.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Maksdroider",
+   "credit": "Own work",
+   "description": "The back of Redmi 12 in Sky Blue",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-xiaomi-redmi-12-8gb-256gb/2-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-redmi-12-8gb-256gb/2.jpg",
+   "local_sha256": "b866e2e52055b94b2235abf1c36374fb3423de1e302d3a7478269a8c35dcd360",
+   "local_bytes": 76242
+  }
+ ]
+}

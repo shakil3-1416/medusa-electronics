@@ -1,0 +1,104 @@
+{
+ "handle": "real-logitech-g903-hero",
+ "brand": "Logitech",
+ "model": "G903 HERO",
+ "mpn": null,
+ "category_handle": "gaming-mouse",
+ "title": "Logitech G903 LIGHTSPEED Wireless Gaming Mouse (HERO 25K)",
+ "subtitle": "HERO 25K | LIGHTSPEED | 140 h battery",
+ "description": "Ambidextrous wireless gaming mouse with the HERO 25K sensor, LIGHTSPEED 1 ms wireless and POWERPLAY charging compatibility. Specifications verified against Logitech's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "Sensor",
+   "value": "HERO 25K"
+  },
+  {
+   "group": "Performance",
+   "label": "Max DPI",
+   "value": "25,600"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Report rate",
+   "value": "1 ms (LIGHTSPEED)"
+  },
+  {
+   "group": "Power",
+   "label": "Battery life (RGB on)",
+   "value": "Up to 140 hours"
+  },
+  {
+   "group": "Power",
+   "label": "Battery life (lighting off)",
+   "value": "Up to 180 hours"
+  },
+  {
+   "group": "Design",
+   "label": "Shape",
+   "value": "Ambidextrous"
+  },
+  {
+   "group": "Power",
+   "label": "Wireless charging",
+   "value": "POWERPLAY compatible"
+  }
+ ],
+ "highlights": [
+  "HERO 25K sensor, up to 25,600 DPI",
+  "LIGHTSPEED wireless, 1 ms report rate",
+  "Up to 140 h with RGB on",
+  "POWERPLAY wireless charging compatible"
+ ],
+ "review_notes": [
+  "Page is the G903 with HERO 25K sensor; the Commons photo is titled 'G903 Lightspeed' and may show the earlier sensor revision of the same shell."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.logitechg.com/en-us/shop/p/g903-hero-wireless-gaming-mouse",
+   "publisher": "Logitech",
+   "final_url": "https://www.logitechg.com/en-us/shop/p/g903-hero-wireless-gaming-mouse",
+   "retrieved_at": "2026-11-02T18:04:28+00:00",
+   "sha256": "c1c39e42490f7d0168ac9c1f18e61fb7293ab7942a4025ecdfd1a84a93bc03f3",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:08:43+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:2023 Mysz komputerowa Logitech G903 Lightspeed.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Cordless Logitech mice",
+    "Category:Images by Jacek Halicki",
+    "Category:Logitech G logos on products",
+    "Category:Logitech G mice",
+    "Category:Logitech wireless receivers",
+    "Category:Quality Images by Jacek Halicki",
+    "Category:Quality images",
+    "Category:Self-published work"
+   ],
+   "width": 4382,
+   "height": 3020,
+   "mime": "image/jpeg",
+   "sha1": "a004380768cfbe2ab595bc7d232547721a53a82e",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/2023_Mysz_komputerowa_Logitech_G903_Lightspeed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/2023_Mysz_komputerowa_Logitech_G903_Lightspeed.jpg/1280px-2023_Mysz_komputerowa_Logitech_G903_Lightspeed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:2023_Mysz_komputerowa_Logitech_G903_Lightspeed.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Jacek Halicki",
+   "credit": "Own work",
+   "description": "Logitech G903 Lightspeed computer mouse",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-logitech-g903-hero/1-card.jpg",
+   "local_path": "/catalog-real/real-logitech-g903-hero/1.jpg",
+   "local_sha256": "a683634dca00132659b6719e20c610961f37a5479df955a4006868a630c8ace3",
+   "local_bytes": 93487
+  }
+ ]
+}

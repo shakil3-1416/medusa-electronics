@@ -67,7 +67,7 @@
    "sha256": "ebf03b6a556d612b4f2b9e2f9cc7763634c9f54e6babd21d7824fd2b85f355c9",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:14+00:00",
+  "verified_at": "2026-11-02T19:00:20+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -96,9 +96,10 @@
    "description": "Mac mini 2024",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-apple-mac-mini-2024-m4-16gb-256gb/1-card.jpg",
    "local_path": "/catalog-real/real-apple-mac-mini-2024-m4-16gb-256gb/1.jpg",
-   "local_sha256": "e2ff15672f98a964ffb71de1515c0bcb1fd52737350b19a35b99e2020348a7a7",
-   "local_bytes": 393730
+   "local_sha256": "7b00be896023689ffe6681f19a0bb46e12870a32a19f378dd3a0e0936f798bef",
+   "local_bytes": 337701
   }
  ]
 }

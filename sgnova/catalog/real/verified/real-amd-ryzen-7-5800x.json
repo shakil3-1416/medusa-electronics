@@ -77,7 +77,7 @@
    "sha256": "4c5907bd0b9be475b3bcc6ab2c42013c7c65866ce91375e492538988465b402b",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:01:30+00:00",
+  "verified_at": "2026-11-02T18:58:21+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -103,9 +103,10 @@
    "description": "AMD Ryzen 7 5800X CPU",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-amd-ryzen-7-5800x/1-card.jpg",
    "local_path": "/catalog-real/real-amd-ryzen-7-5800x/1.jpg",
-   "local_sha256": "6caf1055c7a74e2c827d9f14cf229d3b0564c7652958f3dc88abba69a234fc73",
-   "local_bytes": 768496
+   "local_sha256": "736db22643ff5ff0dac6554c6ae7183573d3a52eda08dbf848f86b9fd73da7d8",
+   "local_bytes": 679431
   }
  ]
 }

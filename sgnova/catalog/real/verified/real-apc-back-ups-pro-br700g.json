@@ -1,0 +1,98 @@
+{
+ "handle": "real-apc-back-ups-pro-br700g",
+ "brand": "APC",
+ "model": "BR700G",
+ "mpn": "BR700G",
+ "category_handle": "ups",
+ "title": "APC Back-UPS Pro BR700G 700VA Tower UPS",
+ "subtitle": "700VA / 420W | 6 outlets | AVR | LCD | User-replaceable battery",
+ "description": "Compact battery backup for home and small-office electronics, with automatic voltage regulation, an LCD showing load and battery levels, data-line surge protection and a battery the user can swap. Specifications verified against Schneider Electric's official APC product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Power",
+   "label": "Capacity",
+   "value": "700VA / 420W"
+  },
+  {
+   "group": "Power",
+   "label": "Nominal voltage",
+   "value": "120V"
+  },
+  {
+   "group": "Outlets",
+   "label": "Output connections",
+   "value": "6x NEMA 5-15R"
+  },
+  {
+   "group": "Features",
+   "label": "Voltage regulation",
+   "value": "AVR"
+  },
+  {
+   "group": "Features",
+   "label": "Display",
+   "value": "LCD with load and battery bar graphs"
+  },
+  {
+   "group": "Features",
+   "label": "Data line protection",
+   "value": "Yes"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery",
+   "value": "User replaceable"
+  }
+ ],
+ "highlights": [
+  "700VA / 420W capacity",
+  "Six NEMA 5-15R outlets",
+  "AVR corrects voltage swings",
+  "LCD with load and battery bar graphs"
+ ],
+ "review_notes": "Spec source is the US (120V) BR700G page; the Commons photo is labelled BR700G-TW, the Taiwan SKU of the same Back-UPS Pro 700 (Taiwan also uses 110-120V NEMA outlets). Spec table on se.com is script-rendered; specs taken from the title and feature bullets.",
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.apc.com/us/en/product/BR700G/",
+   "publisher": "Schneider Electric (APC)",
+   "final_url": "https://www.se.com/us/en/product/BR700G/apc-backups-pro-700va-420w-tower-120v-6x-nema-515r-outlets-avr-lcd-user-replaceable-battery/",
+   "retrieved_at": "2026-11-02T18:11:23+00:00",
+   "sha256": "91f05a1d7eb8841d99c508554f794d9d2f2e36fdd9e136827286a97fa87cb4d8",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:12:15+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:APC BR700G-TW 20140114.jpg",
+   "categories": [
+    "Category:APC Smart-UPS",
+    "Category:CC-BY-2.0",
+    "Category:Files from MiNe Flickr stream",
+    "Category:Flickr files uploaded by Solomon203 in 2015",
+    "Category:Flickr images reviewed by FlickreviewR"
+   ],
+   "width": 2430,
+   "height": 1620,
+   "mime": "image/jpeg",
+   "sha1": "06bdeb7753e5126ed9786c2bf0cabe19e8b6c458",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/APC_BR700G-TW_20140114.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/APC_BR700G-TW_20140114.jpg/1280px-APC_BR700G-TW_20140114.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:APC_BR700G-TW_20140114.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "artist": "MiNe",
+   "credit": "https://www.flickr.com/photos/sfmine79/11982910335",
+   "description": "​施耐德電機家用及辦公用不斷電系統APC Back-UPS Pro 700，型號為BR700G-TW。",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apc-back-ups-pro-br700g/1-card.jpg",
+   "local_path": "/catalog-real/real-apc-back-ups-pro-br700g/1.jpg",
+   "local_sha256": "2f3c3c08b00f809a70fcd73c0918d06c6cd8b9ce2b212dbb62c930fe1de9abef",
+   "local_bytes": 242357
+  }
+ ]
+}

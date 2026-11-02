@@ -1,0 +1,140 @@
+{
+ "handle": "real-samsung-t9-4tb",
+ "brand": "Samsung",
+ "model": "Portable SSD T9",
+ "mpn": "MU-PG4T0B/EU",
+ "category_handle": "external-storage",
+ "title": "Samsung Portable SSD T9 4TB",
+ "subtitle": "4TB | USB 3.2 Gen 2x2 (20Gbps) | up to 2,000 MB/s",
+ "description": "Samsung's fastest USB portable SSD line, using a USB 3.2 Gen 2x2 (20Gbps) link for up to 2,000 MB/s reads and writes, with drop resistance up to 3 metres and a five-year limited warranty. Specifications checked against Samsung UK's official product page.",
+ "variant_title": "4TB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "4TB"
+  },
+  {
+   "group": "Performance",
+   "label": "Sequential read",
+   "value": "Up to 2,000 MB/s"
+  },
+  {
+   "group": "Performance",
+   "label": "Sequential write",
+   "value": "Up to 2,000 MB/s"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Interface",
+   "value": "USB 3.2 Gen 2x2 (20Gbps)"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions (W x H x D)",
+   "value": "88 x 60 x 14 mm"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight",
+   "value": "122 g"
+  },
+  {
+   "group": "Durability",
+   "label": "Drop resistance",
+   "value": "Up to 3 m"
+  },
+  {
+   "group": "Security",
+   "label": "Encryption",
+   "value": "AES 256-bit hardware encryption"
+  },
+  {
+   "group": "Support",
+   "label": "Warranty",
+   "value": "5-year limited"
+  }
+ ],
+ "highlights": [
+  "4TB capacity",
+  "Up to 2,000 MB/s read and write",
+  "USB 3.2 Gen 2x2 (20Gbps)",
+  "5-year limited warranty"
+ ],
+ "review_notes": [
+  "Both Commons photos show the T9 4TB next to a T5 EVO 8TB; crop or caption accordingly on the product page."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.samsung.com/uk/memory-storage/portable-ssd/portable-ssd-t9-4tb-black-mu-pg4t0b-eu/",
+   "publisher": "Samsung Electronics",
+   "final_url": "https://www.samsung.com/uk/memory-storage/portable-ssd/portable-ssd-t9-4tb-black-mu-pg4t0b-eu/",
+   "retrieved_at": "2026-11-02T18:05:42+00:00",
+   "sha256": "656755e35200f2352f8d34f3b09581396101f82e1b2f5a5fa33f37db22a761e7",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:06:55+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:SAMSUNG PROTABLE SSD T5 EVO 8TB & SAMSUNG PROTABLE SSD T9 4TB FRONT SIDE.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Samsung solid state drives",
+    "Category:Self-published work",
+    "Category:Taken with Canon EOS R5",
+    "Category:Taken with Canon RF 24-70mm F2.8L IS USM"
+   ],
+   "width": 7861,
+   "height": 2771,
+   "mime": "image/jpeg",
+   "sha1": "cc96f7439d82e1252596be2f9567a4e149bc06c0",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/SAMSUNG_PROTABLE_SSD_T5_EVO_8TB_%26_SAMSUNG_PROTABLE_SSD_T9_4TB_FRONT_SIDE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/SAMSUNG_PROTABLE_SSD_T5_EVO_8TB_%26_SAMSUNG_PROTABLE_SSD_T9_4TB_FRONT_SIDE.jpg/1280px-SAMSUNG_PROTABLE_SSD_T5_EVO_8TB_%26_SAMSUNG_PROTABLE_SSD_T9_4TB_FRONT_SIDE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:SAMSUNG_PROTABLE_SSD_T5_EVO_8TB_%26_SAMSUNG_PROTABLE_SSD_T9_4TB_FRONT_SIDE.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Dinkun Chen",
+   "credit": "Own work",
+   "description": "SAMSUNG PROTABLE SSD T5 EVO 8TB &amp; SAMSUNG PROTABLE SSD T9 4TB FRONT SIDE",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-samsung-t9-4tb/1-card.jpg",
+   "local_path": "/catalog-real/real-samsung-t9-4tb/1.jpg",
+   "local_sha256": "375383ddc8d7580fc8ee6aa4407df722756110ff31782c226eacb0c0d797b0e2",
+   "local_bytes": 78447
+  },
+  {
+   "title": "File:SAMSUNG PROTABLE SSD T5 EVO 8TB & SAMSUNG PROTABLE SSD T9 4TB REAR SIDE.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Samsung solid state drives",
+    "Category:Self-published work",
+    "Category:Taken with Canon EOS R5",
+    "Category:Taken with Canon RF 24-70mm F2.8L IS USM"
+   ],
+   "width": 7801,
+   "height": 2767,
+   "mime": "image/jpeg",
+   "sha1": "5e64fe4938670dac853c87a24b4f1db9f8367a88",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/SAMSUNG_PROTABLE_SSD_T5_EVO_8TB_%26_SAMSUNG_PROTABLE_SSD_T9_4TB_REAR_SIDE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/SAMSUNG_PROTABLE_SSD_T5_EVO_8TB_%26_SAMSUNG_PROTABLE_SSD_T9_4TB_REAR_SIDE.jpg/1280px-SAMSUNG_PROTABLE_SSD_T5_EVO_8TB_%26_SAMSUNG_PROTABLE_SSD_T9_4TB_REAR_SIDE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:SAMSUNG_PROTABLE_SSD_T5_EVO_8TB_%26_SAMSUNG_PROTABLE_SSD_T9_4TB_REAR_SIDE.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Dinkun Chen",
+   "credit": "Own work",
+   "description": "SAMSUNG PROTABLE SSD T5 EVO 8TB &amp; SAMSUNG PROTABLE SSD T9 4TB REAR SIDE",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-samsung-t9-4tb/2-card.jpg",
+   "local_path": "/catalog-real/real-samsung-t9-4tb/2.jpg",
+   "local_sha256": "0723e82e40c22ff1417e2dda415ab70d549180958e8ed9ed9bb3b173d2e39248",
+   "local_bytes": 66279
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "handle": "real-google-pixel-9-pro-128gb",
+ "brand": "Google",
+ "model": "Pixel 9 Pro",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Google Pixel 9 Pro (128GB)",
+ "subtitle": "6.3-inch Super Actua LTPO | Tensor G4 | 5x telephoto",
+ "description": "Google Pixel 9 Pro with 128GB of storage and 16GB of RAM, powered by Google Tensor G4, with a compact 6.3-inch Super Actua LTPO OLED display at 1-120Hz, a triple rear camera with a 48MP 5x telephoto and a 42MP autofocus selfie camera. Specifications were verified against Google's official Pixel hardware tech specs page.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.3-inch Super Actua LTPO OLED, 1280 x 2856, 495 ppi"
+  },
+  {
+   "group": "Display",
+   "label": "Refresh rate",
+   "value": "1-120Hz"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Google Tensor G4"
+  },
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "16GB RAM, 128GB storage"
+  },
+  {
+   "group": "Camera",
+   "label": "Wide camera",
+   "value": "50MP, f/1.68"
+  },
+  {
+   "group": "Camera",
+   "label": "Telephoto camera",
+   "value": "48MP, f/2.8, 5x optical zoom"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "42MP with autofocus, f/2.2"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery capacity",
+   "value": "4700 mAh typical (4558 mAh minimum)"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions and weight",
+   "value": "152.8 x 72.0 x 8.5 mm, 199 g"
+  }
+ ],
+ "highlights": [
+  "6.3-inch Super Actua LTPO OLED, 1-120Hz",
+  "Google Tensor G4 with 16GB RAM",
+  "50MP wide, 48MP ultrawide, 48MP 5x telephoto",
+  "42MP autofocus selfie camera"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 9 pro tech specs",
+   "scope_end": "tech specs",
+   "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "retrieved_at": "2026-11-02T16:29:27+00:00",
+   "sha256": "0f4a52cf5ffd0cb50001020950ea033036dc061faeb1c40b0fdf63beec941e0c",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:10:48+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Camera of Google Pixel 9 Pro - 1.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Google Pixel 9 Pro",
+    "Category:Self-published work"
+   ],
+   "width": 2160,
+   "height": 3840,
+   "mime": "image/jpeg",
+   "sha1": "dc0d4dc5bf5f9d62464d930ddb477fae7073a3b5",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Camera_of_Google_Pixel_9_Pro_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Camera_of_Google_Pixel_9_Pro_-_1.jpg/1280px-Camera_of_Google_Pixel_9_Pro_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Camera_of_Google_Pixel_9_Pro_-_1.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Kyu3a",
+   "credit": "Own work",
+   "description": "Google Pixel 9 Proの背面カメラ。",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-google-pixel-9-pro-128gb/1-card.jpg",
+   "local_path": "/catalog-real/real-google-pixel-9-pro-128gb/1.jpg",
+   "local_sha256": "371c1ff4b5e1a8ddd6f08da52558330f12d81785633345e54af7dfa31a0c436b",
+   "local_bytes": 115423
+  },
+  {
+   "title": "File:Camera of Google Pixel 9 Pro - 2.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Google Pixel 9 Pro",
+    "Category:Self-published work"
+   ],
+   "width": 2160,
+   "height": 3840,
+   "mime": "image/jpeg",
+   "sha1": "076a1ba804527c0a2e9d6379b5638639556e5fc5",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Camera_of_Google_Pixel_9_Pro_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Camera_of_Google_Pixel_9_Pro_-_2.jpg/1280px-Camera_of_Google_Pixel_9_Pro_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Camera_of_Google_Pixel_9_Pro_-_2.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Kyu3a",
+   "credit": "Own work",
+   "description": "Google Pixel 9 Proの背面カメラ。",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-google-pixel-9-pro-128gb/2-card.jpg",
+   "local_path": "/catalog-real/real-google-pixel-9-pro-128gb/2.jpg",
+   "local_sha256": "f641863261f6c59d5c0444882b16cbae4df580f2eb51f1a455965147bfedc5a4",
+   "local_bytes": 126743
+  }
+ ]
+}

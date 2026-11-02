@@ -1,0 +1,133 @@
+{
+ "handle": "real-xiaomi-13-lite-8gb-256gb",
+ "brand": "Xiaomi",
+ "model": "Xiaomi 13 Lite",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Xiaomi 13 Lite (8GB+256GB)",
+ "subtitle": "6.55-inch 120Hz AMOLED | Snapdragon 7 Gen 1 | 32MP dual selfie",
+ "description": "Xiaomi 13 Lite with 256GB of storage, a slim 7.23mm body, a 6.55-inch 120Hz AMOLED display, the Snapdragon 7 Gen 1, a 50MP Sony IMX766 main camera, a 32MP ultra-wide selfie camera and a 4500mAh battery with 67W charging. Specifications were verified against Xiaomi's official global specs page.",
+ "variant_title": "8GB+256GB",
+ "specs": [
+  {
+   "group": "Memory",
+   "label": "Storage",
+   "value": "8GB+256GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.55-inch FHD+ AMOLED, 120Hz"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2400 x 1080, 402 ppi"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions and weight",
+   "value": "159.2 x 72.7 x 7.23 mm, 171 g"
+  },
+  {
+   "group": "Camera",
+   "label": "Main camera",
+   "value": "50MP wide, f/1.8, Sony IMX766"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "32MP ultra-wide, f/2.4"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Snapdragon 7 Gen 1 (4nm)"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery and charging",
+   "value": "4500mAh, 67W"
+  }
+ ],
+ "highlights": [
+  "6.55-inch 120Hz AMOLED, Dolby Vision",
+  "Snapdragon 7 Gen 1",
+  "50MP Sony IMX766 main camera",
+  "32MP ultra-wide selfie camera with dual flash"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/xiaomi-13-lite/specs/",
+   "publisher": "Xiaomi",
+   "final_url": "https://www.mi.com/global/product/xiaomi-13-lite/specs/",
+   "retrieved_at": "2026-11-02T17:48:48+00:00",
+   "sha256": "8421f9046ecb1aa17232e0d6cf7755a8c2154c56cae5eab80e2369a2e80c19d0",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:11:26+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Xiaomi 13 Lite back.jpg",
+   "categories": [
+    "Category:Backs of smartphones",
+    "Category:Blue mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Self-published work",
+    "Category:Taken with Xiaomi Redmi Note 10 Pro",
+    "Category:Xiaomi 13 Lite"
+   ],
+   "width": 1516,
+   "height": 2021,
+   "mime": "image/jpeg",
+   "sha1": "d9db0826815644624264392af38e5b0fc09435ca",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Xiaomi_13_Lite_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Xiaomi_13_Lite_back.jpg/1280px-Xiaomi_13_Lite_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Xiaomi_13_Lite_back.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Maksdroider",
+   "credit": "Own work",
+   "description": "The back of Xiaomi 13 Lite in Blue",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-xiaomi-13-lite-8gb-256gb/1-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-13-lite-8gb-256gb/1.jpg",
+   "local_sha256": "9eea22e941bbdb7b8bb79a6552c7a4ac5d635b2c019de3d3973e50ddec29a784",
+   "local_bytes": 136734
+  },
+  {
+   "title": "File:Xiaomi 13 Lite front.jpg",
+   "categories": [
+    "Category:Blue mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Front of smartphones",
+    "Category:Self-published work",
+    "Category:Taken with Xiaomi Redmi Note 10 Pro",
+    "Category:Xiaomi 13 Lite"
+   ],
+   "width": 1607,
+   "height": 2143,
+   "mime": "image/jpeg",
+   "sha1": "7e956a4e460a6af87160cb6e1fc3e13882c57b06",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Xiaomi_13_Lite_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Xiaomi_13_Lite_front.jpg/1280px-Xiaomi_13_Lite_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Xiaomi_13_Lite_front.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Maksdroider",
+   "credit": "Own work",
+   "description": "The front of Xiaomi 13 Lite",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-xiaomi-13-lite-8gb-256gb/2-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-13-lite-8gb-256gb/2.jpg",
+   "local_sha256": "aa8ff2bc0fc2d2e776587e5e766068972d38fdf1a27549abd536b8c4ead5845f",
+   "local_bytes": 131649
+  }
+ ]
+}

@@ -72,7 +72,7 @@
    "sha256": "178379cb584276d891501379830ddfcaff51f64c32b1b96149f0928709669fa0",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:03+00:00",
+  "verified_at": "2026-11-02T19:00:05+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -97,9 +97,10 @@
    "description": "A top view of the 13-inch M4 MacBook Air in Silver running macOS Tahoe.",
    "attribution_required": "false",
    "index": 1,
+   "card_path": "/catalog-real/real-apple-macbook-air-13-m4-16gb-256gb/1-card.jpg",
    "local_path": "/catalog-real/real-apple-macbook-air-13-m4-16gb-256gb/1.jpg",
-   "local_sha256": "075ecfe960cf3f5aa8affd1a69db81de256f7600772f63db55747380591566a0",
-   "local_bytes": 394258
+   "local_sha256": "7a4081602abaf61ddfe409518bc0e30c3909fbd39f567aa07352439984aadf5b",
+   "local_bytes": 359494
   }
  ]
 }

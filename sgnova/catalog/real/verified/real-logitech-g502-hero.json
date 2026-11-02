@@ -1,0 +1,92 @@
+{
+ "handle": "real-logitech-g502-hero",
+ "brand": "Logitech",
+ "model": "G502 HERO",
+ "mpn": null,
+ "category_handle": "gaming-mouse",
+ "title": "Logitech G502 HERO Wired Gaming Mouse",
+ "subtitle": "HERO 25K | 11 programmable buttons | adjustable weights",
+ "description": "Wired gaming mouse with the HERO 25K sensor, 11 programmable buttons, onboard profiles, LIGHTSYNC RGB and repositionable weights. Specifications verified against Logitech's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "Sensor",
+   "value": "HERO 25K"
+  },
+  {
+   "group": "Performance",
+   "label": "DPI range",
+   "value": "100-25,600"
+  },
+  {
+   "group": "Performance",
+   "label": "Tracking speed",
+   "value": "400+ IPS"
+  },
+  {
+   "group": "Features",
+   "label": "Programmable buttons",
+   "value": "11"
+  },
+  {
+   "group": "Features",
+   "label": "Weights",
+   "value": "Repositionable"
+  },
+  {
+   "group": "Features",
+   "label": "Lighting",
+   "value": "LIGHTSYNC RGB"
+  }
+ ],
+ "highlights": [
+  "HERO 25K sensor, 100-25,600 DPI",
+  "11 programmable buttons",
+  "Adjustable weights",
+  "Onboard profiles"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.logitechg.com/en-us/shop/p/g502-hero-gaming-mouse",
+   "publisher": "Logitech",
+   "final_url": "https://www.logitechg.com/en-us/shop/p/g502-hero-gaming-mouse",
+   "retrieved_at": "2026-11-02T18:06:05+00:00",
+   "sha256": "1461d378a7b22c133717c7d8a1145835094d8c6b43ef65b8e138dd0a35d3a0da",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:09:26+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Logitech G502 Hero.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Logitech G502",
+    "Category:Self-published work",
+    "Category:Taken with Xiaomi Redmi Note 10 Pro"
+   ],
+   "width": 4030,
+   "height": 2267,
+   "mime": "image/jpeg",
+   "sha1": "06427d7792eee8f66051ec448fb0a81ed0c8d2d2",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Logitech_G502_Hero.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Logitech_G502_Hero.jpg/1280px-Logitech_G502_Hero.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Logitech_G502_Hero.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Panthermail",
+   "credit": "Own work",
+   "description": "The Logitech G502 Hero ( RGB lights set to orange)",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-logitech-g502-hero/1-card.jpg",
+   "local_path": "/catalog-real/real-logitech-g502-hero/1.jpg",
+   "local_sha256": "973f8b9d349ecee23d76a6997bcb63f0b73e44fdec276010e013ab77f5e4e2ff",
+   "local_bytes": 98630
+  }
+ ]
+}

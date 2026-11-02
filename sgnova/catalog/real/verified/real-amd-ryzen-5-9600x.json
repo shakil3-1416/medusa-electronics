@@ -1,0 +1,148 @@
+{
+ "handle": "real-amd-ryzen-5-9600x",
+ "brand": "AMD",
+ "model": "Ryzen 5 9600X",
+ "mpn": "100-100001405WOF",
+ "category_handle": "processor",
+ "title": "AMD Ryzen 5 9600X Desktop Processor",
+ "subtitle": "6 cores / 12 threads | up to 5.4 GHz | AM5",
+ "description": "6-core AMD desktop processor for the AM5 socket with 32 MB of L3 cache and boost clocks up to 5.4 GHz. Specifications checked against AMD's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Processor",
+   "label": "Cores",
+   "value": "6"
+  },
+  {
+   "group": "Processor",
+   "label": "Threads",
+   "value": "12"
+  },
+  {
+   "group": "Clock",
+   "label": "Max boost clock",
+   "value": "Up to 5.4 GHz"
+  },
+  {
+   "group": "Clock",
+   "label": "Base clock",
+   "value": "3.9 GHz"
+  },
+  {
+   "group": "Cache",
+   "label": "L3 cache",
+   "value": "32 MB"
+  },
+  {
+   "group": "Power",
+   "label": "Default TDP",
+   "value": "65W"
+  },
+  {
+   "group": "Platform",
+   "label": "Socket",
+   "value": "AM5"
+  },
+  {
+   "group": "Platform",
+   "label": "PCI Express",
+   "value": "PCIe 5.0"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory type",
+   "value": "DDR5"
+  },
+  {
+   "group": "Build",
+   "label": "Process",
+   "value": "TSMC 4nm FinFET"
+  },
+  {
+   "group": "Graphics",
+   "label": "Integrated graphics",
+   "value": "AMD Radeon Graphics"
+  }
+ ],
+ "highlights": [
+  "6 cores, 12 threads",
+  "Up to 5.4 GHz boost",
+  "32 MB L3 cache",
+  "AM5 socket, DDR5 memory"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-5-9600x.html",
+   "publisher": "Advanced Micro Devices, Inc.",
+   "final_url": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-5-9600x.html",
+   "retrieved_at": "2026-11-02T17:55:33+00:00",
+   "sha256": "25f2c76f1379aa86be8de6ee15d121b509e594a4fd11a5eeefd0b9faea44efee",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:06:15+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:AMD@4nmCCD(6nmIOD)@Zen5@Granite Ridge@Ryzen 5 9600X@100-000001405 BY 2429SUY 9AEQ579S40073 DSCx01.jpg",
+   "categories": [
+    "Category:AMD Ryzen 5 9600X",
+    "Category:CC-Zero",
+    "Category:Files uploaded by PantheraLeo1359531",
+    "Category:Flickr images reviewed by FlickreviewR 2",
+    "Category:Photographs by Fritz Fritzchens",
+    "Category:Top views of microprocessors"
+   ],
+   "width": 2952,
+   "height": 2951,
+   "mime": "image/jpeg",
+   "sha1": "bd7d892e913b36033e5fa858b24a597c5f8c2cfa",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/AMD%404nmCCD%286nmIOD%29%40Zen5%40Granite_Ridge%40Ryzen_5_9600X%40100-000001405_BY_2429SUY_9AEQ579S40073_DSCx01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/AMD%404nmCCD%286nmIOD%29%40Zen5%40Granite_Ridge%40Ryzen_5_9600X%40100-000001405_BY_2429SUY_9AEQ579S40073_DSCx01.jpg/1280px-AMD%404nmCCD%286nmIOD%29%40Zen5%40Granite_Ridge%40Ryzen_5_9600X%40100-000001405_BY_2429SUY_9AEQ579S40073_DSCx01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:AMD@4nmCCD(6nmIOD)@Zen5@Granite_Ridge@Ryzen_5_9600X@100-000001405_BY_2429SUY_9AEQ579S40073_DSCx01.jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "FritzchensFritz",
+   "credit": "https://www.flickr.com/photos/130561288@N04/54046477591/",
+   "description": "AMD Ryzen 5 9600X\n(Zen 5 | Granite Ridge )",
+   "attribution_required": "false",
+   "index": 1,
+   "card_path": "/catalog-real/real-amd-ryzen-5-9600x/1-card.jpg",
+   "local_path": "/catalog-real/real-amd-ryzen-5-9600x/1.jpg",
+   "local_sha256": "382a842a808b5266f15f5b43ba090dcd968dc06b6d6ffc2ef69431dbacafffc3",
+   "local_bytes": 479444
+  },
+  {
+   "title": "File:AMD@4nmCCD(6nmIOD)@Zen5@Granite Ridge@Ryzen 5 9600X@100-000001405 BY 2429SUY 9AEQ579S40073 DSCx02.jpg",
+   "categories": [
+    "Category:AMD Ryzen 5 9600X",
+    "Category:CC-Zero",
+    "Category:Files uploaded by PantheraLeo1359531",
+    "Category:Flickr images missing SDC published in",
+    "Category:Flickr images reviewed by FlickreviewR 2",
+    "Category:Photographs by Fritz Fritzchens"
+   ],
+   "width": 2952,
+   "height": 2951,
+   "mime": "image/jpeg",
+   "sha1": "b3d0c48a5714c96a5d7b4b204452e4515e622096",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/AMD%404nmCCD%286nmIOD%29%40Zen5%40Granite_Ridge%40Ryzen_5_9600X%40100-000001405_BY_2429SUY_9AEQ579S40073_DSCx02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/AMD%404nmCCD%286nmIOD%29%40Zen5%40Granite_Ridge%40Ryzen_5_9600X%40100-000001405_BY_2429SUY_9AEQ579S40073_DSCx02.jpg/1280px-AMD%404nmCCD%286nmIOD%29%40Zen5%40Granite_Ridge%40Ryzen_5_9600X%40100-000001405_BY_2429SUY_9AEQ579S40073_DSCx02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:AMD@4nmCCD(6nmIOD)@Zen5@Granite_Ridge@Ryzen_5_9600X@100-000001405_BY_2429SUY_9AEQ579S40073_DSCx02.jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "FritzchensFritz",
+   "credit": "https://www.flickr.com/photos/130561288@N04/54045630397/",
+   "description": "AMD Ryzen 5 9600X\n(Zen 5 | Granite Ridge )\n\npackage: 40.02mm x 40.02mm x 1.35mm",
+   "attribution_required": "false",
+   "index": 2,
+   "card_path": "/catalog-real/real-amd-ryzen-5-9600x/2-card.jpg",
+   "local_path": "/catalog-real/real-amd-ryzen-5-9600x/2.jpg",
+   "local_sha256": "c78bc890d454dadd59ce3692f931a24499d835f900245b15410c0099b70896ac",
+   "local_bytes": 530423
+  }
+ ]
+}

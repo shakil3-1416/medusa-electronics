@@ -1,0 +1,150 @@
+{
+ "handle": "real-apple-iphone-8-plus-64gb",
+ "brand": "Apple",
+ "model": "iPhone 8 Plus",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 8 Plus (64GB)",
+ "subtitle": "5.5-inch widescreen LCD | A11 Bionic | 64GB",
+ "description": "Apple iPhone 8 Plus smartphone in the 64GB storage configuration. It runs on the A11 Bionic chip and has a 5.5-inch widescreen LCD screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "64GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "64GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "5.5-inch widescreen LCD Multi-Touch display with IPS technology"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "1920 x 1080 at 401 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A11 Bionic"
+  },
+  {
+   "group": "Camera",
+   "label": "Main camera",
+   "value": "12MP, f/1.8"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "IP67, up to 1 m for 30 minutes"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "202 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "158.4 x 78.1 x 7.5 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "802.11ac Wi-Fi"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.0"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "Lightning"
+  }
+ ],
+ "highlights": [
+  "5.5-inch widescreen LCD display",
+  "1920 x 1080 at 401 ppi resolution",
+  "A11 Bionic chip",
+  "Main camera: 12MP, f/1.8"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111950",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111950",
+   "retrieved_at": "2026-11-02T17:55:08+00:00",
+   "sha256": "1057a41fe3a0f225dba5e520332cc539e401fb433ef477eac8d9072e8dbe1773",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:02:27+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPhone 8 Plus (SpaceGray).jpg",
+   "categories": [
+    "Category:Backs of iPhones",
+    "Category:CC-BY-SA-4.0",
+    "Category:F-number f/4.1",
+    "Category:IPhone 8 Plus",
+    "Category:Lens focal length 17 mm",
+    "Category:Self-published work",
+    "Category:Taken with Panasonic Lumix DMC-GX7"
+   ],
+   "width": 4592,
+   "height": 2584,
+   "mime": "image/jpeg",
+   "sha1": "6257cfcfaba2121eda4377f10a24170bc7cb3978",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/IPhone_8_Plus_%28SpaceGray%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/IPhone_8_Plus_%28SpaceGray%29.jpg/1280px-IPhone_8_Plus_%28SpaceGray%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_8_Plus_(SpaceGray).jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Zoom-Zoomers.ts",
+   "credit": "Own work",
+   "description": "iPhone 8 Plus (SpaceGray) 64GB",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-8-plus-64gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-8-plus-64gb/1.jpg",
+   "local_sha256": "9c7057418edfbc1b9b1e4b56007856be4c45b98122666f7286d792e65404850b",
+   "local_bytes": 193709
+  },
+  {
+   "title": "File:IPhone 8 Plus silver.jpg",
+   "categories": [
+    "Category:Backs of iPhones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 8 Plus",
+    "Category:Self-published work",
+    "Category:Silver-colored mobile phones",
+    "Category:Taken with iPhone 12 Pro Max"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "62e47d805d02bf1545cdf04cfc76100c08b66c86",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/IPhone_8_Plus_silver.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/IPhone_8_Plus_silver.jpg/1280px-IPhone_8_Plus_silver.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_8_Plus_silver.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "茅野ふたば",
+   "credit": "Own work",
+   "description": "iPhone 8 Plus silver.",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-8-plus-64gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-8-plus-64gb/2.jpg",
+   "local_sha256": "c9cf3e445836291eca0d798ff4a67a1e0a65e64aae6685a27265ffb14c6faf60",
+   "local_bytes": 226931
+  }
+ ]
+}

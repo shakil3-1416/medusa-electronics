@@ -67,7 +67,7 @@
    "sha256": "c8563ee04ccc51b11b93a0ef54d78a277dd6af1c431c09176ba4d0f8e9e6b846",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:43+00:00",
+  "verified_at": "2026-11-02T19:01:28+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -92,9 +92,10 @@
    "description": "AirPods generation 3",
    "attribution_required": "false",
    "index": 1,
+   "card_path": "/catalog-real/real-apple-airpods-3/1-card.jpg",
    "local_path": "/catalog-real/real-apple-airpods-3/1.jpg",
-   "local_sha256": "41359798b90babd7ccccc046412630459f96f826bb1e435bb40b7f9bf55259dc",
-   "local_bytes": 161537
+   "local_sha256": "111bc41648a13142579e4290c9ef1bac2845cb0fa6d88629a79bbb84f18e59d4",
+   "local_bytes": 157354
   }
  ]
 }

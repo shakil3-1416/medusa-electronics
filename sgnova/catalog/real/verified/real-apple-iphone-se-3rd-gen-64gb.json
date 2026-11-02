@@ -67,7 +67,7 @@
    "sha256": "587a05bcef9ebb9be93ae26cd7e9026bf2ba6360c1df7030365d1c136f9ffb57",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:01:05+00:00",
+  "verified_at": "2026-11-02T18:57:42+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -94,9 +94,10 @@
    "description": "An iPhone SE 3rd Generation.",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-se-3rd-gen-64gb/1-card.jpg",
    "local_path": "/catalog-real/real-apple-iphone-se-3rd-gen-64gb/1.jpg",
-   "local_sha256": "fec3fded999885b743966e5c985b821dab9526866474a4f0b2513ebe35de075f",
-   "local_bytes": 388528
+   "local_sha256": "dff23cf338671dd0bfeb9e5e3c34d33a9ddfadac06d9f57f18dc4da1b83bc090",
+   "local_bytes": 245983
   }
  ]
 }

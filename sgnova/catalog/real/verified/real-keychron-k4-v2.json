@@ -1,0 +1,102 @@
+{
+ "handle": "real-keychron-k4-v2",
+ "brand": "Keychron",
+ "model": "K4 (Version 2)",
+ "mpn": null,
+ "category_handle": "mechanical-keyboard",
+ "title": "Keychron K4 96% Wireless Mechanical Keyboard (Version 2)",
+ "subtitle": "96% layout | Bluetooth 3 devices | 4000 mAh",
+ "description": "Compact 96% wireless mechanical keyboard that keeps a number pad, with Gateron G Pro switches, RGB backlight and Bluetooth for up to three devices. Specifications verified against Keychron's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Layout",
+   "label": "Layout",
+   "value": "96%"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connectivity",
+   "value": "Bluetooth (up to 3 devices), wired; 1000 Hz"
+  },
+  {
+   "group": "Build",
+   "label": "Switches",
+   "value": "Gateron G Pro mechanical"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery",
+   "value": "4000 mAh, up to 240 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Backlight",
+   "value": "4-level RGB"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight (plastic frame)",
+   "value": "About 770 g"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions (plastic frame)",
+   "value": "371 x 124 x 38 mm"
+  }
+ ],
+ "highlights": [
+  "96% layout with number pad",
+  "Bluetooth up to 3 devices + wired",
+  "4000 mAh battery, up to 240 h",
+  "Gateron G Pro switches"
+ ],
+ "review_notes": [
+  "Photo is titled 'Keychron K4' without a version; specs are for K4 Version 2."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.keychron.com/products/keychron-k4-wireless-mechanical-keyboard-version-2",
+   "publisher": "Keychron",
+   "final_url": "https://www.keychron.com/products/keychron-k4-wireless-mechanical-keyboard-version-2",
+   "retrieved_at": "2026-11-02T18:07:43+00:00",
+   "sha256": "dd881bf4ebded86eba68e593b394a5f95edb7f3b3cdb6861b5ccd60145683d66",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:09:19+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Keychron K4 mechanical keyboard.jpg",
+   "categories": [
+    "Category:CC-BY-3.0",
+    "Category:Files from external sources with reviewed licenses",
+    "Category:Keyboards with Apple-compatible layout",
+    "Category:Keychron keyboards",
+    "Category:Media from YouTube",
+    "Category:Multilingual keyboards",
+    "Category:Thai keyboard layouts"
+   ],
+   "width": 1788,
+   "height": 863,
+   "mime": "image/jpeg",
+   "sha1": "31ece74723d29c8e063a50ebae7686318818f1d2",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Keychron_K4_mechanical_keyboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Keychron_K4_mechanical_keyboard.jpg/1280px-Keychron_K4_mechanical_keyboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Keychron_K4_mechanical_keyboard.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "artist": "iMoD Official YouTube channel",
+   "credit": "YouTube: https://www.youtube.com/watch?v=Cep4V0oXVHk&amp;t=232s – View/save archived versions on archive.org",
+   "description": "Keychron K4 mechanical keyboard",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-keychron-k4-v2/1-card.jpg",
+   "local_path": "/catalog-real/real-keychron-k4-v2/1.jpg",
+   "local_sha256": "8740dd6380d0ec30ead563cc016c048e3c2164a24b8efc986dc30bacb94ebee9",
+   "local_bytes": 109182
+  }
+ ]
+}

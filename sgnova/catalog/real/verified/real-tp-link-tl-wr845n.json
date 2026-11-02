@@ -1,0 +1,91 @@
+{
+ "handle": "real-tp-link-tl-wr845n",
+ "brand": "TP-Link",
+ "model": "TL-WR845N",
+ "mpn": null,
+ "category_handle": "router",
+ "title": "TP-Link TL-WR845N 300 Mbps Wireless N Router",
+ "subtitle": "N300 | 3 antennas | 4 LAN ports",
+ "description": "2.4 GHz Wi-Fi 4 router with three fixed antennas and Fast Ethernet ports, supporting router, access point, range extender and WISP modes. Specifications verified against TP-Link's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Wireless",
+   "label": "Wi-Fi class",
+   "value": "N300"
+  },
+  {
+   "group": "Wireless",
+   "label": "2.4 GHz rate",
+   "value": "300 Mbps"
+  },
+  {
+   "group": "Wireless",
+   "label": "Antennas",
+   "value": "3 fixed"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "1 x 10/100 WAN, 4 x 10/100 LAN"
+  },
+  {
+   "group": "Power",
+   "label": "Power",
+   "value": "9 V 0.6 A"
+  },
+  {
+   "group": "Wireless",
+   "label": "Working modes",
+   "value": "Router, AP, range extender, WISP"
+  }
+ ],
+ "highlights": [
+  "N300 2.4 GHz Wi-Fi 4",
+  "Three fixed antennas",
+  "4 x 10/100 LAN ports",
+  "Router, AP, extender and WISP modes"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.tp-link.com/in/home-networking/wifi-router/tl-wr845n/",
+   "publisher": "TP-Link",
+   "final_url": "https://www.tp-link.com/in/home-networking/wifi-router/tl-wr845n/",
+   "retrieved_at": "2026-11-02T18:26:33+00:00",
+   "sha256": "44e01e966525ade3cdcf79852f41eb0b8ce381791e17d6b0b69aab747467f683",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:09:37+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:TP-Link Wireless N Router WR845N.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Self-published work",
+    "Category:TP-Link Wi-Fi routers and access points"
+   ],
+   "width": 4032,
+   "height": 3024,
+   "mime": "image/jpeg",
+   "sha1": "232cd9b78c9629b39d05ae939b8bf23fe50761a7",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/TP-Link_Wireless_N_Router_WR845N.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/TP-Link_Wireless_N_Router_WR845N.jpg/1280px-TP-Link_Wireless_N_Router_WR845N.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:TP-Link_Wireless_N_Router_WR845N.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Kskhh",
+   "credit": "Own work",
+   "description": "A white wall mounted TP-Link Wireless N Router WR845N Model No. TL-WR845N",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-tp-link-tl-wr845n/1-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-tl-wr845n/1.jpg",
+   "local_sha256": "735f389850567a5582121c2f37592ba71b9355545f6374f21522e5323eef1605",
+   "local_bytes": 216439
+  }
+ ]
+}

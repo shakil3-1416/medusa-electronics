@@ -82,7 +82,7 @@
    "sha256": "007162772b06533bd64572a282082d4d7c00d5262cc51617e725914397519447",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:01:52+00:00",
+  "verified_at": "2026-11-02T18:59:20+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -110,9 +110,10 @@
    "description": "A black Corsair 4000D Airflow mid-tower ATX computer case photographed against a white backdrop. The computer case has an open side and no internal components installed. It was manufactured in 2023.",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-corsair-4000d-airflow-black/1-card.jpg",
    "local_path": "/catalog-real/real-corsair-4000d-airflow-black/1.jpg",
-   "local_sha256": "be0990f308ef8464af788a27dd0498de901bf7ca28749fdbbddba5eda5c3e3dd",
-   "local_bytes": 250132
+   "local_sha256": "5997d13c644aa23cc8bc79c1d32903fbd7d8f672479be3fdfd8785005678818e",
+   "local_bytes": 171853
   }
  ]
 }

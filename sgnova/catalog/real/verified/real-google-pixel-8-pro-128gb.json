@@ -1,0 +1,144 @@
+{
+ "handle": "real-google-pixel-8-pro-128gb",
+ "brand": "Google",
+ "model": "Pixel 8 Pro",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Google Pixel 8 Pro (128GB)",
+ "subtitle": "6.7-inch Super Actua LTPO OLED | Tensor G3 | 5x telephoto",
+ "description": "Google Pixel 8 Pro with 128GB of storage and 12GB of RAM, powered by Google Tensor G3, with a 6.7-inch Super Actua LTPO OLED display that runs from 1 to 120Hz and a triple rear camera system with a 48MP 5x telephoto. Specifications were verified against Google's official Pixel hardware tech specs page.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.7-inch Super Actua LTPO OLED, 1344 x 2992, 489 ppi"
+  },
+  {
+   "group": "Display",
+   "label": "Refresh rate",
+   "value": "1-120Hz"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Google Tensor G3"
+  },
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "12GB LPDDR5X RAM, 128GB UFS 3.1"
+  },
+  {
+   "group": "Camera",
+   "label": "Wide camera",
+   "value": "50MP, f/1.68"
+  },
+  {
+   "group": "Camera",
+   "label": "Ultrawide camera",
+   "value": "48MP with autofocus, f/1.95"
+  },
+  {
+   "group": "Camera",
+   "label": "Telephoto camera",
+   "value": "48MP, f/2.8, 5x optical zoom"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery capacity",
+   "value": "5050 mAh typical (4950 mAh minimum)"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions",
+   "value": "162.6 x 76.5 x 8.8 mm"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "213 g"
+  }
+ ],
+ "highlights": [
+  "6.7-inch Super Actua LTPO OLED, 1-120Hz",
+  "Google Tensor G3 with 12GB RAM",
+  "50MP wide, 48MP ultrawide, 48MP 5x telephoto",
+  "5050 mAh typical battery"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 8 pro tech specs",
+   "scope_end": "tech specs",
+   "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "retrieved_at": "2026-11-02T16:29:27+00:00",
+   "sha256": "0f4a52cf5ffd0cb50001020950ea033036dc061faeb1c40b0fdf63beec941e0c",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:10:33+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Google Pixel 8 Pro.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Google Pixel 8 Pro",
+    "Category:Self-published work"
+   ],
+   "width": 6048,
+   "height": 4024,
+   "mime": "image/jpeg",
+   "sha1": "9828da42d366cb027438050f48f20a170080862f",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Google_Pixel_8_Pro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Google_Pixel_8_Pro.jpg/1280px-Google_Pixel_8_Pro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Google_Pixel_8_Pro.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "SimonWaldherr",
+   "credit": "Own work",
+   "description": "Google Pixel 8 Pro",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-google-pixel-8-pro-128gb/1-card.jpg",
+   "local_path": "/catalog-real/real-google-pixel-8-pro-128gb/1.jpg",
+   "local_sha256": "dffd0ea0fa893b8b40b9769ac0864affa5de8dce49cd24035f5669c30defa881",
+   "local_bytes": 81123
+  },
+  {
+   "title": "File:Google Pixel 8 Pro, shown in Shibuya Stream.jpg",
+   "categories": [
+    "Category:CC-Zero",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Google Pixel 8 Pro",
+    "Category:Google Shibuya office",
+    "Category:Japan photographs taken on 2023-10-17",
+    "Category:Self-published work",
+    "Category:Uploaded with Mobile/Android"
+   ],
+   "width": 3072,
+   "height": 4080,
+   "mime": "image/jpeg",
+   "sha1": "19ebd3d9830f07b2f7d4bd6e19831a5d6e0e9b3c",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Google_Pixel_8_Pro%2C_shown_in_Shibuya_Stream.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Google_Pixel_8_Pro%2C_shown_in_Shibuya_Stream.jpg/1280px-Google_Pixel_8_Pro%2C_shown_in_Shibuya_Stream.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Google_Pixel_8_Pro,_shown_in_Shibuya_Stream.jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "Syced",
+   "credit": "Own work",
+   "description": "Shibuya Stream (Skyscraper in Tokyo, Japan)",
+   "attribution_required": "false",
+   "index": 2,
+   "card_path": "/catalog-real/real-google-pixel-8-pro-128gb/2-card.jpg",
+   "local_path": "/catalog-real/real-google-pixel-8-pro-128gb/2.jpg",
+   "local_sha256": "2aab9035a570ada167d1218e3beaa9fed964c55aee59990ecf678c190418787e",
+   "local_bytes": 137340
+  }
+ ]
+}

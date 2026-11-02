@@ -1,0 +1,93 @@
+{
+ "handle": "real-tp-link-tl-wr1043nd",
+ "brand": "TP-Link",
+ "model": "TL-WR1043ND",
+ "mpn": null,
+ "category_handle": "router",
+ "title": "TP-Link TL-WR1043ND 450 Mbps Gigabit Router",
+ "subtitle": "450 Mbps N | Gigabit | 3 detachable antennas",
+ "description": "2.4 GHz wireless N router with Gigabit WAN and LAN ports, a USB 2.0 port and three detachable 5 dBi antennas. Specifications verified against TP-Link's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "4 x Gigabit LAN, 1 x Gigabit WAN"
+  },
+  {
+   "group": "Connectivity",
+   "label": "USB",
+   "value": "1 x USB 2.0"
+  },
+  {
+   "group": "Wireless",
+   "label": "Max rate",
+   "value": "450 Mbps (11n)"
+  },
+  {
+   "group": "Wireless",
+   "label": "Antennas",
+   "value": "3 x 5 dBi detachable (RP-SMA)"
+  },
+  {
+   "group": "Power",
+   "label": "Power supply",
+   "value": "12 V DC 1.5 A"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "225 x 141 x 30 mm"
+  }
+ ],
+ "highlights": [
+  "Up to 450 Mbps on 2.4 GHz",
+  "Gigabit WAN + 4 Gigabit LAN",
+  "USB 2.0 port",
+  "3 detachable 5 dBi antennas"
+ ],
+ "review_notes": [
+  "Photo shows hardware version 1; the page lists specs common to the model."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.tp-link.com/en/home-networking/wifi-router/tl-wr1043nd/",
+   "publisher": "TP-Link",
+   "final_url": "https://www.tp-link.com/en/home-networking/wifi-router/tl-wr1043nd/",
+   "retrieved_at": "2026-11-02T18:26:38+00:00",
+   "sha256": "572551fc6fbeb5e420df5aee12dcc6c1eb76d2b8e4b85202a4e3c184c14b8ed7",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:09:30+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:TP-Link WR1043ND V1 ports.jpg",
+   "categories": [
+    "Category:CC-Zero",
+    "Category:Network routers",
+    "Category:Self-published work"
+   ],
+   "width": 2640,
+   "height": 714,
+   "mime": "image/jpeg",
+   "sha1": "a0bf6ce7785522d9111841ea639b52b92ca54335",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/TP-Link_WR1043ND_V1_ports.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/TP-Link_WR1043ND_V1_ports.jpg/1280px-TP-Link_WR1043ND_V1_ports.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:TP-Link_WR1043ND_V1_ports.jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "L3u",
+   "credit": "Own work",
+   "description": "Photo of the ports of a TP-Link WR1043ND V1",
+   "attribution_required": "false",
+   "index": 1,
+   "card_path": "/catalog-real/real-tp-link-tl-wr1043nd/1-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-tl-wr1043nd/1.jpg",
+   "local_sha256": "b928a083b8809a8c4ed871c8ab4cfe038dd208ef367f1868b3b5e4d200b4e691",
+   "local_bytes": 76355
+  }
+ ]
+}

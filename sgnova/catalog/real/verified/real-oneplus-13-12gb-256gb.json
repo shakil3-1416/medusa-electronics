@@ -1,0 +1,137 @@
+{
+ "handle": "real-oneplus-13-12gb-256gb",
+ "brand": "OnePlus",
+ "model": "OnePlus 13",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "OnePlus 13 (12GB+256GB)",
+ "subtitle": "6.82-inch QHD+ LTPO 4.1 | Snapdragon 8 Elite | 6000mAh",
+ "description": "OnePlus 13 with 12GB of LPDDR5X RAM and 256GB of UFS 4.0 storage, a 6.82-inch QHD+ ProXDR LTPO 4.1 display reaching 4500 nits peak, the Snapdragon 8 Elite, a 50MP Sony LYT-808 main camera and a 6000mAh battery with 100W wired and 50W wireless charging. Specifications were verified against OnePlus's official specs page.",
+ "variant_title": "12GB+256GB",
+ "specs": [
+  {
+   "group": "Build",
+   "label": "Dimensions",
+   "value": "162.9 x 76.5 x 8.5 mm (Arctic Dawn/Black Eclipse)"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.82-inch QHD+, 3168 x 1440, 510 ppi"
+  },
+  {
+   "group": "Display",
+   "label": "Brightness and refresh",
+   "value": "1600 / 4500 nits, 1-120Hz"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Snapdragon 8 Elite"
+  },
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "12GB LPDDR5X, 256GB UFS 4.0"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery",
+   "value": "6000mAh"
+  },
+  {
+   "group": "Battery",
+   "label": "Charging",
+   "value": "100W SUPERVOOC, 50W AIRVOOC"
+  },
+  {
+   "group": "Camera",
+   "label": "Main camera",
+   "value": "50MP Sony LYT-808"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "32MP Sony IMX615"
+  }
+ ],
+ "highlights": [
+  "6.82-inch QHD+ LTPO 4.1, up to 4500 nits",
+  "Snapdragon 8 Elite",
+  "50MP Sony LYT-808 main camera",
+  "6000mAh with 100W wired and 50W wireless"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.oneplus.com/global/13/specs",
+   "publisher": "OnePlus",
+   "final_url": "https://www.oneplus.com/global/13/specs",
+   "retrieved_at": "2026-11-02T17:59:42+00:00",
+   "sha256": "8ee73358b97c9ce4df720160b051093f7d8b717a13c9b15c53cf4adf8715af09",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:10:14+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:OnePlus 13 back.jpg",
+   "categories": [
+    "Category:Backs of smartphones",
+    "Category:Black mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:OnePlus 13",
+    "Category:Self-published work",
+    "Category:Taken with Xiaomi Redmi Note 10 Pro"
+   ],
+   "width": 1710,
+   "height": 3421,
+   "mime": "image/jpeg",
+   "sha1": "38d2e19c899d168f64934f2d7062629982091906",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/OnePlus_13_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/OnePlus_13_back.jpg/1280px-OnePlus_13_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:OnePlus_13_back.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Maksdroider",
+   "credit": "Own work",
+   "description": "The back of the OnePlus 13 in Black Eclipse",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-oneplus-13-12gb-256gb/1-card.jpg",
+   "local_path": "/catalog-real/real-oneplus-13-12gb-256gb/1.jpg",
+   "local_sha256": "cabd86d41c4d50f7902017c5a75df14ad3e545522e59e8a76ef7682f5e2329d5",
+   "local_bytes": 76184
+  },
+  {
+   "title": "File:OnePlus 13 volume slider.jpg",
+   "categories": [
+    "Category:Black mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:OnePlus 13",
+    "Category:Self-published work",
+    "Category:Taken with Xiaomi Redmi Note 10 Pro"
+   ],
+   "width": 1835,
+   "height": 1835,
+   "mime": "image/jpeg",
+   "sha1": "bf9be6095cbff7502f34f3c64d736ab6942e03ce",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/OnePlus_13_volume_slider.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/OnePlus_13_volume_slider.jpg/1280px-OnePlus_13_volume_slider.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:OnePlus_13_volume_slider.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Maksdroider",
+   "credit": "Own work",
+   "description": "Volume slider on the OnePlus 13",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-oneplus-13-12gb-256gb/2-card.jpg",
+   "local_path": "/catalog-real/real-oneplus-13-12gb-256gb/2.jpg",
+   "local_sha256": "4a79d9c68d5f5d1d337510220ee08e3f90b4ddf2ca44661aa72fa813a3e73eed",
+   "local_bytes": 172925
+  }
+ ]
+}

@@ -72,7 +72,7 @@
    "sha256": "2f206879ef993d8fd566855cf60e7b6b28429ffbf66a0e8b4605b837cd9d0fc9",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:00:56+00:00",
+  "verified_at": "2026-11-02T18:57:29+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -99,9 +99,10 @@
    "description": "iPhone 14 Product Red",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-14-128gb/1-card.jpg",
    "local_path": "/catalog-real/real-apple-iphone-14-128gb/1.jpg",
-   "local_sha256": "67b62c08ce603afdb74f10b265841a9755907e08e7df0d775a602e28f90b84bf",
-   "local_bytes": 860674
+   "local_sha256": "3d6fad4faf61b0ddbd82e2b2b30a723e3b8bfba43ec14158f1bf92dee07d991d",
+   "local_bytes": 84504
   }
  ]
 }

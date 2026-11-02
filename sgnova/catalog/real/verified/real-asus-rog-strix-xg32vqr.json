@@ -74,7 +74,7 @@
    "sha256": "fae2a4aa9731a41b1b086bbbca866eeec8e08f88178eb4390fca3e937a33d46b",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:26+00:00",
+  "verified_at": "2026-11-02T19:01:05+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -101,9 +101,10 @@
    "description": "A monitor that has a 4K resolution or has a higher refresh rate costs more than a standard monitor, especially the ASUS ROG monitor. It has a curved, 32-inch display that supports AMD Radeon FreeSync2 HDR and a 144 Hz refresh rate up to 2560 x 1440. This monitor can also run 4K at 60 Hz.",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-asus-rog-strix-xg32vqr/1-card.jpg",
    "local_path": "/catalog-real/real-asus-rog-strix-xg32vqr/1.jpg",
-   "local_sha256": "c60fedc98f38bebeec5c8bc494d0d1fff4e2f4e33f741c24845ca9c4188e75f5",
-   "local_bytes": 100608
+   "local_sha256": "a3809bb08c318c8c9d6501ed16f3006710677763b3fade75c27a5fd5291c7f00",
+   "local_bytes": 112256
   }
  ]
 }

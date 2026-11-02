@@ -57,7 +57,7 @@
    "sha256": "1f92f4049b7ed488e49b0a4584ba0d562d5407de3bf14ebc7dcc29d8b12d5165",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:41+00:00",
+  "verified_at": "2026-11-02T19:01:25+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -85,9 +85,10 @@
    "description": "Close-up photo of a Logitech MX Master 3S mouse",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-logitech-mx-master-3s/1-card.jpg",
    "local_path": "/catalog-real/real-logitech-mx-master-3s/1.jpg",
-   "local_sha256": "cc1c7214c9d52403a34678497dcc8cd22f9344e63dca98b6f99f80b8214aac0d",
-   "local_bytes": 56521
+   "local_sha256": "bca9c616c4c31185bc80cc7306c7776a84314ca1d3ab49e213b805bf6eb8745f",
+   "local_bytes": 64385
   }
  ]
 }

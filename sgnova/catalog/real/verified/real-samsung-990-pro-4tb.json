@@ -67,7 +67,7 @@
    "sha256": "df7a961448f88120ab1f71b3050c6521718353cd5ea70f699fb76e33f2d6b374",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:01:41+00:00",
+  "verified_at": "2026-11-02T18:59:06+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -96,9 +96,10 @@
    "description": "SAMSUNG M.2 NVMe SSD 990 PRO 4TB",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-samsung-990-pro-4tb/1-card.jpg",
    "local_path": "/catalog-real/real-samsung-990-pro-4tb/1.jpg",
-   "local_sha256": "f86e3adbde476da71b59ebfcc40fcd9cce5be4cdc6fc8b4fecaf3981d3a7659a",
-   "local_bytes": 164171
+   "local_sha256": "80d2a59e4f612fc5b0b2d22d09a4b194559a4d339246b10e14debdfb08b81dfe",
+   "local_bytes": 161401
   }
  ]
 }

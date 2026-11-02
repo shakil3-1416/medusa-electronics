@@ -1,0 +1,132 @@
+{
+ "handle": "real-xiaomi-redmi-note-12-8gb-128gb",
+ "brand": "Xiaomi",
+ "model": "Redmi Note 12",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Redmi Note 12 (8GB+128GB)",
+ "subtitle": "6.67-inch 120Hz AMOLED | Snapdragon 685 | 50MP",
+ "description": "Redmi Note 12 (4G) with 8GB of LPDDR4X RAM and 128GB of UFS 2.2 storage, a 6.67-inch AMOLED DotDisplay at 120Hz, the Snapdragon 685, a 50MP triple rear camera and a 5000mAh battery with 33W fast charging. Specifications were verified against Xiaomi's official global specs page.",
+ "variant_title": "8GB+128GB",
+ "specs": [
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "8GB+128GB LPDDR4X"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions and weight",
+   "value": "165.66 x 75.96 x 7.85 mm, 183.5 g"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Snapdragon 685 (6nm), up to 2.8GHz"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.67-inch AMOLED, 120Hz"
+  },
+  {
+   "group": "Camera",
+   "label": "Rear cameras",
+   "value": "50MP main f/1.8, 8MP ultra-wide, 2MP macro"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "13MP, f/2.45"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery and charging",
+   "value": "5000mAh, 33W"
+  }
+ ],
+ "highlights": [
+  "6.67-inch 120Hz AMOLED DotDisplay",
+  "Snapdragon 685",
+  "50MP triple camera",
+  "5000mAh with 33W fast charging"
+ ],
+ "review_notes": [
+  "Xiaomi's global page for this slug describes the 4G Snapdragon 685 model; the 5G model is a different product.",
+  "Commons photos are titled Redmi Note 12 without stating 4G or 5G; confirm the pictured unit matches the 4G model."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/redmi-note-12/specs/",
+   "publisher": "Xiaomi",
+   "final_url": "https://www.mi.com/global/product/redmi-note-12/specs/",
+   "retrieved_at": "2026-11-02T17:48:26+00:00",
+   "sha256": "738c70fcc35b98c3ab9eea25d44334651128dd5c6b27bf4c19653dae9be1e381",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:12:03+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Redmi Note 12 front.jpg",
+   "categories": [
+    "Category:Blue mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Front of smartphones",
+    "Category:Redmi Note 12",
+    "Category:Self-published work",
+    "Category:Taken with Xiaomi Redmi Note 10 Pro",
+    "Category:Time 17:37"
+   ],
+   "width": 1386,
+   "height": 1848,
+   "mime": "image/jpeg",
+   "sha1": "5daf1f8b4f7589761e9823a0888047fa4602e09e",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Redmi_Note_12_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Redmi_Note_12_front.jpg/1280px-Redmi_Note_12_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Redmi_Note_12_front.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Maksdroider",
+   "credit": "Own work",
+   "description": "Передня частина Redmi Note 12",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-xiaomi-redmi-note-12-8gb-128gb/1-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-redmi-note-12-8gb-128gb/1.jpg",
+   "local_sha256": "c843ef63f8076ca4a1331d852500d9009badee42e62d220fdc3f8057ed4a4964",
+   "local_bytes": 122579
+  },
+  {
+   "title": "File:Redmi Note 12 back.jpg",
+   "categories": [
+    "Category:Backs of smartphones",
+    "Category:Blue mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Redmi Note 12",
+    "Category:Self-published work",
+    "Category:Taken with Xiaomi Redmi Note 10 Pro"
+   ],
+   "width": 1701,
+   "height": 2269,
+   "mime": "image/jpeg",
+   "sha1": "852dda7e6050b81ae48ec173670c6f9764483534",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Redmi_Note_12_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Redmi_Note_12_back.jpg/1280px-Redmi_Note_12_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Redmi_Note_12_back.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Maksdroider",
+   "credit": "Own work",
+   "description": "The back of Redmi Note 12 in Ice Blue",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-xiaomi-redmi-note-12-8gb-128gb/2-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-redmi-note-12-8gb-128gb/2.jpg",
+   "local_sha256": "7d649644ee99785deb366922797e99836e805c280eeef1312e19d10851a6a179",
+   "local_bytes": 112405
+  }
+ ]
+}

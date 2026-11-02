@@ -1,0 +1,102 @@
+{
+ "handle": "real-epson-workforce-pro-wf-3820",
+ "brand": "Epson",
+ "model": "WorkForce Pro WF-3820",
+ "mpn": "C11CJ07201",
+ "category_handle": "printer",
+ "title": "Epson WorkForce Pro WF-3820 Wireless All-in-One Printer",
+ "subtitle": "21 / 11 ISO ppm | Auto 2-sided | 35-page ADF | 250-sheet tray",
+ "description": "Small-workgroup inkjet all-in-one with pigment inks, automatic two-sided printing, a 35-page document feeder, a 250-sheet paper tray and a 2.7-inch colour touchscreen, connected by Wi-Fi, Wi-Fi Direct or Ethernet. Specifications verified against Epson's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Print",
+   "label": "ISO print speed",
+   "value": "21 ppm black / 11 ppm colour"
+  },
+  {
+   "group": "Print",
+   "label": "Duplex",
+   "value": "Auto 2-sided printing"
+  },
+  {
+   "group": "Paper handling",
+   "label": "Automatic document feeder",
+   "value": "35 pages (1-sided)"
+  },
+  {
+   "group": "Paper handling",
+   "label": "Paper capacity",
+   "value": "250-sheet tray"
+  },
+  {
+   "group": "Interface",
+   "label": "Display",
+   "value": "2.7\" colour touchscreen"
+  },
+  {
+   "group": "Ink",
+   "label": "Ink type",
+   "value": "DURABrite Ultra pigment ink"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connectivity",
+   "value": "Wi-Fi, Wi-Fi Direct, Ethernet"
+  },
+  {
+   "group": "General",
+   "label": "Monthly duty cycle",
+   "value": "Up to 26,000 pages"
+  }
+ ],
+ "highlights": [
+  "21 black / 11 colour ISO ppm",
+  "Auto 2-sided printing",
+  "35-page automatic document feeder",
+  "2.7-inch colour touchscreen"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://epson.com/For-Work/Printers/Inkjet/WorkForce-Pro-WF-3820-Wireless-All-in-One-Printer/p/C11CJ07201",
+   "publisher": "Epson America",
+   "final_url": "https://epson.com/For-Work/Printers/Inkjet/WorkForce-Pro-WF-3820-Wireless-All-in-One-Printer/p/C11CJ07201",
+   "retrieved_at": "2026-11-02T17:59:05+00:00",
+   "sha256": "7f787c101050e1964b625db0bf11f2a0ccc0bb89d29e2f1745ced8327b4b6029",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:12:19+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Epson WorkForce Pro WF-3820 Printer.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Epson multifunction ink-jet printers",
+    "Category:Photographs by TaurusEmerald",
+    "Category:Self-published work"
+   ],
+   "width": 3775,
+   "height": 3022,
+   "mime": "image/jpeg",
+   "sha1": "5483c6c6d99e350f01924b5ff33211448ae6c976",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Epson_WorkForce_Pro_WF-3820_Printer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Epson_WorkForce_Pro_WF-3820_Printer.jpg/1280px-Epson_WorkForce_Pro_WF-3820_Printer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Epson_WorkForce_Pro_WF-3820_Printer.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "TaurusEmerald",
+   "credit": "Own work",
+   "description": "An Epson WorkForce Pro WF-3820 printer.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-epson-workforce-pro-wf-3820/1-card.jpg",
+   "local_path": "/catalog-real/real-epson-workforce-pro-wf-3820/1.jpg",
+   "local_sha256": "3f5048a1cf08c8906fad3cd80dba48dcbddd94d09b8b89c0af89ffd75ab12abc",
+   "local_bytes": 199652
+  }
+ ]
+}

@@ -69,7 +69,7 @@
    "sha256": "70313bbed4330af2e722281fb572dd7d3b86f1913352a99c472847e4ec250e1a",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:01+00:00",
+  "verified_at": "2026-11-02T19:00:03+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -96,9 +96,10 @@
    "description": "Macbook Air 15インチモデル。名古屋市内の家電量販店で撮影。",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-apple-macbook-air-15-m2-16gb-256gb/1-card.jpg",
    "local_path": "/catalog-real/real-apple-macbook-air-15-m2-16gb-256gb/1.jpg",
-   "local_sha256": "3ea877e575da64c9fcb00b59ad771e6c4c11844042298cbcbb20ecbf8cc1e070",
-   "local_bytes": 226766
+   "local_sha256": "f07e72e5e91b63ee36eea794038e1bee5d88fc14e1e50c9d8fa969e87034e804",
+   "local_bytes": 230621
   }
  ]
 }

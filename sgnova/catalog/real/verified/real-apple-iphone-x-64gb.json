@@ -1,0 +1,167 @@
+{
+ "handle": "real-apple-iphone-x-64gb",
+ "brand": "Apple",
+ "model": "iPhone X",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone X (64GB)",
+ "subtitle": "5.8-inch all-screen OLED | A11 Bionic | 64GB",
+ "description": "Apple iPhone X smartphone in the 64GB storage configuration. It runs on the A11 Bionic chip and has a 5.8-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "64GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "64GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "5.8-inch all-screen OLED Multi-Touch display"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2436 x 1125 at 458 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A11 Bionic"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "174 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "143.6 x 70.9 x 7.7 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "802.11ac Wi-Fi"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.0"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "Lightning"
+  }
+ ],
+ "highlights": [
+  "5.8-inch all-screen OLED display",
+  "2436 x 1125 at 458 ppi resolution",
+  "A11 Bionic chip"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111864",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111864",
+   "retrieved_at": "2026-11-02T17:56:10+00:00",
+   "sha256": "daf81eae19b2e682ae1ebde2eee9e205230c036dddd767aa875df03d3e4d7b30",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:03:08+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Apple iPhone X - front (8121).jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Gray mobile phones",
+    "Category:IPhone X",
+    "Category:Photographs by Gregory Varnum taken in 2017",
+    "Category:Self-published work",
+    "Category:Taken with iPhone 8 Plus"
+   ],
+   "width": 1499,
+   "height": 2296,
+   "mime": "image/jpeg",
+   "sha1": "3e488ecb0de44e57cee51ecc07d5d804edf5f572",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Apple_iPhone_X_-_front_%288121%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Apple_iPhone_X_-_front_%288121%29.jpg/1280px-Apple_iPhone_X_-_front_%288121%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Apple_iPhone_X_-_front_(8121).jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Gregory Varnum",
+   "credit": "Own work",
+   "description": "Front of Apple iPhone X - Space Gray",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-x-64gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-x-64gb/1.jpg",
+   "local_sha256": "6394fb71e729eceafebaf1ce2e07774c6f502481cfcc2dcc28c7c51e29b733c0",
+   "local_bytes": 115236
+  },
+  {
+   "title": "File:Apple iPhone X - back (8111).jpg",
+   "categories": [
+    "Category:Backs of iPhones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Gray mobile phones",
+    "Category:IPhone X",
+    "Category:Photographs by Gregory Varnum taken in 2017",
+    "Category:Self-published work",
+    "Category:Taken with iPhone 8 Plus"
+   ],
+   "width": 1870,
+   "height": 2637,
+   "mime": "image/jpeg",
+   "sha1": "c49ac00137be7f3ff7a5aa7da5a56cd36c80f181",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Apple_iPhone_X_-_back_%288111%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Apple_iPhone_X_-_back_%288111%29.jpg/1280px-Apple_iPhone_X_-_back_%288111%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Apple_iPhone_X_-_back_(8111).jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Gregory Varnum",
+   "credit": "Own work",
+   "description": "Back of Apple iPhone X - Space Gray",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-x-64gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-x-64gb/2.jpg",
+   "local_sha256": "a11cefb21f984013d3b4555ded34ddd0d5bf9b9497f6c17c3d2bfbb60e5182a6",
+   "local_bytes": 128284
+  },
+  {
+   "title": "File:IPhone X rear.jpg",
+   "categories": [
+    "Category:Backs of iPhones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone X",
+    "Category:Self-published work",
+    "Category:White mobile phones"
+   ],
+   "width": 659,
+   "height": 1549,
+   "mime": "image/jpeg",
+   "sha1": "5a1d6343132515c5f36b3048adacc639a8200a7f",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/IPhone_X_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/IPhone_X_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_X_rear.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "MichalPL",
+   "credit": "Own work",
+   "description": "Apple iPhone X. rear",
+   "attribution_required": "true",
+   "index": 3,
+   "card_path": "/catalog-real/real-apple-iphone-x-64gb/3-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-x-64gb/3.jpg",
+   "local_sha256": "e90e4ac49b318219414df5bc711d89cd68147c5dbc9ecffd4cdbef67ee9351bd",
+   "local_bytes": 74016
+  }
+ ]
+}

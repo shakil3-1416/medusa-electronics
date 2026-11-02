@@ -72,7 +72,7 @@
    "sha256": "936a8f5d4c3cc96b23eda9a659fb9637242c45a6f9958ceb7e71fa4b95b929cb",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:01:01+00:00",
+  "verified_at": "2026-11-02T18:57:36+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -101,9 +101,10 @@
    "description": "Back view of iPhone 16 Ultramarine",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-16-128gb/1-card.jpg",
    "local_path": "/catalog-real/real-apple-iphone-16-128gb/1.jpg",
-   "local_sha256": "b689a0549f0ed76af6938206328daedbd2ed05173b3c577c484b3fe84462454e",
-   "local_bytes": 244425
+   "local_sha256": "f51249c6d95e4275918caf10a0ed0da6dd9c0d6c36fa5b918c5b5c89bc9dec9a",
+   "local_bytes": 152646
   }
  ]
 }

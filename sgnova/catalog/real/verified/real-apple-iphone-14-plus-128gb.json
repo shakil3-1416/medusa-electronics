@@ -1,0 +1,165 @@
+{
+ "handle": "real-apple-iphone-14-plus-128gb",
+ "brand": "Apple",
+ "model": "iPhone 14 Plus",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 14 Plus (128GB)",
+ "subtitle": "6.7-inch all-screen OLED | A15 Bionic | 128GB",
+ "description": "Apple iPhone 14 Plus smartphone in the 128GB storage configuration. It runs on the A15 Bionic chip and has a 6.7-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "128GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.7-inch all-screen OLED display"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2778 x 1284 at 458 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A15 Bionic, 6-core CPU, 5-core GPU"
+  },
+  {
+   "group": "Camera",
+   "label": "Main camera",
+   "value": "12MP, f/1.5"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "IP68, up to 6 m for 30 minutes"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "Wi-Fi 6 (802.11ax)"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.3"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "Lightning"
+  }
+ ],
+ "highlights": [
+  "6.7-inch all-screen OLED display",
+  "2778 x 1284 at 458 ppi resolution",
+  "A15 Bionic, 6-core CPU, 5-core GPU chip",
+  "Main camera: 12MP, f/1.5"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111854",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111854",
+   "retrieved_at": "2026-11-02T18:16:26+00:00",
+   "sha256": "b475ad347bcd9b6030f5140e1fe0833ea957dd751c8df966cc2fddab98c697e1",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:04:32+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:A blue iPhone 14 Plus.jpg",
+   "categories": [
+    "Category:Backs of iPhones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation (52° N, 2° W)",
+    "Category:IPhone 14 Plus",
+    "Category:Self-published work"
+   ],
+   "width": 2066,
+   "height": 3537,
+   "mime": "image/jpeg",
+   "sha1": "5dc0cd2601ee235bd35f1fa7abaac5e6a686feab",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/A_blue_iPhone_14_Plus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/A_blue_iPhone_14_Plus.jpg/1280px-A_blue_iPhone_14_Plus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:A_blue_iPhone_14_Plus.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Kskhh",
+   "credit": "Own work",
+   "description": "A picture of the back side of a blue iPhone 14 Plus",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-14-plus-128gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-14-plus-128gb/1.jpg",
+   "local_sha256": "9b14f3bf18975d24cdf98be70033b22d32b8e59167711aeab84b253f68ea8d48",
+   "local_bytes": 163254
+  },
+  {
+   "title": "File:IPhone 14 Plus yellow.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 14 Plus",
+    "Category:Self-published work",
+    "Category:Yellow mobile phones"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "6b5059f92c4ff93cb8867f67c9f066dc141304e1",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/IPhone_14_Plus_yellow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/IPhone_14_Plus_yellow.jpg/1280px-IPhone_14_Plus_yellow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_14_Plus_yellow.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "茅野ふたば",
+   "credit": "Own work",
+   "description": "iPhone 14 Plus yellow.",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-14-plus-128gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-14-plus-128gb/2.jpg",
+   "local_sha256": "5a803ffe38e6b31aebd51db330de44b993b8464bac05df7df6039aabd4b7157c",
+   "local_bytes": 99893
+  },
+  {
+   "title": "File:IPhone 14 Plus 20240225.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2024-02-25",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 14 Plus",
+    "Category:Self-published work",
+    "Category:Taken with Meizu 20"
+   ],
+   "width": 2292,
+   "height": 4080,
+   "mime": "image/jpeg",
+   "sha1": "d04c61681850d2985911171f4596cbbb348f3871",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/IPhone_14_Plus_20240225.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/IPhone_14_Plus_20240225.jpg/1280px-IPhone_14_Plus_20240225.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_14_Plus_20240225.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "メイド理世",
+   "credit": "Own work",
+   "description": "iPhone 14 Plus",
+   "attribution_required": "true",
+   "index": 3,
+   "card_path": "/catalog-real/real-apple-iphone-14-plus-128gb/3-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-14-plus-128gb/3.jpg",
+   "local_sha256": "bf7621f68a76787e61000e1be860990927bd2f2ac1018a7c93f7c56625c83770",
+   "local_bytes": 151012
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "handle": "real-asus-pb278q",
+ "brand": "ASUS",
+ "model": "PB278Q",
+ "mpn": "PB278Q",
+ "category_handle": "office-monitor",
+ "title": "ASUS PB278Q 27\" WQHD Professional Monitor",
+ "subtitle": "27\" 2560 x 1440 | 178° viewing | HDMI, DisplayPort, DVI, D-Sub",
+ "description": "27-inch WQHD office and design monitor with wide viewing angles, full sRGB coverage, built-in speakers and a stand that tilts, pivots and adjusts in height. Specifications verified against ASUS's official product page (Spanish-language regional site).",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Size and resolution",
+   "value": "27\" WQHD, 2560 x 1440"
+  },
+  {
+   "group": "Display",
+   "label": "Pixel density",
+   "value": "109 ppi"
+  },
+  {
+   "group": "Display",
+   "label": "Viewing angle",
+   "value": "178° (H/V)"
+  },
+  {
+   "group": "Display",
+   "label": "Response time",
+   "value": "5 ms (grey to grey)"
+  },
+  {
+   "group": "Display",
+   "label": "Brightness",
+   "value": "300 cd/m2"
+  },
+  {
+   "group": "Display",
+   "label": "Smart contrast ratio (ASCR)",
+   "value": "80 000 000:1"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Inputs",
+   "value": "HDMI 1.4, DisplayPort 1.2, dual-link DVI, D-Sub"
+  },
+  {
+   "group": "Audio",
+   "label": "Speakers",
+   "value": "Stereo, 3W"
+  }
+ ],
+ "highlights": [
+  "27-inch 2560 x 1440 WQHD, 109 ppi",
+  "178° viewing angles",
+  "HDMI 1.4, DisplayPort 1.2, dual-link DVI and D-Sub",
+  "Hidden 3W stereo speakers"
+ ],
+ "review_notes": "Source page is ASUS's Spanish-language regional overview; evidence quoted verbatim in Spanish, values translated.",
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.asus.com/py/displays-desktops/monitors/business/pb278q/",
+   "publisher": "ASUS",
+   "final_url": "https://www.asus.com/py/displays-desktops/monitors/business/pb278q/",
+   "retrieved_at": "2026-11-02T18:46:58+00:00",
+   "sha256": "8d0f7e62f12bd0ee7df8b7daf594584d63b04644b75e760524ddf19d30750aa7",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:12:28+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:ASUS PB278Q (PXL 20250914 223256075).jpg",
+   "categories": [
+    "Category:27-inch computer monitors",
+    "Category:ASUS monitors",
+    "Category:CC-BY-4.0",
+    "Category:CC-BY-SA-4.0",
+    "Category:Computers with Wikipedia displayed on the screen",
+    "Category:GFDL",
+    "Category:License migration redundant",
+    "Category:Photographs by Hayden Schiff",
+    "Category:Taken with Google Pixel 6 Pro",
+    "Category:Wikipedia screenshots"
+   ],
+   "width": 4080,
+   "height": 3072,
+   "mime": "image/jpeg",
+   "sha1": "b414714693b7063625324bfc7eaa0a922919985b",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/ASUS_PB278Q_%28PXL_20250914_223256075%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/ASUS_PB278Q_%28PXL_20250914_223256075%29.jpg/1280px-ASUS_PB278Q_%28PXL_20250914_223256075%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:ASUS_PB278Q_(PXL_20250914_223256075).jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Hayden Schiff",
+   "credit": "Own work",
+   "description": "An ASUS PB278Q computer monitor displaying the Wikipedia multi-language homepage. The monitor is running at its native 2560x1440 resolution. Firefox is showing wikipedia.org at 200% zoom in fullscreen mode running on Arch Linux. Also visible in the photo below the monitor is a Fosi Audio K5 Pro stereo DAC, a Kinivo 501BN HDMI switch, the 4-button wired remote controller for a Kceve-brand 4x4 USB 3.0 switcher, and a Lepy LP-2020A stereo amplifier. Micca-brand bookshelf speakers are partially visible on either side of the monitor, and a Keychron K8 keyboard and Anker USB hub are just barely visible in the edges of the frame. All of this is on top of a LTT Northern Lights Desk Pad.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-asus-pb278q/1-card.jpg",
+   "local_path": "/catalog-real/real-asus-pb278q/1.jpg",
+   "local_sha256": "3fee74132a3ffccddc9a9edd5f92a257b6c6fd20401793179313a7c80f7be024",
+   "local_bytes": 186402
+  }
+ ]
+}

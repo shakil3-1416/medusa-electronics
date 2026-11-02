@@ -1,0 +1,123 @@
+{
+ "handle": "real-logitech-m185",
+ "brand": "Logitech",
+ "model": "M185",
+ "mpn": null,
+ "category_handle": "computer-accessory",
+ "title": "Logitech M185 Compact Wireless Mouse",
+ "subtitle": "Compact | 12-month battery | 10 m range",
+ "description": "Compact, contoured wireless mouse for laptops with a plug-and-play USB receiver, optical tracking and an auto-sleep mode. Specifications verified against Logitech's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Power",
+   "label": "Battery life",
+   "value": "Up to 12 months"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wireless range",
+   "value": "Up to 10 m"
+  },
+  {
+   "group": "Performance",
+   "label": "Sensor",
+   "value": "Optical"
+  },
+  {
+   "group": "Design",
+   "label": "Handedness",
+   "value": "Ambidextrous"
+  },
+  {
+   "group": "Power",
+   "label": "Power saving",
+   "value": "On/off switch and auto-sleep"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Receiver",
+   "value": "USB receiver, plug and play"
+  }
+ ],
+ "highlights": [
+  "Up to 12 months battery life",
+  "Plug-and-play USB receiver",
+  "Up to 10 m wireless range",
+  "Works with Windows, macOS, ChromeOS, Linux"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.logitech.com/en-us/shop/p/m185-wireless-mouse",
+   "publisher": "Logitech",
+   "final_url": "https://www.logitech.com/en-us/shop/p/m185-wireless-mouse",
+   "retrieved_at": "2026-11-02T18:04:33+00:00",
+   "sha256": "19504280f586bcaf89410673458c6ed34039f63ba8e7122fd11d204f32ced39f",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:08:54+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Logitech M185 mouse HS05.jpg",
+   "categories": [
+    "Category:Black computer mice with white background",
+    "Category:CC-BY-4.0",
+    "Category:Logitech M185",
+    "Category:Photographs by Hayden Schiff",
+    "Category:Taken with Nikon D7100",
+    "Category:United States photographs taken on 2025-10-11"
+   ],
+   "width": 3200,
+   "height": 2400,
+   "mime": "image/jpeg",
+   "sha1": "68ed1c0362c4483d07a015bb0143a83c718d6358",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Logitech_M185_mouse_HS05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Logitech_M185_mouse_HS05.jpg/1280px-Logitech_M185_mouse_HS05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Logitech_M185_mouse_HS05.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Hayden Schiff",
+   "credit": "Own work",
+   "description": "Photo of a Logitech M185 mouse in black with grey trim",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-logitech-m185/1-card.jpg",
+   "local_path": "/catalog-real/real-logitech-m185/1.jpg",
+   "local_sha256": "211537128c8b5960e72f040134d17b5bb312cea4ae4f9ec329fc2f123677ae7f",
+   "local_bytes": 125695
+  },
+  {
+   "title": "File:Logitech M185 mouse HS06.jpg",
+   "categories": [
+    "Category:Black computer mice with white background",
+    "Category:CC-BY-4.0",
+    "Category:Logitech M185",
+    "Category:Photographs by Hayden Schiff",
+    "Category:Taken with Nikon D7100",
+    "Category:United States photographs taken on 2025-10-11"
+   ],
+   "width": 6000,
+   "height": 4000,
+   "mime": "image/jpeg",
+   "sha1": "710416b5f33adbeba191a2da0553a131fe55d4ee",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Logitech_M185_mouse_HS06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Logitech_M185_mouse_HS06.jpg/1280px-Logitech_M185_mouse_HS06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Logitech_M185_mouse_HS06.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Hayden Schiff",
+   "credit": "Own work",
+   "description": "Photo of a Logitech M185 mouse in black with grey trim",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-logitech-m185/2-card.jpg",
+   "local_path": "/catalog-real/real-logitech-m185/2.jpg",
+   "local_sha256": "8ea271c4e244be8d4a2c725cde7153be8333b96490c6f0d7f8bb7dc86cfbb5e5",
+   "local_bytes": 104341
+  }
+ ]
+}

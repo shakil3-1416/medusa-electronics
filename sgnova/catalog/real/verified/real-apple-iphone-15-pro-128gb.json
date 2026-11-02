@@ -1,0 +1,173 @@
+{
+ "handle": "real-apple-iphone-15-pro-128gb",
+ "brand": "Apple",
+ "model": "iPhone 15 Pro",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 15 Pro (128GB)",
+ "subtitle": "6.1-inch all-screen OLED | A17 Pro | 128GB",
+ "description": "Apple iPhone 15 Pro smartphone in the 128GB storage configuration. It runs on the A17 Pro chip and has a 6.1-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "128GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.1-inch all-screen OLED display"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2556 x 1179 at 460 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A17 Pro, 6-core CPU, 6-core GPU"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "IP68, up to 6 m for 30 minutes"
+  },
+  {
+   "group": "Battery",
+   "label": "Video playback",
+   "value": "Up to 23 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "187 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "146.6 x 70.6 x 8.25 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "Wi-Fi 6E (802.11ax)"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.3"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "USB-C"
+  }
+ ],
+ "highlights": [
+  "6.1-inch all-screen OLED display",
+  "2556 x 1179 at 460 ppi resolution",
+  "A17 Pro, 6-core CPU, 6-core GPU chip",
+  "Water resistance: IP68, up to 6 m for 30 minutes"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111829",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111829",
+   "retrieved_at": "2026-11-02T18:33:30+00:00",
+   "sha256": "5767231a6514e3ffde9860de43610378d7c588e0d302ab6ba5c12a49c0520385",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:04:56+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Back view of iPhone 15 Pro Natural titanium.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2024-10-01",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 15 Pro",
+    "Category:October 2024 in Dongguan",
+    "Category:Self-published work",
+    "Category:Taken with iPhone 14 Plus"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "aef0ba337cca78be28489a993ce05370b09c64e3",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Back_view_of_iPhone_15_Pro_Natural_titanium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Back_view_of_iPhone_15_Pro_Natural_titanium.jpg/1280px-Back_view_of_iPhone_15_Pro_Natural_titanium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Back_view_of_iPhone_15_Pro_Natural_titanium.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "メイド理世",
+   "credit": "Own work",
+   "description": "Back view of iPhone 15 Pro Natural titanium",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-15-pro-128gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-15-pro-128gb/1.jpg",
+   "local_sha256": "f5a1d34be80c4d6ee26576dd31dd55ad662f329eb4bde6a6c6c744574834c8bf",
+   "local_bytes": 193013
+  },
+  {
+   "title": "File:Side buttons of iPhone 15 Pro.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:IPhone 15 Pro",
+    "Category:Self-published work"
+   ],
+   "width": 2160,
+   "height": 2880,
+   "mime": "image/jpeg",
+   "sha1": "82b9c654ee14cdd346d26e99c490988adcdba533",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Side_buttons_of_iPhone_15_Pro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Side_buttons_of_iPhone_15_Pro.jpg/1280px-Side_buttons_of_iPhone_15_Pro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Side_buttons_of_iPhone_15_Pro.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Kyu3",
+   "credit": "Own work",
+   "description": "iPhone 15 Proのサイドボタン。一番上がアクションボタン。下2つが音量調整ボタン。",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-15-pro-128gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-15-pro-128gb/2.jpg",
+   "local_sha256": "88a30d4a8a4104c82e27cb20b9e6481c14f340464b3619b317ab33c8421c4654",
+   "local_bytes": 180753
+  },
+  {
+   "title": "File:USB-C port of iPhone 15 Pro - 1.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:IPhone 15 Pro",
+    "Category:Self-published work",
+    "Category:USB-C receptacles on smartphones"
+   ],
+   "width": 2160,
+   "height": 1620,
+   "mime": "image/jpeg",
+   "sha1": "9a715993d2f5bd7796ebfb1744e1e935a4b060cb",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/USB-C_port_of_iPhone_15_Pro_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/USB-C_port_of_iPhone_15_Pro_-_1.jpg/1280px-USB-C_port_of_iPhone_15_Pro_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:USB-C_port_of_iPhone_15_Pro_-_1.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Kyu3",
+   "credit": "Own work",
+   "description": "iPhone 15 ProのUSB-Cポート。",
+   "attribution_required": "true",
+   "index": 3,
+   "card_path": "/catalog-real/real-apple-iphone-15-pro-128gb/3-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-15-pro-128gb/3.jpg",
+   "local_sha256": "261fb253a8e024d11c7ffdf95db4b49ad6fd08651c5cb1e1fcfcf67f320dc2e7",
+   "local_bytes": 164056
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "handle": "real-xiaomi-13-ultra-12gb-512gb",
+ "brand": "Xiaomi",
+ "model": "Xiaomi 13 Ultra",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Xiaomi 13 Ultra (12GB+512GB)",
+ "subtitle": "6.73-inch WQHD+ LTPO AMOLED | Snapdragon 8 Gen 2 | 1-inch sensor",
+ "description": "Xiaomi 13 Ultra with 12GB of LPDDR5X RAM and 512GB of UFS 4.0 storage, a 6.73-inch WQHD+ LTPO AMOLED display at 1-120Hz, the Snapdragon 8 Gen 2, a Leica quad camera built around a 1-inch 50MP main sensor and a 5000mAh battery with 90W wired and 50W wireless charging. Specifications were verified against Xiaomi's official global specs page.",
+ "variant_title": "12GB+512GB",
+ "specs": [
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "12GB LPDDR5X RAM, 512GB UFS 4.0"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions and weight",
+   "value": "163.18 x 74.64 x 9.06 mm, 227 g"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Snapdragon 8 Gen 2 (4nm)"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.73-inch WQHD+ LTPO AMOLED, 3200 x 1440, 1-120Hz"
+  },
+  {
+   "group": "Camera",
+   "label": "Main camera",
+   "value": "50MP, 1-inch sensor"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "32MP, f/2.0"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery and charging",
+   "value": "5000mAh, 90W wired, 50W wireless"
+  }
+ ],
+ "highlights": [
+  "6.73-inch WQHD+ LTPO AMOLED, 1-120Hz",
+  "Snapdragon 8 Gen 2",
+  "Leica camera with 1-inch 50MP main sensor",
+  "5000mAh with 90W wired and 50W wireless"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/xiaomi-13-ultra/specs/",
+   "publisher": "Xiaomi",
+   "final_url": "https://www.mi.com/global/product/xiaomi-13-ultra/specs/",
+   "retrieved_at": "2026-11-02T17:48:51+00:00",
+   "sha256": "fe854ff7b67ea9168d906e29558ee9a5dc9b2a64a85cb3ca65fca5b0ebd86f6e",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:11:34+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Xiaomi 13 Ultra.jpg",
+   "categories": [
+    "Category:Black mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Green mobile phones",
+    "Category:Periscope lenses",
+    "Category:Self-published work",
+    "Category:White mobile phones",
+    "Category:Xiaomi 13 Ultra"
+   ],
+   "width": 2973,
+   "height": 1954,
+   "mime": "image/jpeg",
+   "sha1": "ba27993783c7f96309057acb813704e05f82bcd4",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Xiaomi_13_Ultra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Xiaomi_13_Ultra.jpg/1280px-Xiaomi_13_Ultra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Xiaomi_13_Ultra.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "X-SHLIED",
+   "credit": "Own work",
+   "description": "​Xiaomi 13 Ultra",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-xiaomi-13-ultra-12gb-512gb/1-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-13-ultra-12gb-512gb/1.jpg",
+   "local_sha256": "58e0b14557d785b69430575c68b7c38b9089437382b21f00f0cf4f1e0cfa8090",
+   "local_bytes": 245799
+  },
+  {
+   "title": "File:Xiaomi 13 Ultra 20240220.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2024-02-20",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Self-published work",
+    "Category:Taken with Meizu 20",
+    "Category:Xiaomi 13 Ultra"
+   ],
+   "width": 4080,
+   "height": 2292,
+   "mime": "image/jpeg",
+   "sha1": "52e49b24f4f8d1920e3cf99471e141bd0392fb78",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Xiaomi_13_Ultra_20240220.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Xiaomi_13_Ultra_20240220.jpg/1280px-Xiaomi_13_Ultra_20240220.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Xiaomi_13_Ultra_20240220.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "メイド理世",
+   "credit": "Own work",
+   "description": "​小米13 Ultra在重庆巴南万达广场中拍照。",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-xiaomi-13-ultra-12gb-512gb/2-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-13-ultra-12gb-512gb/2.jpg",
+   "local_sha256": "67d5b209ba1049f7e65e1e2f66478d543bc4b71ffe366a2fd1e3193bc3fe48b1",
+   "local_bytes": 166488
+  }
+ ]
+}

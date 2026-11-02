@@ -1,0 +1,113 @@
+{
+ "handle": "real-amd-ryzen-7-1800x",
+ "brand": "AMD",
+ "model": "Ryzen 7 1800X",
+ "mpn": "YD180XBCAEWOF",
+ "category_handle": "processor",
+ "title": "AMD Ryzen 7 1800X Desktop Processor",
+ "subtitle": "8 cores / 16 threads | up to 4 GHz | AM4",
+ "description": "8-core AMD desktop processor for the AM4 socket with 16 MB of L3 cache and boost clocks up to 4 GHz. Specifications checked against AMD's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Processor",
+   "label": "Cores",
+   "value": "8"
+  },
+  {
+   "group": "Processor",
+   "label": "Threads",
+   "value": "16"
+  },
+  {
+   "group": "Clock",
+   "label": "Max boost clock",
+   "value": "Up to 4 GHz"
+  },
+  {
+   "group": "Clock",
+   "label": "Base clock",
+   "value": "3.6 GHz"
+  },
+  {
+   "group": "Cache",
+   "label": "L3 cache",
+   "value": "16 MB"
+  },
+  {
+   "group": "Power",
+   "label": "Default TDP",
+   "value": "95W"
+  },
+  {
+   "group": "Platform",
+   "label": "Socket",
+   "value": "AM4"
+  },
+  {
+   "group": "Platform",
+   "label": "PCI Express",
+   "value": "PCIe 3.0"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory type",
+   "value": "DDR4"
+  }
+ ],
+ "highlights": [
+  "8 cores, 16 threads",
+  "Up to 4 GHz boost",
+  "16 MB L3 cache",
+  "AM4 socket, DDR4 memory"
+ ],
+ "review_notes": [
+  "AMD's current spec table for this processor is published on its official drivers & support page."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-1000-series/amd-ryzen-7-1800x.html",
+   "publisher": "Advanced Micro Devices, Inc.",
+   "final_url": "https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-1000-series/amd-ryzen-7-1800x.html",
+   "retrieved_at": "2026-11-02T17:55:36+00:00",
+   "sha256": "4e7ad3393330e3110485a306b12b8eb3353817a01796c3dc71645f105502e6b5",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:06:20+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:AMD Ryzen 7 1800X.jpg",
+   "categories": [
+    "Category:AMD Ryzen 7 1800X",
+    "Category:CC-BY-SA-2.0",
+    "Category:Featured pictures on Wikipedia, Chinese",
+    "Category:Featured pictures on Wikipedia, Indonesian",
+    "Category:Files with Assessments template missing SDC Commons no value quality assessment",
+    "Category:Flickr images reviewed by FlickreviewR 2",
+    "Category:Taken with Pentax K-3 II",
+    "Category:Taken with SMC Pentax-DA 18-135mm F3.5-5.6 ED AL (IF) DC WR"
+   ],
+   "width": 6020,
+   "height": 4016,
+   "mime": "image/jpeg",
+   "sha1": "84aa2fee7517cca02d07c21b9a7ef03e87b55ee8",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/AMD_Ryzen_7_1800X.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/AMD_Ryzen_7_1800X.jpg/1280px-AMD_Ryzen_7_1800X.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:AMD_Ryzen_7_1800X.jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "artist": "Brian Wong",
+   "credit": "https://www.flickr.com/photos/57993471@N06/37962336546/",
+   "description": "There's an AMD Ryzen 7 1800X eight-core processor in the socket.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-amd-ryzen-7-1800x/1-card.jpg",
+   "local_path": "/catalog-real/real-amd-ryzen-7-1800x/1.jpg",
+   "local_sha256": "2f7d2970a72f71294df9e812edd5360189d4616c8fec5cd0259bec09db996d60",
+   "local_bytes": 1080850
+  }
+ ]
+}

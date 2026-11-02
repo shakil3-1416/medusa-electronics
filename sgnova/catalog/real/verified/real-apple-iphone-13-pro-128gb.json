@@ -1,0 +1,175 @@
+{
+ "handle": "real-apple-iphone-13-pro-128gb",
+ "brand": "Apple",
+ "model": "iPhone 13 Pro",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 13 Pro (128GB)",
+ "subtitle": "6.1-inch all-screen OLED | A15 Bionic | 128GB",
+ "description": "Apple iPhone 13 Pro smartphone in the 128GB storage configuration. It runs on the A15 Bionic chip and has a 6.1-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "128GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.1-inch all-screen OLED display"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2532 x 1170 at 460 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A15 Bionic, 6-core CPU, 5-core GPU"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "IP68, up to 6 m for 30 minutes"
+  },
+  {
+   "group": "Battery",
+   "label": "Video playback",
+   "value": "Up to 22 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "204 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "146.7 x 71.5 x 7.65 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "Wi-Fi 6 (802.11ax)"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.0"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "Lightning"
+  }
+ ],
+ "highlights": [
+  "6.1-inch all-screen OLED display",
+  "2532 x 1170 at 460 ppi resolution",
+  "A15 Bionic, 6-core CPU, 5-core GPU chip",
+  "Water resistance: IP68, up to 6 m for 30 minutes"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111871",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111871",
+   "retrieved_at": "2026-11-02T18:16:24+00:00",
+   "sha256": "32fe1719e21b5a424f3a1f8a290e89b2be2a2a53fc5c3e4a1f7cdb4ae327fc78",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:04:21+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Apple iPhone 13 Pro.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 13 Pro",
+    "Category:Self-published work"
+   ],
+   "width": 6000,
+   "height": 4000,
+   "mime": "image/jpeg",
+   "sha1": "c5a62b8a9a906f1df29276f620de445571413eb8",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Apple_iPhone_13_Pro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Apple_iPhone_13_Pro.jpg/1280px-Apple_iPhone_13_Pro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Apple_iPhone_13_Pro.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "SimonWaldherr",
+   "credit": "Own work",
+   "description": "an Apple iPhone 13 Pro",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-13-pro-128gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-13-pro-128gb/1.jpg",
+   "local_sha256": "462c4e7eedfc040758d0c7cc8ef50461024398f2df81832d172220a3ef75e6fd",
+   "local_bytes": 196384
+  },
+  {
+   "title": "File:IPhone 13 Pro Sierra blue A2483 US version rear.jpg",
+   "categories": [
+    "Category:Backs of smartphones",
+    "Category:Blue mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2025-03-11",
+    "Category:IPhone 13 Pro",
+    "Category:Images by 茅野ふたば taken with iPhone XR",
+    "Category:Self-published work"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "88d8be4eb39940f434b440258302286a698eb597",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/IPhone_13_Pro_Sierra_blue_A2483_US_version_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/IPhone_13_Pro_Sierra_blue_A2483_US_version_rear.jpg/1280px-IPhone_13_Pro_Sierra_blue_A2483_US_version_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_13_Pro_Sierra_blue_A2483_US_version_rear.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "茅野ふたば",
+   "credit": "Own work",
+   "description": "iPhone 13 Pro Sierra blue A2483 US version rear.",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-13-pro-128gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-13-pro-128gb/2.jpg",
+   "local_sha256": "b019c8725fc7f043cb0dd3a0168279f9e091380a978e50d04498f189241ef89e",
+   "local_bytes": 192960
+  },
+  {
+   "title": "File:Back of the iPhone 13 Pro.jpg",
+   "categories": [
+    "Category:Backs of iPhones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Green mobile phones",
+    "Category:IPhone 13 Pro",
+    "Category:Self-published work"
+   ],
+   "width": 1170,
+   "height": 1789,
+   "mime": "image/jpeg",
+   "sha1": "88d6324c4e0a3b8ab0a56936cc168734e3b4f0f9",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Back_of_the_iPhone_13_Pro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Back_of_the_iPhone_13_Pro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Back_of_the_iPhone_13_Pro.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Hajoon0102",
+   "credit": "Own work",
+   "description": "Back of the iPhone 13 Pro",
+   "attribution_required": "true",
+   "index": 3,
+   "card_path": "/catalog-real/real-apple-iphone-13-pro-128gb/3-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-13-pro-128gb/3.jpg",
+   "local_sha256": "b7ee9e68ab7dce0c35174b96dcccc5780181087448bc316eedac5d0c9b6d51a4",
+   "local_bytes": 84772
+  }
+ ]
+}

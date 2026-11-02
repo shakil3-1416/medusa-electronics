@@ -1,0 +1,765 @@
+[
+ {
+  "handle": "real-brother-hl-l8260cdw",
+  "brand": "Brother",
+  "model": "HL-L8260CDW",
+  "mpn": "HLL8260CDW",
+  "variant_title": "Default",
+  "category_handle": "printer",
+  "title": "Brother HL-L8260CDW Wireless Colour Laser Printer",
+  "subtitle": "33 ppm colour laser | Auto duplex | Wi-Fi + Gigabit Ethernet",
+  "description": "Workgroup colour laser printer for small offices, with automatic two-sided printing, wireless and wired networking, a 250-sheet tray plus a 50-sheet multipurpose tray, and room to grow with optional paper trays. Specifications verified against Brother's official product page.",
+  "highlights": [
+   "Up to 33 pages per minute in colour and black",
+   "Automatic duplex printing",
+   "Wireless 802.11b/g/n and Gigabit Ethernet",
+   "250-sheet tray plus 50-sheet multipurpose tray"
+  ],
+  "spec_source": {
+   "url": "https://www.brother-usa.com/products/hll8260cdw",
+   "publisher": "Brother USA"
+  },
+  "model_match": [
+   "HL-L8260CDW"
+  ],
+  "specs": [
+   {
+    "group": "Print",
+    "label": "Print speed (black / colour)",
+    "value": "33 ppm / 33 ppm",
+    "evidence": "black print speed‡ (max. ppm) 33 color print speed‡ (max. ppm) 33"
+   },
+   {
+    "group": "Print",
+    "label": "Print resolution",
+    "value": "2400 x 600 dpi class",
+    "evidence": "print resolution 2400 x 600 dpi class"
+   },
+   {
+    "group": "Print",
+    "label": "First page out",
+    "value": "15 s (black) / 15 s (colour)",
+    "evidence": "first page out time‡ (max. sec.) 15 (black) / 15 (color)"
+   },
+   {
+    "group": "Print",
+    "label": "Automatic duplex",
+    "value": "Yes (default)",
+    "evidence": "automatic duplex printing yes (default)"
+   },
+   {
+    "group": "Paper handling",
+    "label": "Standard input tray",
+    "value": "250 sheets",
+    "evidence": "standard paper input capacity (sheets)‡ 250"
+   },
+   {
+    "group": "Paper handling",
+    "label": "Multipurpose tray",
+    "value": "50 sheets",
+    "evidence": "multipurpose tray capacity (sheets)‡ 50"
+   },
+   {
+    "group": "Paper handling",
+    "label": "Output capacity",
+    "value": "150 sheets",
+    "evidence": "output paper capacity (sheets)‡ 150"
+   },
+   {
+    "group": "General",
+    "label": "Maximum monthly duty cycle",
+    "value": "40,000 pages",
+    "evidence": "maximum monthly duty cycle‡ 40,000 pages"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Networking",
+    "value": "Wireless 802.11b/g/n and Gigabit Ethernet",
+    "evidence": "built-in wireless 802.11b/g/n and gigabit ethernet network interfaces"
+   },
+   {
+    "group": "Physical",
+    "label": "Unit dimensions",
+    "value": "16.1\" x 19.1\" x 12.3\"",
+    "evidence": "unit dimensions 16.1\" x 19.1\" x 12.3\""
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Brother HL-L8260CDW Printer.jpg",
+    "model_evidence": "HL-L8260CDW"
+   }
+  ]
+ },
+ {
+  "handle": "real-brother-hl-2240",
+  "brand": "Brother",
+  "model": "HL-2240",
+  "mpn": "HL2240",
+  "variant_title": "Default",
+  "category_handle": "printer",
+  "title": "Brother HL-2240 Compact Mono Laser Printer",
+  "subtitle": "24 ppm monochrome laser | 250-sheet tray | USB",
+  "description": "Small-footprint black-and-white laser printer for home offices, printing letters and reports at up to 24 pages per minute from an adjustable 250-sheet tray, with a manual feed slot for envelopes and letterhead. Specifications verified against Brother's official product page.",
+  "highlights": [
+   "Up to 24 pages per minute",
+   "Up to 2400 x 600 dpi output",
+   "Adjustable 250-sheet paper tray",
+   "Manual feed slot for envelopes"
+  ],
+  "spec_source": {
+   "url": "https://www.brother-usa.com/products/hl2240",
+   "publisher": "Brother USA"
+  },
+  "model_match": [
+   "HL-2240"
+  ],
+  "specs": [
+   {
+    "group": "Print",
+    "label": "Print speed",
+    "value": "Up to 24 ppm",
+    "evidence": "a print speed of up to 24ppm"
+   },
+   {
+    "group": "Print",
+    "label": "Print resolution",
+    "value": "Up to 2400 x 600 dpi",
+    "evidence": "with a print resolution up to 2400 x 600 dpi"
+   },
+   {
+    "group": "Print",
+    "label": "Automatic duplex",
+    "value": "No",
+    "evidence": "automatic duplex printing no"
+   },
+   {
+    "group": "Paper handling",
+    "label": "Input capacity",
+    "value": "250 sheets",
+    "evidence": "maximum paper capacity‡ 250-sheet input capacity"
+   },
+   {
+    "group": "Paper handling",
+    "label": "Multipurpose / manual feed",
+    "value": "1 sheet",
+    "evidence": "multipurpose tray capacity (sheets)‡ 1"
+   },
+   {
+    "group": "General",
+    "label": "CPU speed",
+    "value": "333",
+    "evidence": "cpu speed 333"
+   },
+   {
+    "group": "Power",
+    "label": "Power source",
+    "value": "120V AC 60 Hz",
+    "evidence": "power source 120v ac 60 hz"
+   },
+   {
+    "group": "General",
+    "label": "Driver compatibility",
+    "value": "Windows, macOS",
+    "evidence": "printer driver compatibility‡ windows , macos®"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Brother HL-2240 Printer.jpg",
+    "model_evidence": "HL-2240"
+   }
+  ],
+  "review_notes": "CPU speed shown on the page without a unit; kept unitless."
+ },
+ {
+  "handle": "real-brother-mfc-j5855dw",
+  "brand": "Brother",
+  "model": "MFC-J5855DW",
+  "mpn": "MFCJ5855DW",
+  "variant_title": "Default",
+  "category_handle": "printer",
+  "title": "Brother MFC-J5855DW INKvestment Colour Inkjet All-in-One",
+  "subtitle": "Print, copy, scan, fax | Up to 11 x 17 in printing | Dual-band Wi-Fi",
+  "description": "Colour inkjet multifunction printer that prints up to ledger size, copies, scans and faxes through a 50-page document feeder, and connects over dual-band Wi-Fi, Ethernet or USB. Specifications verified against Brother's official product page.",
+  "highlights": [
+   "Up to 30 ppm black and colour",
+   "Prints up to 11 x 17 in (ledger)",
+   "50-page automatic document feeder",
+   "Dual-band Wi-Fi, Ethernet and USB"
+  ],
+  "spec_source": {
+   "url": "https://www.brother-usa.com/products/mfcj5855dw",
+   "publisher": "Brother USA"
+  },
+  "model_match": [
+   "MFC-J5855DW"
+  ],
+  "specs": [
+   {
+    "group": "Print",
+    "label": "Print speed",
+    "value": "Up to 30 ppm (black and colour)",
+    "evidence": "print speeds up to 30 pages per minute‡, black and color"
+   },
+   {
+    "group": "Print",
+    "label": "Print resolution",
+    "value": "4800 x 1200 dpi",
+    "evidence": "print resolution 4800 x 1200 dpi"
+   },
+   {
+    "group": "Print",
+    "label": "First page out",
+    "value": "4.4 s (black) / 4.6 s (colour)",
+    "evidence": "first page out time‡ (max. sec.) 4.4 (black) / 4.6 (color)"
+   },
+   {
+    "group": "Paper handling",
+    "label": "Paper tray",
+    "value": "250 sheets",
+    "evidence": "standard paper input capacity (sheets)‡ 250"
+   },
+   {
+    "group": "Paper handling",
+    "label": "Multipurpose tray",
+    "value": "100 sheets",
+    "evidence": "multipurpose tray capacity (sheets)‡ 100"
+   },
+   {
+    "group": "Paper handling",
+    "label": "Automatic document feeder",
+    "value": "50 pages",
+    "evidence": "automatic document feeder capacity‡ 50"
+   },
+   {
+    "group": "Scan",
+    "label": "Simplex scan speed",
+    "value": "25 ipm / 25 ipm (black / colour)",
+    "evidence": "simplex scan speeds (black & color)‡ 25ipm / 25ipm"
+   },
+   {
+    "group": "Copy",
+    "label": "Copy resolution",
+    "value": "600 x 600 dpi",
+    "evidence": "copy resolution 600 x 600 max. dpi"
+   },
+   {
+    "group": "General",
+    "label": "Maximum monthly duty cycle",
+    "value": "Up to 40,000 pages",
+    "evidence": "maximum monthly duty cycle‡ up to 40,000 pages"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Interfaces",
+    "value": "Ethernet, Wi-Fi Direct, dual-band 802.11 b/g/n (2.4GHz) and a/n (5GHz), Hi-Speed USB 2.0",
+    "evidence": "standard interface ethernet , wi fi direct , dual band wireless: 802.11 b/g/n (2.4ghz), 802.11 a/n (5ghz) , hi-speed usb 2.0"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Brother MFC-J5855DW Printer.jpg",
+    "model_evidence": "MFC-J5855DW"
+   }
+  ]
+ },
+ {
+  "handle": "real-apc-smart-ups-smt1500i",
+  "brand": "APC",
+  "model": "SMT1500I",
+  "mpn": "SMT1500I",
+  "variant_title": "Default",
+  "category_handle": "ups",
+  "title": "APC Smart-UPS SMT1500I 1500VA Line-Interactive UPS",
+  "subtitle": "1500VA / 1000W | Pure sine wave | 8x IEC C13 | 230V tower",
+  "description": "Line-interactive tower UPS for servers, network closets, VoIP and point-of-sale equipment, with pure sine wave output, automatic voltage regulation, an LCD status panel and a SmartSlot for an optional management card. Specifications verified against Schneider Electric's official APC product page.",
+  "highlights": [
+   "1500VA / 1000W capacity",
+   "Pure sine wave output",
+   "Eight IEC C13 outlets at 230V",
+   "SmartSlot for an optional network management card"
+  ],
+  "spec_source": {
+   "url": "https://www.se.com/sg/en/product/SMT1500I/",
+   "publisher": "Schneider Electric (APC)"
+  },
+  "model_match": [
+   "SMT1500I"
+  ],
+  "specs": [
+   {
+    "group": "Power",
+    "label": "Capacity",
+    "value": "1500VA / 1000W",
+    "evidence": "1500va/1000w line interactive pure sine wave tower ups"
+   },
+   {
+    "group": "Power",
+    "label": "Topology",
+    "value": "Line interactive",
+    "evidence": "apc smart-ups, line interactive, 1500va, tower, 230v"
+   },
+   {
+    "group": "Power",
+    "label": "Output waveform",
+    "value": "Pure sine wave",
+    "evidence": "line interactive pure sine wave tower ups"
+   },
+   {
+    "group": "Power",
+    "label": "Nominal voltage",
+    "value": "230V",
+    "evidence": "1500va, tower, 230v, 8x iec c13 outlets"
+   },
+   {
+    "group": "Outlets",
+    "label": "Output connections",
+    "value": "8x IEC C13",
+    "evidence": "230v, 8x iec c13 outlets, smartslot, avr, lcd smt1500i"
+   },
+   {
+    "group": "Features",
+    "label": "Voltage regulation",
+    "value": "Automatic voltage regulation (AVR)",
+    "evidence": "automatic voltage regulation helps correct utility voltage"
+   },
+   {
+    "group": "Management",
+    "label": "Shutdown interface",
+    "value": "Serial or USB via PowerChute Serial Shutdown",
+    "evidence": "graceful shutdown using serial or usb cables via powerchute serial shutdown"
+   },
+   {
+    "group": "Physical",
+    "label": "Form factor",
+    "value": "Tower",
+    "evidence": "apc smart-ups, line interactive, 1500va, tower"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:APC AP9617 on top of SMT1500I.jpg",
+    "model_evidence": "SMT1500I"
+   }
+  ],
+  "review_notes": "Spec table on se.com is script-rendered; specs taken from the product title and feature bullets in the static page. Photo shows the SMT1500I with an AP9617 management card placed on top. Page marks the model discontinued (replaced by SMT1500IC)."
+ },
+ {
+  "handle": "real-apc-back-ups-pro-br700g",
+  "brand": "APC",
+  "model": "BR700G",
+  "mpn": "BR700G",
+  "variant_title": "Default",
+  "category_handle": "ups",
+  "title": "APC Back-UPS Pro BR700G 700VA Tower UPS",
+  "subtitle": "700VA / 420W | 6 outlets | AVR | LCD | User-replaceable battery",
+  "description": "Compact battery backup for home and small-office electronics, with automatic voltage regulation, an LCD showing load and battery levels, data-line surge protection and a battery the user can swap. Specifications verified against Schneider Electric's official APC product page.",
+  "highlights": [
+   "700VA / 420W capacity",
+   "Six NEMA 5-15R outlets",
+   "AVR corrects voltage swings",
+   "LCD with load and battery bar graphs"
+  ],
+  "spec_source": {
+   "url": "https://www.apc.com/us/en/product/BR700G/",
+   "publisher": "Schneider Electric (APC)"
+  },
+  "model_match": [
+   "BR700G"
+  ],
+  "specs": [
+   {
+    "group": "Power",
+    "label": "Capacity",
+    "value": "700VA / 420W",
+    "evidence": "apc back-ups pro, 700va/420w, tower, 120v"
+   },
+   {
+    "group": "Power",
+    "label": "Nominal voltage",
+    "value": "120V",
+    "evidence": "700va/420w, tower, 120v, 6x nema 5-15r outlets"
+   },
+   {
+    "group": "Outlets",
+    "label": "Output connections",
+    "value": "6x NEMA 5-15R",
+    "evidence": "120v, 6x nema 5-15r outlets, avr, lcd, user replaceable battery"
+   },
+   {
+    "group": "Features",
+    "label": "Voltage regulation",
+    "value": "AVR",
+    "evidence": "avr corrects voltage variations to provide reliable power"
+   },
+   {
+    "group": "Features",
+    "label": "Display",
+    "value": "LCD with load and battery bar graphs",
+    "evidence": "lcd display provides key ups status at a glance with load and battery bar graphs"
+   },
+   {
+    "group": "Features",
+    "label": "Data line protection",
+    "value": "Yes",
+    "evidence": "data line protection ensures complete protection of your equipment from surges"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery",
+    "value": "User replaceable",
+    "evidence": "avr, lcd, user replaceable battery br700g"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:APC BR700G-TW 20140114.jpg",
+    "model_evidence": "BR700G"
+   }
+  ],
+  "review_notes": "Spec source is the US (120V) BR700G page; the Commons photo is labelled BR700G-TW, the Taiwan SKU of the same Back-UPS Pro 700 (Taiwan also uses 110-120V NEMA outlets). Spec table on se.com is script-rendered; specs taken from the title and feature bullets."
+ },
+ {
+  "handle": "real-asus-zenscreen-mb16ac",
+  "brand": "ASUS",
+  "model": "ZenScreen MB16AC",
+  "mpn": "MB16AC",
+  "variant_title": "Default",
+  "category_handle": "office-monitor",
+  "title": "ASUS ZenScreen MB16AC 15.6\" Portable USB-C Monitor",
+  "subtitle": "15.6\" Full HD IPS | Single USB-C cable | 8 mm thin",
+  "description": "Slim portable Full HD IPS monitor that runs from a single USB-C cable, for adding a second screen to a laptop while travelling or hot-desking. Specifications verified against ASUS's official tech-spec page.",
+  "highlights": [
+   "15.6-inch 1920x1080 IPS panel",
+   "One USB-C port (DP Alt Mode & USB 3.2)",
+   "Flicker-free with low blue light mode",
+   "0.80 cm thin"
+  ],
+  "spec_source": {
+   "url": "https://www.asus.com/displays-desktops/monitors/zenscreen/zenscreen-mb16ac/techspec/",
+   "publisher": "ASUS"
+  },
+  "model_match": [
+   "ZenScreen MB16AC"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Panel size",
+    "value": "15.6 in",
+    "evidence": "panel size (inch) : 15.6"
+   },
+   {
+    "group": "Display",
+    "label": "Panel type",
+    "value": "IPS",
+    "evidence": "backlight type : led panel type : ips"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "1920x1080",
+    "evidence": "resolution : 1920x1080"
+   },
+   {
+    "group": "Display",
+    "label": "Brightness (typ.)",
+    "value": "220 cd/m2",
+    "evidence": "brightness (typ.) : 220cd/m2"
+   },
+   {
+    "group": "Display",
+    "label": "Contrast ratio (typ.)",
+    "value": "800:1",
+    "evidence": "contrast ratio (typ.) : 800:1"
+   },
+   {
+    "group": "Display",
+    "label": "Response time",
+    "value": "5 ms (GtG)",
+    "evidence": "response time : 5ms(gtg)"
+   },
+   {
+    "group": "Display",
+    "label": "Refresh rate (max)",
+    "value": "60 Hz",
+    "evidence": "refresh rate (max) : 60hz"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Ports",
+    "value": "1x USB-C (DP Alt Mode & USB 3.2)",
+    "evidence": "usb-c x 1 (dp alt mode & usb 3.2)"
+   },
+   {
+    "group": "Physical",
+    "label": "Dimensions (W x H x D)",
+    "value": "35.97 x 22.64 x 0.80 cm",
+    "evidence": "phys. dimension (w x h x d) : 35.97 x 22.64 x 0.80 cm"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:ASUS ZenScreen MB16AC 20170603.jpg",
+    "model_evidence": "ZenScreen MB16AC"
+   }
+  ]
+ },
+ {
+  "handle": "real-epson-workforce-pro-wf-3820",
+  "brand": "Epson",
+  "model": "WorkForce Pro WF-3820",
+  "mpn": "C11CJ07201",
+  "variant_title": "Default",
+  "category_handle": "printer",
+  "title": "Epson WorkForce Pro WF-3820 Wireless All-in-One Printer",
+  "subtitle": "21 / 11 ISO ppm | Auto 2-sided | 35-page ADF | 250-sheet tray",
+  "description": "Small-workgroup inkjet all-in-one with pigment inks, automatic two-sided printing, a 35-page document feeder, a 250-sheet paper tray and a 2.7-inch colour touchscreen, connected by Wi-Fi, Wi-Fi Direct or Ethernet. Specifications verified against Epson's official product page.",
+  "highlights": [
+   "21 black / 11 colour ISO ppm",
+   "Auto 2-sided printing",
+   "35-page automatic document feeder",
+   "2.7-inch colour touchscreen"
+  ],
+  "spec_source": {
+   "url": "https://epson.com/For-Work/Printers/Inkjet/WorkForce-Pro-WF-3820-Wireless-All-in-One-Printer/p/C11CJ07201",
+   "publisher": "Epson America"
+  },
+  "model_match": [
+   "WF-3820"
+  ],
+  "specs": [
+   {
+    "group": "Print",
+    "label": "ISO print speed",
+    "value": "21 ppm black / 11 ppm colour",
+    "evidence": "21 (black)/11 (color) iso ppm"
+   },
+   {
+    "group": "Print",
+    "label": "Duplex",
+    "value": "Auto 2-sided printing",
+    "evidence": "auto 2-sided printing and 1-sided, 35-page adf"
+   },
+   {
+    "group": "Paper handling",
+    "label": "Automatic document feeder",
+    "value": "35 pages (1-sided)",
+    "evidence": "auto 2-sided printing and 1-sided, 35-page adf"
+   },
+   {
+    "group": "Paper handling",
+    "label": "Paper capacity",
+    "value": "250-sheet tray",
+    "evidence": "large, 250-sheet paper capacity"
+   },
+   {
+    "group": "Interface",
+    "label": "Display",
+    "value": "2.7\" colour touchscreen",
+    "evidence": "2.7\" color touchscreen for quick navigation and control"
+   },
+   {
+    "group": "Ink",
+    "label": "Ink type",
+    "value": "DURABrite Ultra pigment ink",
+    "evidence": "high-precision prints with durabrite ultra pigment inks"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connectivity",
+    "value": "Wi-Fi, Wi-Fi Direct, Ethernet",
+    "evidence": "also includes built-in wireless, wi-fi direct ®3 , mopria ® print service and mopria scan and ethernet networking"
+   },
+   {
+    "group": "General",
+    "label": "Monthly duty cycle",
+    "value": "Up to 26,000 pages",
+    "evidence": "monthly duty cycle upto 26,000 is the highest duty a user could expect in a month"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Epson WorkForce Pro WF-3820 Printer.jpg",
+    "model_evidence": "WF-3820"
+   }
+  ]
+ },
+ {
+  "handle": "real-asus-rog-strix-g15-advantage-edition-g513qy",
+  "brand": "ASUS",
+  "model": "ROG Strix G15 Advantage Edition G513QY",
+  "mpn": "G513QY",
+  "variant_title": "Ryzen 9 5900HX / RX 6800M",
+  "category_handle": "gaming-laptop",
+  "title": "ASUS ROG Strix G15 Advantage Edition (G513QY) Gaming Laptop",
+  "subtitle": "Ryzen 9 5900HX | Radeon RX 6800M 12GB | 15.6\" WQHD 165Hz",
+  "description": "All-AMD 15.6-inch gaming laptop pairing a Ryzen 9 5900HX processor with Radeon RX 6800M graphics and a 165Hz WQHD IPS-level display, with two SO-DIMM slots and two M.2 slots for upgrades. Specifications verified against ASUS ROG's official tech-spec page.",
+  "highlights": [
+   "AMD Ryzen 9 5900HX, 8 cores / 16 threads",
+   "AMD Radeon RX 6800M 12GB GDDR6",
+   "15.6-inch WQHD 165Hz, 100% DCI-P3",
+   "90Wh battery, 280W adapter"
+  ],
+  "spec_source": {
+   "url": "https://rog.asus.com/laptops/rog-strix/2021-rog-strix-g15-advantage-edition-series/spec/",
+   "publisher": "ASUS ROG"
+  },
+  "model_match": [
+   "G513QY"
+  ],
+  "specs": [
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "AMD Ryzen 9 5900HX (8-core/16-thread, up to 4.6 GHz)",
+    "evidence": "amd ryzentm 9 5900hx mobile processor (8-core/16-thread, 20mb cache, up to 4.6 ghz max boost)"
+   },
+   {
+    "group": "Performance",
+    "label": "Graphics",
+    "value": "AMD Radeon RX 6800M 12GB GDDR6",
+    "evidence": "amd ® radeontm rx 6800m 12gb gddr6"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "15.6-inch WQHD (2560 x 1440) IPS-level, 165Hz, 3ms",
+    "evidence": "15.6-inch wqhd (2560 x 1440) 16:9 ips-level anti-glare(ag) display dci-p3: 100.00% refresh rate: 165hz response time: 3ms"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory",
+    "value": "8GB DDR4-3200 SO-DIMM x 2, max 32GB",
+    "evidence": "8gb ddr4-3200 so-dimm x 2 max capacity: 32gb"
+   },
+   {
+    "group": "Storage",
+    "label": "Storage",
+    "value": "1TB PCIe 3.0 NVMe M.2 SSD",
+    "evidence": "1tb pcie ® 3.0 nvmetm m.2 ssd"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wireless",
+    "value": "Wi-Fi 6 (802.11ax) + Bluetooth 5.1",
+    "evidence": "wi-fi 6(802.11ax) (dual band) 2*2 + bt5.1"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Video out",
+    "value": "1x HDMI 2.0b",
+    "evidence": "1x hdmi 2.0b 3x usb 3.2 gen 1 type-a"
+   },
+   {
+    "group": "Power",
+    "label": "Battery",
+    "value": "90Wh, 4-cell Li-ion",
+    "evidence": "battery 90whrs, 4s1p, 4-cell li-ion"
+   },
+   {
+    "group": "Physical",
+    "label": "Weight",
+    "value": "2.50 kg",
+    "evidence": "weight 2.50 kg (5.51 lbs)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:ASUS ROG Strix G15 (G513QY-HQ012T)-front oblique PNr°0884.jpg",
+    "model_evidence": "G513QY"
+   },
+   {
+    "commons_file": "File:ASUS ROG Strix G15 (G513QY-HQ012T)-top keyboard PNr°0887.jpg",
+    "model_evidence": "G513QY"
+   },
+   {
+    "commons_file": "File:ASUS ROG Strix G15 (G513QY-HQ012T)-top cover illuminated PNr°0886.jpg",
+    "model_evidence": "G513QY"
+   }
+  ],
+  "review_notes": "Spec page lists the G513QY-R9X8G6T-O configuration (16GB as 2x8GB, 1TB); photos show the G513QY-HQ012T regional configuration of the same G513QY chassis/CPU/GPU. Memory and storage may differ by regional SKU."
+ },
+ {
+  "handle": "real-asus-pb278q",
+  "brand": "ASUS",
+  "model": "PB278Q",
+  "mpn": "PB278Q",
+  "variant_title": "Default",
+  "category_handle": "office-monitor",
+  "title": "ASUS PB278Q 27\" WQHD Professional Monitor",
+  "subtitle": "27\" 2560 x 1440 | 178° viewing | HDMI, DisplayPort, DVI, D-Sub",
+  "description": "27-inch WQHD office and design monitor with wide viewing angles, full sRGB coverage, built-in speakers and a stand that tilts, pivots and adjusts in height. Specifications verified against ASUS's official product page (Spanish-language regional site).",
+  "highlights": [
+   "27-inch 2560 x 1440 WQHD, 109 ppi",
+   "178° viewing angles",
+   "HDMI 1.4, DisplayPort 1.2, dual-link DVI and D-Sub",
+   "Hidden 3W stereo speakers"
+  ],
+  "spec_source": {
+   "url": "https://www.asus.com/py/displays-desktops/monitors/business/pb278q/",
+   "publisher": "ASUS"
+  },
+  "model_match": [
+   "PB278Q"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Size and resolution",
+    "value": "27\" WQHD, 2560 x 1440",
+    "evidence": "una pantalla led wqhd de 27\" con 109 píxeles por pulgada, lo que resulta en una resolución de 2560 x 1440"
+   },
+   {
+    "group": "Display",
+    "label": "Pixel density",
+    "value": "109 ppi",
+    "evidence": "la densidad de pantalla 109ppi"
+   },
+   {
+    "group": "Display",
+    "label": "Viewing angle",
+    "value": "178° (H/V)",
+    "evidence": "178° de ángulo de visión"
+   },
+   {
+    "group": "Display",
+    "label": "Response time",
+    "value": "5 ms (grey to grey)",
+    "evidence": "ofrece una respuesta de gris a gris de 5 ms"
+   },
+   {
+    "group": "Display",
+    "label": "Brightness",
+    "value": "300 cd/m2",
+    "evidence": "el brillo de 300cd/m2"
+   },
+   {
+    "group": "Display",
+    "label": "Smart contrast ratio (ASCR)",
+    "value": "80 000 000:1",
+    "evidence": "asus smart contrast ratio (ascr) 80 000 000:1"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Inputs",
+    "value": "HDMI 1.4, DisplayPort 1.2, dual-link DVI, D-Sub",
+    "evidence": "puertos hdmi 1.4, displayport 1.2, dual-link dvi para contenidos wqhd y d-sub full hd"
+   },
+   {
+    "group": "Audio",
+    "label": "Speakers",
+    "value": "Stereo, 3W",
+    "evidence": "altavoces estéreo ocultos con 3w de potencia"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:ASUS PB278Q (PXL 20250914 223256075).jpg",
+    "model_evidence": "PB278Q"
+   }
+  ],
+  "review_notes": "Source page is ASUS's Spanish-language regional overview; evidence quoted verbatim in Spanish, values translated."
+ }
+]

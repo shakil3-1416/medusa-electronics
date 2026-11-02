@@ -1,0 +1,137 @@
+{
+ "handle": "real-logitech-yeti-nano",
+ "brand": "Logitech",
+ "model": "Yeti Nano",
+ "mpn": null,
+ "category_handle": "microphone",
+ "title": "Logitech G Yeti Nano USB Microphone",
+ "subtitle": "2 capsules | cardioid + omni | USB plug and play",
+ "description": "Compact USB condenser microphone for streaming, podcasting and calls, with two capsules, cardioid and omni pickup patterns and an internal shockmount. Specifications verified against Logitech's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "Capsules",
+   "value": "2"
+  },
+  {
+   "group": "Performance",
+   "label": "Pickup patterns",
+   "value": "Cardioid, omni"
+  },
+  {
+   "group": "Performance",
+   "label": "Omni mode",
+   "value": "Picks up sound from all around"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connection",
+   "value": "USB"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Drivers",
+   "value": "None required"
+  },
+  {
+   "group": "Design",
+   "label": "Shock isolation",
+   "value": "Internal shockmount"
+  },
+  {
+   "group": "Design",
+   "label": "Stand",
+   "value": "Built-in metal stand, boom-arm mountable"
+  },
+  {
+   "group": "Features",
+   "label": "Voice effects",
+   "value": "Blue VO!CE via G HUB"
+  }
+ ],
+ "highlights": [
+  "Two capsules, two pickup patterns",
+  "Cardioid and omni modes",
+  "Internal shockmount",
+  "Plug and play, no drivers"
+ ],
+ "review_notes": [
+  "Photo titles use the original Blue Yeti Nano name; Logitech now sells it as Logitech G Yeti Nano."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.logitechg.com/en-us/shop/p/yeti-nano-usb-microphone",
+   "publisher": "Logitech",
+   "final_url": "https://www.logitechg.com/en-us/shop/p/yeti-nano-usb-microphone",
+   "retrieved_at": "2026-11-02T18:04:37+00:00",
+   "sha256": "3ddc52d394d1d9290748ce901d2eac3604d8e72fee3e512bbea9bc3f1f92ca1e",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:08:41+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Blue Yeti Nano, Microphone, 1.jpg",
+   "categories": [
+    "Category:Blue Yeti Nano",
+    "Category:CC-BY-SA-2.0",
+    "Category:Denmark photographs taken on 2024-08-25",
+    "Category:Flickr images missing SDC creator",
+    "Category:Flickr images missing SDC published in",
+    "Category:Flickr images missing SDC source of file",
+    "Category:Flickr images reviewed by FlickreviewR 2"
+   ],
+   "width": 6000,
+   "height": 3368,
+   "mime": "image/jpeg",
+   "sha1": "59ec82c4da341b3d7b66b6fe48f3ca5e25b0f76a",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Blue_Yeti_Nano%2C_Microphone%2C_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Blue_Yeti_Nano%2C_Microphone%2C_1.jpg/1280px-Blue_Yeti_Nano%2C_Microphone%2C_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Blue_Yeti_Nano,_Microphone,_1.jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "artist": "Kent Madsen",
+   "credit": "https://www.flickr.com/photos/designermadsen/53946559396/",
+   "description": "Blue Yeti Nano microphone",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-logitech-yeti-nano/1-card.jpg",
+   "local_path": "/catalog-real/real-logitech-yeti-nano/1.jpg",
+   "local_sha256": "b26c014ac18c5175dcb984fb06533ab0d1f6f26afc567307c58c2a2e4889155e",
+   "local_bytes": 84751
+  },
+  {
+   "title": "File:Blue Yeti Nano, Microphone, 2.jpg",
+   "categories": [
+    "Category:Blue Yeti Nano",
+    "Category:CC-BY-SA-2.0",
+    "Category:Denmark photographs taken on 2024-08-25",
+    "Category:Flickr images missing SDC creator",
+    "Category:Flickr images missing SDC published in",
+    "Category:Flickr images missing SDC source of file",
+    "Category:Flickr images reviewed by FlickreviewR 2"
+   ],
+   "width": 6000,
+   "height": 3368,
+   "mime": "image/jpeg",
+   "sha1": "96f4c72ba4d33b612abf2fe940beac1765594f6d",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Blue_Yeti_Nano%2C_Microphone%2C_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Blue_Yeti_Nano%2C_Microphone%2C_2.jpg/1280px-Blue_Yeti_Nano%2C_Microphone%2C_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Blue_Yeti_Nano,_Microphone,_2.jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "artist": "Kent Madsen",
+   "credit": "https://www.flickr.com/photos/designermadsen/53945660222/",
+   "description": "Blue Yeti Nano microphone",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-logitech-yeti-nano/2-card.jpg",
+   "local_path": "/catalog-real/real-logitech-yeti-nano/2.jpg",
+   "local_sha256": "005a4eaedb707e430818d8bad36c599ef8a8c3733bb602f133642f5763854b34",
+   "local_bytes": 89273
+  }
+ ]
+}

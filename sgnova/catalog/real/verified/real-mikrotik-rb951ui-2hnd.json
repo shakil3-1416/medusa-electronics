@@ -1,0 +1,107 @@
+{
+ "handle": "real-mikrotik-rb951ui-2hnd",
+ "brand": "MikroTik",
+ "model": "RB951Ui-2HnD",
+ "mpn": "RB951Ui-2HnD",
+ "category_handle": "router",
+ "title": "MikroTik RB951Ui-2HnD Wireless Router",
+ "subtitle": "High-power 2.4 GHz | 5 Ethernet ports | USB | PoE-out",
+ "description": "Five-port RouterOS router with a high-power 2.4 GHz radio, a USB port and passive PoE output on port 5, a long-running choice for small offices and hotspots. Specifications verified against MikroTik's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "CPU",
+   "value": "AR9344, 1 core, 600 MHz"
+  },
+  {
+   "group": "Performance",
+   "label": "RAM",
+   "value": "128 MB"
+  },
+  {
+   "group": "Performance",
+   "label": "Storage",
+   "value": "128 MB NAND"
+  },
+  {
+   "group": "Wireless",
+   "label": "2.4 GHz max rate",
+   "value": "300 Mbit/s"
+  },
+  {
+   "group": "Wireless",
+   "label": "Antenna gain",
+   "value": "2.5 dBi"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "5 x 10/100"
+  },
+  {
+   "group": "Connectivity",
+   "label": "USB",
+   "value": "USB Type-A"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "24 W"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "113 x 138 x 29 mm"
+  }
+ ],
+ "highlights": [
+  "High-power 2.4 GHz 802.11b/g/n",
+  "Five 10/100 Ethernet ports",
+  "USB Type-A port",
+  "Passive PoE-out on port 5"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://mikrotik.com/product/RB951Ui-2HnD",
+   "publisher": "MikroTik",
+   "final_url": "https://mikrotik.com/product/RB951Ui-2HnD",
+   "retrieved_at": "2026-11-02T17:46:35+00:00",
+   "sha256": "814f48ba4ff8ebf12d7b2f2cadbb5e2fcff5e23d7ad2c0d36249ce13c356419b",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:07:11+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Mikrotik RB951Ui-2HnD.jpg",
+   "categories": [
+    "Category:CC-BY-SA-3.0",
+    "Category:MikroTik",
+    "Category:Self-published work",
+    "Category:Uploaded with Mobile/Android"
+   ],
+   "width": 5312,
+   "height": 2988,
+   "mime": "image/jpeg",
+   "sha1": "30cffc5e6b5fe2b8485d6a9938a9d608ac630c53",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Mikrotik_RB951Ui-2HnD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Mikrotik_RB951Ui-2HnD.jpg/1280px-Mikrotik_RB951Ui-2HnD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Mikrotik_RB951Ui-2HnD.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "artist": "Deavmi",
+   "credit": "Own work",
+   "description": "Mikrotik RB951Ui-2HnD device. Wireless interface supports 802.11b/g/n using the AR9344 chipset.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-mikrotik-rb951ui-2hnd/1-card.jpg",
+   "local_path": "/catalog-real/real-mikrotik-rb951ui-2hnd/1.jpg",
+   "local_sha256": "34a6b246fcde4bd8dd5de747db016ce31ecbd6385fa4eefeed65941f18af4af6",
+   "local_bytes": 180544
+  }
+ ]
+}

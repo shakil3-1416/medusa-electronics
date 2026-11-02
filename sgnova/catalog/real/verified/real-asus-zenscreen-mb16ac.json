@@ -1,0 +1,108 @@
+{
+ "handle": "real-asus-zenscreen-mb16ac",
+ "brand": "ASUS",
+ "model": "ZenScreen MB16AC",
+ "mpn": "MB16AC",
+ "category_handle": "office-monitor",
+ "title": "ASUS ZenScreen MB16AC 15.6\" Portable USB-C Monitor",
+ "subtitle": "15.6\" Full HD IPS | Single USB-C cable | 8 mm thin",
+ "description": "Slim portable Full HD IPS monitor that runs from a single USB-C cable, for adding a second screen to a laptop while travelling or hot-desking. Specifications verified against ASUS's official tech-spec page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Panel size",
+   "value": "15.6 in"
+  },
+  {
+   "group": "Display",
+   "label": "Panel type",
+   "value": "IPS"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "1920x1080"
+  },
+  {
+   "group": "Display",
+   "label": "Brightness (typ.)",
+   "value": "220 cd/m2"
+  },
+  {
+   "group": "Display",
+   "label": "Contrast ratio (typ.)",
+   "value": "800:1"
+  },
+  {
+   "group": "Display",
+   "label": "Response time",
+   "value": "5 ms (GtG)"
+  },
+  {
+   "group": "Display",
+   "label": "Refresh rate (max)",
+   "value": "60 Hz"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Ports",
+   "value": "1x USB-C (DP Alt Mode & USB 3.2)"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions (W x H x D)",
+   "value": "35.97 x 22.64 x 0.80 cm"
+  }
+ ],
+ "highlights": [
+  "15.6-inch 1920x1080 IPS panel",
+  "One USB-C port (DP Alt Mode & USB 3.2)",
+  "Flicker-free with low blue light mode",
+  "0.80 cm thin"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.asus.com/displays-desktops/monitors/zenscreen/zenscreen-mb16ac/techspec/",
+   "publisher": "ASUS",
+   "final_url": "https://www.asus.com/displays-desktops/monitors/zenscreen/zenscreen-mb16ac/techspec/",
+   "retrieved_at": "2026-11-02T17:58:50+00:00",
+   "sha256": "1e97155b9a5465fee3ea8fdd7b82c1eec1d876a9fa9c156d96a2c93781706025",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:12:17+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:ASUS ZenScreen MB16AC 20170603.jpg",
+   "categories": [
+    "Category:ASUS monitors",
+    "Category:CC-BY-SA-2.0",
+    "Category:Computex Taipei 2017",
+    "Category:Flickr files uploaded by Solomon203 in 2017",
+    "Category:Flickr images reviewed by FlickreviewR"
+   ],
+   "width": 4592,
+   "height": 3056,
+   "mime": "image/jpeg",
+   "sha1": "e867add9a0bb95f653d547d40abbe1a23a8fee32",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/ASUS_ZenScreen_MB16AC_20170603.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/ASUS_ZenScreen_MB16AC_20170603.jpg/1280px-ASUS_ZenScreen_MB16AC_20170603.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:ASUS_ZenScreen_MB16AC_20170603.jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "artist": "Devan Hsu",
+   "credit": "https://www.flickr.com/photos/devanboy/35086845886",
+   "description": "​2017台北國際電腦展，華碩15.6吋16:9寬螢幕Full HD可攜式顯示器ZenScreen MB16AC。",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-asus-zenscreen-mb16ac/1-card.jpg",
+   "local_path": "/catalog-real/real-asus-zenscreen-mb16ac/1.jpg",
+   "local_sha256": "439f2617eddeb826fdf45cc88e3dd24053eb6bb971314b4fb0753e7bcb5416b5",
+   "local_bytes": 138861
+  }
+ ]
+}

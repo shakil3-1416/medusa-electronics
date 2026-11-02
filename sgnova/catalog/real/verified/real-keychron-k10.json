@@ -1,0 +1,128 @@
+{
+ "handle": "real-keychron-k10",
+ "brand": "Keychron",
+ "model": "K10",
+ "mpn": null,
+ "category_handle": "mechanical-keyboard",
+ "title": "Keychron K10 Wireless Mechanical Keyboard",
+ "subtitle": "Full-size | Bluetooth + wired | 4000 mAh",
+ "description": "Full-size wireless mechanical keyboard with a number pad, Bluetooth and USB-C wired modes, RGB backlight and Mac and Windows keycaps. Specifications verified against Keychron's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Layout",
+   "label": "Layout",
+   "value": "100% full size"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connectivity",
+   "value": "Bluetooth, wired; 1000 Hz polling"
+  },
+  {
+   "group": "Build",
+   "label": "Keycaps",
+   "value": "OEM double-shot ABS"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery",
+   "value": "4000 mAh, up to 240 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Backlight",
+   "value": "4-level RGB"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions (plastic frame)",
+   "value": "435 x 120 x 38 mm"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight",
+   "value": "About 1082 g"
+  }
+ ],
+ "highlights": [
+  "100% full-size layout",
+  "Bluetooth and wired, 1000 Hz wired",
+  "4000 mAh battery, up to 240 h",
+  "Hot-swappable option"
+ ],
+ "review_notes": [
+  "Page lists original K10; the photo's hardware version is not stated."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.keychron.com/products/keychron-k10-wireless-mechanical-keyboard",
+   "publisher": "Keychron",
+   "final_url": "https://www.keychron.com/products/keychron-k10-wireless-mechanical-keyboard",
+   "retrieved_at": "2026-11-02T18:07:31+00:00",
+   "sha256": "d9ae146f140a8a7c2361c1db4e255be00a3b9d0eac8011e665e4120fef8a8507",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:09:08+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Keychron K10 Base 1 2023-11-19.jpeg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files by Fastily",
+    "Category:Full-size computer keyboards",
+    "Category:Keychron keyboards",
+    "Category:Self-published work"
+   ],
+   "width": 4032,
+   "height": 1282,
+   "mime": "image/jpeg",
+   "sha1": "db4de16de96676ef8c86368aae546fbaeb77f93f",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Keychron_K10_Base_1_2023-11-19.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Keychron_K10_Base_1_2023-11-19.jpeg/1280px-Keychron_K10_Base_1_2023-11-19.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Keychron_K10_Base_1_2023-11-19.jpeg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "FASTILY",
+   "credit": "Own work",
+   "description": "Keychron K10 Base",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-keychron-k10/1-card.jpg",
+   "local_path": "/catalog-real/real-keychron-k10/1.jpg",
+   "local_sha256": "0a1bffc84498d35539e6861cb9a8d3126e006b390c48d3c12ab97d19d5a0d4ff",
+   "local_bytes": 140202
+  },
+  {
+   "title": "File:Keychron K10 Board 1 2023-11-19.jpeg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files by Fastily",
+    "Category:Full-size computer keyboards",
+    "Category:Keychron keyboards",
+    "Category:Self-published work"
+   ],
+   "width": 4032,
+   "height": 1269,
+   "mime": "image/jpeg",
+   "sha1": "d0db27abd9e9ccaa790c1f6862aa449c1839c00f",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Keychron_K10_Board_1_2023-11-19.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Keychron_K10_Board_1_2023-11-19.jpeg/1280px-Keychron_K10_Board_1_2023-11-19.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Keychron_K10_Board_1_2023-11-19.jpeg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "FASTILY",
+   "credit": "Own work",
+   "description": "Keychron K10 Board",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-keychron-k10/2-card.jpg",
+   "local_path": "/catalog-real/real-keychron-k10/2.jpg",
+   "local_sha256": "ddac77feffed8d8a20a83bb6b867b8f4608765b56b953ffc258e48f18a06b3d1",
+   "local_bytes": 248134
+  }
+ ]
+}

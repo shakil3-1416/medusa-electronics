@@ -62,7 +62,7 @@
    "sha256": "d9012c53b2906fd877f37c67823a80be1cc185618dfe5c39a3c1861f97450e23",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:01:12+00:00",
+  "verified_at": "2026-11-02T18:57:51+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -87,9 +87,10 @@
    "description": "Apple Watch Ultra 2 at Apple Orchard Road on 5 April 2024.",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-apple-watch-ultra-2-49mm/1-card.jpg",
    "local_path": "/catalog-real/real-apple-watch-ultra-2-49mm/1.jpg",
-   "local_sha256": "7c43a7d09736a57022d68eb040400a20ef9092cc1e649b50d836c95ced030c16",
-   "local_bytes": 315574
+   "local_sha256": "003eac42e26dc2a56eb66e32bc0d050e4a2dddcdc1a726b3b8a634d59d670f1c",
+   "local_bytes": 225331
   }
  ]
 }

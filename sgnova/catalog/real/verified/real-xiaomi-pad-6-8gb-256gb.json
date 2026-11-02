@@ -62,7 +62,7 @@
    "sha256": "b96a11266d36ffb9ef3a2bf3de3d45193c2c4bd6d117864fdd4c51825d496622",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:01:27+00:00",
+  "verified_at": "2026-11-02T18:58:18+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -88,9 +88,10 @@
    "description": "Xiaomi Pad 6 with its keyboard",
    "attribution_required": "false",
    "index": 1,
+   "card_path": "/catalog-real/real-xiaomi-pad-6-8gb-256gb/1-card.jpg",
    "local_path": "/catalog-real/real-xiaomi-pad-6-8gb-256gb/1.jpg",
-   "local_sha256": "9b02adeafb81fb66a4a662f0a41f7daca2de896cf83382fdb5e584bc37110a32",
-   "local_bytes": 374053
+   "local_sha256": "60262bdf46517f0f031693835be0b95e5702f748bf0199f15dcf4a812415e183",
+   "local_bytes": 249199
   }
  ]
 }

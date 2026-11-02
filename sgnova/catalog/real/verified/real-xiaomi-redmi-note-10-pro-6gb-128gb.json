@@ -1,0 +1,156 @@
+{
+ "handle": "real-xiaomi-redmi-note-10-pro-6gb-128gb",
+ "brand": "Xiaomi",
+ "model": "Redmi Note 10 Pro",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Redmi Note 10 Pro (6GB+128GB)",
+ "subtitle": "6.67-inch AMOLED | Snapdragon 732G | 108MP",
+ "description": "Redmi Note 10 Pro with 6GB of LPDDR4X RAM and 128GB of UFS 2.2 storage, a 6.67-inch AMOLED DotDisplay, the Snapdragon 732G, a 108MP quad rear camera and a 5020mAh battery with 33W fast charging. Specifications were verified against Xiaomi's official global specs page.",
+ "variant_title": "6GB+128GB",
+ "specs": [
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "6GB LPDDR4X, 128GB UFS 2.2"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions and weight",
+   "value": "164 x 76.5 x 8.1 mm, 193 g"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Snapdragon 732G (8nm)"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.67-inch AMOLED, 2400 x 1080, 395 ppi"
+  },
+  {
+   "group": "Camera",
+   "label": "Rear cameras",
+   "value": "108MP wide, 8MP, 5MP, 2MP"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "16MP, f/2.45"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery and charging",
+   "value": "5020mAh, 33W"
+  }
+ ],
+ "highlights": [
+  "6.67-inch AMOLED DotDisplay",
+  "Snapdragon 732G",
+  "108MP quad camera",
+  "5020mAh with 33W fast charging"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/redmi-note-10-pro/specs/",
+   "publisher": "Xiaomi",
+   "final_url": "https://www.mi.com/global/product/redmi-note-10-pro/specs/",
+   "retrieved_at": "2026-11-02T17:48:42+00:00",
+   "sha256": "d835b042f5cd4a1b672eda24243dfb81ed48117e927acae75c5b7845f506492d",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:11:47+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Redmi Note 10 Pro front.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Front of smartphones",
+    "Category:Gray mobile phones",
+    "Category:Redmi Note 10 Pro / Pro Max",
+    "Category:Self-published work",
+    "Category:Taken with Xiaomi Redmi Note 8 Pro"
+   ],
+   "width": 2136,
+   "height": 2134,
+   "mime": "image/jpeg",
+   "sha1": "a441367fac5fb17402378e34b9e3146747f993e2",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Redmi_Note_10_Pro_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Redmi_Note_10_Pro_front.jpg/1280px-Redmi_Note_10_Pro_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Redmi_Note_10_Pro_front.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Maksdroider",
+   "credit": "Own work",
+   "description": "The front of Redmi Note 10 Pro",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-xiaomi-redmi-note-10-pro-6gb-128gb/1-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-redmi-note-10-pro-6gb-128gb/1.jpg",
+   "local_sha256": "e8bc5e9812b2954d3b19775303883e90c2fc27bad7878a7d2731db87d48b2d82",
+   "local_bytes": 334888
+  },
+  {
+   "title": "File:Redmi Note 10 Pro Back.jpg",
+   "categories": [
+    "Category:Backs of smartphones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Gray mobile phones",
+    "Category:Redmi Note 10 Pro / Pro Max",
+    "Category:Self-published work",
+    "Category:Taken with Xiaomi Redmi Note 8 Pro"
+   ],
+   "width": 3471,
+   "height": 2604,
+   "mime": "image/jpeg",
+   "sha1": "66a1d59e3f60964ddf9057ad5d939a47c9246d42",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Redmi_Note_10_Pro_Back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Redmi_Note_10_Pro_Back.jpg/1280px-Redmi_Note_10_Pro_Back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Redmi_Note_10_Pro_Back.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Maksdroider",
+   "credit": "Own work",
+   "description": "The back of Redmi Note 10 Pro",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-xiaomi-redmi-note-10-pro-6gb-128gb/2-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-redmi-note-10-pro-6gb-128gb/2.jpg",
+   "local_sha256": "e8203d6fc092594257f826042ab748a14febe05c68289d07a9fe73c1e3442b86",
+   "local_bytes": 249232
+  },
+  {
+   "title": "File:Redmi Note 10 Pro camera island.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Gray mobile phones",
+    "Category:Redmi Note 10 Pro / Pro Max",
+    "Category:Self-published work",
+    "Category:Taken with Nothing Phone (3a)"
+   ],
+   "width": 3072,
+   "height": 4096,
+   "mime": "image/jpeg",
+   "sha1": "fdb42f28aeb8caa9a46d65aaec57ef89e571153d",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Redmi_Note_10_Pro_camera_island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Redmi_Note_10_Pro_camera_island.jpg/1280px-Redmi_Note_10_Pro_camera_island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Redmi_Note_10_Pro_camera_island.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Maksdroider",
+   "credit": "Own work",
+   "description": "The camera island of the Redmi Note 10 Pro",
+   "attribution_required": "true",
+   "index": 3,
+   "card_path": "/catalog-real/real-xiaomi-redmi-note-10-pro-6gb-128gb/3-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-redmi-note-10-pro-6gb-128gb/3.jpg",
+   "local_sha256": "2da1a9c204db5a5d6f79162ad54e8ff182b327bb579b6323b49ba5809669043b",
+   "local_bytes": 113237
+  }
+ ]
+}

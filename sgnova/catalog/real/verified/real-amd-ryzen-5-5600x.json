@@ -77,7 +77,7 @@
    "sha256": "c22506d6383ae96906aac05f25ec7d0bb6386f049e8d4173d446f47c795b4564",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:01:32+00:00",
+  "verified_at": "2026-11-02T18:58:24+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -102,9 +102,10 @@
    "description": "Heatspreader of an AMD Ryzen 5 5600X",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-amd-ryzen-5-5600x/1-card.jpg",
    "local_path": "/catalog-real/real-amd-ryzen-5-5600x/1.jpg",
-   "local_sha256": "22eaa2d112a956b9d1155efdf18c01adb498d9dccfa95d605402074dc1752317",
-   "local_bytes": 639909
+   "local_sha256": "9ed14ad2d0d6d54b146c4c9bcb1bed7e57ea6c479fae23a0c2705bfb2ea569bb",
+   "local_bytes": 474311
   }
  ]
 }

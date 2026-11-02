@@ -69,7 +69,7 @@
    "sha256": "4e6bdea592660775d23195fb5b0c18d43a38b9093863dc52ea9bc8217609c2f5",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:52+00:00",
+  "verified_at": "2026-11-02T19:02:12+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -94,9 +94,10 @@
    "description": "Wireless keyboard",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-keychron-k8/1-card.jpg",
    "local_path": "/catalog-real/real-keychron-k8/1.jpg",
-   "local_sha256": "62bb22d0a348fa72165cb4071e00383fabdbbb59ffbb34053ce6c8a864f2fbdb",
-   "local_bytes": 227838
+   "local_sha256": "a586ebfc72607f0c7d771ef06c24a11af7cfd1de01315cc6491780dbcf976ef7",
+   "local_bytes": 225099
   }
  ]
 }

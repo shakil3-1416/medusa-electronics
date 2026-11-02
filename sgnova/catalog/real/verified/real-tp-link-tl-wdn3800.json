@@ -1,0 +1,116 @@
+{
+ "handle": "real-tp-link-tl-wdn3800",
+ "brand": "TP-Link",
+ "model": "TL-WDN3800",
+ "mpn": null,
+ "category_handle": "computer-accessory",
+ "title": "TP-Link TL-WDN3800 N600 Dual-Band PCIe Adapter",
+ "subtitle": "N600 dual-band | PCIe x1 | 2 antennas",
+ "description": "PCI Express x1 dual-band wireless N card for desktops, with two detachable RP-SMA antennas. Specifications verified against TP-Link's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Interface",
+   "value": "PCI Express x1"
+  },
+  {
+   "group": "Wireless",
+   "label": "Antennas",
+   "value": "Omni, detachable RP-SMA, 2 x 2 dBi"
+  },
+  {
+   "group": "Wireless",
+   "label": "Standards",
+   "value": "IEEE 802.11n/g/b/a"
+  },
+  {
+   "group": "Wireless",
+   "label": "Max rate",
+   "value": "300 Mbps (11n)"
+  },
+  {
+   "group": "Wireless",
+   "label": "5 GHz bands",
+   "value": "5.180-5.240 / 5.745-5.825 GHz"
+  }
+ ],
+ "highlights": [
+  "Dual-band 2.4/5 GHz wireless N",
+  "Up to 300 Mbps per band",
+  "PCI Express x1",
+  "Two detachable antennas"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.tp-link.com/en/home-networking/adapter/tl-wdn3800/",
+   "publisher": "TP-Link",
+   "final_url": "https://www.tp-link.com/en/home-networking/adapter/tl-wdn3800/",
+   "retrieved_at": "2026-11-02T18:26:44+00:00",
+   "sha256": "3f33dedf1e91344fdf00c53d482a5df14e3b7d7707408ddadbc4c9004af5531c",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:09:35+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:TP-Link TL-WDN3800 Rev1.0 20151006.jpg",
+   "categories": [
+    "Category:CC-BY-SA-2.0",
+    "Category:Flickr files uploaded by Solomon203 in 2017",
+    "Category:Flickr images reviewed by FlickreviewR",
+    "Category:PCIe network cards",
+    "Category:PCIe x1 cards",
+    "Category:TP-Link Wi-Fi network cards"
+   ],
+   "width": 1600,
+   "height": 1200,
+   "mime": "image/jpeg",
+   "sha1": "dcfc8147298b409fafa344f69b38c30f97087d43",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/TP-Link_TL-WDN3800_Rev1.0_20151006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/TP-Link_TL-WDN3800_Rev1.0_20151006.jpg/1280px-TP-Link_TL-WDN3800_Rev1.0_20151006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:TP-Link_TL-WDN3800_Rev1.0_20151006.jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "artist": "Kenming Wang",
+   "credit": "https://www.flickr.com/photos/kenming_wang/23163079923",
+   "description": "​TP-Link無線雙頻網路卡TL-WDN3800 Rev1.0。",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-tp-link-tl-wdn3800/1-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-tl-wdn3800/1.jpg",
+   "local_sha256": "3007452282b60cdf21c2e0d79068cac3dd06c2bacef725c2e26099d590ff677c",
+   "local_bytes": 184976
+  },
+  {
+   "title": "File:TP-LINK TL-WDN3800 N600無線雙頻網卡 (23421937299).jpg",
+   "categories": [
+    "Category:CC-BY-SA-2.0",
+    "Category:Flickr images missing SDC published in",
+    "Category:Flickr images reviewed by FlickreviewR 2",
+    "Category:TP-Link Wi-Fi network cards"
+   ],
+   "width": 1200,
+   "height": 1600,
+   "mime": "image/jpeg",
+   "sha1": "03c6f85df7886d87a07ecdbbc8e724ec9fc41299",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/TP-LINK_TL-WDN3800_N600%E7%84%A1%E7%B7%9A%E9%9B%99%E9%A0%BB%E7%B6%B2%E5%8D%A1_%2823421937299%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/TP-LINK_TL-WDN3800_N600%E7%84%A1%E7%B7%9A%E9%9B%99%E9%A0%BB%E7%B6%B2%E5%8D%A1_%2823421937299%29.jpg/960px-TP-LINK_TL-WDN3800_N600%E7%84%A1%E7%B7%9A%E9%9B%99%E9%A0%BB%E7%B6%B2%E5%8D%A1_%2823421937299%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:TP-LINK_TL-WDN3800_N600%E7%84%A1%E7%B7%9A%E9%9B%99%E9%A0%BB%E7%B6%B2%E5%8D%A1_(23421937299).jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "artist": "Kenming Wang from Taipei, Taiwan",
+   "credit": "TP-LINK TL-WDN3800 N600無線雙頻網卡",
+   "description": "TP-LINK TL-WDN3800 N600無線雙頻網卡",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-tp-link-tl-wdn3800/2-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-tl-wdn3800/2.jpg",
+   "local_sha256": "6994690e61532c412b95495edd3265fc7f85a2de75fd412292f75da7b247fe3f",
+   "local_bytes": 255575
+  }
+ ]
+}

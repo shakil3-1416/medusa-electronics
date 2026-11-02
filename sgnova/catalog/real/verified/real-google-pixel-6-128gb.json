@@ -1,0 +1,139 @@
+{
+ "handle": "real-google-pixel-6-128gb",
+ "brand": "Google",
+ "model": "Pixel 6",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Google Pixel 6 (128GB)",
+ "subtitle": "6.4-inch 90Hz OLED | Google Tensor | 50MP camera",
+ "description": "Google Pixel 6 with 128GB of storage and 8GB of RAM, built around the first-generation Google Tensor chip, with a 6.4-inch 90Hz OLED display, a 50MP wide plus 12MP ultrawide camera pair and a 4614 mAh typical battery. Specifications were verified against Google's official Pixel hardware tech specs page.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.4-inch FHD+ OLED, 1080 x 2400, 411 ppi"
+  },
+  {
+   "group": "Display",
+   "label": "Refresh rate",
+   "value": "Up to 90Hz"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Google Tensor"
+  },
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "8GB LPDDR5 RAM, 128GB UFS 3.1"
+  },
+  {
+   "group": "Camera",
+   "label": "Wide camera",
+   "value": "50MP, f/1.85"
+  },
+  {
+   "group": "Camera",
+   "label": "Ultrawide camera",
+   "value": "12MP, f/2.2"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "8MP, f/2.0"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery capacity",
+   "value": "4614 mAh typical (4524 mAh minimum)"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions",
+   "value": "158.6 x 74.8 x 8.9 mm"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "207 g"
+  }
+ ],
+ "highlights": [
+  "6.4-inch FHD+ OLED, up to 90Hz",
+  "Google Tensor with Titan M2",
+  "50MP wide and 12MP ultrawide cameras",
+  "4614 mAh typical battery"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 6 tech specs",
+   "scope_end": "tech specs",
+   "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "retrieved_at": "2026-11-02T16:29:27+00:00",
+   "sha256": "0f4a52cf5ffd0cb50001020950ea033036dc061faeb1c40b0fdf63beec941e0c",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:10:19+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Google Pixel 6 Sorta Seafoam front.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Google Pixel 6",
+    "Category:Self-published work"
+   ],
+   "width": 3648,
+   "height": 5472,
+   "mime": "image/jpeg",
+   "sha1": "d5b1669025a04ffef9076bbb6b00770e4f359bce",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Google_Pixel_6_Sorta_Seafoam_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Google_Pixel_6_Sorta_Seafoam_front.jpg/1280px-Google_Pixel_6_Sorta_Seafoam_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Google_Pixel_6_Sorta_Seafoam_front.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "IXTA9839",
+   "credit": "Own work",
+   "description": "Google Pixel 6の正面\n本体色はSorta Seafoam\n\n壁紙はペルシャユリ（写真：Andrew Zuckerman）",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-google-pixel-6-128gb/1-card.jpg",
+   "local_path": "/catalog-real/real-google-pixel-6-128gb/1.jpg",
+   "local_sha256": "824743e2d175600381df2feff1cfa2bba3d475d6881c69d68bcb0a56fdac1929",
+   "local_bytes": 90407
+  },
+  {
+   "title": "File:Google Pixel 6 Sorta Seafoam rear.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Google Pixel 6",
+    "Category:Self-published work"
+   ],
+   "width": 3648,
+   "height": 5472,
+   "mime": "image/jpeg",
+   "sha1": "b1a954620649ccdb9319a3cb5e353a5de1b004ba",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Google_Pixel_6_Sorta_Seafoam_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Google_Pixel_6_Sorta_Seafoam_rear.jpg/1280px-Google_Pixel_6_Sorta_Seafoam_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Google_Pixel_6_Sorta_Seafoam_rear.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "IXTA9839",
+   "credit": "Own work",
+   "description": "Google Pixel 6の背面\n本体色はSorta Seafoam",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-google-pixel-6-128gb/2-card.jpg",
+   "local_path": "/catalog-real/real-google-pixel-6-128gb/2.jpg",
+   "local_sha256": "dca3e9d7d811a00a050b78a43bd3bc00f3cd4b5554983ec71480dea92e9000d2",
+   "local_bytes": 90291
+  }
+ ]
+}

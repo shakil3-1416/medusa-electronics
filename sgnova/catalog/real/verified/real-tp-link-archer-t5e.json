@@ -1,0 +1,130 @@
+{
+ "handle": "real-tp-link-archer-t5e",
+ "brand": "TP-Link",
+ "model": "Archer T5E",
+ "mpn": null,
+ "category_handle": "computer-accessory",
+ "title": "TP-Link Archer T5E AC1200 Wi-Fi + Bluetooth PCIe Adapter",
+ "subtitle": "AC1200 | Bluetooth 5.0 | PCI Express",
+ "description": "PCI Express card that adds dual-band AC1200 Wi-Fi and Bluetooth 5.0 to a desktop PC, with two detachable antennas. Specifications verified against TP-Link's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Interface",
+   "value": "PCI Express"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.0"
+  },
+  {
+   "group": "Wireless",
+   "label": "5 GHz rate",
+   "value": "867 Mbps (11ac)"
+  },
+  {
+   "group": "Wireless",
+   "label": "2.4 GHz rate",
+   "value": "300 Mbps (11n)"
+  },
+  {
+   "group": "Wireless",
+   "label": "Antennas",
+   "value": "2 detachable external"
+  },
+  {
+   "group": "Wireless",
+   "label": "Security",
+   "value": "WEP, WPA/WPA2/WPA3"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "120.8 x 78.5 x 21.5 mm"
+  }
+ ],
+ "highlights": [
+  "AC1200 dual-band Wi-Fi",
+  "Bluetooth 5.0",
+  "PCI Express interface",
+  "Two detachable antennas"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.tp-link.com/us/home-networking/pci-adapter/archer-t5e/",
+   "publisher": "TP-Link",
+   "final_url": "https://www.tp-link.com/us/home-networking/pci-adapter/archer-t5e/",
+   "retrieved_at": "2026-11-02T18:01:36+00:00",
+   "sha256": "3910347635c02a04178267ef45c9c33e35e8bc9fb13282239d877e0c2a64b89a",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:08:20+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:2023 TP-Link Archer T5E AC1200 (1).jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Images by Jacek Halicki",
+    "Category:Quality Images by Jacek Halicki",
+    "Category:Quality images",
+    "Category:Self-published work",
+    "Category:TP-Link Wi-Fi network cards",
+    "Category:Wikigrant WG 2023-3"
+   ],
+   "width": 3778,
+   "height": 3006,
+   "mime": "image/jpeg",
+   "sha1": "524a0ef3fdddcd9791ada2d17b4e4470321804a8",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/2023_TP-Link_Archer_T5E_AC1200_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/2023_TP-Link_Archer_T5E_AC1200_%281%29.jpg/1280px-2023_TP-Link_Archer_T5E_AC1200_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:2023_TP-Link_Archer_T5E_AC1200_(1).jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Jacek Halicki",
+   "credit": "Own work",
+   "description": "TP-Link Archer T5E AC1200",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-tp-link-archer-t5e/1-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-archer-t5e/1.jpg",
+   "local_sha256": "0b9defaf7fe08a1ad3cc8a8a93ccaafc56a3be49e93cbf48e11920190b535169",
+   "local_bytes": 141011
+  },
+  {
+   "title": "File:2023 TP-Link Archer T5E AC1200 (2).jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Images by Jacek Halicki",
+    "Category:Quality Images by Jacek Halicki",
+    "Category:Quality images",
+    "Category:Self-published work",
+    "Category:TP-Link Wi-Fi network cards",
+    "Category:Wikigrant WG 2023-3"
+   ],
+   "width": 4308,
+   "height": 3057,
+   "mime": "image/jpeg",
+   "sha1": "7b41329279dd5ae3f59d2ee8cc3274a1396f9c40",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/2023_TP-Link_Archer_T5E_AC1200_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/2023_TP-Link_Archer_T5E_AC1200_%282%29.jpg/1280px-2023_TP-Link_Archer_T5E_AC1200_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:2023_TP-Link_Archer_T5E_AC1200_(2).jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Jacek Halicki",
+   "credit": "Own work",
+   "description": "TP-Link Archer T5E AC1200",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-tp-link-archer-t5e/2-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-archer-t5e/2.jpg",
+   "local_sha256": "2f8239958ae72cb4ba2abd212c1388d85aba475c870deeecf7c780695179373d",
+   "local_bytes": 87156
+  }
+ ]
+}

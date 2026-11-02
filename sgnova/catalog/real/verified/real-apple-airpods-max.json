@@ -67,7 +67,7 @@
    "sha256": "d10d4549a9d71a5a17e475b7b1857fbc4f52db694f9b0234c23b2e9157fa4c7f",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:46+00:00",
+  "verified_at": "2026-11-02T19:02:02+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -92,9 +92,10 @@
    "description": "AirPods Max combine high-fidelity audio with industry-leading Active Noise Cancellation to deliver an unparalleled listening experience",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-apple-airpods-max/1-card.jpg",
    "local_path": "/catalog-real/real-apple-airpods-max/1.jpg",
-   "local_sha256": "b4d025da1c83bef73d98c71482655afb6815ea307e5b24f5bb833dcb5f0f82f3",
-   "local_bytes": 81770
+   "local_sha256": "246972295a0142b9fc9ed529c829036972b74f0dad65ff2ce2c0c64a52008eb6",
+   "local_bytes": 83699
   }
  ]
 }

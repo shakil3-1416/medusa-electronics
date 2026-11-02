@@ -1,0 +1,110 @@
+{
+ "handle": "real-apple-watch-series-4-40mm-gps",
+ "brand": "Apple",
+ "model": "Apple Watch Series 4",
+ "mpn": null,
+ "category_handle": "smartwatch",
+ "title": "Apple Watch Series 4 (40mm, GPS)",
+ "subtitle": "40mm LTPO OLED | S4 dual-core | ECG-capable",
+ "description": "Apple Watch Series 4 with a 40mm aluminium case, GPS version. Adds a larger LTPO OLED screen and an electrical heart sensor over earlier models. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "40mm GPS, aluminium case",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "40mm, 324 x 394 pixels, 759 sq mm"
+  },
+  {
+   "group": "Display",
+   "label": "Panel",
+   "value": "LTPO OLED Retina with Force Touch, 1000 nits"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "S4, 64-bit dual-core"
+  },
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "16GB"
+  },
+  {
+   "group": "Health",
+   "label": "Heart sensors",
+   "value": "Electrical and optical heart sensors"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "50 metres"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery life",
+   "value": "Up to 18 hours"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.0"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions and weight",
+   "value": "40 x 34 x 10.7 mm, 30.1 g"
+  }
+ ],
+ "highlights": [
+  "40mm LTPO OLED Retina display",
+  "S4 with 64-bit dual-core processor",
+  "Electrical and optical heart sensors",
+  "Water resistant to 50 metres"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111984",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111984",
+   "retrieved_at": "2026-11-02T17:58:24+00:00",
+   "sha256": "0dc2da0cc589b07bd64275897948c4e2096c0089231cf2aada1a881c4a113a10",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:06:00+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Apple Watch Series 4 40mm space gray Aluminum.jpg",
+   "categories": [
+    "Category:Apple Watch Series 4",
+    "Category:CC-BY-SA-4.0",
+    "Category:Files by User:Aconcagua",
+    "Category:GFDL",
+    "Category:License migration redundant",
+    "Category:Self-published work",
+    "Category:Taken with iPhone X"
+   ],
+   "width": 1707,
+   "height": 1920,
+   "mime": "image/jpeg",
+   "sha1": "8b06e6fae4cd77cafd93ad491d8715d8364f2cab",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Apple_Watch_Series_4_40mm_space_gray_Aluminum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Apple_Watch_Series_4_40mm_space_gray_Aluminum.jpg/1280px-Apple_Watch_Series_4_40mm_space_gray_Aluminum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Apple_Watch_Series_4_40mm_space_gray_Aluminum.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "— aconcagua (talk)",
+   "credit": "Own work",
+   "description": "Apple Watch, 40mm Aluminum",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-watch-series-4-40mm-gps/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-watch-series-4-40mm-gps/1.jpg",
+   "local_sha256": "25b0abb253dc3022c7357eebcba90882a7188abe22a87caec0627cad3ac4d91a",
+   "local_bytes": 184746
+  }
+ ]
+}

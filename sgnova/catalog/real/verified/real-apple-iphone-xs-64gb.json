@@ -1,0 +1,142 @@
+{
+ "handle": "real-apple-iphone-xs-64gb",
+ "brand": "Apple",
+ "model": "iPhone XS",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone XS (64GB)",
+ "subtitle": "5.8-inch all-screen OLED | A12 Bionic | 64GB",
+ "description": "Apple iPhone XS smartphone in the 64GB storage configuration. It runs on the A12 Bionic chip and has a 5.8-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "64GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "64GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "5.8-inch all-screen OLED Multi-Touch display"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2436 x 1125 at 458 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A12 Bionic"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "IP68, up to 2 m for 30 minutes"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "177 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "143.6 x 70.9 x 7.7 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "802.11ac Wi-Fi"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.0"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "Lightning"
+  }
+ ],
+ "highlights": [
+  "5.8-inch all-screen OLED display",
+  "2436 x 1125 at 458 ppi resolution",
+  "A12 Bionic chip",
+  "Water resistance: IP68, up to 2 m for 30 minutes"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111881",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111881",
+   "retrieved_at": "2026-11-02T17:59:31+00:00",
+   "sha256": "1816794eff0cd487d404e03f994dd94ccbbac54f0d86cd1a573484cfb3f5000b",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:03:35+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPhone XS.jpg",
+   "categories": [
+    "Category:Apple Inc. logos in hardware",
+    "Category:Backs of iPhones",
+    "Category:CC-BY-SA-4.0",
+    "Category:IPhone XS",
+    "Category:Self-published work",
+    "Category:White mobile phones"
+   ],
+   "width": 5253,
+   "height": 3033,
+   "mime": "image/jpeg",
+   "sha1": "08281211ec1452f4563d702b6c57776a52049eeb",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/IPhone_XS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/IPhone_XS.jpg/1280px-IPhone_XS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_XS.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Cullen Steber",
+   "credit": "Own work",
+   "description": "iPhone xs white silver apple phone",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-xs-64gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-xs-64gb/1.jpg",
+   "local_sha256": "8b4639c72c960f6d29d0b5e693253773fb3eb608732a653fb9c48480dbf42e06",
+   "local_bytes": 139104
+  },
+  {
+   "title": "File:IPhone XS 1 2018-11-02.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files by Fastily",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone XS",
+    "Category:Self-published work"
+   ],
+   "width": 4032,
+   "height": 3024,
+   "mime": "image/jpeg",
+   "sha1": "5fc86c7b8439e3c6b3406006153ad224f435adc6",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/IPhone_XS_1_2018-11-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/IPhone_XS_1_2018-11-02.jpg/1280px-IPhone_XS_1_2018-11-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_XS_1_2018-11-02.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "FASTILY",
+   "credit": "Own work",
+   "description": "IPhone XS",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-xs-64gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-xs-64gb/2.jpg",
+   "local_sha256": "238e529c30064e8d690bb1a4fce987d9a3f56adef10e6600efe19824797b0975",
+   "local_bytes": 275483
+  }
+ ]
+}

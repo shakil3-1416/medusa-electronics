@@ -1,0 +1,118 @@
+{
+ "handle": "real-apple-iphone-13-mini-128gb",
+ "brand": "Apple",
+ "model": "iPhone 13 mini",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 13 mini (128GB)",
+ "subtitle": "5.4-inch all-screen OLED | A15 Bionic | 128GB",
+ "description": "Apple iPhone 13 mini smartphone in the 128GB storage configuration. It runs on the A15 Bionic chip and has a 5.4-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "128GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "5.4-inch all-screen OLED display"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2340 x 1080 at 476 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A15 Bionic, 6-core CPU, 4-core GPU"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "IP68, up to 6 m for 30 minutes"
+  },
+  {
+   "group": "Battery",
+   "label": "Video playback",
+   "value": "Up to 17 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "141 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "131.5 x 64.2 x 7.65 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "Wi-Fi 6 (802.11ax)"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.0"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "Lightning"
+  }
+ ],
+ "highlights": [
+  "5.4-inch all-screen OLED display",
+  "2340 x 1080 at 476 ppi resolution",
+  "A15 Bionic, 6-core CPU, 4-core GPU chip",
+  "Water resistance: IP68, up to 6 m for 30 minutes"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111873",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111873",
+   "retrieved_at": "2026-11-02T18:16:37+00:00",
+   "sha256": "a4c5fff1516459ba46a8edea6f0341dbbe212b16a52900ac438fe12462c565b3",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:04:34+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPhone 13 Mini Grün Freigestellt.png",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:IPhone 13 Mini",
+    "Category:Photographie von DYVER",
+    "Category:Self-published work",
+    "Category:Taken with Sony ILCE-1"
+   ],
+   "width": 2645,
+   "height": 5521,
+   "mime": "image/png",
+   "sha1": "3ac0e6448765f45c8e66a6a27fa97d8aec6d35e4",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/IPhone_13_Mini_Gr%C3%BCn_Freigestellt.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/IPhone_13_Mini_Gr%C3%BCn_Freigestellt.png/1280px-IPhone_13_Mini_Gr%C3%BCn_Freigestellt.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_13_Mini_Gr%C3%BCn_Freigestellt.png",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "DYVER",
+   "credit": "Own work",
+   "description": "Smartphone von Apple",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-13-mini-128gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-13-mini-128gb/1.png",
+   "local_sha256": "ea7c3e3b97ecf6d07c8c33640d9161a5e3f81eba9a6d181ffb0a1f2c69ef4e6a",
+   "local_bytes": 805381
+  }
+ ]
+}

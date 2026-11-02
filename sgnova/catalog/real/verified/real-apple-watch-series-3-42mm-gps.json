@@ -1,0 +1,108 @@
+{
+ "handle": "real-apple-watch-series-3-42mm-gps",
+ "brand": "Apple",
+ "model": "Apple Watch Series 3",
+ "mpn": null,
+ "category_handle": "smartwatch",
+ "title": "Apple Watch Series 3 (42mm, GPS)",
+ "subtitle": "42mm Retina OLED | S3 dual-core | 8GB",
+ "description": "Apple Watch Series 3 with a 42mm aluminium case in the GPS-only version, with a Retina OLED screen, S3 dual-core processor and optical heart sensor. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "42mm GPS, aluminium case",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "42mm, 312 x 390 pixels, 740 sq mm"
+  },
+  {
+   "group": "Display",
+   "label": "Panel",
+   "value": "Retina OLED, 1000 nits"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "S3 SiP, dual-core"
+  },
+  {
+   "group": "Storage",
+   "label": "Capacity (GPS)",
+   "value": "8GB"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "50 metres"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery life",
+   "value": "Up to 18 hours"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 4.2"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "802.11b/g/n 2.4GHz"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions and weight",
+   "value": "42.5 x 36.4 x 11.4 mm, 32.3 g (GPS)"
+  }
+ ],
+ "highlights": [
+  "42mm Retina OLED display",
+  "S3 SiP with dual-core processor",
+  "Water resistant to 50 metres",
+  "Up to 18 hours battery"
+ ],
+ "review_notes": [
+  "Photo shows the sensor back; case size of the pictured unit is not stated."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111891",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111891",
+   "retrieved_at": "2026-11-02T17:58:23+00:00",
+   "sha256": "c2d69d20fdadadbcfbf5ade801d23bdb92587a577aa0abbfda50d0c6b944ad26",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:03:17+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Apple Watch Series 3 Sensors.jpg",
+   "categories": [
+    "Category:Apple Watch Series 3",
+    "Category:CC-BY-4.0",
+    "Category:Self-published work"
+   ],
+   "width": 2434,
+   "height": 2434,
+   "mime": "image/jpeg",
+   "sha1": "e66413a769e2a0cf43287b42500898d8b9237ef0",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Apple_Watch_Series_3_Sensors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Apple_Watch_Series_3_Sensors.jpg/1280px-Apple_Watch_Series_3_Sensors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Apple_Watch_Series_3_Sensors.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "Fletcher",
+   "credit": "Own work",
+   "description": "Underside of a 38mm Apple Watch Series 3",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-watch-series-3-42mm-gps/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-watch-series-3-42mm-gps/1.jpg",
+   "local_sha256": "4b0b546605150c5c9830dc1c66be5576d025f41f63239be9ac21f58d1c9a6fdc",
+   "local_bytes": 237894
+  }
+ ]
+}

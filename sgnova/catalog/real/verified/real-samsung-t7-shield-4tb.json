@@ -1,0 +1,165 @@
+{
+ "handle": "real-samsung-t7-shield-4tb",
+ "brand": "Samsung",
+ "model": "Portable SSD T7 Shield",
+ "mpn": "MU-PE4T0S/EU",
+ "category_handle": "external-storage",
+ "title": "Samsung Portable SSD T7 Shield 4TB",
+ "subtitle": "4TB | USB 3.2 Gen 2 | up to 1,050 MB/s read",
+ "description": "Rugged pocket-sized NVMe-based external SSD from Samsung with a rubberised shell, USB 3.2 Gen 2 (10Gbps) connection and 256-bit AES hardware encryption. Specifications checked against Samsung UK's official product page.",
+ "variant_title": "4TB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "4TB"
+  },
+  {
+   "group": "Performance",
+   "label": "Sequential read",
+   "value": "Up to 1,050 MB/s"
+  },
+  {
+   "group": "Performance",
+   "label": "Sequential write",
+   "value": "Up to 1,000 MB/s"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Interface",
+   "value": "USB 3.2 Gen 2 (10Gbps)"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions (W x H x D)",
+   "value": "59 x 88 x 13 mm"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight",
+   "value": "98 g"
+  },
+  {
+   "group": "Security",
+   "label": "Encryption",
+   "value": "AES 256-bit hardware encryption"
+  },
+  {
+   "group": "Support",
+   "label": "Warranty",
+   "value": "Limited 3-year"
+  }
+ ],
+ "highlights": [
+  "4TB capacity",
+  "Up to 1,050 MB/s sequential read",
+  "USB 3.2 Gen 2 (10Gbps)",
+  "AES 256-bit hardware encryption"
+ ],
+ "review_notes": [
+  "Spec page is the black MU-PE4T0S/EU listing; the colour of the drive in the Commons photos was not checked against the listing."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.samsung.com/uk/memory-storage/portable-ssd/t7-shield-4tb-black-external-storage-nvme-1050-mbs-mu-pe4t0s-eu/",
+   "publisher": "Samsung Electronics",
+   "final_url": "https://www.samsung.com/uk/memory-storage/portable-ssd/t7-shield-4tb-black-external-storage-nvme-1050-mbs-mu-pe4t0s-eu/",
+   "retrieved_at": "2026-11-02T18:05:38+00:00",
+   "sha256": "7c8aa3ce0ad5ff631dd841147502e63a4de1e4969d56a5740e32a8ab751ef157",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:06:51+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:SAMSUNG PROTABLE SSD T7 SHIELD 4TB FRONT SIDE.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2023-03-06",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Samsung solid state drives",
+    "Category:Self-published work",
+    "Category:Taken with Canon EOS R5"
+   ],
+   "width": 7105,
+   "height": 4797,
+   "mime": "image/jpeg",
+   "sha1": "d70aafae034f24a8ae3d3ce1db315cf49d44eccb",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/SAMSUNG_PROTABLE_SSD_T7_SHIELD_4TB_FRONT_SIDE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/SAMSUNG_PROTABLE_SSD_T7_SHIELD_4TB_FRONT_SIDE.jpg/1280px-SAMSUNG_PROTABLE_SSD_T7_SHIELD_4TB_FRONT_SIDE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:SAMSUNG_PROTABLE_SSD_T7_SHIELD_4TB_FRONT_SIDE.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Dinkun Chen",
+   "credit": "Own work",
+   "description": "SAMSUNG PROTABLE SSD T7 SHIELD 4TB FRONT SIDE",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-samsung-t7-shield-4tb/1-card.jpg",
+   "local_path": "/catalog-real/real-samsung-t7-shield-4tb/1.jpg",
+   "local_sha256": "31a1a3321c1f73f3d8982958434366c2a15d5baf0d1a7bb90f2ae34e7b0c38bc",
+   "local_bytes": 244797
+  },
+  {
+   "title": "File:SAMSUNG PROTABLE SSD T7 SHIELD 4TB REAR SIDE.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2023-03-06",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Samsung solid state drives",
+    "Category:Self-published work",
+    "Category:Taken with Canon EOS R5"
+   ],
+   "width": 7111,
+   "height": 4590,
+   "mime": "image/jpeg",
+   "sha1": "086a67957b9a4e55709047e8dd1e7b22c9cdcae5",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/SAMSUNG_PROTABLE_SSD_T7_SHIELD_4TB_REAR_SIDE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/SAMSUNG_PROTABLE_SSD_T7_SHIELD_4TB_REAR_SIDE.jpg/1280px-SAMSUNG_PROTABLE_SSD_T7_SHIELD_4TB_REAR_SIDE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:SAMSUNG_PROTABLE_SSD_T7_SHIELD_4TB_REAR_SIDE.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Dinkun Chen",
+   "credit": "Own work",
+   "description": "SAMSUNG PROTABLE SSD T7 SHIELD 4TB FRONT SIDE",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-samsung-t7-shield-4tb/2-card.jpg",
+   "local_path": "/catalog-real/real-samsung-t7-shield-4tb/2.jpg",
+   "local_sha256": "912c13106b71d018fb074dbac633dd3194579a08fc19bade1a2c87627d62c536",
+   "local_bytes": 231078
+  },
+  {
+   "title": "File:SAMSUNG PROTABLE SSD T7 SHIELD 4TB LEFT SIDE.jpg",
+   "categories": [
+    "Category:4 TB Solid-state drives",
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2023-03-06",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Samsung solid state drives",
+    "Category:Self-published work",
+    "Category:Taken with Canon EOS R5"
+   ],
+   "width": 7288,
+   "height": 2937,
+   "mime": "image/jpeg",
+   "sha1": "9d3de942abf71f49ad678379c82a02f66ffca03e",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/SAMSUNG_PROTABLE_SSD_T7_SHIELD_4TB_LEFT_SIDE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/SAMSUNG_PROTABLE_SSD_T7_SHIELD_4TB_LEFT_SIDE.jpg/1280px-SAMSUNG_PROTABLE_SSD_T7_SHIELD_4TB_LEFT_SIDE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:SAMSUNG_PROTABLE_SSD_T7_SHIELD_4TB_LEFT_SIDE.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Dinkun Chen",
+   "credit": "Own work",
+   "description": "SAMSUNG PROTABLE SSD T7 SHIELD 4TB FRONT SIDE",
+   "attribution_required": "true",
+   "index": 3,
+   "card_path": "/catalog-real/real-samsung-t7-shield-4tb/3-card.jpg",
+   "local_path": "/catalog-real/real-samsung-t7-shield-4tb/3.jpg",
+   "local_sha256": "95f351c4b89e0fb32834cbacaf29585c0e97b847b55b595578f076934dd75cb2",
+   "local_bytes": 123619
+  }
+ ]
+}

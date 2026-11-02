@@ -1,0 +1,111 @@
+{
+ "handle": "real-ubiquiti-uap-ac-lite",
+ "brand": "Ubiquiti",
+ "model": "UniFi AC Lite",
+ "mpn": "UAP-AC-Lite",
+ "category_handle": "router",
+ "title": "Ubiquiti UniFi AC Lite Access Point",
+ "subtitle": "Wi-Fi 5 | 2x2 dual-band | PoE powered",
+ "description": "Compact ceiling or wall-mounted Wi-Fi 5 access point for homes and small offices, managed from the UniFi Network application and powered over Ethernet. Specifications verified against Ubiquiti's official tech specs page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Wireless",
+   "label": "Wi-Fi standard",
+   "value": "Wi-Fi 5"
+  },
+  {
+   "group": "Wireless",
+   "label": "5 GHz max rate",
+   "value": "867 Mbps"
+  },
+  {
+   "group": "Wireless",
+   "label": "2.4 GHz max rate",
+   "value": "300 Mbps"
+  },
+  {
+   "group": "Wireless",
+   "label": "Coverage area",
+   "value": "115 m2"
+  },
+  {
+   "group": "Wireless",
+   "label": "Max clients",
+   "value": "250+"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Uplink",
+   "value": "1 x GbE RJ45"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "6.5 W"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "160 x 31.45 mm (diameter x height)"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight",
+   "value": "170 g"
+  }
+ ],
+ "highlights": [
+  "Wi-Fi 5, 867 Mbps on 5 GHz",
+  "Covers about 115 m2",
+  "Single Gigabit uplink with PoE",
+  "PoE adapter included"
+ ],
+ "review_notes": [
+  "Category router used for an access point."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://techspecs.ui.com/unifi/wifi/uap-ac-lite",
+   "publisher": "Ubiquiti",
+   "final_url": "https://techspecs.ui.com/unifi/wifi/uap-ac-lite",
+   "retrieved_at": "2026-11-02T17:56:44+00:00",
+   "sha256": "190c9dfb4683aba800852e0f9d690b7089f14f31c5eb56b32ecf4290e02f7170",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:07:18+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Unifi AC Lite Access Point.jpg",
+   "categories": [
+    "Category:2018 in Brisbane",
+    "Category:CC-BY-SA-4.0",
+    "Category:IT Support",
+    "Category:Internet in Australia",
+    "Category:Self-published work",
+    "Category:Ubiquiti Wi-Fi routers and access points"
+   ],
+   "width": 2988,
+   "height": 5312,
+   "mime": "image/jpeg",
+   "sha1": "5ae4a6a0fe06f3515a0b215e74b14535ac5ff6ca",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Unifi_AC_Lite_Access_Point.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Unifi_AC_Lite_Access_Point.jpg/1280px-Unifi_AC_Lite_Access_Point.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Unifi_AC_Lite_Access_Point.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "ServerGuruBrisbane",
+   "credit": "Own work",
+   "description": "Unifi Access Point installed at childcare centre in Brisbane",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-ubiquiti-uap-ac-lite/1-card.jpg",
+   "local_path": "/catalog-real/real-ubiquiti-uap-ac-lite/1.jpg",
+   "local_sha256": "04b443441d3009af00fec5721e112ba0f4f81d500f87ccbb21277518b87b3343",
+   "local_bytes": 106006
+  }
+ ]
+}

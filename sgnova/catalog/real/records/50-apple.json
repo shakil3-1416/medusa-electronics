@@ -1,0 +1,3885 @@
+[
+ {
+  "handle": "real-apple-iphone-8-64gb",
+  "brand": "Apple",
+  "model": "iPhone 8",
+  "variant_title": "64GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 8 (64GB)",
+  "subtitle": "4.7-inch widescreen LCD | A11 Bionic | 64GB",
+  "description": "Apple iPhone 8 smartphone in the 64GB storage configuration. It runs on the A11 Bionic chip and has a 4.7-inch widescreen LCD screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "4.7-inch widescreen LCD display",
+   "1334 x 750 at 326 ppi resolution",
+   "A11 Bionic chip",
+   "Main camera: 12MP, f/1.8"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111976",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 8"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "64GB",
+    "evidence": "64gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "4.7-inch widescreen LCD Multi-Touch display with IPS technology",
+    "evidence": "4.7-inch (diagonal) widescreen lcd multi-touch display with ips technology"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "1334 x 750 at 326 ppi",
+    "evidence": "1334-by-750-pixel resolution at 326 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A11 Bionic",
+    "evidence": "a11 bionic chip"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "12MP, f/1.8",
+    "evidence": "12mp wide camera wide: ƒ/1.8 aperture"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP67, up to 1 m for 30 minutes",
+    "evidence": "rated ip67 (maximum depth of 1 meter up to 30 minutes)"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "148 g",
+    "evidence": "weight: 5.22 ounces (148 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "138.4 x 67.3 x 7.3 mm",
+    "evidence": "height: 5.45 inches (138.4 mm) width: 2.65 inches (67.3 mm) depth: 0.29 inch (7.3 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "802.11ac Wi-Fi",
+    "evidence": "802.11ac wi-fi with mimo"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0 wireless technology"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "Lightning",
+    "evidence": "lightning connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone 8 silver with white rear.jpg",
+    "model_evidence": "iPhone 8"
+   },
+   {
+    "commons_file": "File:Unboxed iPhone 8.jpg",
+    "model_evidence": "iPhone 8"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-8-plus-64gb",
+  "brand": "Apple",
+  "model": "iPhone 8 Plus",
+  "variant_title": "64GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 8 Plus (64GB)",
+  "subtitle": "5.5-inch widescreen LCD | A11 Bionic | 64GB",
+  "description": "Apple iPhone 8 Plus smartphone in the 64GB storage configuration. It runs on the A11 Bionic chip and has a 5.5-inch widescreen LCD screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "5.5-inch widescreen LCD display",
+   "1920 x 1080 at 401 ppi resolution",
+   "A11 Bionic chip",
+   "Main camera: 12MP, f/1.8"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111950",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 8 Plus"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "64GB",
+    "evidence": "64gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "5.5-inch widescreen LCD Multi-Touch display with IPS technology",
+    "evidence": "5.5-inch (diagonal) widescreen lcd multi-touch display with ips technology"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "1920 x 1080 at 401 ppi",
+    "evidence": "1920-by-1080-pixel resolution at 401 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A11 Bionic",
+    "evidence": "a11 bionic chip"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "12MP, f/1.8",
+    "evidence": "12mp wide and telephoto cameras wide: ƒ/1.8 aperture"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP67, up to 1 m for 30 minutes",
+    "evidence": "rated ip67 (maximum depth of 1 meter up to 30 minutes)"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "202 g",
+    "evidence": "weight: 7.13 ounces (202 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "158.4 x 78.1 x 7.5 mm",
+    "evidence": "height: 6.24 inches (158.4 mm) width: 3.07 inches (78.1 mm) depth: 0.30 inch (7.5 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "802.11ac Wi-Fi",
+    "evidence": "802.11ac wi-fi with mimo"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0 wireless technology"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "Lightning",
+    "evidence": "lightning connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone 8 Plus (SpaceGray).jpg",
+    "model_evidence": "iPhone 8 Plus"
+   },
+   {
+    "commons_file": "File:IPhone 8 Plus silver.jpg",
+    "model_evidence": "iPhone 8 Plus"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-x-64gb",
+  "brand": "Apple",
+  "model": "iPhone X",
+  "variant_title": "64GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone X (64GB)",
+  "subtitle": "5.8-inch all-screen OLED | A11 Bionic | 64GB",
+  "description": "Apple iPhone X smartphone in the 64GB storage configuration. It runs on the A11 Bionic chip and has a 5.8-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "5.8-inch all-screen OLED display",
+   "2436 x 1125 at 458 ppi resolution",
+   "A11 Bionic chip"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111864",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone X"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "64GB",
+    "evidence": "64gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "5.8-inch all-screen OLED Multi-Touch display",
+    "evidence": "5.8-inch (diagonal) all-screen oled multi-touch display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2436 x 1125 at 458 ppi",
+    "evidence": "2436-by-1125-pixel resolution at 458 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A11 Bionic",
+    "evidence": "a11 bionic chip"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "174 g",
+    "evidence": "weight: 6.14 ounces (174 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "143.6 x 70.9 x 7.7 mm",
+    "evidence": "height: 5.65 inches (143.6 mm) width: 2.79 inches (70.9 mm) depth: 0.30 inch (7.7 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "802.11ac Wi-Fi",
+    "evidence": "802.11ac wi-fi with mimo"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0 wireless technology"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "Lightning",
+    "evidence": "lightning connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Apple iPhone X - front (8121).jpg",
+    "model_evidence": "iPhone X"
+   },
+   {
+    "commons_file": "File:Apple iPhone X - back (8111).jpg",
+    "model_evidence": "iPhone X"
+   },
+   {
+    "commons_file": "File:IPhone X rear.jpg",
+    "model_evidence": "iPhone X"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-xr-64gb",
+  "brand": "Apple",
+  "model": "iPhone XR",
+  "variant_title": "64GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone XR (64GB)",
+  "subtitle": "6.1-inch all-screen LCD | A12 Bionic | 64GB",
+  "description": "Apple iPhone XR smartphone in the 64GB storage configuration. It runs on the A12 Bionic chip and has a 6.1-inch all-screen LCD screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "6.1-inch all-screen LCD display",
+   "1792 x 828 at 326 ppi resolution",
+   "A12 Bionic chip",
+   "Main camera: 12MP, f/1.8"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111868",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone XR"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "64GB",
+    "evidence": "64gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.1-inch all-screen LCD Multi-Touch display with IPS technology",
+    "evidence": "6.1-inch (diagonal) all-screen lcd multi-touch display with ips technology"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "1792 x 828 at 326 ppi",
+    "evidence": "1792-by-828-pixel resolution at 326 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A12 Bionic",
+    "evidence": "a12 bionic chip"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "12MP, f/1.8",
+    "evidence": "12mp wide camera ƒ/1.8 aperture"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP67, up to 1 m for 30 minutes",
+    "evidence": "rated ip67 (maximum depth of 1 meter up to 30 minutes)"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "194 g",
+    "evidence": "weight: 6.84 ounces (194 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "150.9 x 75.7 x 8.3 mm",
+    "evidence": "width: 2.98 inches (75.7 mm) height: 5.94 inches (150.9 mm) depth: 0.33 inch (8.3 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "802.11ac Wi-Fi",
+    "evidence": "802.11ac wi-fi"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0 wireless technology"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "Lightning",
+    "evidence": "lightning connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone XR Product Red A1984 US version front.jpg",
+    "model_evidence": "iPhone XR"
+   },
+   {
+    "commons_file": "File:IPhone XR Product Red A1984 US version back.jpg",
+    "model_evidence": "iPhone XR"
+   },
+   {
+    "commons_file": "File:Back view of iPhone XR white.jpg",
+    "model_evidence": "iPhone XR"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-watch-series-3-42mm-gps",
+  "brand": "Apple",
+  "model": "Apple Watch Series 3",
+  "variant_title": "42mm GPS, aluminium case",
+  "category_handle": "smartwatch",
+  "title": "Apple Watch Series 3 (42mm, GPS)",
+  "subtitle": "42mm Retina OLED | S3 dual-core | 8GB",
+  "description": "Apple Watch Series 3 with a 42mm aluminium case in the GPS-only version, with a Retina OLED screen, S3 dual-core processor and optical heart sensor. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "42mm Retina OLED display",
+   "S3 SiP with dual-core processor",
+   "Water resistant to 50 metres",
+   "Up to 18 hours battery"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111891",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "Apple Watch Series 3"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "42mm, 312 x 390 pixels, 740 sq mm",
+    "evidence": "42mm 312 by 390 pixels 740 sq mm display area"
+   },
+   {
+    "group": "Display",
+    "label": "Panel",
+    "value": "Retina OLED, 1000 nits",
+    "evidence": "retina oled display 1000 nits brightness"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "S3 SiP, dual-core",
+    "evidence": "s3 sip with dual-core processor"
+   },
+   {
+    "group": "Storage",
+    "label": "Capacity (GPS)",
+    "value": "8GB",
+    "evidence": "capacity 8gb gps"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "50 metres",
+    "evidence": "water resistant 50 meters"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery life",
+    "value": "Up to 18 hours",
+    "evidence": "built-in rechargeable lithium-ion battery up to 18 hours"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 4.2",
+    "evidence": "bluetooth 4.2"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "802.11b/g/n 2.4GHz",
+    "evidence": "wi-fi 802.11b/g/n 2.4ghz"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions and weight",
+    "value": "42.5 x 36.4 x 11.4 mm, 32.3 g (GPS)",
+    "evidence": "aluminum case - 42mm height: 42.5mm width: 36.4mm depth: 11.4mm case weight (gps): 32.3g"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Apple Watch Series 3 Sensors.jpg",
+    "model_evidence": "Apple Watch Series 3"
+   }
+  ],
+  "review_notes": [
+   "Photo shows the sensor back; case size of the pictured unit is not stated."
+  ]
+ },
+ {
+  "handle": "real-apple-watch-series-7-45mm-gps",
+  "brand": "Apple",
+  "model": "Apple Watch Series 7",
+  "variant_title": "45mm GPS, aluminium case",
+  "category_handle": "smartwatch",
+  "title": "Apple Watch Series 7 (45mm, GPS)",
+  "subtitle": "45mm always-on OLED | S7 | USB-C fast charging",
+  "description": "Apple Watch Series 7 with a 45mm aluminium case, GPS version, with a larger always-on display and USB-C fast charging. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "45mm always-on Retina LTPO OLED",
+   "S7 with 64-bit dual-core processor",
+   "Blood oxygen and ECG apps",
+   "USB-C magnetic fast charging"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111909",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "Apple Watch Series 7"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "45mm, 396 x 484 pixels, 1143 sq mm",
+    "evidence": "45mm 396 by 484 pixels 1143 sq mm display area"
+   },
+   {
+    "group": "Display",
+    "label": "Panel",
+    "value": "Always-on Retina LTPO OLED, 1000 nits",
+    "evidence": "always-on retina ltpo oled display 1000 nits brightness"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "S7, 64-bit dual-core",
+    "evidence": "s7 with 64-bit dual-core processor"
+   },
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "32GB",
+    "evidence": "capacity 32gb"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "50 metres",
+    "evidence": "water resistant 50 meters"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery life",
+    "value": "Up to 18 hours",
+    "evidence": "built-in rechargeable lithium-ion battery up to 18 hours"
+   },
+   {
+    "group": "Battery",
+    "label": "Charging",
+    "value": "USB-C magnetic fast charging cable",
+    "evidence": "usb-c magnetic fast charging cable"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "45 x 38 x 10.7 mm",
+    "evidence": "45mm height: 45mm width: 38mm depth: 10.7mm"
+   },
+   {
+    "group": "Build",
+    "label": "Weight (aluminium)",
+    "value": "38.8 g",
+    "evidence": "45mm aluminum: 38.8g"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Apple Watch Series 7 Black 45mm.jpg",
+    "model_evidence": "Apple Watch Series 7"
+   },
+   {
+    "commons_file": "File:Apple Watch Series 7; January 2022 (01).jpg",
+    "model_evidence": "Apple Watch Series 7"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-watch-series-8-45mm-gps",
+  "brand": "Apple",
+  "model": "Apple Watch Series 8",
+  "variant_title": "45mm GPS, aluminium case",
+  "category_handle": "smartwatch",
+  "title": "Apple Watch Series 8 (45mm, GPS)",
+  "subtitle": "45mm always-on OLED | S8 | Crash Detection",
+  "description": "Apple Watch Series 8 with a 45mm aluminium case, GPS version, with a high-g accelerometer for crash detection and IP6X dust resistance. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "45mm always-on Retina LTPO OLED",
+   "S8 SiP with 64-bit dual-core processor",
+   "Crash and fall detection",
+   "IP6X dust resistant, 50 m water resistant"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111848",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "Apple Watch Series 8"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "45mm, 396 x 484 pixels, 1143 sq mm",
+    "evidence": "45mm 396 by 484 pixels 1143 sq mm display area"
+   },
+   {
+    "group": "Display",
+    "label": "Panel",
+    "value": "Always-on Retina LTPO OLED, up to 1000 nits",
+    "evidence": "always-on retina ltpo oled display up to 1000 nits brightness"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "S8 SiP, 64-bit dual-core",
+    "evidence": "s8 sip with 64-bit dual-core processor"
+   },
+   {
+    "group": "Sensors",
+    "label": "Accelerometer",
+    "value": "High-g, up to 256 g-forces, fall and crash detection",
+    "evidence": "high-g accelerometer up to 256 g-forces with fall detection and crash detection"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "50 metres",
+    "evidence": "water resistant 50 meters"
+   },
+   {
+    "group": "Build",
+    "label": "Dust resistance",
+    "value": "IP6X",
+    "evidence": "certified ip6x dust resistant"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.3",
+    "evidence": "bluetooth 5.3"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery life",
+    "value": "Up to 18 hours",
+    "evidence": "built-in rechargeable lithium-ion battery up to 18 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "45 x 38 x 10.7 mm",
+    "evidence": "45mm height: 45mm width: 38mm depth: 10.7mm"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Apple Watch Series 8 Midnight Aluminium Case.jpg",
+    "model_evidence": "Apple Watch Series 8"
+   },
+   {
+    "commons_file": "File:Apple Watch Series 8.jpg",
+    "model_evidence": "Apple Watch Series 8"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-watch-ultra-49mm",
+  "brand": "Apple",
+  "model": "Apple Watch Ultra",
+  "variant_title": "49mm titanium case",
+  "category_handle": "smartwatch",
+  "title": "Apple Watch Ultra (1st generation, 49mm)",
+  "subtitle": "49mm titanium | 2000-nit display | Dual-frequency GPS",
+  "description": "The first-generation Apple Watch Ultra: 49mm titanium case, a 2000-nit always-on display, dual-frequency GPS and a depth gauge for recreational diving. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "49mm always-on display up to 2000 nits",
+   "L1 and L5 dual-frequency GPS",
+   "100 m water resistance and depth gauge",
+   "Up to 36 hours battery life"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111852",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "Apple Watch Ultra"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "49mm, 410 x 502 pixels, 1185 sq mm",
+    "evidence": "49mm 410 by 502 pixels 1185 sq mm display area"
+   },
+   {
+    "group": "Display",
+    "label": "Panel",
+    "value": "LTPO2 OLED always-on Retina, up to 2000 nits",
+    "evidence": "ltpo2 oled always-on retina display up to 2000 nits"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "S8 SiP, 64-bit dual-core",
+    "evidence": "s8 sip with 64-bit dual-core processor"
+   },
+   {
+    "group": "Sensors",
+    "label": "GPS",
+    "value": "L1 and L5 GPS",
+    "evidence": "l1 and l5 gps, glonass, galileo, qzss, and beidou"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "100 metres",
+    "evidence": "water resistant 100 meters"
+   },
+   {
+    "group": "Build",
+    "label": "Durability",
+    "value": "MIL-STD 810H tested",
+    "evidence": "tested to mil-std 810h"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery life",
+    "value": "Up to 36 hours",
+    "evidence": "built-in rechargeable lithium-ion battery up to 36 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "49 x 44 x 12 mm",
+    "evidence": "49mm height: 49mm width: 44mm depth: 12mm"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "61.3 g",
+    "evidence": "49mm titanium: 61.3g"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Apple Watch Ultra - 3.jpg",
+    "model_evidence": "Apple Watch Ultra"
+   },
+   {
+    "commons_file": "File:Apple Watch Ultra - 4.jpg",
+    "model_evidence": "Apple Watch Ultra"
+   }
+  ],
+  "review_notes": [
+   "Photos are titled 'Apple Watch Ultra' without a generation number; Ultra and Ultra 2 look alike, so a reviewer should confirm the pictured unit is first generation."
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-xs-64gb",
+  "brand": "Apple",
+  "model": "iPhone XS",
+  "variant_title": "64GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone XS (64GB)",
+  "subtitle": "5.8-inch all-screen OLED | A12 Bionic | 64GB",
+  "description": "Apple iPhone XS smartphone in the 64GB storage configuration. It runs on the A12 Bionic chip and has a 5.8-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "5.8-inch all-screen OLED display",
+   "2436 x 1125 at 458 ppi resolution",
+   "A12 Bionic chip",
+   "Water resistance: IP68, up to 2 m for 30 minutes"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111881",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone XS"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "64GB",
+    "evidence": "64gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "5.8-inch all-screen OLED Multi-Touch display",
+    "evidence": "5.8-inch (diagonal) all-screen oled multi-touch display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2436 x 1125 at 458 ppi",
+    "evidence": "2436-by-1125-pixel resolution at 458 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A12 Bionic",
+    "evidence": "a12 bionic chip"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP68, up to 2 m for 30 minutes",
+    "evidence": "rated ip68 (maximum depth of 2 meters up to 30 minutes)"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "177 g",
+    "evidence": "weight: 6.24 ounces (177 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "143.6 x 70.9 x 7.7 mm",
+    "evidence": "width: 2.79 inches (70.9 mm) height: 5.65 inches (143.6 mm) depth: 0.30 inch (7.7 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "802.11ac Wi-Fi",
+    "evidence": "802.11ac wi-fi"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0 wireless technology"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "Lightning",
+    "evidence": "lightning connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone XS.jpg",
+    "model_evidence": "iPhone XS"
+   },
+   {
+    "commons_file": "File:IPhone XS 1 2018-11-02.jpg",
+    "model_evidence": "iPhone XS"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-xs-max-64gb",
+  "brand": "Apple",
+  "model": "iPhone XS Max",
+  "variant_title": "64GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone XS Max (64GB)",
+  "subtitle": "6.5-inch all-screen OLED | A12 Bionic | 64GB",
+  "description": "Apple iPhone XS Max smartphone in the 64GB storage configuration. It runs on the A12 Bionic chip and has a 6.5-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "6.5-inch all-screen OLED display",
+   "2688 x 1242 at 458 ppi resolution",
+   "A12 Bionic chip",
+   "Water resistance: IP68, up to 2 m for 30 minutes"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111880",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone XS Max"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "64GB",
+    "evidence": "64gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.5-inch all-screen OLED Multi-Touch display",
+    "evidence": "6.5-inch (diagonal) all-screen oled multi-touch display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2688 x 1242 at 458 ppi",
+    "evidence": "2688-by-1242-pixel resolution at 458 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A12 Bionic",
+    "evidence": "a12 bionic chip"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP68, up to 2 m for 30 minutes",
+    "evidence": "rated ip68 (maximum depth of 2 meters up to 30 minutes)"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "208 g",
+    "evidence": "weight: 7.34 ounces (208 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "157.5 x 77.4 x 7.7 mm",
+    "evidence": "width: 3.05 inches (77.4 mm) height: 6.20 inches (157.5 mm) depth: 0.30 inch (7.7 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "802.11ac Wi-Fi",
+    "evidence": "802.11ac wi-fi"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0 wireless technology"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "Lightning",
+    "evidence": "lightning connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone XS Max.jpg",
+    "model_evidence": "iPhone XS Max"
+   },
+   {
+    "commons_file": "File:IPhone XS Max gold & Cappuccino 20180921.jpg",
+    "model_evidence": "iPhone XS Max"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-11-64gb",
+  "brand": "Apple",
+  "model": "iPhone 11",
+  "variant_title": "64GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 11 (64GB)",
+  "subtitle": "6.1-inch all-screen LCD | A13 Bionic | 64GB",
+  "description": "Apple iPhone 11 smartphone in the 64GB storage configuration. It runs on the A13 Bionic chip and has a 6.1-inch all-screen LCD screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "6.1-inch all-screen LCD display",
+   "1792 x 828 at 326 ppi resolution",
+   "A13 Bionic, 6-core CPU, 4-core GPU chip",
+   "Main camera: 12MP, f/1.8"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111865",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 11"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "64GB",
+    "evidence": "64gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.1-inch all-screen LCD Multi-Touch display with IPS technology",
+    "evidence": "6.1-inch (diagonal) all-screen lcd multi-touch display with ips technology"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "1792 x 828 at 326 ppi",
+    "evidence": "1792-by-828-pixel resolution at 326 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A13 Bionic, 6-core CPU, 4-core GPU",
+    "evidence": "a13 bionic chip 6-core cpu with 2 performance and 4 efficiency cores 4-core gpu"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "12MP, f/1.8",
+    "evidence": "12mp wide and ultra wide cameras wide: ƒ/1.8 aperture"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP68, up to 2 m for 30 minutes",
+    "evidence": "rated ip68 (maximum depth of 2 meters up to 30 minutes)"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 17 hours",
+    "evidence": "video playback: up to 17 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "194 g",
+    "evidence": "weight: 6.84 ounces (194 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "150.9 x 75.7 x 8.3 mm",
+    "evidence": "width: 2.98 inches (75.7 mm) height: 5.94 inches (150.9 mm) depth: 0.33 inch (8.3 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "802.11ax Wi-Fi",
+    "evidence": "802.11ax wi-fi"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0 wireless technology"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "Lightning",
+    "evidence": "lightning connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone 11.jpeg",
+    "model_evidence": "iPhone 11"
+   },
+   {
+    "commons_file": "File:Back view of iPhone 11 white.jpg",
+    "model_evidence": "iPhone 11"
+   },
+   {
+    "commons_file": "File:IPhone 11 Product Red 128g.jpg",
+    "model_evidence": "iPhone 11"
+   },
+   {
+    "commons_file": "File:Apple iPhone 11 - Tischkante.jpg",
+    "model_evidence": "iPhone 11"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-11-pro-64gb",
+  "brand": "Apple",
+  "model": "iPhone 11 Pro",
+  "variant_title": "64GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 11 Pro (64GB)",
+  "subtitle": "5.8-inch all-screen OLED | A13 Bionic | 64GB",
+  "description": "Apple iPhone 11 Pro smartphone in the 64GB storage configuration. It runs on the A13 Bionic chip and has a 5.8-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "5.8-inch all-screen OLED display",
+   "2436 x 1125 at 458 ppi resolution",
+   "A13 Bionic chip",
+   "Water resistance: IP68, up to 4 m for 30 minutes"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111879",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 11 Pro"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "64GB",
+    "evidence": "64gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "5.8-inch all-screen OLED Multi-Touch display",
+    "evidence": "5.8-inch (diagonal) all-screen oled multi-touch display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2436 x 1125 at 458 ppi",
+    "evidence": "2436-by-1125-pixel resolution at 458 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A13 Bionic",
+    "evidence": "a13 bionic chip"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP68, up to 4 m for 30 minutes",
+    "evidence": "rated ip68 (maximum depth of 4 meters up to 30 minutes)"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 18 hours",
+    "evidence": "video playback: up to 18 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "188 g",
+    "evidence": "weight: 6.63 ounces (188 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "144.0 x 71.4 x 8.1 mm",
+    "evidence": "width: 2.81 inches (71.4 mm) height: 5.67 inches (144.0 mm) depth: 0.32 inch (8.1 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "802.11ax Wi-Fi",
+    "evidence": "802.11ax wi-fi"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0 wireless technology"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "Lightning",
+    "evidence": "lightning connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:2019-12-22 IPhone 11 Pro.jpg",
+    "model_evidence": "iPhone 11 Pro"
+   },
+   {
+    "commons_file": "File:Close-Up of the iPhone 11 Pro's cameras.jpg",
+    "model_evidence": "iPhone 11 Pro"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-11-pro-max-64gb",
+  "brand": "Apple",
+  "model": "iPhone 11 Pro Max",
+  "variant_title": "64GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 11 Pro Max (64GB)",
+  "subtitle": "6.5-inch all-screen OLED | A13 Bionic | 64GB",
+  "description": "Apple iPhone 11 Pro Max smartphone in the 64GB storage configuration. It runs on the A13 Bionic chip and has a 6.5-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "6.5-inch all-screen OLED display",
+   "2688 x 1242 at 458 ppi resolution",
+   "A13 Bionic chip",
+   "Water resistance: IP68, up to 4 m for 30 minutes"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111878",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 11 Pro Max"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "64GB",
+    "evidence": "64gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.5-inch all-screen OLED Multi-Touch display",
+    "evidence": "6.5-inch (diagonal) all-screen oled multi-touch display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2688 x 1242 at 458 ppi",
+    "evidence": "2688-by-1242-pixel resolution at 458 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A13 Bionic",
+    "evidence": "a13 bionic chip"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP68, up to 4 m for 30 minutes",
+    "evidence": "rated ip68 (maximum depth of 4 meters up to 30 minutes)"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 20 hours",
+    "evidence": "video playback: up to 20 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "226 g",
+    "evidence": "weight: 7.97 ounces (226 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "158.0 x 77.8 x 8.1 mm",
+    "evidence": "width: 3.06 inches (77.8 mm) height: 6.22 inches (158.0 mm) depth: 0.32 inch (8.1 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "802.11ax Wi-Fi",
+    "evidence": "802.11ax wi-fi"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0 wireless technology"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "Lightning",
+    "evidence": "lightning connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Iphone 11 pro max.jpg",
+    "model_evidence": "iPhone 11 Pro Max"
+   },
+   {
+    "commons_file": "File:Scan of back of iPhone 11 Pro Max Space Grey.jpg",
+    "model_evidence": "iPhone 11 Pro Max"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-12-mini-64gb",
+  "brand": "Apple",
+  "model": "iPhone 12 mini",
+  "variant_title": "64GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 12 mini (64GB)",
+  "subtitle": "5.4-inch all-screen OLED | A14 Bionic | 64GB",
+  "description": "Apple iPhone 12 mini smartphone in the 64GB storage configuration. It runs on the A14 Bionic chip and has a 5.4-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "5.4-inch all-screen OLED display",
+   "2340 x 1080 at 476 ppi resolution",
+   "A14 Bionic, 6-core CPU, 4-core GPU chip",
+   "Water resistance: IP68, up to 6 m for 30 minutes"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111877",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 12 mini"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "64GB",
+    "evidence": "64gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "5.4-inch all-screen OLED display",
+    "evidence": "5.4-inch (diagonal) all-screen oled display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2340 x 1080 at 476 ppi",
+    "evidence": "2340-by-1080-pixel resolution at 476 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A14 Bionic, 6-core CPU, 4-core GPU",
+    "evidence": "a14 bionic chip 6-core cpu with 2 performance and 4 efficiency cores 4-core gpu"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP68, up to 6 m for 30 minutes",
+    "evidence": "rated ip68 (maximum depth of 6 meters up to 30 minutes)"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 15 hours",
+    "evidence": "video playback: up to 15 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "135 g",
+    "evidence": "weight: 4.76 ounces (135 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "131.5 x 64.2 x 7.4 mm",
+    "evidence": "width: 2.53 inches (64.2 mm) height: 5.18 inches (131.5 mm) depth: 0.29 inch (7.4 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "Wi-Fi 6 (802.11ax)",
+    "evidence": "wi-fi 6 (802.11ax)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0 wireless technology"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "Lightning",
+    "evidence": "lightning connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone 12 mini.jpg",
+    "model_evidence": "iPhone 12 mini"
+   },
+   {
+    "commons_file": "File:IPhone 12 Mini - 2.jpg",
+    "model_evidence": "iPhone 12 mini"
+   },
+   {
+    "commons_file": "File:Two cameras of iPhone 12 Mini - 1.jpg",
+    "model_evidence": "iPhone 12 mini"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-12-pro-128gb",
+  "brand": "Apple",
+  "model": "iPhone 12 Pro",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 12 Pro (128GB)",
+  "subtitle": "6.1-inch all-screen OLED | A14 Bionic | 128GB",
+  "description": "Apple iPhone 12 Pro smartphone in the 128GB storage configuration. It runs on the A14 Bionic chip and has a 6.1-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "6.1-inch all-screen OLED display",
+   "2532 x 1170 at 460 ppi resolution",
+   "A14 Bionic chip",
+   "Water resistance: IP68, up to 6 m for 30 minutes"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111875",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 12 Pro"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "128GB",
+    "evidence": "128gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.1-inch all-screen OLED display",
+    "evidence": "6.1-inch (diagonal) all-screen oled display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2532 x 1170 at 460 ppi",
+    "evidence": "2532-by-1170-pixel resolution at 460 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A14 Bionic",
+    "evidence": "a14 bionic chip"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP68, up to 6 m for 30 minutes",
+    "evidence": "rated ip68 (maximum depth of 6 meters up to 30 minutes)"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 17 hours",
+    "evidence": "video playback: up to 17 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "189 g",
+    "evidence": "weight: 6.66 ounces (189 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "146.7 x 71.5 x 7.4 mm",
+    "evidence": "width: 2.82 inches (71.5 mm) height: 5.78 inches (146.7 mm) depth: 0.29 inch (7.4 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "Wi-Fi 6 (802.11ax)",
+    "evidence": "wi-fi 6 (802.11ax)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0 wireless technology"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "Lightning",
+    "evidence": "lightning connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone 12 Pro Pacific Blue 128g.jpg",
+    "model_evidence": "iPhone 12 Pro"
+   },
+   {
+    "commons_file": "File:IPhone 12 Pro backside.jpg",
+    "model_evidence": "iPhone 12 Pro"
+   },
+   {
+    "commons_file": "File:IPhone 12 Pro - 2.jpg",
+    "model_evidence": "iPhone 12 Pro"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-12-pro-max-128gb",
+  "brand": "Apple",
+  "model": "iPhone 12 Pro Max",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 12 Pro Max (128GB)",
+  "subtitle": "6.7-inch all-screen OLED | A14 Bionic | 128GB",
+  "description": "Apple iPhone 12 Pro Max smartphone in the 128GB storage configuration. It runs on the A14 Bionic chip and has a 6.7-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "6.7-inch all-screen OLED display",
+   "2778 x 1284 at 458 ppi resolution",
+   "A14 Bionic chip",
+   "Water resistance: IP68, up to 6 m for 30 minutes"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111874",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 12 Pro Max"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "128GB",
+    "evidence": "128gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.7-inch all-screen OLED display",
+    "evidence": "6.7-inch (diagonal) all-screen oled display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2778 x 1284 at 458 ppi",
+    "evidence": "2778-by-1284-pixel resolution at 458 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A14 Bionic",
+    "evidence": "a14 bionic chip"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP68, up to 6 m for 30 minutes",
+    "evidence": "rated ip68 (maximum depth of 6 meters up to 30 minutes)"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 20 hours",
+    "evidence": "video playback: up to 20 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "228 g",
+    "evidence": "weight: 8.03 ounces (228 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "160.8 x 78.1 x 7.4 mm",
+    "evidence": "width: 3.07 inches (78.1 mm) height: 6.33 inches (160.8 mm) depth: 0.29 inch (7.4 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "Wi-Fi 6 (802.11ax)",
+    "evidence": "wi-fi 6 (802.11ax)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0 wireless technology"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "Lightning",
+    "evidence": "lightning connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone 12 Pro Max Pacific Blue 128g.jpg",
+    "model_evidence": "iPhone 12 Pro Max"
+   },
+   {
+    "commons_file": "File:IPhone 12 Pro Max - 2.jpg",
+    "model_evidence": "iPhone 12 Pro Max"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-13-pro-128gb",
+  "brand": "Apple",
+  "model": "iPhone 13 Pro",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 13 Pro (128GB)",
+  "subtitle": "6.1-inch all-screen OLED | A15 Bionic | 128GB",
+  "description": "Apple iPhone 13 Pro smartphone in the 128GB storage configuration. It runs on the A15 Bionic chip and has a 6.1-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "6.1-inch all-screen OLED display",
+   "2532 x 1170 at 460 ppi resolution",
+   "A15 Bionic, 6-core CPU, 5-core GPU chip",
+   "Water resistance: IP68, up to 6 m for 30 minutes"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111871",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 13 Pro"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "128GB",
+    "evidence": "128gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.1-inch all-screen OLED display",
+    "evidence": "6.1-inch (diagonal) all-screen oled display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2532 x 1170 at 460 ppi",
+    "evidence": "2532-by-1170-pixel resolution at 460 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A15 Bionic, 6-core CPU, 5-core GPU",
+    "evidence": "a15 bionic chip new 6-core cpu with 2 performance and 4 efficiency cores new 5-core gpu"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP68, up to 6 m for 30 minutes",
+    "evidence": "rated ip68 (maximum depth of 6 meters up to 30 minutes)"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 22 hours",
+    "evidence": "video playback: up to 22 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "204 g",
+    "evidence": "weight: 7.19 ounces (204 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "146.7 x 71.5 x 7.65 mm",
+    "evidence": "width: 2.82 inches (71.5 mm) height: 5.78 inches (146.7 mm) depth: 0.30 inch (7.65 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "Wi-Fi 6 (802.11ax)",
+    "evidence": "wi-fi 6 (802.11ax)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0 wireless technology"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "Lightning",
+    "evidence": "lightning connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Apple iPhone 13 Pro.jpg",
+    "model_evidence": "iPhone 13 Pro"
+   },
+   {
+    "commons_file": "File:IPhone 13 Pro Sierra blue A2483 US version rear.jpg",
+    "model_evidence": "iPhone 13 Pro"
+   },
+   {
+    "commons_file": "File:Back of the iPhone 13 Pro.jpg",
+    "model_evidence": "iPhone 13 Pro"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-13-pro-max-128gb",
+  "brand": "Apple",
+  "model": "iPhone 13 Pro Max",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 13 Pro Max (128GB)",
+  "subtitle": "6.7-inch all-screen OLED | A15 Bionic | 128GB",
+  "description": "Apple iPhone 13 Pro Max smartphone in the 128GB storage configuration. It runs on the A15 Bionic chip and has a 6.7-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "6.7-inch all-screen OLED display",
+   "2778 x 1284 at 458 ppi resolution",
+   "A15 Bionic, 6-core CPU, 5-core GPU chip",
+   "Water resistance: IP68, up to 6 m for 30 minutes"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111870",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 13 Pro Max"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "128GB",
+    "evidence": "128gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.7-inch all-screen OLED display",
+    "evidence": "6.7-inch (diagonal) all-screen oled display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2778 x 1284 at 458 ppi",
+    "evidence": "2778-by-1284-pixel resolution at 458 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A15 Bionic, 6-core CPU, 5-core GPU",
+    "evidence": "a15 bionic chip new 6-core cpu with 2 performance and 4 efficiency cores new 5-core gpu"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP68, up to 6 m for 30 minutes",
+    "evidence": "rated ip68 (maximum depth of 6 meters up to 30 minutes)"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 28 hours",
+    "evidence": "video playback: up to 28 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "240 g",
+    "evidence": "weight: 8.46 ounces (240 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "160.8 x 78.1 x 7.65 mm",
+    "evidence": "width: 3.07 inches (78.1 mm) height: 6.33 inches (160.8 mm) depth: 0.30 inch (7.65 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "Wi-Fi 6 (802.11ax)",
+    "evidence": "wi-fi 6 (802.11ax)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0 wireless technology"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "Lightning",
+    "evidence": "lightning connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone 13 Pro Max Sierra Blue 128g.jpg",
+    "model_evidence": "iPhone 13 Pro Max"
+   },
+   {
+    "commons_file": "File:Back view of iPhone 13 Pro Max Gold.jpg",
+    "model_evidence": "iPhone 13 Pro Max"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-14-plus-128gb",
+  "brand": "Apple",
+  "model": "iPhone 14 Plus",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 14 Plus (128GB)",
+  "subtitle": "6.7-inch all-screen OLED | A15 Bionic | 128GB",
+  "description": "Apple iPhone 14 Plus smartphone in the 128GB storage configuration. It runs on the A15 Bionic chip and has a 6.7-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "6.7-inch all-screen OLED display",
+   "2778 x 1284 at 458 ppi resolution",
+   "A15 Bionic, 6-core CPU, 5-core GPU chip",
+   "Main camera: 12MP, f/1.5"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111854",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 14 Plus"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "128GB",
+    "evidence": "128gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.7-inch all-screen OLED display",
+    "evidence": "6.7-inch (diagonal) all-screen oled display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2778 x 1284 at 458 ppi",
+    "evidence": "2778-by-1284-pixel resolution at 458 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A15 Bionic, 6-core CPU, 5-core GPU",
+    "evidence": "a15 bionic chip 6-core cpu with 2 performance and 4 efficiency cores 5-core gpu"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "12MP, f/1.5",
+    "evidence": "12mp main: 26 mm, ƒ/1.5 aperture"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP68, up to 6 m for 30 minutes",
+    "evidence": "rated ip68 (maximum depth of 6 meters up to 30 minutes)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "Wi-Fi 6 (802.11ax)",
+    "evidence": "wi-fi 6 (802.11ax)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.3",
+    "evidence": "bluetooth 5.3"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "Lightning",
+    "evidence": "lightning connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:A blue iPhone 14 Plus.jpg",
+    "model_evidence": "iPhone 14 Plus"
+   },
+   {
+    "commons_file": "File:IPhone 14 Plus yellow.jpg",
+    "model_evidence": "iPhone 14 Plus"
+   },
+   {
+    "commons_file": "File:IPhone 14 Plus 20240225.jpg",
+    "model_evidence": "iPhone 14 Plus"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-13-mini-128gb",
+  "brand": "Apple",
+  "model": "iPhone 13 mini",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 13 mini (128GB)",
+  "subtitle": "5.4-inch all-screen OLED | A15 Bionic | 128GB",
+  "description": "Apple iPhone 13 mini smartphone in the 128GB storage configuration. It runs on the A15 Bionic chip and has a 5.4-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "5.4-inch all-screen OLED display",
+   "2340 x 1080 at 476 ppi resolution",
+   "A15 Bionic, 6-core CPU, 4-core GPU chip",
+   "Water resistance: IP68, up to 6 m for 30 minutes"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111873",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 13 mini"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "128GB",
+    "evidence": "128gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "5.4-inch all-screen OLED display",
+    "evidence": "5.4-inch (diagonal) all-screen oled display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2340 x 1080 at 476 ppi",
+    "evidence": "2340-by-1080-pixel resolution at 476 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A15 Bionic, 6-core CPU, 4-core GPU",
+    "evidence": "a15 bionic chip 6-core cpu with 2 performance and 4 efficiency cores 4-core gpu"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP68, up to 6 m for 30 minutes",
+    "evidence": "rated ip68 (maximum depth of 6 meters up to 30 minutes)"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 17 hours",
+    "evidence": "video playback: up to 17 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "141 g",
+    "evidence": "weight: 4.97 ounces (141 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "131.5 x 64.2 x 7.65 mm",
+    "evidence": "width: 2.53 inches (64.2 mm) height: 5.18 inches (131.5 mm) depth: 0.30 inch (7.65 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "Wi-Fi 6 (802.11ax)",
+    "evidence": "wi-fi 6 (802.11ax)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "Lightning",
+    "evidence": "lightning connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone 13 Mini Grün Freigestellt.png",
+    "model_evidence": "iPhone 13 mini"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-14-pro-128gb",
+  "brand": "Apple",
+  "model": "iPhone 14 Pro",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 14 Pro (128GB)",
+  "subtitle": "6.1-inch all-screen OLED | A16 Bionic | 128GB",
+  "description": "Apple iPhone 14 Pro smartphone in the 128GB storage configuration. It runs on the A16 Bionic chip and has a 6.1-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "6.1-inch all-screen OLED display",
+   "2556 x 1179 at 460 ppi resolution",
+   "A16 Bionic, 6-core CPU, 5-core GPU chip",
+   "Water resistance: IP68, up to 6 m for 30 minutes"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111849",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 14 Pro"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "128GB",
+    "evidence": "128gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.1-inch all-screen OLED display",
+    "evidence": "6.1-inch (diagonal) all-screen oled display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2556 x 1179 at 460 ppi",
+    "evidence": "2556-by-1179-pixel resolution at 460 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A16 Bionic, 6-core CPU, 5-core GPU",
+    "evidence": "a16 bionic chip 6-core cpu with 2 performance and 4 efficiency cores 5-core gpu"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP68, up to 6 m for 30 minutes",
+    "evidence": "rated ip68 (maximum depth of 6 meters up to 30 minutes)"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 23 hours",
+    "evidence": "video playback: up to 23 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "206 g",
+    "evidence": "weight: 7.27 ounces (206 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "147.5 x 71.5 x 7.85 mm",
+    "evidence": "width: 2.81 inches (71.5 mm) height: 5.81 inches (147.5 mm) depth: 0.31 inch (7.85 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "Wi-Fi 6 (802.11ax)",
+    "evidence": "wi-fi 6 (802.11ax)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.3",
+    "evidence": "bluetooth 5.3"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "Lightning",
+    "evidence": "lightning connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone 14 Pro Deep Purple 256g.jpg",
+    "model_evidence": "iPhone 14 Pro"
+   },
+   {
+    "commons_file": "File:Back of the iPhone 14 Pro.jpg",
+    "model_evidence": "iPhone 14 Pro"
+   },
+   {
+    "commons_file": "File:IPhone 14 Pro - black.jpg",
+    "model_evidence": "iPhone 14 Pro"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-14-pro-max-128gb",
+  "brand": "Apple",
+  "model": "iPhone 14 Pro Max",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 14 Pro Max (128GB)",
+  "subtitle": "6.7-inch all-screen OLED | A16 Bionic | 128GB",
+  "description": "Apple iPhone 14 Pro Max smartphone in the 128GB storage configuration. It runs on the A16 Bionic chip and has a 6.7-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "6.7-inch all-screen OLED display",
+   "2796 x 1290 at 460 ppi resolution",
+   "A16 Bionic, 6-core CPU, 5-core GPU chip",
+   "Water resistance: IP68, up to 6 m for 30 minutes"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111846",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 14 Pro Max"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "128GB",
+    "evidence": "128gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.7-inch all-screen OLED display",
+    "evidence": "6.7-inch (diagonal) all-screen oled display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2796 x 1290 at 460 ppi",
+    "evidence": "2796-by-1290-pixel resolution at 460 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A16 Bionic, 6-core CPU, 5-core GPU",
+    "evidence": "a16 bionic chip 6-core cpu with 2 performance and 4 efficiency cores 5-core gpu"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP68, up to 6 m for 30 minutes",
+    "evidence": "rated ip68 (maximum depth of 6 meters up to 30 minutes)"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 29 hours",
+    "evidence": "video playback: up to 29 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "240 g",
+    "evidence": "weight: 8.47 ounces (240 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "160.7 x 77.6 x 7.85 mm",
+    "evidence": "width: 3.05 inches (77.6 mm) height: 6.33 inches (160.7 mm) depth: 0.31 inch (7.85 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "Wi-Fi 6 (802.11ax)",
+    "evidence": "wi-fi 6 (802.11ax)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.3",
+    "evidence": "bluetooth 5.3"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "Lightning",
+    "evidence": "lightning connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone 14 Pro Max Deep purple A2896 China, Hong Kong and Macao version front.jpg",
+    "model_evidence": "iPhone 14 Pro Max"
+   },
+   {
+    "commons_file": "File:IPhone 14 Pro Max Deep purple A2896 China, Hong Kong and Macao version rear.jpg",
+    "model_evidence": "iPhone 14 Pro Max"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-15-plus-128gb",
+  "brand": "Apple",
+  "model": "iPhone 15 Plus",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 15 Plus (128GB)",
+  "subtitle": "6.7-inch all-screen OLED | A16 Bionic | 128GB",
+  "description": "Apple iPhone 15 Plus smartphone in the 128GB storage configuration. It runs on the A16 Bionic chip and has a 6.7-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "6.7-inch all-screen OLED display",
+   "2796 x 1290 at 460 ppi resolution",
+   "A16 Bionic, 6-core CPU, 5-core GPU chip",
+   "Main camera: 48MP, f/1.6"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111830",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 15 Plus"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "128GB",
+    "evidence": "128gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.7-inch all-screen OLED display",
+    "evidence": "6.7-inch (diagonal) all-screen oled display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2796 x 1290 at 460 ppi",
+    "evidence": "2796-by-1290-pixel resolution at 460 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A16 Bionic, 6-core CPU, 5-core GPU",
+    "evidence": "a16 bionic chip 6-core cpu with 2 performance and 4 efficiency cores 5-core gpu"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "48MP, f/1.6",
+    "evidence": "48mp main: 26 mm, ƒ/1.6 aperture"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP68, up to 6 m for 30 minutes",
+    "evidence": "rated ip68 (maximum depth of 6 meters up to 30 minutes)"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 26 hours",
+    "evidence": "video playback: up to 26 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "201 g",
+    "evidence": "weight: 7.09 ounces (201 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "160.9 x 77.8 x 7.80 mm",
+    "evidence": "width: 3.06 inches (77.8 mm) height: 6.33 inches (160.9 mm) depth: 0.31 inch (7.80 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "Wi-Fi 6 (802.11ax)",
+    "evidence": "wi-fi 6 (802.11ax)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.3",
+    "evidence": "bluetooth 5.3"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "USB-C",
+    "evidence": "usb-c connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone 15 Plus 2024.jpg",
+    "model_evidence": "iPhone 15 Plus"
+   },
+   {
+    "commons_file": "File:IPhone 15 Plus, January 28, 2024.jpg",
+    "model_evidence": "iPhone 15 Plus"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-15-pro-128gb",
+  "brand": "Apple",
+  "model": "iPhone 15 Pro",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 15 Pro (128GB)",
+  "subtitle": "6.1-inch all-screen OLED | A17 Pro | 128GB",
+  "description": "Apple iPhone 15 Pro smartphone in the 128GB storage configuration. It runs on the A17 Pro chip and has a 6.1-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "6.1-inch all-screen OLED display",
+   "2556 x 1179 at 460 ppi resolution",
+   "A17 Pro, 6-core CPU, 6-core GPU chip",
+   "Water resistance: IP68, up to 6 m for 30 minutes"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111829",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 15 Pro"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "128GB",
+    "evidence": "128gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.1-inch all-screen OLED display",
+    "evidence": "6.1-inch (diagonal) all-screen oled display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2556 x 1179 at 460 ppi",
+    "evidence": "2556-by-1179-pixel resolution at 460 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A17 Pro, 6-core CPU, 6-core GPU",
+    "evidence": "a17 pro chip new 6-core cpu with 2 performance and 4 efficiency cores new 6-core gpu"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP68, up to 6 m for 30 minutes",
+    "evidence": "rated ip68 (maximum depth of 6 meters up to 30 minutes)"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 23 hours",
+    "evidence": "video playback: up to 23 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "187 g",
+    "evidence": "weight: 6.60 ounces (187 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "146.6 x 70.6 x 8.25 mm",
+    "evidence": "width: 2.78 inches (70.6 mm) height: 5.77 inches (146.6 mm) depth: 0.32 inch (8.25 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "Wi-Fi 6E (802.11ax)",
+    "evidence": "wi-fi 6e (802.11ax)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.3",
+    "evidence": "bluetooth 5.3"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "USB-C",
+    "evidence": "usb-c connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Back view of iPhone 15 Pro Natural titanium.jpg",
+    "model_evidence": "iPhone 15 Pro"
+   },
+   {
+    "commons_file": "File:Side buttons of iPhone 15 Pro.jpg",
+    "model_evidence": "iPhone 15 Pro"
+   },
+   {
+    "commons_file": "File:USB-C port of iPhone 15 Pro - 1.jpg",
+    "model_evidence": "iPhone 15 Pro"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-15-pro-max-256gb",
+  "brand": "Apple",
+  "model": "iPhone 15 Pro Max",
+  "variant_title": "256GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 15 Pro Max (256GB)",
+  "subtitle": "6.7-inch all-screen OLED | A17 Pro | 256GB",
+  "description": "Apple iPhone 15 Pro Max smartphone in the 256GB storage configuration. It runs on the A17 Pro chip and has a 6.7-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "6.7-inch all-screen OLED display",
+   "2796 x 1290 at 460 ppi resolution",
+   "A17 Pro, 6-core CPU, 6-core GPU chip",
+   "Water resistance: IP68, up to 6 m for 30 minutes"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111828",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 15 Pro Max"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "256GB",
+    "evidence": "256gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.7-inch all-screen OLED display",
+    "evidence": "6.7-inch (diagonal) all-screen oled display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2796 x 1290 at 460 ppi",
+    "evidence": "2796-by-1290-pixel resolution at 460 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A17 Pro, 6-core CPU, 6-core GPU",
+    "evidence": "a17 pro chip new 6-core cpu with 2 performance and 4 efficiency cores new 6-core gpu"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP68, up to 6 m for 30 minutes",
+    "evidence": "rated ip68 (maximum depth of 6 meters up to 30 minutes)"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 29 hours",
+    "evidence": "video playback: up to 29 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "221 g",
+    "evidence": "weight: 7.81 ounces (221 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "159.9 x 76.7 x 8.25 mm",
+    "evidence": "width: 3.02 inches (76.7 mm) height: 6.29 inches (159.9 mm) depth: 0.32 inch (8.25 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "Wi-Fi 6E (802.11ax)",
+    "evidence": "wi-fi 6e (802.11ax)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.3",
+    "evidence": "bluetooth 5.3"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "USB-C",
+    "evidence": "usb-c connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Front of iPhone 15 Pro Max.jpg",
+    "model_evidence": "iPhone 15 Pro Max"
+   },
+   {
+    "commons_file": "File:Back view of iPhone 15 Pro Max Natural Titanium.jpg",
+    "model_evidence": "iPhone 15 Pro Max"
+   },
+   {
+    "commons_file": "File:Side of iPhone 15 Pro Max - 1.jpg",
+    "model_evidence": "iPhone 15 Pro Max"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-16-pro-128gb",
+  "brand": "Apple",
+  "model": "iPhone 16 Pro",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 16 Pro (128GB)",
+  "subtitle": "6.3-inch all-screen OLED | A18 Pro | 128GB",
+  "description": "Apple iPhone 16 Pro smartphone in the 128GB storage configuration. It runs on the A18 Pro chip and has a 6.3-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "6.3-inch all-screen OLED display",
+   "2622 x 1206 at 460 ppi resolution",
+   "A18 Pro, 6-core CPU, 6-core GPU chip",
+   "Water resistance: IP68, up to 6 m for 30 minutes"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/121031",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 16 Pro"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "128GB",
+    "evidence": "128gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.3-inch all-screen OLED display",
+    "evidence": "6.3-inch (diagonal) all-screen oled display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2622 x 1206 at 460 ppi",
+    "evidence": "2622-by-1206-pixel resolution at 460 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A18 Pro, 6-core CPU, 6-core GPU",
+    "evidence": "a18 pro chip new 6-core cpu with 2 performance and 4 efficiency cores new 6-core gpu"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP68, up to 6 m for 30 minutes",
+    "evidence": "rated ip68 (maximum depth of 6 meters up to 30 minutes)"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 27 hours",
+    "evidence": "video playback: up to 27 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "199 g",
+    "evidence": "weight: 7.03 ounces (199 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "149.6 x 71.5 x 8.25 mm",
+    "evidence": "width: 2.81 inches (71.5 mm) height: 5.89 inches (149.6 mm) depth: 0.32 inch (8.25 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "Wi-Fi 7 (802.11be)",
+    "evidence": "wi-fi 7 (802.11be)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.3",
+    "evidence": "bluetooth 5.3"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "USB-C",
+    "evidence": "usb-c connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Back view of iPhone 16 Pro White Titanium.jpg",
+    "model_evidence": "iPhone 16 Pro"
+   },
+   {
+    "commons_file": "File:Right view of iPhone 16 Pro White Titanium.jpg",
+    "model_evidence": "iPhone 16 Pro"
+   },
+   {
+    "commons_file": "File:IPhone 16 Pro - black.jpg",
+    "model_evidence": "iPhone 16 Pro"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-16-pro-max-256gb",
+  "brand": "Apple",
+  "model": "iPhone 16 Pro Max",
+  "variant_title": "256GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 16 Pro Max (256GB)",
+  "subtitle": "6.9-inch all-screen OLED | A18 Pro | 256GB",
+  "description": "Apple iPhone 16 Pro Max smartphone in the 256GB storage configuration. It runs on the A18 Pro chip and has a 6.9-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "6.9-inch all-screen OLED display",
+   "2868 x 1320 at 460 ppi resolution",
+   "A18 Pro, 6-core CPU, 6-core GPU chip",
+   "Water resistance: IP68, up to 6 m for 30 minutes"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/121032",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 16 Pro Max"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "256GB",
+    "evidence": "256gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.9-inch all-screen OLED display",
+    "evidence": "6.9-inch (diagonal) all-screen oled display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2868 x 1320 at 460 ppi",
+    "evidence": "2868-by-1320-pixel resolution at 460 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A18 Pro, 6-core CPU, 6-core GPU",
+    "evidence": "a18 pro chip new 6-core cpu with 2 performance and 4 efficiency cores new 6-core gpu"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP68, up to 6 m for 30 minutes",
+    "evidence": "rated ip68 (maximum depth of 6 meters up to 30 minutes)"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 33 hours",
+    "evidence": "video playback: up to 33 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "227 g",
+    "evidence": "weight: 7.99 ounces (227 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "163 x 77.6 x 8.25 mm",
+    "evidence": "width: 3.06 inches (77.6 mm) height: 6.42 inches (163 mm) depth: 0.32 inch (8.25 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "Wi-Fi 7 (802.11be)",
+    "evidence": "wi-fi 7 (802.11be)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.3",
+    "evidence": "bluetooth 5.3"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "USB-C",
+    "evidence": "usb-c connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone 16 Pro Max White 256g.jpg",
+    "model_evidence": "iPhone 16 Pro Max"
+   },
+   {
+    "commons_file": "File:Back view of iPhone 16 Pro Max Natural Titanium.jpg",
+    "model_evidence": "iPhone 16 Pro Max"
+   },
+   {
+    "commons_file": "File:Right view of iPhone 16 Pro Max Natural Titanium.jpg",
+    "model_evidence": "iPhone 16 Pro Max"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-17-pro-256gb",
+  "brand": "Apple",
+  "model": "iPhone 17 Pro",
+  "variant_title": "256GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 17 Pro (256GB)",
+  "subtitle": "6.3-inch all-screen OLED | A19 Pro | 256GB",
+  "description": "Apple iPhone 17 Pro smartphone in the 256GB storage configuration. It runs on the A19 Pro chip and has a 6.3-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "6.3-inch all-screen OLED display",
+   "2622 x 1206 at 460 ppi resolution",
+   "A19 Pro, 6-core CPU, 6-core GPU chip",
+   "Main camera: 48MP, f/2.2"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/125090",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 17 Pro"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "256GB",
+    "evidence": "256gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.3-inch all-screen OLED display",
+    "evidence": "6.3-inch (diagonal) all-screen oled display"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2622 x 1206 at 460 ppi",
+    "evidence": "2622-by-1206-pixel resolution at 460 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A19 Pro, 6-core CPU, 6-core GPU",
+    "evidence": "a19 pro chip 6-core cpu with 2 performance and 4 efficiency cores 6-core gpu"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "48MP, f/2.2",
+    "evidence": "48mp fusion ultra wide: 13 mm, ƒ/2.2 aperture"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP68, up to 6 m for 30 minutes",
+    "evidence": "rated ip68 (maximum depth of 6 meters up to 30 minutes)"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 33 hours",
+    "evidence": "video playback: up to 33 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "206 g",
+    "evidence": "weight: 7.27 ounces (206 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "150.0 x 71.9 x 8.75 mm",
+    "evidence": "width: 2.83 inches (71.9 mm) height: 5.91 inches (150.0 mm) depth: 0.34 inch (8.75 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "Wi-Fi 7 (802.11be)",
+    "evidence": "wi-fi 7 (802.11be)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "USB-C",
+    "evidence": "usb-c connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone 17 Pro (Silver) - Backside.jpg",
+    "model_evidence": "iPhone 17 Pro"
+   },
+   {
+    "commons_file": "File:IPhone 17 Pro backside (Deep Blue) (Oct 1, 2025).jpg",
+    "model_evidence": "iPhone 17 Pro"
+   },
+   {
+    "commons_file": "File:IPhone 17 Pro (2025-12-28).jpg",
+    "model_evidence": "iPhone 17 Pro"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-7-32gb",
+  "brand": "Apple",
+  "model": "iPhone 7",
+  "variant_title": "32GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 7 (32GB)",
+  "subtitle": "4.7-inch widescreen LCD | A10 Fusion | 32GB",
+  "description": "Apple iPhone 7 smartphone in the 32GB storage configuration. It runs on the A10 Fusion chip and has a 4.7-inch widescreen LCD screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "4.7-inch widescreen LCD display",
+   "1334 x 750 at 326 ppi resolution",
+   "A10 Fusion chip",
+   "Water resistance: IP67, up to 1 m for 30 minutes"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111943",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 7"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "32GB",
+    "evidence": "32gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "4.7-inch widescreen LCD Multi-Touch display with IPS technology",
+    "evidence": "4.7-inch (diagonal) widescreen lcd multi-touch display with ips technology"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "1334 x 750 at 326 ppi",
+    "evidence": "1334-by-750-pixel resolution at 326 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A10 Fusion",
+    "evidence": "a10 fusion chip"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP67, up to 1 m for 30 minutes",
+    "evidence": "rated ip67 (maximum depth of 1 meter up to 30 minutes)"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 13 hours",
+    "evidence": "video playback: up to 13 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "138 g",
+    "evidence": "weight: 4.87 ounces (138 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "138.3 x 67.1 x 7.1 mm",
+    "evidence": "height: 5.44 inches (138.3 mm) width: 2.64 inches (67.1 mm) depth: 0.28 inch (7.1 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "802.11ac Wi-Fi",
+    "evidence": "802.11ac wi-fi with mimo"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 4.2",
+    "evidence": "bluetooth 4.2 wireless technology"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "Lightning",
+    "evidence": "lightning connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone 7 - A1778 Rose Gold - Front.jpg",
+    "model_evidence": "iPhone 7"
+   },
+   {
+    "commons_file": "File:IPhone 7 - A1778 Rose Gold - Back.jpg",
+    "model_evidence": "iPhone 7"
+   },
+   {
+    "commons_file": "File:IPhone 7 Matte Black.jpg",
+    "model_evidence": "iPhone 7"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-7-plus-32gb",
+  "brand": "Apple",
+  "model": "iPhone 7 Plus",
+  "variant_title": "32GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 7 Plus (32GB)",
+  "subtitle": "5.5-inch widescreen LCD | A10 Fusion | 32GB",
+  "description": "Apple iPhone 7 Plus smartphone in the 32GB storage configuration. It runs on the A10 Fusion chip and has a 5.5-inch widescreen LCD screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "5.5-inch widescreen LCD display",
+   "1920 x 1080 at 401 ppi resolution",
+   "A10 Fusion chip",
+   "Water resistance: IP67, up to 1 m for 30 minutes"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111953",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 7 Plus"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "32GB",
+    "evidence": "32gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "5.5-inch widescreen LCD Multi-Touch display with IPS technology",
+    "evidence": "5.5-inch (diagonal) widescreen lcd multi-touch display with ips technology"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "1920 x 1080 at 401 ppi",
+    "evidence": "1920-by-1080-pixel resolution at 401 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A10 Fusion",
+    "evidence": "a10 fusion chip"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "IP67, up to 1 m for 30 minutes",
+    "evidence": "rated ip67 (maximum depth of 1 meter up to 30 minutes)"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 14 hours",
+    "evidence": "video playback: up to 14 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "188 g",
+    "evidence": "weight: 6.63 ounces (188 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "158.2 x 77.9 x 7.3 mm",
+    "evidence": "height: 6.23 inches (158.2 mm) width: 3.07 inches (77.9 mm) depth: 0.29 inch (7.3 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "802.11ac Wi-Fi",
+    "evidence": "802.11ac wi-fi with mimo"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 4.2",
+    "evidence": "bluetooth 4.2 wireless technology"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "Lightning",
+    "evidence": "lightning connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone 7 Plus Rose Gold 128GB 01.jpg",
+    "model_evidence": "iPhone 7 Plus"
+   },
+   {
+    "commons_file": "File:IPhone 7 Plus Black dual camera back.jpg",
+    "model_evidence": "iPhone 7 Plus"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-iphone-6s-16gb",
+  "brand": "Apple",
+  "model": "iPhone 6s",
+  "variant_title": "16GB",
+  "category_handle": "smartphone",
+  "title": "Apple iPhone 6s (16GB)",
+  "subtitle": "4.7-inch widescreen LCD | A9 | 16GB",
+  "description": "Apple iPhone 6s smartphone in the 16GB storage configuration. It runs on the A9 chip and has a 4.7-inch widescreen LCD screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "4.7-inch widescreen LCD display",
+   "1334 x 750 at 326 ppi resolution",
+   "A9 chip",
+   "Video playback: Up to 11 hours"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111952",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPhone 6s"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "16GB",
+    "evidence": "16gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "4.7-inch widescreen LCD Multi-Touch display with IPS technology",
+    "evidence": "4.7-inch (diagonal) widescreen lcd multi-touch display with ips technology"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "1334 x 750 at 326 ppi",
+    "evidence": "1334-by-750-pixel resolution at 326 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A9",
+    "evidence": "a9 chip",
+    "context": "chip"
+   },
+   {
+    "group": "Battery",
+    "label": "Video playback",
+    "value": "Up to 11 hours",
+    "evidence": "video playback: up to 11 hours"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "143 g",
+    "evidence": "weight: 5.04 ounces (143 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "138.3 x 67.1 x 7.1 mm",
+    "evidence": "height: 5.44 inches (138.3 mm) width: 2.64 inches (67.1 mm) depth: 0.28 inch (7.1 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "802.11ac Wi-Fi",
+    "evidence": "802.11ac wi-fi with mimo"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 4.2",
+    "evidence": "bluetooth 4.2 wireless technology"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "Lightning",
+    "evidence": "lightning connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPhone 6s FRONT.jpg",
+    "model_evidence": "iPhone 6s"
+   },
+   {
+    "commons_file": "File:IPhone 6s REAR.jpg",
+    "model_evidence": "iPhone 6s"
+   },
+   {
+    "commons_file": "File:IPhone 6s rear, Space Gray.jpg",
+    "model_evidence": "iPhone 6s"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-ipad-pro-11-m4-256gb-wifi",
+  "brand": "Apple",
+  "model": "iPad Pro 11-inch (M4)",
+  "variant_title": "256GB Wi-Fi",
+  "category_handle": "tablet",
+  "title": "Apple iPad Pro 11-inch (M4) (256GB Wi-Fi)",
+  "subtitle": "M4 | 256GB",
+  "description": "Apple iPad Pro 11-inch (M4) tablet, 256GB Wi-Fi configuration, powered by the M4 chip. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "2420 x 1668 at 264 ppi resolution",
+   "M4 chip",
+   "Rear camera: 12MP, f/1.8",
+   "Battery life: Up to 10 hours web or video on Wi-Fi"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/119892",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPad Pro 11-inch (M4)"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "256GB",
+    "evidence": "256gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2420 x 1668 at 264 ppi",
+    "evidence": "2420-by-1668-pixel resolution at 264 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "M4",
+    "evidence": "apple m4 chip"
+   },
+   {
+    "group": "Camera",
+    "label": "Rear camera",
+    "value": "12MP, f/1.8",
+    "evidence": "12mp wide camera, ƒ/1.8 aperture"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery life",
+    "value": "Up to 10 hours web or video on Wi-Fi",
+    "evidence": "up to 10 hours of surfing the web on wi-fi or watching video"
+   },
+   {
+    "group": "Build",
+    "label": "Weight (Wi-Fi model)",
+    "value": "444 g",
+    "evidence": "weight: 0.98 pound (444 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "249.7 x 177.5 x 5.3 mm",
+    "evidence": "width: 6.99 inches (177.5 mm) height: 9.83 inches (249.7 mm) depth: 0.21 inch (5.3 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "Wi-Fi 6E (802.11ax)",
+    "evidence": "wi-fi 6e (802.11ax)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.3",
+    "evidence": "bluetooth 5.3"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPad Pro M4 11-inch.jpeg",
+    "model_evidence": "iPad Pro M4"
+   },
+   {
+    "commons_file": "File:About iPad Pro 11-inch (M4).jpg",
+    "model_evidence": "iPad Pro 11-inch (M4)"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-ipad-pro-13-m4-256gb-wifi",
+  "brand": "Apple",
+  "model": "iPad Pro 13-inch (M4)",
+  "variant_title": "256GB Wi-Fi",
+  "category_handle": "tablet",
+  "title": "Apple iPad Pro 13-inch (M4) (256GB Wi-Fi)",
+  "subtitle": "M4 | 256GB",
+  "description": "Apple iPad Pro 13-inch (M4) tablet, 256GB Wi-Fi configuration, powered by the M4 chip. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "2752 x 2064 at 264 ppi resolution",
+   "M4 chip",
+   "Rear camera: 12MP, f/1.8",
+   "Battery life: Up to 10 hours web or video on Wi-Fi"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/119891",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPad Pro 13-inch (M4)"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "256GB",
+    "evidence": "256gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2752 x 2064 at 264 ppi",
+    "evidence": "2752-by-2064-pixel resolution at 264 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "M4",
+    "evidence": "apple m4 chip"
+   },
+   {
+    "group": "Camera",
+    "label": "Rear camera",
+    "value": "12MP, f/1.8",
+    "evidence": "12mp wide camera, ƒ/1.8 aperture"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery life",
+    "value": "Up to 10 hours web or video on Wi-Fi",
+    "evidence": "up to 10 hours of surfing the web on wi-fi or watching video"
+   },
+   {
+    "group": "Build",
+    "label": "Weight (Wi-Fi model)",
+    "value": "579 g",
+    "evidence": "weight: 1.28 pounds (579 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "281.6 x 215.5 x 5.1 mm",
+    "evidence": "width: 8.48 inches (215.5 mm) height: 11.09 inches (281.6 mm) depth: 0.20 inch (5.1 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "Wi-Fi 6E (802.11ax)",
+    "evidence": "wi-fi 6e (802.11ax)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.3",
+    "evidence": "bluetooth 5.3"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "USB-C",
+    "evidence": "usb-c connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:About iPad Pro 13-inch (M4).jpg",
+    "model_evidence": "iPad Pro 13-inch (M4)"
+   }
+  ],
+  "review_notes": [
+   "Only photo shows the device's About screen; confirm the model and replace with a full product photo before publishing."
+  ]
+ },
+ {
+  "handle": "real-apple-ipad-pro-12-9-3rd-gen-64gb-wifi",
+  "brand": "Apple",
+  "model": "iPad Pro 12.9-inch (3rd generation)",
+  "variant_title": "64GB Wi-Fi",
+  "category_handle": "tablet",
+  "title": "Apple iPad Pro 12.9-inch (3rd generation) (64GB Wi-Fi)",
+  "subtitle": "12.9-inch LED-backlit | A12X Bionic | 64GB",
+  "description": "Apple iPad Pro 12.9-inch (3rd generation) tablet, 64GB Wi-Fi configuration, powered by the A12X Bionic chip with a 12.9-inch LED-backlit screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "12.9-inch LED-backlit display",
+   "2732 x 2048 at 264 ppi resolution",
+   "A12X Bionic chip"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111979",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPad Pro 12.9-inch (3rd generation)"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "64GB",
+    "evidence": "64gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "12.9-inch LED-backlit Multi-Touch display with IPS technology",
+    "evidence": "12.9-inch (diagonal) led-backlit multi-touch display with ips technology"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2732 x 2048 at 264 ppi",
+    "evidence": "2732-by-2048-pixel resolution at 264 pixels per inch (ppi)"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A12X Bionic",
+    "evidence": "a12x bionic chip"
+   },
+   {
+    "group": "Build",
+    "label": "Weight (Wi-Fi model)",
+    "value": "631 g",
+    "evidence": "weight: 1.39 pounds (631 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "280.6 x 214.9 x 5.9 mm",
+    "evidence": "width: 8.46 inches (214.9 mm) height: 11.04 inches (280.6 mm) depth: 0.23 inch (5.9 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "USB-C",
+    "evidence": "usb-c connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPad Pro 12.9-inch (3rd generation) front side (20250525 155242).jpg",
+    "model_evidence": "iPad Pro 12.9-inch (3rd generation)"
+   },
+   {
+    "commons_file": "File:IPad Pro 12.9-inch (3rd generation) back side (20250525 155242).jpg",
+    "model_evidence": "iPad Pro 12.9-inch (3rd generation)"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-ipad-air-4th-gen-64gb-wifi",
+  "brand": "Apple",
+  "model": "iPad Air (4th generation)",
+  "variant_title": "64GB Wi-Fi",
+  "category_handle": "tablet",
+  "title": "Apple iPad Air (4th generation) (64GB Wi-Fi)",
+  "subtitle": "10.9-inch LED-backlit | A14 Bionic | 64GB",
+  "description": "Apple iPad Air (4th generation) tablet, 64GB Wi-Fi configuration, powered by the A14 Bionic chip with a 10.9-inch LED-backlit screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "10.9-inch LED-backlit display",
+   "2360 x 1640 at 264 ppi resolution",
+   "A14 Bionic chip",
+   "Rear camera: 12MP, f/1.8"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111905",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPad Air (4th generation)"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "64GB",
+    "evidence": "64gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "10.9-inch LED-backlit Multi-Touch display with IPS technology",
+    "evidence": "10.9-inch (diagonal) led-backlit multi-touch display with ips technology"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2360 x 1640 at 264 ppi",
+    "evidence": "2360-by-1640-pixel resolution at 264 pixels per inch (ppi)"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A14 Bionic",
+    "evidence": "a14 bionic chip"
+   },
+   {
+    "group": "Camera",
+    "label": "Rear camera",
+    "value": "12MP, f/1.8",
+    "evidence": "12mp wide camera ƒ/1.8 aperture"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery life",
+    "value": "Up to 10 hours web or video on Wi-Fi",
+    "evidence": "up to 10 hours of surfing the web on wi-fi or watching video"
+   },
+   {
+    "group": "Build",
+    "label": "Weight (Wi-Fi model)",
+    "value": "458 g",
+    "evidence": "weight: 1.0 pound (458 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "247.6 x 178.5 x 6.1 mm",
+    "evidence": "height: 9.74 inches (247.6 mm) width: 7.02 inches (178.5 mm) depth: 0.24 inch (6.1 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "802.11ax Wi-Fi",
+    "evidence": "802.11ax wi-fi"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "USB-C",
+    "evidence": "usb-c connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPad Air (4th generation) and Magic Keyboard - 1.jpg",
+    "model_evidence": "iPad Air (4th generation)"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-ipad-mini-6th-gen-64gb-wifi",
+  "brand": "Apple",
+  "model": "iPad mini (6th generation)",
+  "variant_title": "64GB Wi-Fi",
+  "category_handle": "tablet",
+  "title": "Apple iPad mini (6th generation) (64GB Wi-Fi)",
+  "subtitle": "A15 Bionic | 64GB",
+  "description": "Apple iPad mini (6th generation) tablet, 64GB Wi-Fi configuration, powered by the A15 Bionic chip. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "A15 Bionic, 6-core CPU, 5-core GPU chip",
+   "Rear camera: 12MP, f/1.8",
+   "Battery life: Up to 10 hours web or video on Wi-Fi"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111886",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "iPad mini (6th generation)"
+  ],
+  "specs": [
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "64GB",
+    "evidence": "64gb",
+    "context": "capacity"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "A15 Bionic, 6-core CPU, 5-core GPU",
+    "evidence": "a15 bionic chip 6-core cpu with 2 performance cores and 4 efficiency cores 5-core gpu"
+   },
+   {
+    "group": "Camera",
+    "label": "Rear camera",
+    "value": "12MP, f/1.8",
+    "evidence": "12mp wide camera, ƒ/1.8 aperture"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery life",
+    "value": "Up to 10 hours web or video on Wi-Fi",
+    "evidence": "up to 10 hours of surfing the web on wi-fi or watching video"
+   },
+   {
+    "group": "Build",
+    "label": "Weight (Wi-Fi model)",
+    "value": "293 g",
+    "evidence": "weight: 0.65 pound (293 grams)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions (H x W x D)",
+    "value": "195.4 x 134.8 x 6.3 mm",
+    "evidence": "height: 7.69 inches (195.4 mm) width: 5.3 inches (134.8 mm) depth: 0.25 inch (6.3 mm)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "Wi-Fi 6 (802.11ax)",
+    "evidence": "wi-fi 6 (802.11ax)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connector",
+    "value": "USB-C",
+    "evidence": "usb-c connector"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:IPad Mini 6 in hand.jpg",
+    "model_evidence": "iPad mini 6"
+   },
+   {
+    "commons_file": "File:About iPad Mini (6th generation).jpg",
+    "model_evidence": "iPad mini (6th generation)"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-watch-series-4-40mm-gps",
+  "brand": "Apple",
+  "model": "Apple Watch Series 4",
+  "variant_title": "40mm GPS, aluminium case",
+  "category_handle": "smartwatch",
+  "title": "Apple Watch Series 4 (40mm, GPS)",
+  "subtitle": "40mm LTPO OLED | S4 dual-core | ECG-capable",
+  "description": "Apple Watch Series 4 with a 40mm aluminium case, GPS version. Adds a larger LTPO OLED screen and an electrical heart sensor over earlier models. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "40mm LTPO OLED Retina display",
+   "S4 with 64-bit dual-core processor",
+   "Electrical and optical heart sensors",
+   "Water resistant to 50 metres"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111984",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "Apple Watch Series 4"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "40mm, 324 x 394 pixels, 759 sq mm",
+    "evidence": "40mm 324 by 394 pixels 759 sq mm display area"
+   },
+   {
+    "group": "Display",
+    "label": "Panel",
+    "value": "LTPO OLED Retina with Force Touch, 1000 nits",
+    "evidence": "ltpo oled retina display with force touch 1000 nits brightness"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "S4, 64-bit dual-core",
+    "evidence": "s4 with 64-bit dual-core processor"
+   },
+   {
+    "group": "Storage",
+    "label": "Capacity",
+    "value": "16GB",
+    "evidence": "capacity 16gb"
+   },
+   {
+    "group": "Health",
+    "label": "Heart sensors",
+    "value": "Electrical and optical heart sensors",
+    "evidence": "electrical heart sensor optical heart sensor"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "50 metres",
+    "evidence": "water resistant 50 meters"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery life",
+    "value": "Up to 18 hours",
+    "evidence": "built-in rechargeable lithium-ion battery up to 18 hours"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions and weight",
+    "value": "40 x 34 x 10.7 mm, 30.1 g",
+    "evidence": "aluminum - 40mm height: 40mm width: 34mm depth: 10.7mm case weight: 30.1g"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Apple Watch Series 4 40mm space gray Aluminum.jpg",
+    "model_evidence": "Apple Watch Series 4"
+   }
+  ]
+ },
+ {
+  "handle": "real-apple-macbook-air-m1-2020-8gb-256gb",
+  "brand": "Apple",
+  "model": "MacBook Air (M1, 2020)",
+  "variant_title": "Apple M1 7-core GPU / 8GB / 256GB",
+  "category_handle": "business-laptop",
+  "title": "Apple MacBook Air 13-inch (M1, 2020) 8GB / 256GB",
+  "subtitle": "13.3-inch Retina | Apple M1 | 8GB unified memory",
+  "description": "Fanless 13.3-inch MacBook Air built on Apple's first M1 chip, configured with 8GB of unified memory and a 256GB SSD. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "Apple M1 with 8-core CPU and 7-core GPU",
+   "13.3-inch Retina display, 400 nits",
+   "Up to 15 hours wireless web",
+   "Wi-Fi 6 and Bluetooth 5.0"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111883",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "MacBook Air (M1, 2020)"
+  ],
+  "specs": [
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "Apple M1, 8-core CPU, 7-core GPU",
+    "evidence": "apple m1 chip 8-core cpu with 4 perform­ance cores and 4 efficiency cores 7-core gpu"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory",
+    "value": "8GB unified memory",
+    "evidence": "8gb unified memory"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "13.3-inch LED-backlit display with IPS technology",
+    "evidence": "13.3-inch (diagonal) led-backlit display with ips technology"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2560 x 1600 at 227 ppi",
+    "evidence": "2560-by-1600 native resolution at 227 pixels per inch"
+   },
+   {
+    "group": "Display",
+    "label": "Brightness",
+    "value": "400 nits",
+    "evidence": "400 nits brightness"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery life",
+    "value": "Up to 15 hours wireless web",
+    "evidence": "up to 15 hours wireless web"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery",
+    "value": "49.9Wh lithium-polymer",
+    "evidence": "49.9-watt-hour lithium-polymer battery"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "1.29 kg",
+    "evidence": "weight: 2.8 pounds (1.29 kg)"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "Wi-Fi 6 (802.11ax)",
+    "evidence": "802.11ax wi-fi 6 wireless networking"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0 wireless technology"
+   },
+   {
+    "group": "Camera",
+    "label": "Camera",
+    "value": "720p FaceTime HD camera",
+    "evidence": "720p facetime hd camera"
+   },
+   {
+    "group": "Storage",
+    "label": "Storage",
+    "value": "256GB SSD",
+    "evidence": "256gb ssd",
+    "context": "storage"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:MacBook Air M1.png",
+    "model_evidence": "MacBook Air M1"
+   },
+   {
+    "commons_file": "File:Macbook Air M1 Silver PNG.png",
+    "model_evidence": "MacBook Air M1"
+   }
+  ],
+  "review_notes": [
+   "Apple's spec page lists 128GB SSD configurable to 256GB; this listing uses the 256GB configuration.",
+   "Photos are cut-out PNGs from Commons; confirm they are photographs rather than renders."
+  ]
+ },
+ {
+  "handle": "real-apple-mac-pro-2019-xeon-8-core-32gb",
+  "brand": "Apple",
+  "model": "Mac Pro (2019)",
+  "variant_title": "8-core Xeon W / 32GB / 256GB / Radeon Pro 580X",
+  "category_handle": "desktop-pc",
+  "title": "Apple Mac Pro (2019, 8-core Xeon W) 32GB / 256GB",
+  "subtitle": "8-core Intel Xeon W | 32GB DDR4 ECC | Radeon Pro 580X",
+  "description": "The 2019 tower Mac Pro in its entry configuration: 8-core Intel Xeon W, 32GB of ECC memory in four DIMMs, AMD Radeon Pro 580X graphics and a 256GB SSD. Each specification below was matched against Apple's own technical specifications page for this model.",
+  "highlights": [
+   "8-core 3.5GHz Intel Xeon W, Turbo Boost up to 4.0GHz",
+   "12 user-accessible DIMM slots, up to 1.5TB",
+   "Two MPX bays for graphics modules",
+   "Tower enclosure, optional wheels"
+  ],
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/118461",
+   "publisher": "Apple Inc."
+  },
+  "model_match": [
+   "Mac Pro (2019)"
+  ],
+  "specs": [
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "8-core 3.5GHz Intel Xeon W, 16 threads, Turbo Boost up to 4.0GHz",
+    "evidence": "8-core 3.5ghz intel xeon w 8 cores, 16 threads turbo boost up to 4.0ghz"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory",
+    "value": "32GB (four 8GB DIMMs)",
+    "evidence": "32gb four 8gb dimms"
+   },
+   {
+    "group": "Memory",
+    "label": "Memory capacity",
+    "value": "Up to 1.5TB DDR4 ECC in 12 DIMM slots",
+    "evidence": "configure up to 1.5tb of ddr4 ecc memory in 12 user-accessible dimm slots"
+   },
+   {
+    "group": "Graphics",
+    "label": "Graphics",
+    "value": "AMD Radeon Pro 580X, 8GB GDDR5",
+    "evidence": "amd radeon pro 580x 36 compute units, 2304 stream processors 8gb of gddr5 memory"
+   },
+   {
+    "group": "Storage",
+    "label": "Storage",
+    "value": "256GB SSD",
+    "evidence": "256gb ssd",
+    "context": "storage"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Wi-Fi",
+    "value": "802.11ac Wi-Fi",
+    "evidence": "802.11ac wi-fi wireless networking"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Bluetooth",
+    "value": "Bluetooth 5.0",
+    "evidence": "bluetooth 5.0 wireless technology"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "52.9 x 45.0 x 21.8 cm",
+    "evidence": "height: 20.8 inches (52.9 cm) width: 17.7 inches (45.0 cm) depth: 8.58 inches (21.8 cm)"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "18.0 kg",
+    "evidence": "39.7 pounds (18.0 kg)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Mac Pro 2019 on wheels.jpg",
+    "model_evidence": "Mac Pro 2019"
+   }
+  ],
+  "review_notes": [
+   "32GB as four 8GB DIMMs is the smallest memory option on Apple's page; Radeon Pro 580X is the first listed graphics option."
+  ]
+ }
+]

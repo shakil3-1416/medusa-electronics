@@ -1,0 +1,106 @@
+{
+ "handle": "real-xiaomi-14-ultra-16gb-512gb",
+ "brand": "Xiaomi",
+ "model": "Xiaomi 14 Ultra",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Xiaomi 14 Ultra (16GB+512GB)",
+ "subtitle": "6.73-inch WQHD+ LTPO AMOLED | Snapdragon 8 Gen 3 | LYT-900",
+ "description": "Xiaomi 14 Ultra with 16GB of LPDDR5X RAM and 512GB of UFS 4.0 storage, a 6.73-inch WQHD+ LTPO AMOLED display at 1-120Hz, the Snapdragon 8 Gen 3 and a Leica camera system led by a 1-inch 50MP LYT-900 sensor with a stepless f/1.63-f/4.0 variable aperture. Specifications were verified against Xiaomi's official global specs page.",
+ "variant_title": "16GB+512GB",
+ "specs": [
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "16GB LPDDR5X RAM, 512GB UFS 4.0"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions and weight",
+   "value": "161.4 x 75.3 x 9.20 mm, 219.8 g"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Snapdragon 8 Gen 3 (4nm)"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.73-inch WQHD+ LTPO AMOLED, 3200 x 1440, 522 ppi, 1-120Hz"
+  },
+  {
+   "group": "Camera",
+   "label": "Main camera",
+   "value": "50MP LYT-900, f/1.63-f/4.0 variable aperture, OIS"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "32MP, f/2.0"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery",
+   "value": "5000mAh"
+  }
+ ],
+ "highlights": [
+  "6.73-inch WQHD+ LTPO AMOLED, 1-120Hz",
+  "Snapdragon 8 Gen 3",
+  "1-inch 50MP LYT-900 main camera, variable aperture",
+  "5000mAh battery"
+ ],
+ "review_notes": [
+  "The only licensed photo is a retail display shot in a Hong Kong store; replace with a product photo when available."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/xiaomi-14-ultra/specs/",
+   "publisher": "Xiaomi",
+   "final_url": "https://www.mi.com/global/product/xiaomi-14-ultra/specs/",
+   "retrieved_at": "2026-11-02T17:48:50+00:00",
+   "sha256": "312b77b86bbaebeba4b3401c9328200eb22307c153db7eded799fb8454665044",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:11:37+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:HK 中環 Central 皇后大道中 33 Queen's Road Central shop 豐澤電器 Fortress Store 手機 smartphone XiaoMi 14 Ultra watch May 2024 R12S 01.jpg",
+   "categories": [
+    "Category:2024 in Melbourne Plaza, Hong Kong",
+    "Category:CC-Zero",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Fortress Shop, Melbourne Plaza Hong Kong",
+    "Category:Fortress shops in 2024",
+    "Category:Fortress shops in Central, Hong Kong",
+    "Category:Hong Kong photographs taken on 2024-05-18",
+    "Category:May 2024 in Central, Hong Kong",
+    "Category:Self-published work",
+    "Category:Smartphones in Hong Kong",
+    "Category:Xiaomi 14 Ultra"
+   ],
+   "width": 4000,
+   "height": 3000,
+   "mime": "image/jpeg",
+   "sha1": "3f37f2f728002daf80ec1f2139032e178e63fafc",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/HK_%E4%B8%AD%E7%92%B0_Central_%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E4%B8%AD_33_Queen%27s_Road_Central_shop_%E8%B1%90%E6%BE%A4%E9%9B%BB%E5%99%A8_Fortress_Store_%E6%89%8B%E6%A9%9F_smartphone_XiaoMi_14_Ultra_watch_May_2024_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/HK_%E4%B8%AD%E7%92%B0_Central_%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E4%B8%AD_33_Queen%27s_Road_Central_shop_%E8%B1%90%E6%BE%A4%E9%9B%BB%E5%99%A8_Fortress_Store_%E6%89%8B%E6%A9%9F_smartphone_XiaoMi_14_Ultra_watch_May_2024_R12S_01.jpg/1280px-HK_%E4%B8%AD%E7%92%B0_Central_%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E4%B8%AD_33_Queen%27s_Road_Central_shop_%E8%B1%90%E6%BE%A4%E9%9B%BB%E5%99%A8_Fortress_Store_%E6%89%8B%E6%A9%9F_smartphone_XiaoMi_14_Ultra_watch_May_2024_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%AD%E7%92%B0_Central_%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E4%B8%AD_33_Queen%27s_Road_Central_shop_%E8%B1%90%E6%BE%A4%E9%9B%BB%E5%99%A8_Fortress_Store_%E6%89%8B%E6%A9%9F_smartphone_XiaoMi_14_Ultra_watch_May_2024_R12S_01.jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "DUSOAM 68 HNWUA",
+   "credit": "Own work",
+   "description": "HK 中環 Central 皇后大道中 33 Queen's Road Central shop Fortress Store smartphone in May 2024",
+   "attribution_required": "false",
+   "index": 1,
+   "card_path": "/catalog-real/real-xiaomi-14-ultra-16gb-512gb/1-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-14-ultra-16gb-512gb/1.jpg",
+   "local_sha256": "1e5bff8f22aef3d8da02227883fd66e9766c2889c7ef795ac158a910281a3dfe",
+   "local_bytes": 245333
+  }
+ ]
+}

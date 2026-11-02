@@ -1,0 +1,112 @@
+{
+ "handle": "real-brother-hl-l8260cdw",
+ "brand": "Brother",
+ "model": "HL-L8260CDW",
+ "mpn": "HLL8260CDW",
+ "category_handle": "printer",
+ "title": "Brother HL-L8260CDW Wireless Colour Laser Printer",
+ "subtitle": "33 ppm colour laser | Auto duplex | Wi-Fi + Gigabit Ethernet",
+ "description": "Workgroup colour laser printer for small offices, with automatic two-sided printing, wireless and wired networking, a 250-sheet tray plus a 50-sheet multipurpose tray, and room to grow with optional paper trays. Specifications verified against Brother's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Print",
+   "label": "Print speed (black / colour)",
+   "value": "33 ppm / 33 ppm"
+  },
+  {
+   "group": "Print",
+   "label": "Print resolution",
+   "value": "2400 x 600 dpi class"
+  },
+  {
+   "group": "Print",
+   "label": "First page out",
+   "value": "15 s (black) / 15 s (colour)"
+  },
+  {
+   "group": "Print",
+   "label": "Automatic duplex",
+   "value": "Yes (default)"
+  },
+  {
+   "group": "Paper handling",
+   "label": "Standard input tray",
+   "value": "250 sheets"
+  },
+  {
+   "group": "Paper handling",
+   "label": "Multipurpose tray",
+   "value": "50 sheets"
+  },
+  {
+   "group": "Paper handling",
+   "label": "Output capacity",
+   "value": "150 sheets"
+  },
+  {
+   "group": "General",
+   "label": "Maximum monthly duty cycle",
+   "value": "40,000 pages"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Networking",
+   "value": "Wireless 802.11b/g/n and Gigabit Ethernet"
+  },
+  {
+   "group": "Physical",
+   "label": "Unit dimensions",
+   "value": "16.1\" x 19.1\" x 12.3\""
+  }
+ ],
+ "highlights": [
+  "Up to 33 pages per minute in colour and black",
+  "Automatic duplex printing",
+  "Wireless 802.11b/g/n and Gigabit Ethernet",
+  "250-sheet tray plus 50-sheet multipurpose tray"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.brother-usa.com/products/hll8260cdw",
+   "publisher": "Brother USA",
+   "final_url": "https://www.brother-usa.com/p/laser-printers/HLL8260CDW",
+   "retrieved_at": "2026-11-02T17:45:31+00:00",
+   "sha256": "18488bfe4f1ce7d4b6bb1bb354e5df3db1c218399eccc6965b527d7ede03ba39",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:12:06+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Brother HL-L8260CDW Printer.jpg",
+   "categories": [
+    "Category:Brother printers",
+    "Category:CC-BY-SA-4.0",
+    "Category:Photographs by TaurusEmerald",
+    "Category:Self-published work"
+   ],
+   "width": 2869,
+   "height": 2817,
+   "mime": "image/jpeg",
+   "sha1": "2497ee89ad6ed6806acd2788196471ac04ca60c1",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Brother_HL-L8260CDW_Printer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Brother_HL-L8260CDW_Printer.jpg/1280px-Brother_HL-L8260CDW_Printer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Brother_HL-L8260CDW_Printer.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "TaurusEmerald",
+   "credit": "Own work",
+   "description": "A Brother HL-L8260CDW model printer.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-brother-hl-l8260cdw/1-card.jpg",
+   "local_path": "/catalog-real/real-brother-hl-l8260cdw/1.jpg",
+   "local_sha256": "8a6e595a30f5a035d3f8fcd80bea9051adb202dbf0d9a8a2b8a450d748b72437",
+   "local_bytes": 249937
+  }
+ ]
+}

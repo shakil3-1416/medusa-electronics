@@ -1,0 +1,88 @@
+{
+ "handle": "real-logitech-f710",
+ "brand": "Logitech",
+ "model": "F710",
+ "mpn": null,
+ "category_handle": "computer-accessory",
+ "title": "Logitech G F710 Wireless Gamepad",
+ "subtitle": "2.4 GHz wireless | dual vibration | four-switch D-pad",
+ "description": "Wireless console-style gamepad for PC with a 2.4 GHz nano receiver, dual vibration motors and a four-switch D-pad. Specifications verified against Logitech's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Wireless",
+   "value": "2.4 GHz via USB nano receiver"
+  },
+  {
+   "group": "Features",
+   "label": "Vibration",
+   "value": "Dual motors"
+  },
+  {
+   "group": "Features",
+   "label": "D-pad",
+   "value": "Four-switch"
+  },
+  {
+   "group": "Features",
+   "label": "Input modes",
+   "value": "XInput/DirectInput"
+  },
+  {
+   "group": "Features",
+   "label": "Steam",
+   "value": "Big Picture compatible"
+  }
+ ],
+ "highlights": [
+  "2.4 GHz wireless nano receiver",
+  "Dual vibration feedback motors",
+  "Four-switch D-pad",
+  "XInput and DirectInput"
+ ],
+ "review_notes": [
+  "Category computer-accessory used for a gamepad."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.logitechg.com/en-us/shop/p/f710-wireless-gamepad",
+   "publisher": "Logitech",
+   "final_url": "https://www.logitechg.com/en-us/shop/p/f710-wireless-gamepad",
+   "retrieved_at": "2026-11-02T18:04:36+00:00",
+   "sha256": "045d741b021f0a175fd47730dd08ab9356c8e631da6b1ab44544f42fe253ab37",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:09:01+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Logitech F710, forward.jpg",
+   "categories": [
+    "Category:CC-BY-4.0",
+    "Category:Logitech Wireless Gamepad F710",
+    "Category:Self-published work"
+   ],
+   "width": 6000,
+   "height": 4000,
+   "mime": "image/jpeg",
+   "sha1": "32a7c9f3a2cfe5fbb0dbe16393c71ffa03940234",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Logitech_F710%2C_forward.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Logitech_F710%2C_forward.jpg/1280px-Logitech_F710%2C_forward.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Logitech_F710,_forward.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "artist": "FreeMediaKid!",
+   "credit": "Own work",
+   "description": "A raw photograph of a Logitech F710, a gamepad, facing mostly forward. I got this product all the way back—I want to say—around 2010, at least not much later than that.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-logitech-f710/1-card.jpg",
+   "local_path": "/catalog-real/real-logitech-f710/1.jpg",
+   "local_sha256": "2c65841baf11ffdd5b28ba88f872ac23857b0f8a3946078f48b65e93b712e22f",
+   "local_bytes": 104499
+  }
+ ]
+}

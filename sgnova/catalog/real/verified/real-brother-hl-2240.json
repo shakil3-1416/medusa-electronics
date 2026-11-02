@@ -1,0 +1,103 @@
+{
+ "handle": "real-brother-hl-2240",
+ "brand": "Brother",
+ "model": "HL-2240",
+ "mpn": "HL2240",
+ "category_handle": "printer",
+ "title": "Brother HL-2240 Compact Mono Laser Printer",
+ "subtitle": "24 ppm monochrome laser | 250-sheet tray | USB",
+ "description": "Small-footprint black-and-white laser printer for home offices, printing letters and reports at up to 24 pages per minute from an adjustable 250-sheet tray, with a manual feed slot for envelopes and letterhead. Specifications verified against Brother's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Print",
+   "label": "Print speed",
+   "value": "Up to 24 ppm"
+  },
+  {
+   "group": "Print",
+   "label": "Print resolution",
+   "value": "Up to 2400 x 600 dpi"
+  },
+  {
+   "group": "Print",
+   "label": "Automatic duplex",
+   "value": "No"
+  },
+  {
+   "group": "Paper handling",
+   "label": "Input capacity",
+   "value": "250 sheets"
+  },
+  {
+   "group": "Paper handling",
+   "label": "Multipurpose / manual feed",
+   "value": "1 sheet"
+  },
+  {
+   "group": "General",
+   "label": "CPU speed",
+   "value": "333"
+  },
+  {
+   "group": "Power",
+   "label": "Power source",
+   "value": "120V AC 60 Hz"
+  },
+  {
+   "group": "General",
+   "label": "Driver compatibility",
+   "value": "Windows, macOS"
+  }
+ ],
+ "highlights": [
+  "Up to 24 pages per minute",
+  "Up to 2400 x 600 dpi output",
+  "Adjustable 250-sheet paper tray",
+  "Manual feed slot for envelopes"
+ ],
+ "review_notes": "CPU speed shown on the page without a unit; kept unitless.",
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.brother-usa.com/products/hl2240",
+   "publisher": "Brother USA",
+   "final_url": "https://www.brother-usa.com/p/home-printers/HL2240",
+   "retrieved_at": "2026-11-02T17:45:57+00:00",
+   "sha256": "2f1b640f5131fcb31aff18c4ac7e43cf88626905e5fa98a9eed6d92ed060e020",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:12:08+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Brother HL-2240 Printer.jpg",
+   "categories": [
+    "Category:Brother printers",
+    "Category:CC-BY-SA-4.0",
+    "Category:Laser printers",
+    "Category:Photographs by TaurusEmerald",
+    "Category:Self-published work"
+   ],
+   "width": 3676,
+   "height": 2897,
+   "mime": "image/jpeg",
+   "sha1": "b01e4ddc5bd7e84e7630cce5a4822ffc33d5e76e",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Brother_HL-2240_Printer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Brother_HL-2240_Printer.jpg/1280px-Brother_HL-2240_Printer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Brother_HL-2240_Printer.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "TaurusEmerald",
+   "credit": "Own work",
+   "description": "A Brother HL-2240 printer.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-brother-hl-2240/1-card.jpg",
+   "local_path": "/catalog-real/real-brother-hl-2240/1.jpg",
+   "local_sha256": "16253e2dfd7594e9b8184fc0fa5d3f111cd2f104948b9752afa365ceebd966a9",
+   "local_bytes": 233018
+  }
+ ]
+}

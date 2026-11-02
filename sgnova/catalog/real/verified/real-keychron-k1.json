@@ -1,0 +1,125 @@
+{
+ "handle": "real-keychron-k1",
+ "brand": "Keychron",
+ "model": "K1",
+ "mpn": null,
+ "category_handle": "mechanical-keyboard",
+ "title": "Keychron K1 Low-Profile Wireless Mechanical Keyboard (TKL)",
+ "subtitle": "80% TKL | low profile | Bluetooth + wired",
+ "description": "Slim tenkeyless wireless mechanical keyboard with low-profile switches, an aluminium and plastic build and RGB backlighting. Specifications verified against Keychron's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Layout",
+   "label": "Layout",
+   "value": "80% TKL"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connectivity",
+   "value": "Bluetooth, wired; 1000 Hz polling"
+  },
+  {
+   "group": "Build",
+   "label": "Switches",
+   "value": "Low-profile Gateron mechanical / Keychron optical"
+  },
+  {
+   "group": "Build",
+   "label": "Keycaps",
+   "value": "LSA ABS"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery",
+   "value": "2000 mAh, up to 190 hours"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight",
+   "value": "About 650 g"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "355 x 120.00 mm"
+  }
+ ],
+ "highlights": [
+  "80% TKL low-profile layout",
+  "Bluetooth and wired, 1000 Hz wired",
+  "2000 mAh battery, up to 190 h",
+  "About 650 g"
+ ],
+ "review_notes": [
+  "Photo shows K1 version 2 (TKL); the official page currently sells a later version of the same K1 TKL model, specs may differ slightly by version."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.keychron.com/products/keychron-k1-wireless-mechanical-keyboard",
+   "publisher": "Keychron",
+   "final_url": "https://www.keychron.com/products/keychron-k1-wireless-mechanical-keyboard",
+   "retrieved_at": "2026-11-02T18:07:35+00:00",
+   "sha256": "2f03d6f9649ad83545a6e4d79e87f8885f7cb7b033ebeaf2a69ec2e66ee75d06",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:09:12+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Keychron K1 v2 TKL side view.jpg",
+   "categories": [
+    "Category:Images from Deskthority",
+    "Category:Keychron K1",
+    "Category:PD-author"
+   ],
+   "width": 4032,
+   "height": 3024,
+   "mime": "image/jpeg",
+   "sha1": "11b56f8024b6df110afb6c3b5270075307166ad7",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Keychron_K1_v2_TKL_side_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Keychron_K1_v2_TKL_side_view.jpg/1280px-Keychron_K1_v2_TKL_side_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Keychron_K1_v2_TKL_side_view.jpg",
+   "license": "Public domain",
+   "license_url": "",
+   "artist": "User:Mulad",
+   "credit": "Deskthority (direct link)",
+   "description": "Side view of a Keychron K1 version 2, tenkeyless variant",
+   "attribution_required": "false",
+   "index": 1,
+   "card_path": "/catalog-real/real-keychron-k1/1-card.jpg",
+   "local_path": "/catalog-real/real-keychron-k1/1.jpg",
+   "local_sha256": "1822f355084ae63dcb019a217b5b97dbfd235fbc5dd3a90cc6fe8f1966024b08",
+   "local_bytes": 296061
+  },
+  {
+   "title": "File:Keychron K1 v2 TKL blue switches.jpg",
+   "categories": [
+    "Category:Close-ups of disassembled computer keyboards",
+    "Category:Images from Deskthority",
+    "Category:Keychron K1",
+    "Category:PD-author"
+   ],
+   "width": 4032,
+   "height": 3024,
+   "mime": "image/jpeg",
+   "sha1": "1ed7190f9c7ad10dd46c7a2afd66406013528cdc",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Keychron_K1_v2_TKL_blue_switches.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Keychron_K1_v2_TKL_blue_switches.jpg/1280px-Keychron_K1_v2_TKL_blue_switches.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Keychron_K1_v2_TKL_blue_switches.jpg",
+   "license": "Public domain",
+   "license_url": "",
+   "artist": "User:Mulad",
+   "credit": "Deskthority (direct link)",
+   "description": "Blue low-profile WM brand switches on a tenkeyless Keychron K1, version 2.",
+   "attribution_required": "false",
+   "index": 2,
+   "card_path": "/catalog-real/real-keychron-k1/2-card.jpg",
+   "local_path": "/catalog-real/real-keychron-k1/2.jpg",
+   "local_sha256": "a5d805e83bd87c5dcf9869844c8b084327927956c2a1207934358e1d4e68370d",
+   "local_bytes": 351442
+  }
+ ]
+}

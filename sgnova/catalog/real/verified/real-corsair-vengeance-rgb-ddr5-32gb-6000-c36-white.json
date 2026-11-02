@@ -77,7 +77,7 @@
    "sha256": "753b195732c3ec5c74563a18275f09b44eac9cfb49133ca822523b73e00701fe",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:01:50+00:00",
+  "verified_at": "2026-11-02T18:59:17+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -107,9 +107,10 @@
    "description": "Corsair Vengeance RGB, DDR5, 32 GB, 6000MHz, CL36 memories",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-corsair-vengeance-rgb-ddr5-32gb-6000-c36-white/1-card.jpg",
    "local_path": "/catalog-real/real-corsair-vengeance-rgb-ddr5-32gb-6000-c36-white/1.jpg",
-   "local_sha256": "c0ae0082c6634b8fc0d8504773108dc08b4bb0829159d83e73046e19d184603d",
-   "local_bytes": 100971
+   "local_sha256": "71d162ff2ca2ba9e2dc5ae66c728ba0371ce7e88b6fda0a0edd8eb523a754d13",
+   "local_bytes": 104125
   }
  ]
 }

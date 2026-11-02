@@ -62,7 +62,7 @@
    "sha256": "2614fcfadf87f67d0fa02fab79dfd401599160d9f7796dadf9b4b10156bb8c7b",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:39+00:00",
+  "verified_at": "2026-11-02T19:01:22+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -92,9 +92,10 @@
    "description": "Close-up photo of TP-Link UE300 ethernet USB adapter",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-tp-link-ue300/1-card.jpg",
    "local_path": "/catalog-real/real-tp-link-ue300/1.jpg",
-   "local_sha256": "7279db5792b0a27a3562a7a0c4f6572b16eaf3e42039c7c6810fc64addb774e3",
-   "local_bytes": 29678
+   "local_sha256": "b2b1fe3e54cca117a709bd3f331f190182a2379fe0099f3c7e5e9ab054af2217",
+   "local_bytes": 43136
   }
  ]
 }

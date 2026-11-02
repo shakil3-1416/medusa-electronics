@@ -1,0 +1,176 @@
+{
+ "handle": "real-apple-iphone-6s-16gb",
+ "brand": "Apple",
+ "model": "iPhone 6s",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 6s (16GB)",
+ "subtitle": "4.7-inch widescreen LCD | A9 | 16GB",
+ "description": "Apple iPhone 6s smartphone in the 16GB storage configuration. It runs on the A9 chip and has a 4.7-inch widescreen LCD screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "16GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "16GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "4.7-inch widescreen LCD Multi-Touch display with IPS technology"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "1334 x 750 at 326 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A9"
+  },
+  {
+   "group": "Battery",
+   "label": "Video playback",
+   "value": "Up to 11 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "143 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "138.3 x 67.1 x 7.1 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "802.11ac Wi-Fi"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 4.2"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "Lightning"
+  }
+ ],
+ "highlights": [
+  "4.7-inch widescreen LCD display",
+  "1334 x 750 at 326 ppi resolution",
+  "A9 chip",
+  "Video playback: Up to 11 hours"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111952",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111952",
+   "retrieved_at": "2026-11-02T18:50:35+00:00",
+   "sha256": "8529a4f8e10ba39b05319591adc5683b53adb5bc1da221d1f03d3823fb94aa5c",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:05:40+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPhone 6s FRONT.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2026-05-06",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 6S",
+    "Category:Self-published work",
+    "Category:Taken with Canon EF 100mm F2.8L Macro IS USM",
+    "Category:Taken with Canon EOS R5"
+   ],
+   "width": 4150,
+   "height": 7528,
+   "mime": "image/jpeg",
+   "sha1": "3afd4516049eefff35cb1e1f319b4ded90de42fe",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/IPhone_6s_FRONT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/IPhone_6s_FRONT.jpg/1280px-IPhone_6s_FRONT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_6s_FRONT.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Dinkun Chen",
+   "credit": "Own work",
+   "description": "IPhone 6s FRONT",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-6s-16gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-6s-16gb/1.jpg",
+   "local_sha256": "04e88c7961e839f604f9fec532941f6d5fb35fea1208be1f00085421e4ea6aeb",
+   "local_bytes": 147597
+  },
+  {
+   "title": "File:IPhone 6s REAR.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2026-05-06",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 6S",
+    "Category:Self-published work",
+    "Category:Taken with Canon EF 100mm F2.8L Macro IS USM",
+    "Category:Taken with Canon EOS R5"
+   ],
+   "width": 4238,
+   "height": 7708,
+   "mime": "image/jpeg",
+   "sha1": "b769ab3113d16d2091f4ec72d6eb73981c6f228c",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/IPhone_6s_REAR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/IPhone_6s_REAR.jpg/1280px-IPhone_6s_REAR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_6s_REAR.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Dinkun Chen",
+   "credit": "Own work",
+   "description": "IPhone 6s REAR",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-6s-16gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-6s-16gb/2.jpg",
+   "local_sha256": "e81320d7136ede83987ff10de5e886f6a52e9dbe5cdc907ee2870b33b11b72f4",
+   "local_bytes": 128638
+  },
+  {
+   "title": "File:IPhone 6s rear, Space Gray.jpg",
+   "categories": [
+    "Category:Backs of iPhones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:GFDL",
+    "Category:Gray mobile phones",
+    "Category:IPhone 6S",
+    "Category:License migration redundant",
+    "Category:Self-published work"
+   ],
+   "width": 2448,
+   "height": 2838,
+   "mime": "image/jpeg",
+   "sha1": "61e7fb808f2b525d1cd571d768626d50a82d418c",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/IPhone_6s_rear%2C_Space_Gray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/IPhone_6s_rear%2C_Space_Gray.jpg/1280px-IPhone_6s_rear%2C_Space_Gray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_6s_rear,_Space_Gray.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "World Super Cars",
+   "credit": "Shot using iPhone 4s",
+   "description": "An iPhone 6s in space gray variant showing its \"S\" logo",
+   "attribution_required": "true",
+   "index": 3,
+   "card_path": "/catalog-real/real-apple-iphone-6s-16gb/3-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-6s-16gb/3.jpg",
+   "local_sha256": "d925ca7ec57e16499a23351a044d2d756b60de83dedc7a5ca8a9ac32d114f403",
+   "local_bytes": 496178
+  }
+ ]
+}

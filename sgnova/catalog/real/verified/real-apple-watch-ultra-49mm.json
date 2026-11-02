@@ -1,0 +1,143 @@
+{
+ "handle": "real-apple-watch-ultra-49mm",
+ "brand": "Apple",
+ "model": "Apple Watch Ultra",
+ "mpn": null,
+ "category_handle": "smartwatch",
+ "title": "Apple Watch Ultra (1st generation, 49mm)",
+ "subtitle": "49mm titanium | 2000-nit display | Dual-frequency GPS",
+ "description": "The first-generation Apple Watch Ultra: 49mm titanium case, a 2000-nit always-on display, dual-frequency GPS and a depth gauge for recreational diving. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "49mm titanium case",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "49mm, 410 x 502 pixels, 1185 sq mm"
+  },
+  {
+   "group": "Display",
+   "label": "Panel",
+   "value": "LTPO2 OLED always-on Retina, up to 2000 nits"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "S8 SiP, 64-bit dual-core"
+  },
+  {
+   "group": "Sensors",
+   "label": "GPS",
+   "value": "L1 and L5 GPS"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "100 metres"
+  },
+  {
+   "group": "Build",
+   "label": "Durability",
+   "value": "MIL-STD 810H tested"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery life",
+   "value": "Up to 36 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions",
+   "value": "49 x 44 x 12 mm"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "61.3 g"
+  }
+ ],
+ "highlights": [
+  "49mm always-on display up to 2000 nits",
+  "L1 and L5 dual-frequency GPS",
+  "100 m water resistance and depth gauge",
+  "Up to 36 hours battery life"
+ ],
+ "review_notes": [
+  "Photos are titled 'Apple Watch Ultra' without a generation number; Ultra and Ultra 2 look alike, so a reviewer should confirm the pictured unit is first generation."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111852",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111852",
+   "retrieved_at": "2026-11-02T17:58:28+00:00",
+   "sha256": "ff7ed094fb60eabf471d4ea42a66c347df71e3e9f62a74a8ae5c3ec4377995b5",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:03:30+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Apple Watch Ultra - 3.jpg",
+   "categories": [
+    "Category:Apple Nagoya Sakae",
+    "Category:Apple Stores in 2022",
+    "Category:Apple Watch Ultra",
+    "Category:CC-BY-SA-4.0",
+    "Category:Nagoya photographs taken on 2022-09-24",
+    "Category:People wearing Apple Watches",
+    "Category:Self-published work",
+    "Category:September 2022 in Naka-ku, Nagoya"
+   ],
+   "width": 2160,
+   "height": 2880,
+   "mime": "image/jpeg",
+   "sha1": "fb32a3e9224cc750f1576cbbcd3e259b03480076",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Apple_Watch_Ultra_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Apple_Watch_Ultra_-_3.jpg/1280px-Apple_Watch_Ultra_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Apple_Watch_Ultra_-_3.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "KKPCW（Kyu3）",
+   "credit": "Own work",
+   "description": "Apple Watch Ultra。Apple Store 名古屋栄で撮影。",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-watch-ultra-49mm/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-watch-ultra-49mm/1.jpg",
+   "local_sha256": "f17e360f6e7377ca303f6d0f65560dfbdb1405e724dddd970abe10d0f4c9d035",
+   "local_bytes": 173625
+  },
+  {
+   "title": "File:Apple Watch Ultra - 4.jpg",
+   "categories": [
+    "Category:Apple Nagoya Sakae",
+    "Category:Apple Stores in 2022",
+    "Category:Apple Watch Ultra",
+    "Category:CC-BY-SA-4.0",
+    "Category:Nagoya photographs taken on 2022-09-24",
+    "Category:Self-published work",
+    "Category:September 2022 in Naka-ku, Nagoya"
+   ],
+   "width": 2160,
+   "height": 2160,
+   "mime": "image/jpeg",
+   "sha1": "887e569d85c45d9ab4570e3fdd6a1436e58f3c85",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Apple_Watch_Ultra_-_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Apple_Watch_Ultra_-_4.jpg/1280px-Apple_Watch_Ultra_-_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Apple_Watch_Ultra_-_4.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "KKPCW（Kyu3）",
+   "credit": "Own work",
+   "description": "Apple Watch Ultra。Apple Store 名古屋栄で撮影。",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-watch-ultra-49mm/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-watch-ultra-49mm/2.jpg",
+   "local_sha256": "47d8fba7510a9965edf60634e40cb3c5a0469838e8a925cd627df92c6f9e4122",
+   "local_bytes": 239377
+  }
+ ]
+}

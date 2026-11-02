@@ -1,0 +1,183 @@
+{
+ "handle": "real-apple-iphone-16-pro-max-256gb",
+ "brand": "Apple",
+ "model": "iPhone 16 Pro Max",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 16 Pro Max (256GB)",
+ "subtitle": "6.9-inch all-screen OLED | A18 Pro | 256GB",
+ "description": "Apple iPhone 16 Pro Max smartphone in the 256GB storage configuration. It runs on the A18 Pro chip and has a 6.9-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "256GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "256GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.9-inch all-screen OLED display"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2868 x 1320 at 460 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A18 Pro, 6-core CPU, 6-core GPU"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "IP68, up to 6 m for 30 minutes"
+  },
+  {
+   "group": "Battery",
+   "label": "Video playback",
+   "value": "Up to 33 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "227 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "163 x 77.6 x 8.25 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "Wi-Fi 7 (802.11be)"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.3"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "USB-C"
+  }
+ ],
+ "highlights": [
+  "6.9-inch all-screen OLED display",
+  "2868 x 1320 at 460 ppi resolution",
+  "A18 Pro, 6-core CPU, 6-core GPU chip",
+  "Water resistance: IP68, up to 6 m for 30 minutes"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/121032",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/121032",
+   "retrieved_at": "2026-11-02T17:46:28+00:00",
+   "sha256": "8983be19ab6ca88e8f000c76d179cbfca436b9af7d1b799aef175851d3dd0001",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:05:16+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPhone 16 Pro Max White 256g.jpg",
+   "categories": [
+    "Category:Backs of smartphones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Dongguan photographs taken on 2025-03-31",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 16 Pro Max",
+    "Category:Images by 茅野ふたば taken with iPhone 14 Pro Max",
+    "Category:Self-published work",
+    "Category:Smartphones in Dongguan",
+    "Category:Taken with iPhone 14 Pro Max",
+    "Category:White mobile phones"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "cbeda2126acf69e3b69b8e7f98e7c9d7d3a3e0db",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/IPhone_16_Pro_Max_White_256g.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/IPhone_16_Pro_Max_White_256g.jpg/1280px-IPhone_16_Pro_Max_White_256g.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_16_Pro_Max_White_256g.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "茅野ふたば",
+   "credit": "Own work",
+   "description": "iPhone 16 Pro Max White 256g.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-16-pro-max-256gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-16-pro-max-256gb/1.jpg",
+   "local_sha256": "5063f03d1c1c9495ace4b587de4925116af9ab91567b6c3119c9266dfb76f86d",
+   "local_bytes": 161390
+  },
+  {
+   "title": "File:Back view of iPhone 16 Pro Max Natural Titanium.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2024-10-02",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 16 Pro Max",
+    "Category:October 2024 in Dongguan",
+    "Category:Self-published work",
+    "Category:Taken with iPhone 14 Plus"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "3010e53cfa7c9a3ec674068fb4efe48f19027fd2",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Back_view_of_iPhone_16_Pro_Max_Natural_Titanium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Back_view_of_iPhone_16_Pro_Max_Natural_Titanium.jpg/1280px-Back_view_of_iPhone_16_Pro_Max_Natural_Titanium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Back_view_of_iPhone_16_Pro_Max_Natural_Titanium.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "メイド理世",
+   "credit": "Own work",
+   "description": "Back view of iPhone 16 Pro Max Natural Titanium",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-16-pro-max-256gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-16-pro-max-256gb/2.jpg",
+   "local_sha256": "e9a2d4f23bdbb12694dd9197b48dcd2de99ee55a718665a6a3f890054cef86ee",
+   "local_bytes": 138358
+  },
+  {
+   "title": "File:Right view of iPhone 16 Pro Max Natural Titanium.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2024-10-02",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 16 Pro Max",
+    "Category:October 2024 in Dongguan",
+    "Category:Self-published work",
+    "Category:Taken with iPhone 14 Plus"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "27c71e91acfe3cdff280a120713f1b3d90172127",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Right_view_of_iPhone_16_Pro_Max_Natural_Titanium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Right_view_of_iPhone_16_Pro_Max_Natural_Titanium.jpg/1280px-Right_view_of_iPhone_16_Pro_Max_Natural_Titanium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Right_view_of_iPhone_16_Pro_Max_Natural_Titanium.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "メイド理世",
+   "credit": "Own work",
+   "description": "Right view of iPhone 16 Pro Max Natural Titanium",
+   "attribution_required": "true",
+   "index": 3,
+   "card_path": "/catalog-real/real-apple-iphone-16-pro-max-256gb/3-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-16-pro-max-256gb/3.jpg",
+   "local_sha256": "5f13276950bd3b963825fae6114306ce392ed8c4423fe4c88cd6cfb897070e6d",
+   "local_bytes": 125338
+  }
+ ]
+}

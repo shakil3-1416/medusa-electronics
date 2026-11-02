@@ -1,0 +1,118 @@
+{
+ "handle": "real-apple-ipad-pro-13-m4-256gb-wifi",
+ "brand": "Apple",
+ "model": "iPad Pro 13-inch (M4)",
+ "mpn": null,
+ "category_handle": "tablet",
+ "title": "Apple iPad Pro 13-inch (M4) (256GB Wi-Fi)",
+ "subtitle": "M4 | 256GB",
+ "description": "Apple iPad Pro 13-inch (M4) tablet, 256GB Wi-Fi configuration, powered by the M4 chip. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "256GB Wi-Fi",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "256GB"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2752 x 2064 at 264 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "M4"
+  },
+  {
+   "group": "Camera",
+   "label": "Rear camera",
+   "value": "12MP, f/1.8"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery life",
+   "value": "Up to 10 hours web or video on Wi-Fi"
+  },
+  {
+   "group": "Build",
+   "label": "Weight (Wi-Fi model)",
+   "value": "579 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "281.6 x 215.5 x 5.1 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "Wi-Fi 6E (802.11ax)"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.3"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "USB-C"
+  }
+ ],
+ "highlights": [
+  "2752 x 2064 at 264 ppi resolution",
+  "M4 chip",
+  "Rear camera: 12MP, f/1.8",
+  "Battery life: Up to 10 hours web or video on Wi-Fi"
+ ],
+ "review_notes": [
+  "Only photo shows the device's About screen; confirm the model and replace with a full product photo before publishing."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/119891",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/119891",
+   "retrieved_at": "2026-11-02T17:47:57+00:00",
+   "sha256": "34e46281271a0e5c0071868914be46268d924a8f86aac57a8db5410ebb750ab8",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:05:47+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:About iPad Pro 13-inch (M4).jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2024-10-02",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPad Pro (7th generation)",
+    "Category:October 2024 in Dongguan",
+    "Category:Self-published work",
+    "Category:Tablets with keyboards",
+    "Category:Taken with iPhone 14 Plus"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "fd693480b9afd4423c245c81b23dca28138bbbff",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/About_iPad_Pro_13-inch_%28M4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/About_iPad_Pro_13-inch_%28M4%29.jpg/1280px-About_iPad_Pro_13-inch_%28M4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:About_iPad_Pro_13-inch_(M4).jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "メイド理世",
+   "credit": "Own work",
+   "description": "About iPad Pro 13-inch (M4)",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-ipad-pro-13-m4-256gb-wifi/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-ipad-pro-13-m4-256gb-wifi/1.jpg",
+   "local_sha256": "f21db7e5994977374d4a333c106f2e9b09670e9cbd090df3a6d97390c7f0baaf",
+   "local_bytes": 174537
+  }
+ ]
+}

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T17:02:57+00:00",
+ "generated_at": "2026-11-02T19:12:28+00:00",
  "records": [
   {
    "handle": "real-apple-iphone-15-128gb",
@@ -857,6 +857,2385 @@
    "review_notes": [
     "Photo may show an older hardware revision of the GS108E."
    ]
+  },
+  {
+   "handle": "real-apple-iphone-8-64gb",
+   "brand": "Apple",
+   "model": "iPhone 8",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-8-plus-64gb",
+   "brand": "Apple",
+   "model": "iPhone 8 Plus",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-x-64gb",
+   "brand": "Apple",
+   "model": "iPhone X",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-xr-64gb",
+   "brand": "Apple",
+   "model": "iPhone XR",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-watch-series-3-42mm-gps",
+   "brand": "Apple",
+   "model": "Apple Watch Series 3",
+   "category": "smartwatch",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 4.0"
+   ],
+   "review_notes": [
+    "Photo shows the sensor back; case size of the pictured unit is not stated."
+   ]
+  },
+  {
+   "handle": "real-apple-watch-series-7-45mm-gps",
+   "brand": "Apple",
+   "model": "Apple Watch Series 7",
+   "category": "smartwatch",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY 2.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-watch-series-8-45mm-gps",
+   "brand": "Apple",
+   "model": "Apple Watch Series 8",
+   "category": "smartwatch",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-watch-ultra-49mm",
+   "brand": "Apple",
+   "model": "Apple Watch Ultra",
+   "category": "smartwatch",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Photos are titled 'Apple Watch Ultra' without a generation number; Ultra and Ultra 2 look alike, so a reviewer should confirm the pictured unit is first generation."
+   ]
+  },
+  {
+   "handle": "real-apple-iphone-xs-64gb",
+   "brand": "Apple",
+   "model": "iPhone XS",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-xs-max-64gb",
+   "brand": "Apple",
+   "model": "iPhone XS Max",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0",
+    "CC BY 2.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-11-64gb",
+   "brand": "Apple",
+   "model": "iPhone 11",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-11-pro-64gb",
+   "brand": "Apple",
+   "model": "iPhone 11 Pro",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 2.0",
+    "CC BY 2.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-11-pro-max-64gb",
+   "brand": "Apple",
+   "model": "iPhone 11 Pro Max",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-12-mini-64gb",
+   "brand": "Apple",
+   "model": "iPhone 12 mini",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-12-pro-128gb",
+   "brand": "Apple",
+   "model": "iPhone 12 Pro",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-12-pro-max-128gb",
+   "brand": "Apple",
+   "model": "iPhone 12 Pro Max",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-13-pro-128gb",
+   "brand": "Apple",
+   "model": "iPhone 13 Pro",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-13-pro-max-128gb",
+   "brand": "Apple",
+   "model": "iPhone 13 Pro Max",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-14-plus-128gb",
+   "brand": "Apple",
+   "model": "iPhone 14 Plus",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-13-mini-128gb",
+   "brand": "Apple",
+   "model": "iPhone 13 mini",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-14-pro-128gb",
+   "brand": "Apple",
+   "model": "iPhone 14 Pro",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-14-pro-max-128gb",
+   "brand": "Apple",
+   "model": "iPhone 14 Pro Max",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-15-plus-128gb",
+   "brand": "Apple",
+   "model": "iPhone 15 Plus",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-15-pro-128gb",
+   "brand": "Apple",
+   "model": "iPhone 15 Pro",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-15-pro-max-256gb",
+   "brand": "Apple",
+   "model": "iPhone 15 Pro Max",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-16-pro-128gb",
+   "brand": "Apple",
+   "model": "iPhone 16 Pro",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-16-pro-max-256gb",
+   "brand": "Apple",
+   "model": "iPhone 16 Pro Max",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-17-pro-256gb",
+   "brand": "Apple",
+   "model": "iPhone 17 Pro",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0",
+    "CC BY-SA 4.0",
+    "CC0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-7-32gb",
+   "brand": "Apple",
+   "model": "iPhone 7",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-7-plus-32gb",
+   "brand": "Apple",
+   "model": "iPhone 7 Plus",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-iphone-6s-16gb",
+   "brand": "Apple",
+   "model": "iPhone 6s",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-ipad-pro-11-m4-256gb-wifi",
+   "brand": "Apple",
+   "model": "iPad Pro 11-inch (M4)",
+   "category": "tablet",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "image File:IPad Pro M4 11-inch.jpeg: no artist metadata; credit 'Wikimedia Commons contributor'",
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-ipad-pro-13-m4-256gb-wifi",
+   "brand": "Apple",
+   "model": "iPad Pro 13-inch (M4)",
+   "category": "tablet",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Only photo shows the device's About screen; confirm the model and replace with a full product photo before publishing."
+   ]
+  },
+  {
+   "handle": "real-apple-ipad-pro-12-9-3rd-gen-64gb-wifi",
+   "brand": "Apple",
+   "model": "iPad Pro 12.9-inch (3rd generation)",
+   "category": "tablet",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-ipad-air-4th-gen-64gb-wifi",
+   "brand": "Apple",
+   "model": "iPad Air (4th generation)",
+   "category": "tablet",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-ipad-mini-6th-gen-64gb-wifi",
+   "brand": "Apple",
+   "model": "iPad mini (6th generation)",
+   "category": "tablet",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-watch-series-4-40mm-gps",
+   "brand": "Apple",
+   "model": "Apple Watch Series 4",
+   "category": "smartwatch",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apple-macbook-air-m1-2020-8gb-256gb",
+   "brand": "Apple",
+   "model": "MacBook Air (M1, 2020)",
+   "category": "business-laptop",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Apple's spec page lists 128GB SSD configurable to 256GB; this listing uses the 256GB configuration.",
+    "Photos are cut-out PNGs from Commons; confirm they are photographs rather than renders."
+   ]
+  },
+  {
+   "handle": "real-apple-mac-pro-2019-xeon-8-core-32gb",
+   "brand": "Apple",
+   "model": "Mac Pro (2019)",
+   "category": "desktop-pc",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "32GB as four 8GB DIMMs is the smallest memory option on Apple's page; Radeon Pro 580X is the first listed graphics option."
+   ]
+  },
+  {
+   "handle": "real-amd-ryzen-9-9950x",
+   "brand": "AMD",
+   "model": "Ryzen 9 9950X",
+   "category": "processor",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 4.0",
+    "CC BY 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-amd-ryzen-5-9600x",
+   "brand": "AMD",
+   "model": "Ryzen 5 9600X",
+   "category": "processor",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0",
+    "CC0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-amd-ryzen-9-7900x",
+   "brand": "AMD",
+   "model": "Ryzen 9 7900X",
+   "category": "processor",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-amd-ryzen-7-1800x",
+   "brand": "AMD",
+   "model": "Ryzen 7 1800X",
+   "category": "processor",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 2.0"
+   ],
+   "review_notes": [
+    "AMD's current spec table for this processor is published on its official drivers & support page."
+   ]
+  },
+  {
+   "handle": "real-amd-ryzen-5-1600",
+   "brand": "AMD",
+   "model": "Ryzen 5 1600",
+   "category": "processor",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "AMD's current spec table for this processor is published on its official drivers & support page."
+   ]
+  },
+  {
+   "handle": "real-amd-ryzen-5-2600",
+   "brand": "AMD",
+   "model": "Ryzen 5 2600",
+   "category": "processor",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0"
+   ],
+   "review_notes": [
+    "AMD's current spec table for this processor is published on its official drivers & support page."
+   ]
+  },
+  {
+   "handle": "real-amd-ryzen-5-3600",
+   "brand": "AMD",
+   "model": "Ryzen 5 3600",
+   "category": "processor",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0"
+   ],
+   "review_notes": [
+    "AMD's current spec table for this processor is published on its official drivers & support page."
+   ]
+  },
+  {
+   "handle": "real-amd-ryzen-9-3900x",
+   "brand": "AMD",
+   "model": "Ryzen 9 3900X",
+   "category": "processor",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "AMD's current spec table for this processor is published on its official drivers & support page."
+   ]
+  },
+  {
+   "handle": "real-amd-radeon-rx-7900-xtx",
+   "brand": "AMD",
+   "model": "Radeon RX 7900 XTX",
+   "category": "graphics-card",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "AMD's page describes the GPU model; the record is for AMD's own reference (MBA) board shown in the photos."
+   ]
+  },
+  {
+   "handle": "real-amd-radeon-rx-7900-xt",
+   "brand": "AMD",
+   "model": "Radeon RX 7900 XT",
+   "category": "graphics-card",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 4.0",
+    "CC BY 4.0",
+    "CC BY 4.0"
+   ],
+   "review_notes": [
+    "AMD's page describes the GPU model; the record is for AMD's own reference (MBA) board shown in the photos."
+   ]
+  },
+  {
+   "handle": "real-samsung-t7-shield-4tb",
+   "brand": "Samsung",
+   "model": "Portable SSD T7 Shield",
+   "category": "external-storage",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Spec page is the black MU-PE4T0S/EU listing; the colour of the drive in the Commons photos was not checked against the listing."
+   ]
+  },
+  {
+   "handle": "real-samsung-t9-4tb",
+   "brand": "Samsung",
+   "model": "Portable SSD T9",
+   "category": "external-storage",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Both Commons photos show the T9 4TB next to a T5 EVO 8TB; crop or caption accordingly on the product page."
+   ]
+  },
+  {
+   "handle": "real-amd-ryzen-threadripper-1950x",
+   "brand": "AMD",
+   "model": "Ryzen Threadripper 1950X",
+   "category": "processor",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "AMD's current spec table for this processor is published on its official drivers & support page."
+   ]
+  },
+  {
+   "handle": "real-amd-radeon-rx-6800-xt",
+   "brand": "AMD",
+   "model": "Radeon RX 6800 XT",
+   "category": "graphics-card",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "AMD's page describes the GPU model; the record is for AMD's own reference (MBA) board shown in the photos."
+   ]
+  },
+  {
+   "handle": "real-mikrotik-map-lite",
+   "brand": "MikroTik",
+   "model": "mAP lite",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 3.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-mikrotik-rb2011uias-rm",
+   "brand": "MikroTik",
+   "model": "RB2011UiAS-RM",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 2.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-mikrotik-rb951ui-2hnd",
+   "brand": "MikroTik",
+   "model": "RB951Ui-2HnD",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 3.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-mikrotik-wap-60g",
+   "brand": "MikroTik",
+   "model": "wAP 60G",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Category router used for a wireless bridge (no dedicated wireless-bridge category)."
+   ]
+  },
+  {
+   "handle": "real-mikrotik-wap-60gx3-ap",
+   "brand": "MikroTik",
+   "model": "wAP 60Gx3 AP",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Category router used for a wireless access point."
+   ]
+  },
+  {
+   "handle": "real-ubiquiti-uap-ac-lite",
+   "brand": "Ubiquiti",
+   "model": "UniFi AC Lite",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Category router used for an access point."
+   ]
+  },
+  {
+   "handle": "real-ubiquiti-u7-pro-xgs",
+   "brand": "Ubiquiti",
+   "model": "U7 Pro XGS",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Category router used for an access point."
+   ]
+  },
+  {
+   "handle": "real-ubiquiti-unifi-e7",
+   "brand": "Ubiquiti",
+   "model": "E7",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Category router used for an access point."
+   ]
+  },
+  {
+   "handle": "real-ubiquiti-udr7",
+   "brand": "Ubiquiti",
+   "model": "Dream Router 7",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-ubiquiti-ux7",
+   "brand": "Ubiquiti",
+   "model": "UniFi Express 7",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-ubiquiti-ucg-fiber",
+   "brand": "Ubiquiti",
+   "model": "Cloud Gateway Fiber",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-ubiquiti-ucg-max",
+   "brand": "Ubiquiti",
+   "model": "Cloud Gateway Max",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-ubiquiti-usw-flex-xg",
+   "brand": "Ubiquiti",
+   "model": "USW-Flex-XG",
+   "category": "network-switch",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-ubiquiti-usw-pro-xg-8-poe",
+   "brand": "Ubiquiti",
+   "model": "USW-Pro-XG-8-PoE",
+   "category": "network-switch",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-ubiquiti-usw-aggregation",
+   "brand": "Ubiquiti",
+   "model": "USW-Aggregation",
+   "category": "network-switch",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-ubiquiti-nbe-5ac-gen2",
+   "brand": "Ubiquiti",
+   "model": "NanoBeam 5AC Gen2",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Photo titles say 'NanoBeam AC Gen2', Ubiquiti's marketing name for NBE-5AC-Gen2.",
+    "Category router used for an outdoor wireless bridge."
+   ]
+  },
+  {
+   "handle": "real-ubiquiti-loco5ac",
+   "brand": "Ubiquiti",
+   "model": "NanoStation 5AC Loco",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Photo titles say 'NanoStation AC loco', the marketing name of Loco5AC; PoE supply is not included per the page.",
+    "Category router used for an outdoor wireless station."
+   ]
+  },
+  {
+   "handle": "real-ubiquiti-nsm5",
+   "brand": "Ubiquiti",
+   "model": "NanoStation M5",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Category router used for an outdoor wireless station."
+   ]
+  },
+  {
+   "handle": "real-tp-link-archer-c9",
+   "brand": "TP-Link",
+   "model": "Archer C9",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 2.0"
+   ],
+   "review_notes": [
+    "Specs follow the current hardware version listed on TP-Link's page; the Commons photo may show an earlier hardware revision of the same model."
+   ]
+  },
+  {
+   "handle": "real-tp-link-archer-a6",
+   "brand": "TP-Link",
+   "model": "Archer A6",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Specs follow the current hardware version listed on TP-Link's page; the Commons photo may show an earlier hardware revision of the same model."
+   ]
+  },
+  {
+   "handle": "real-tp-link-tl-wr841n",
+   "brand": "TP-Link",
+   "model": "TL-WR841N",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Specs follow the current hardware version listed on TP-Link's page; the Commons photo may show an earlier hardware revision of the same model."
+   ]
+  },
+  {
+   "handle": "real-tp-link-tl-wr740n",
+   "brand": "TP-Link",
+   "model": "TL-WR740N",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 4.0",
+    "CC BY 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-tp-link-tl-wn821n",
+   "brand": "TP-Link",
+   "model": "TL-WN821N",
+   "category": "computer-accessory",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 3.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-tp-link-tl-mr3020",
+   "brand": "TP-Link",
+   "model": "TL-MR3020",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 3.0",
+    "CC0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-tp-link-archer-t5e",
+   "brand": "TP-Link",
+   "model": "Archer T5E",
+   "category": "computer-accessory",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-tp-link-archer-t9e",
+   "brand": "TP-Link",
+   "model": "Archer T9E",
+   "category": "computer-accessory",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-tp-link-archer-t2ub-nano",
+   "brand": "TP-Link",
+   "model": "Archer T2UB Nano",
+   "category": "computer-accessory",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-tp-link-ls1005g",
+   "brand": "TP-Link",
+   "model": "LS1005G",
+   "category": "network-switch",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 4.0",
+    "CC BY 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-tp-link-cpe210",
+   "brand": "TP-Link",
+   "model": "CPE210",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Category router used for an outdoor wireless CPE."
+   ]
+  },
+  {
+   "handle": "real-logitech-yeti-nano",
+   "brand": "Logitech",
+   "model": "Yeti Nano",
+   "category": "microphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 2.0",
+    "CC BY-SA 2.0"
+   ],
+   "review_notes": [
+    "Photo titles use the original Blue Yeti Nano name; Logitech now sells it as Logitech G Yeti Nano."
+   ]
+  },
+  {
+   "handle": "real-logitech-g903-hero",
+   "brand": "Logitech",
+   "model": "G903 HERO",
+   "category": "gaming-mouse",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Page is the G903 with HERO 25K sensor; the Commons photo is titled 'G903 Lightspeed' and may show the earlier sensor revision of the same shell."
+   ]
+  },
+  {
+   "handle": "real-logitech-g703",
+   "brand": "Logitech",
+   "model": "G703",
+   "category": "gaming-mouse",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Page describes the PMW3366 version of G703."
+   ]
+  },
+  {
+   "handle": "real-logitech-m510",
+   "brand": "Logitech",
+   "model": "M510",
+   "category": "computer-accessory",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 4.0",
+    "CC BY 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-logitech-m185",
+   "brand": "Logitech",
+   "model": "M185",
+   "category": "computer-accessory",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 4.0",
+    "CC BY 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-logitech-f310",
+   "brand": "Logitech",
+   "model": "F310",
+   "category": "computer-accessory",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 4.0",
+    "CC BY 4.0"
+   ],
+   "review_notes": [
+    "Category computer-accessory used for a gamepad."
+   ]
+  },
+  {
+   "handle": "real-logitech-f710",
+   "brand": "Logitech",
+   "model": "F710",
+   "category": "computer-accessory",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 4.0"
+   ],
+   "review_notes": [
+    "Category computer-accessory used for a gamepad."
+   ]
+  },
+  {
+   "handle": "real-logitech-g-pro-keyboard",
+   "brand": "Logitech",
+   "model": "PRO Keyboard",
+   "category": "mechanical-keyboard",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0"
+   ],
+   "review_notes": [
+    "Photo is titled 'G PRO TKL', matching the tenkeyless G PRO keyboard on this page."
+   ]
+  },
+  {
+   "handle": "real-keychron-k10",
+   "brand": "Keychron",
+   "model": "K10",
+   "category": "mechanical-keyboard",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Page lists original K10; the photo's hardware version is not stated."
+   ]
+  },
+  {
+   "handle": "real-keychron-k1",
+   "brand": "Keychron",
+   "model": "K1",
+   "category": "mechanical-keyboard",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "Public domain",
+    "Public domain"
+   ],
+   "review_notes": [
+    "Photo shows K1 version 2 (TKL); the official page currently sells a later version of the same K1 TKL model, specs may differ slightly by version."
+   ]
+  },
+  {
+   "handle": "real-keychron-k5-se",
+   "brand": "Keychron",
+   "model": "K5 SE",
+   "category": "mechanical-keyboard",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 2.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-keychron-q6",
+   "brand": "Keychron",
+   "model": "Q6",
+   "category": "mechanical-keyboard",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0"
+   ],
+   "review_notes": [
+    "Photo shows a Q6 with aftermarket keycaps."
+   ]
+  },
+  {
+   "handle": "real-keychron-k4-v2",
+   "brand": "Keychron",
+   "model": "K4 (Version 2)",
+   "category": "mechanical-keyboard",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 3.0"
+   ],
+   "review_notes": [
+    "Photo is titled 'Keychron K4' without a version; specs are for K4 Version 2."
+   ]
+  },
+  {
+   "handle": "real-mikrotik-rb493g",
+   "brand": "MikroTik",
+   "model": "RB493G",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 3.0",
+    "CC BY-SA 3.0"
+   ],
+   "review_notes": [
+    "Sold as a bare board without enclosure; category router."
+   ]
+  },
+  {
+   "handle": "real-logitech-g502-hero",
+   "brand": "Logitech",
+   "model": "G502 HERO",
+   "category": "gaming-mouse",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-logitech-g305",
+   "brand": "Logitech",
+   "model": "G305",
+   "category": "gaming-mouse",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-tp-link-tl-wr1043nd",
+   "brand": "TP-Link",
+   "model": "TL-WR1043ND",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0"
+   ],
+   "review_notes": [
+    "Photo shows hardware version 1; the page lists specs common to the model."
+   ]
+  },
+  {
+   "handle": "real-tp-link-tl-wdn3800",
+   "brand": "TP-Link",
+   "model": "TL-WDN3800",
+   "category": "computer-accessory",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 2.0",
+    "CC BY-SA 2.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-tp-link-tl-wr845n",
+   "brand": "TP-Link",
+   "model": "TL-WR845N",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-ubiquiti-ucg-industrial",
+   "brand": "Ubiquiti",
+   "model": "Cloud Gateway Industrial",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-ubiquiti-udr-5g-max",
+   "brand": "Ubiquiti",
+   "model": "Dream Router 5G Max",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-ubiquiti-er-x",
+   "brand": "Ubiquiti",
+   "model": "EdgeRouter X",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-ubiquiti-bulletm2-hp",
+   "brand": "Ubiquiti",
+   "model": "Bullet M2",
+   "category": "router",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Photo file is 'UbiquitiBulletM2'; HP variant inferred."
+   ]
+  },
+  {
+   "handle": "real-fairphone-4",
+   "brand": "Fairphone",
+   "model": "Fairphone 4",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 2.0",
+    "CC BY-SA 2.0"
+   ],
+   "review_notes": [
+    "Fairphone's FAQ does not state the RAM/storage configuration; confirm the exact configuration with the supplier before listing."
+   ]
+  },
+  {
+   "handle": "real-fairphone-3",
+   "brand": "Fairphone",
+   "model": "Fairphone 3",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 2.0",
+    "CC BY-SA 2.0"
+   ],
+   "review_notes": [
+    "Fairphone's FAQ does not state the RAM/storage configuration; confirm the exact configuration with the supplier before listing.",
+    "The camera spec is read from the FAQ's Fairphone 3 vs 3+ comparison table (first column is Fairphone 3)."
+   ]
+  },
+  {
+   "handle": "real-fairphone-3-plus",
+   "brand": "Fairphone",
+   "model": "Fairphone 3+",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 2.0",
+    "CC BY-SA 2.0"
+   ],
+   "review_notes": [
+    "Fairphone's FAQ does not state the RAM/storage configuration; confirm the exact configuration with the supplier before listing.",
+    "Camera specs are read from the FAQ's Fairphone 3 vs 3+ comparison table (second column is Fairphone 3+)."
+   ]
+  },
+  {
+   "handle": "real-oneplus-9-pro-12gb-256gb",
+   "brand": "OnePlus",
+   "model": "OnePlus 9 Pro",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-oneplus-8t-8gb-128gb",
+   "brand": "OnePlus",
+   "model": "OnePlus 8T",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-oneplus-13-12gb-256gb",
+   "brand": "OnePlus",
+   "model": "OnePlus 13",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-google-pixel-6-128gb",
+   "brand": "Google",
+   "model": "Pixel 6",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-google-pixel-6-pro-128gb",
+   "brand": "Google",
+   "model": "Pixel 6 Pro",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0",
+    "CC0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-google-pixel-6a-128gb",
+   "brand": "Google",
+   "model": "Pixel 6a",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-google-pixel-8-pro-128gb",
+   "brand": "Google",
+   "model": "Pixel 8 Pro",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-google-pixel-8a-128gb",
+   "brand": "Google",
+   "model": "Pixel 8a",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 4.0",
+    "CC BY 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-google-pixel-9-128gb",
+   "brand": "Google",
+   "model": "Pixel 9",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-google-pixel-9-pro-128gb",
+   "brand": "Google",
+   "model": "Pixel 9 Pro",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-google-pixel-9-pro-xl-128gb",
+   "brand": "Google",
+   "model": "Pixel 9 Pro XL",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-google-pixel-9a-128gb",
+   "brand": "Google",
+   "model": "Pixel 9a",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-google-pixel-fold-256gb",
+   "brand": "Google",
+   "model": "Pixel Fold",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-google-pixel-10-pro-128gb",
+   "brand": "Google",
+   "model": "Pixel 10 Pro",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-google-pixel-watch-41mm",
+   "brand": "Google",
+   "model": "Pixel Watch",
+   "category": "smartwatch",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "The spec page lists LTE and Bluetooth/Wi-Fi connectivity together; confirm the connectivity variant with the supplier before listing."
+   ]
+  },
+  {
+   "handle": "real-xiaomi-13-8gb-256gb",
+   "brand": "Xiaomi",
+   "model": "Xiaomi 13",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-xiaomi-12-8gb-256gb",
+   "brand": "Xiaomi",
+   "model": "Xiaomi 12",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-xiaomi-13-lite-8gb-256gb",
+   "brand": "Xiaomi",
+   "model": "Xiaomi 13 Lite",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-xiaomi-14t-pro-12gb-256gb",
+   "brand": "Xiaomi",
+   "model": "Xiaomi 14T Pro",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-xiaomi-13-ultra-12gb-512gb",
+   "brand": "Xiaomi",
+   "model": "Xiaomi 13 Ultra",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-xiaomi-14-ultra-16gb-512gb",
+   "brand": "Xiaomi",
+   "model": "Xiaomi 14 Ultra",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC0"
+   ],
+   "review_notes": [
+    "The only licensed photo is a retail display shot in a Hong Kong store; replace with a product photo when available."
+   ]
+  },
+  {
+   "handle": "real-xiaomi-redmi-note-11-6gb-128gb",
+   "brand": "Xiaomi",
+   "model": "Redmi Note 11",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-xiaomi-redmi-note-10-pro-6gb-128gb",
+   "brand": "Xiaomi",
+   "model": "Redmi Note 10 Pro",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-xiaomi-redmi-note-12-pro-8gb-256gb",
+   "brand": "Xiaomi",
+   "model": "Redmi Note 12 Pro",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 4.0"
+   ],
+   "review_notes": [
+    "Xiaomi's global page for this slug describes the 4G Snapdragon 732G model; the 5G model is a different product."
+   ]
+  },
+  {
+   "handle": "real-xiaomi-redmi-12-8gb-256gb",
+   "brand": "Xiaomi",
+   "model": "Redmi 12",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-xiaomi-redmi-note-11-pro-6gb-128gb",
+   "brand": "Xiaomi",
+   "model": "Redmi Note 11 Pro",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Xiaomi's global page for this slug describes the 4G Helio G96 model; the 5G model is a different product.",
+    "Commons photos are titled Redmi Note 11 Pro without stating 4G or 5G; confirm the pictured unit matches the 4G model."
+   ]
+  },
+  {
+   "handle": "real-xiaomi-redmi-note-12-8gb-128gb",
+   "brand": "Xiaomi",
+   "model": "Redmi Note 12",
+   "category": "smartphone",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": [
+    "Xiaomi's global page for this slug describes the 4G Snapdragon 685 model; the 5G model is a different product.",
+    "Commons photos are titled Redmi Note 12 without stating 4G or 5G; confirm the pictured unit matches the 4G model."
+   ]
+  },
+  {
+   "handle": "real-brother-hl-l8260cdw",
+   "brand": "Brother",
+   "model": "HL-L8260CDW",
+   "category": "printer",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-brother-hl-2240",
+   "brand": "Brother",
+   "model": "HL-2240",
+   "category": "printer",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": "CPU speed shown on the page without a unit; kept unitless."
+  },
+  {
+   "handle": "real-brother-mfc-j5855dw",
+   "brand": "Brother",
+   "model": "MFC-J5855DW",
+   "category": "printer",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-apc-smart-ups-smt1500i",
+   "brand": "APC",
+   "model": "SMT1500I",
+   "category": "ups",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 3.0"
+   ],
+   "review_notes": "Spec table on se.com is script-rendered; specs taken from the product title and feature bullets in the static page. Photo shows the SMT1500I with an AP9617 management card placed on top. Page marks the model discontinued (replaced by SMT1500IC)."
+  },
+  {
+   "handle": "real-apc-back-ups-pro-br700g",
+   "brand": "APC",
+   "model": "BR700G",
+   "category": "ups",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 2.0"
+   ],
+   "review_notes": "Spec source is the US (120V) BR700G page; the Commons photo is labelled BR700G-TW, the Taiwan SKU of the same Back-UPS Pro 700 (Taiwan also uses 110-120V NEMA outlets). Spec table on se.com is script-rendered; specs taken from the title and feature bullets."
+  },
+  {
+   "handle": "real-asus-zenscreen-mb16ac",
+   "brand": "ASUS",
+   "model": "ZenScreen MB16AC",
+   "category": "office-monitor",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 2.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-epson-workforce-pro-wf-3820",
+   "brand": "Epson",
+   "model": "WorkForce Pro WF-3820",
+   "category": "printer",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": []
+  },
+  {
+   "handle": "real-asus-rog-strix-g15-advantage-edition-g513qy",
+   "brand": "ASUS",
+   "model": "ROG Strix G15 Advantage Edition G513QY",
+   "category": "gaming-laptop",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0",
+    "CC BY-SA 4.0"
+   ],
+   "review_notes": "Spec page lists the G513QY-R9X8G6T-O configuration (16GB as 2x8GB, 1TB); photos show the G513QY-HQ012T regional configuration of the same G513QY chassis/CPU/GPU. Memory and storage may differ by regional SKU."
+  },
+  {
+   "handle": "real-asus-pb278q",
+   "brand": "ASUS",
+   "model": "PB278Q",
+   "category": "office-monitor",
+   "status": "pass",
+   "errors": [],
+   "warnings": [
+    "no sourced BDT price: import as unpriced draft"
+   ],
+   "image_licenses": [
+    "CC BY 4.0"
+   ],
+   "review_notes": "Source page is ASUS's Spanish-language regional overview; evidence quoted verbatim in Spanish, values translated."
   }
  ]
 }

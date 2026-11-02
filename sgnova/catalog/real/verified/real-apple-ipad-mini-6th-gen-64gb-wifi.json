@@ -1,0 +1,136 @@
+{
+ "handle": "real-apple-ipad-mini-6th-gen-64gb-wifi",
+ "brand": "Apple",
+ "model": "iPad mini (6th generation)",
+ "mpn": null,
+ "category_handle": "tablet",
+ "title": "Apple iPad mini (6th generation) (64GB Wi-Fi)",
+ "subtitle": "A15 Bionic | 64GB",
+ "description": "Apple iPad mini (6th generation) tablet, 64GB Wi-Fi configuration, powered by the A15 Bionic chip. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "64GB Wi-Fi",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "64GB"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A15 Bionic, 6-core CPU, 5-core GPU"
+  },
+  {
+   "group": "Camera",
+   "label": "Rear camera",
+   "value": "12MP, f/1.8"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery life",
+   "value": "Up to 10 hours web or video on Wi-Fi"
+  },
+  {
+   "group": "Build",
+   "label": "Weight (Wi-Fi model)",
+   "value": "293 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "195.4 x 134.8 x 6.3 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "Wi-Fi 6 (802.11ax)"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.0"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "USB-C"
+  }
+ ],
+ "highlights": [
+  "A15 Bionic, 6-core CPU, 5-core GPU chip",
+  "Rear camera: 12MP, f/1.8",
+  "Battery life: Up to 10 hours web or video on Wi-Fi"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111886",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111886",
+   "retrieved_at": "2026-11-02T18:52:33+00:00",
+   "sha256": "bf4092d3c404f69417ebef173361b61fef9ec996922590263a51bcc0137f0a40",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:05:58+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPad Mini 6 in hand.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:IPad Mini 6",
+    "Category:Self-published work",
+    "Category:Wikipedia on tablets"
+   ],
+   "width": 2944,
+   "height": 3925,
+   "mime": "image/jpeg",
+   "sha1": "cad14d04b5b24ca4905386ffeb9e5bd53b221475",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/IPad_Mini_6_in_hand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/IPad_Mini_6_in_hand.jpg/1280px-IPad_Mini_6_in_hand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPad_Mini_6_in_hand.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Theknine2",
+   "credit": "Own work",
+   "description": "Image of a 6th generation iPad Mini being held in a hand",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-ipad-mini-6th-gen-64gb-wifi/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-ipad-mini-6th-gen-64gb-wifi/1.jpg",
+   "local_sha256": "6752c5d685e2900a42123f2c61c955658daabcf2a274a720fd8040f74645877a",
+   "local_bytes": 247317
+  },
+  {
+   "title": "File:About iPad Mini (6th generation).jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2024-10-02",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPad Mini 6",
+    "Category:October 2024 in Dongguan",
+    "Category:Self-published work",
+    "Category:Taken with iPhone 14 Plus"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "352a07501e93b02f519cf2720378f34384fcdd75",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/About_iPad_Mini_%286th_generation%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/About_iPad_Mini_%286th_generation%29.jpg/1280px-About_iPad_Mini_%286th_generation%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:About_iPad_Mini_(6th_generation).jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "メイド理世",
+   "credit": "Own work",
+   "description": "About iPad Mini (6th generation)",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-ipad-mini-6th-gen-64gb-wifi/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-ipad-mini-6th-gen-64gb-wifi/2.jpg",
+   "local_sha256": "dc8bd997736f63c0358cfe2b1a9c5c1a7f791dd4b5205d27762fd4e282075a45",
+   "local_bytes": 135525
+  }
+ ]
+}

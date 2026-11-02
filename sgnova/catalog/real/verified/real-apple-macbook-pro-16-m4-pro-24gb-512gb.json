@@ -67,7 +67,7 @@
    "sha256": "910ca82a6b351e59ec33c835e4e3dfe0fbc8049e11b0048511cfb0b23c750571",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:10+00:00",
+  "verified_at": "2026-11-02T19:00:14+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -92,9 +92,10 @@
    "description": "A top view of the 16-inch MacBook Pro in Silver running macOS Tahoe.",
    "attribution_required": "false",
    "index": 1,
+   "card_path": "/catalog-real/real-apple-macbook-pro-16-m4-pro-24gb-512gb/1-card.jpg",
    "local_path": "/catalog-real/real-apple-macbook-pro-16-m4-pro-24gb-512gb/1.jpg",
-   "local_sha256": "a1da92db5d45059a092a35e518ac71b5fef0b3eb24d8c5af8ec2b7cc88fc5dff",
-   "local_bytes": 338453
+   "local_sha256": "e2abc9fd4dbbc567a3081102bef28d674fd4aa75834a9eddf86d33badd9d0607",
+   "local_bytes": 336348
   }
  ]
 }

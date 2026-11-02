@@ -1,0 +1,174 @@
+{
+ "handle": "real-apple-iphone-12-mini-64gb",
+ "brand": "Apple",
+ "model": "iPhone 12 mini",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 12 mini (64GB)",
+ "subtitle": "5.4-inch all-screen OLED | A14 Bionic | 64GB",
+ "description": "Apple iPhone 12 mini smartphone in the 64GB storage configuration. It runs on the A14 Bionic chip and has a 5.4-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "64GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "64GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "5.4-inch all-screen OLED display"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2340 x 1080 at 476 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A14 Bionic, 6-core CPU, 4-core GPU"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "IP68, up to 6 m for 30 minutes"
+  },
+  {
+   "group": "Battery",
+   "label": "Video playback",
+   "value": "Up to 15 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "135 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "131.5 x 64.2 x 7.4 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "Wi-Fi 6 (802.11ax)"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.0"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "Lightning"
+  }
+ ],
+ "highlights": [
+  "5.4-inch all-screen OLED display",
+  "2340 x 1080 at 476 ppi resolution",
+  "A14 Bionic, 6-core CPU, 4-core GPU chip",
+  "Water resistance: IP68, up to 6 m for 30 minutes"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111877",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111877",
+   "retrieved_at": "2026-11-02T18:11:16+00:00",
+   "sha256": "9f7517e6598f7cc6ddaad24d56bb60449a2a1b3741edd1f64b9eacc6ed567853",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:04:03+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IPhone 12 mini.jpg",
+   "categories": [
+    "Category:Backs of iPhones",
+    "Category:Black mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 12 Mini",
+    "Category:Self-published work"
+   ],
+   "width": 2582,
+   "height": 3443,
+   "mime": "image/jpeg",
+   "sha1": "1bb630ffd995ee770e1a2c24418bb9793ce06d20",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/IPhone_12_mini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/IPhone_12_mini.jpg/1280px-IPhone_12_mini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_12_mini.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Ssu",
+   "credit": "Own work",
+   "description": "IPhone 12 mini",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-12-mini-64gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-12-mini-64gb/1.jpg",
+   "local_sha256": "3eebf993bba458c52b22adbcf98f3860e28bf4d62e3aef8eb163b392293acfed",
+   "local_bytes": 166600
+  },
+  {
+   "title": "File:IPhone 12 Mini - 2.jpg",
+   "categories": [
+    "Category:Blue mobile phones",
+    "Category:CC-BY-SA-4.0",
+    "Category:IPhone 12 Mini",
+    "Category:Self-published work"
+   ],
+   "width": 1817,
+   "height": 3671,
+   "mime": "image/jpeg",
+   "sha1": "c929872346e4cea3c98cf0b9769d9de628cb0128",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/IPhone_12_Mini_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/IPhone_12_Mini_-_2.jpg/1280px-IPhone_12_Mini_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_12_Mini_-_2.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "KKPCW",
+   "credit": "Own work",
+   "description": "名古屋市内の家電量販店に展示されていた「iPhone 12 Mini」の側面。",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-12-mini-64gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-12-mini-64gb/2.jpg",
+   "local_sha256": "289b3d2d5a7b0f9f14129b78521e5dee4a6fe6938d611c54a0f073599769739c",
+   "local_bytes": 107314
+  },
+  {
+   "title": "File:Two cameras of iPhone 12 Mini - 1.jpg",
+   "categories": [
+    "Category:Backs of iPhones",
+    "Category:CC-BY-SA-4.0",
+    "Category:IPhone 12 Mini",
+    "Category:Japan photographs taken on 2023-02-12",
+    "Category:Self-published work"
+   ],
+   "width": 3024,
+   "height": 3024,
+   "mime": "image/jpeg",
+   "sha1": "c5b7fa4f97b0590cf9390195b2a32797a15d0402",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Two_cameras_of_iPhone_12_Mini_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Two_cameras_of_iPhone_12_Mini_-_1.jpg/1280px-Two_cameras_of_iPhone_12_Mini_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Two_cameras_of_iPhone_12_Mini_-_1.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "KKPCW（Kyu3）",
+   "credit": "Own work",
+   "description": "iPhone 12 Mini の背面カメラ。",
+   "attribution_required": "true",
+   "index": 3,
+   "card_path": "/catalog-real/real-apple-iphone-12-mini-64gb/3-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-12-mini-64gb/3.jpg",
+   "local_sha256": "dc240221a606a8edf74dbecf8b2b2acb4255c5374c64214b6206da78d6eeb083",
+   "local_bytes": 276015
+  }
+ ]
+}

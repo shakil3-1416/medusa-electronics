@@ -1,0 +1,2586 @@
+[
+ {
+  "handle": "real-fairphone-4",
+  "brand": "Fairphone",
+  "model": "Fairphone 4",
+  "variant_title": "Default",
+  "category_handle": "smartphone",
+  "title": "Fairphone 4 (5G)",
+  "subtitle": "Modular, repairable 5G phone | 3905 mAh | IP54",
+  "description": "Fairphone 4 is a modular 5G smartphone designed to be opened and repaired by its owner, with user-replaceable parts, IP54 dust and splash protection, a 3905 mAh battery, a 60Hz display and dual-band L1+L5 GNSS. Specifications were verified against Fairphone's official support FAQ.",
+  "highlights": [
+   "Modular design with replaceable parts",
+   "5G connectivity",
+   "3905 mAh battery",
+   "IP54 rated"
+  ],
+  "spec_source": {
+   "url": "https://support.fairphone.com/hc/en-us/articles/4404656100753-Fairphone-4-Frequently-Asked-Questions-FAQ",
+   "publisher": "Fairphone B.V."
+  },
+  "model_match": [
+   "Fairphone 4"
+  ],
+  "specs": [
+   {
+    "group": "Battery",
+    "label": "Battery capacity",
+    "value": "3905 mAh",
+    "evidence": "fairphone 4 has a 3905 mah battery"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "162 x 75.5 x 10.5 mm",
+    "evidence": "length 162 mm width 75.5 mm thickness 10.5 mm"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "225 g",
+    "evidence": "thickness 10.5 mm weight 225g"
+   },
+   {
+    "group": "Build",
+    "label": "Water and dust resistance",
+    "value": "IP54",
+    "evidence": "nano-coating is a process we apply to fairphone 4 to help us achieve an ip54 rating"
+   },
+   {
+    "group": "Display",
+    "label": "Refresh rate",
+    "value": "60Hz",
+    "evidence": "the refresh rate is 60hz"
+   },
+   {
+    "group": "Connectivity",
+    "label": "5G",
+    "value": "Yes (non-standalone)",
+    "evidence": "does the fairphone 4 have 5g? yes. does the fp4 support 5g sa (5g standalone)? no."
+   },
+   {
+    "group": "Connectivity",
+    "label": "GNSS",
+    "value": "Dual-band L1 + L5",
+    "evidence": "the fairphone 4 supports both the l1 and l5 gnss bands"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Back Side Tilted green (51535368773).png",
+    "model_evidence": "Fairphone 4"
+   },
+   {
+    "commons_file": "File:Back Side Tilted grey (51534331412).png",
+    "model_evidence": "Fairphone 4"
+   }
+  ],
+  "review_notes": [
+   "Fairphone's FAQ does not state the RAM/storage configuration; confirm the exact configuration with the supplier before listing."
+  ]
+ },
+ {
+  "handle": "real-fairphone-3",
+  "brand": "Fairphone",
+  "model": "Fairphone 3",
+  "variant_title": "Default",
+  "category_handle": "smartphone",
+  "title": "Fairphone 3",
+  "subtitle": "Modular, repairable phone | 12MP camera | NFC",
+  "description": "Fairphone 3 is the 2019 modular smartphone built for self-repair, with a 12MP rear camera, an 8MP front camera, a replaceable battery, NFC for contactless payments and a translucent back cover. Specifications were verified against Fairphone's official support FAQ.",
+  "highlights": [
+   "Modular, user-repairable design",
+   "12MP rear and 8MP front cameras",
+   "Replaceable battery",
+   "NFC with Google Pay support"
+  ],
+  "spec_source": {
+   "url": "https://support.fairphone.com/hc/en-us/articles/360047776791-Fairphone-3-Frequently-Asked-Questions-FAQ",
+   "publisher": "Fairphone B.V."
+  },
+  "model_match": [
+   "Fairphone 3"
+  ],
+  "specs": [
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "158 x 71.8 x 9.89 mm",
+    "evidence": "length 158 mm width 71.8 mm thickness 9.89 mm"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "189 g",
+    "evidence": "thickness 9.89 mm weight 189g"
+   },
+   {
+    "group": "Audio",
+    "label": "Speaker loudness",
+    "value": "94 dB at 10 cm",
+    "evidence": "external speaker loudness (db) 94 @ 10cm 96 @ 10cm"
+   },
+   {
+    "group": "General",
+    "label": "Year of release",
+    "value": "2019",
+    "evidence": "year of release 2019 2020"
+   },
+   {
+    "group": "Camera",
+    "label": "Cameras",
+    "value": "12MP rear, 8MP front",
+    "evidence": "fairphone 3 fairphone 3+ rear camera 12mp 48mp (12mp output) front camera 8mp 16mp"
+   },
+   {
+    "group": "Connectivity",
+    "label": "NFC",
+    "value": "Yes, with Google Pay",
+    "evidence": "fairphone 3 and 3+ come with nfc technology"
+   },
+   {
+    "group": "Software",
+    "label": "Launch OS",
+    "value": "Android 9",
+    "evidence": "the fairphone 3, launched in 2019 with android 9"
+   },
+   {
+    "group": "Connectivity",
+    "label": "5G",
+    "value": "No",
+    "evidence": "does the fairphone 3 and fairphone 3+ have 5g? no"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Fairphone 3 Angle (48858511188).png",
+    "model_evidence": "Fairphone 3"
+   },
+   {
+    "commons_file": "File:Fairphone 3 Back (48858867936).png",
+    "model_evidence": "Fairphone 3"
+   }
+  ],
+  "review_notes": [
+   "Fairphone's FAQ does not state the RAM/storage configuration; confirm the exact configuration with the supplier before listing.",
+   "The camera spec is read from the FAQ's Fairphone 3 vs 3+ comparison table (first column is Fairphone 3)."
+  ]
+ },
+ {
+  "handle": "real-fairphone-3-plus",
+  "brand": "Fairphone",
+  "model": "Fairphone 3+",
+  "variant_title": "Default",
+  "category_handle": "smartphone",
+  "title": "Fairphone 3+",
+  "subtitle": "Modular, repairable phone | 48MP camera | NFC",
+  "description": "Fairphone 3+ is the 2020 upgrade of the modular Fairphone 3, with a 48MP rear camera based on the Samsung GM1 sensor (12MP output), a 16MP front camera, a louder 96 dB speaker and a replaceable battery. Specifications were verified against Fairphone's official support FAQ.",
+  "highlights": [
+   "Modular, user-repairable design",
+   "48MP Samsung GM1 rear camera (12MP output)",
+   "16MP front camera",
+   "NFC with Google Pay support"
+  ],
+  "spec_source": {
+   "url": "https://support.fairphone.com/hc/en-us/articles/360047776791-Fairphone-3-Frequently-Asked-Questions-FAQ",
+   "publisher": "Fairphone B.V."
+  },
+  "model_match": [
+   "Fairphone 3+"
+  ],
+  "specs": [
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "158 x 71.8 x 9.89 mm",
+    "evidence": "what is the size of fairphone 3 and 3+? length 158 mm width 71.8 mm thickness 9.89 mm"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "189 g",
+    "evidence": "thickness 9.89 mm weight 189g"
+   },
+   {
+    "group": "Audio",
+    "label": "Speaker loudness",
+    "value": "96 dB at 10 cm",
+    "evidence": "external speaker loudness (db) 94 @ 10cm 96 @ 10cm"
+   },
+   {
+    "group": "General",
+    "label": "Year of release",
+    "value": "2020",
+    "evidence": "year of release 2019 2020"
+   },
+   {
+    "group": "Camera",
+    "label": "Rear camera",
+    "value": "48MP Samsung GM1",
+    "evidence": "the raw sensor (the samsung gm1) is 48mp"
+   },
+   {
+    "group": "Camera",
+    "label": "Cameras",
+    "value": "48MP (12MP output) rear, 16MP front",
+    "evidence": "fairphone 3 fairphone 3+ rear camera 12mp 48mp (12mp output) front camera 8mp 16mp"
+   },
+   {
+    "group": "Connectivity",
+    "label": "NFC",
+    "value": "Yes, with Google Pay",
+    "evidence": "fairphone 3 and 3+ come with nfc technology"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Fairphone 3+ Product 1 (2) (50273819408).png",
+    "model_evidence": "Fairphone 3+"
+   },
+   {
+    "commons_file": "File:Fairphone 3+ Product3 (50273819243).png",
+    "model_evidence": "Fairphone 3+"
+   }
+  ],
+  "review_notes": [
+   "Fairphone's FAQ does not state the RAM/storage configuration; confirm the exact configuration with the supplier before listing.",
+   "Camera specs are read from the FAQ's Fairphone 3 vs 3+ comparison table (second column is Fairphone 3+)."
+  ]
+ },
+ {
+  "handle": "real-oneplus-9-pro-12gb-256gb",
+  "brand": "OnePlus",
+  "model": "OnePlus 9 Pro",
+  "variant_title": "12GB+256GB",
+  "category_handle": "smartphone",
+  "title": "OnePlus 9 Pro (12GB+256GB)",
+  "subtitle": "6.7-inch QHD+ LTPO Fluid AMOLED | Snapdragon 888 | 50W wireless",
+  "description": "OnePlus 9 Pro with 12GB of LPDDR5 RAM and 256GB of UFS 3.1 storage, a 6.7-inch QHD+ 120Hz Fluid AMOLED display with LTPO, the Snapdragon 888, a 48MP Sony IMX789 main camera with OIS, and a 4500mAh battery with Warp Charge 65T and 50W wireless charging. Specifications were verified against OnePlus's official specs page.",
+  "highlights": [
+   "6.7-inch QHD+ 120Hz Fluid AMOLED with LTPO",
+   "Snapdragon 888",
+   "48MP main, 50MP ultra-wide, 8MP telephoto",
+   "4500mAh with 65T wired and 50W wireless"
+  ],
+  "spec_source": {
+   "url": "https://www.oneplus.com/global/9-pro/specs",
+   "publisher": "OnePlus"
+  },
+  "model_match": [
+   "OnePlus 9 Pro"
+  ],
+  "specs": [
+   {
+    "group": "Build",
+    "label": "Dimensions and weight",
+    "value": "163.2 x 73.6 x 8.7 mm, 197 g",
+    "evidence": "height: 163.2 mm width: 73.6 mm thickness: 8.7 mm weight: 197g"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.7-inch, 3216 x 1440, 525 ppi, 120Hz Fluid AMOLED with LTPO",
+    "evidence": "size: 6.7 inches (measured diagonally from corner to corner.) resolution: 3216 x 1440 pixels 525 ppi aspect ratio: 20.1:9 type: 120 hz fluid amoled with ltpo"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Snapdragon 888",
+    "evidence": "cpu: qualcomm® snapdragontm 888"
+   },
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "12GB LPDDR5, 256GB UFS 3.1",
+    "evidence": "ram: 12gb lpddr5 storage: 256gb ufs 3.1 2-lane"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery and charging",
+    "value": "4500mAh, Warp Charge 65T, 50W wireless",
+    "evidence": "battery: 4,500 mah (2s1p 2,250 mah, non-removable) warp charge 65t (10v/6.5a) 50w wireless charging"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "48MP Sony IMX789, OIS, f/1.8",
+    "evidence": "main camera sensor: sony imx789 sensor size: 1/1.43\" megapixels: 48 pixel size: 1.12μm ois: yes lens quantity: 7p focal length: 23mm equivalent aperture: ƒ/1.8"
+   },
+   {
+    "group": "Camera",
+    "label": "Telephoto camera",
+    "value": "8MP, OIS, f/2.4",
+    "evidence": "telephoto camera megapixels: 8 pixel size: 1.0μm ois: yes aperture: ƒ/2.4"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "16MP Sony IMX471, f/2.4",
+    "evidence": "front camera sensor: sony imx471 megapixels: 16 pixel size: 1.0 μm eis: yes autofocus: fixed focus aperture: ƒ/2.4"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:OnePlus 9 Pro back.jpg",
+    "model_evidence": "OnePlus 9 Pro"
+   },
+   {
+    "commons_file": "File:OnePlus 9 Pro Camera Module.jpg",
+    "model_evidence": "OnePlus 9 Pro"
+   }
+  ]
+ },
+ {
+  "handle": "real-oneplus-8t-8gb-128gb",
+  "brand": "OnePlus",
+  "model": "OnePlus 8T",
+  "variant_title": "8GB+128GB",
+  "category_handle": "smartphone",
+  "title": "OnePlus 8T (8GB+128GB)",
+  "subtitle": "6.55-inch 120Hz Fluid AMOLED | Snapdragon 865 | Warp Charge 65",
+  "description": "OnePlus 8T with 8GB of LPDDR4X RAM and 128GB of UFS 3.1 storage, a 6.55-inch 120Hz Fluid AMOLED display, the Snapdragon 865, a 48MP Sony IMX586 main camera with OIS and a 4500mAh battery with Warp Charge 65. Specifications were verified against OnePlus's official specs page.",
+  "highlights": [
+   "6.55-inch 120Hz Fluid AMOLED",
+   "Snapdragon 865",
+   "48MP main camera with OIS",
+   "4500mAh with Warp Charge 65"
+  ],
+  "spec_source": {
+   "url": "https://www.oneplus.com/global/8t/specs",
+   "publisher": "OnePlus"
+  },
+  "model_match": [
+   "OnePlus 8T"
+  ],
+  "specs": [
+   {
+    "group": "Build",
+    "label": "Dimensions and weight",
+    "value": "160.7 x 74.1 x 8.4 mm, 188 g",
+    "evidence": "height: 160.7 mm width: 74.1 mm thickness: 8.4 mm weight: 188g"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.55-inch, 2400 x 1080, 402 ppi, 120Hz Fluid AMOLED",
+    "evidence": "size: 6.55 inches (measured diagonally from corner to corner) resolution: 2400 x 1080 pixels 402 ppi aspect ratio: 20:9 type: 120 hz fluid amoled"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Snapdragon 865",
+    "evidence": "cpu: qualcomm® snapdragontm 865"
+   },
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "8GB LPDDR4X, 128GB UFS 3.1",
+    "evidence": "ram: 8gb/12gb lpddr4x storage: 128gb/256gb ufs 3.1 2-lane"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery and charging",
+    "value": "4500mAh, Warp Charge 65",
+    "evidence": "battery: 4,500 mah (2s1p 2,250 mah, non-removable) warp charge 65 (10v/6.5a)"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "48MP Sony IMX586",
+    "evidence": "main camera sensor: sony imx586 megapixels: 48"
+   },
+   {
+    "group": "Camera",
+    "label": "Ultra-wide camera",
+    "value": "16MP, f/2.2, 123°",
+    "evidence": "ultra wide angle lens megapixels: 16 aperture: f/2.2 field of view: 123°"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "16MP Sony IMX471, f/2.4",
+    "evidence": "front camera sensor: sony imx471 megapixels: 16 pixel size: 1.0 μm eis: yes autofocus: fixed focus aperture: f/2.4"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:OnePlus 8T.jpg",
+    "model_evidence": "OnePlus 8T"
+   },
+   {
+    "commons_file": "File:OnePlus 8T Front View.png",
+    "model_evidence": "OnePlus 8T"
+   }
+  ]
+ },
+ {
+  "handle": "real-oneplus-13-12gb-256gb",
+  "brand": "OnePlus",
+  "model": "OnePlus 13",
+  "variant_title": "12GB+256GB",
+  "category_handle": "smartphone",
+  "title": "OnePlus 13 (12GB+256GB)",
+  "subtitle": "6.82-inch QHD+ LTPO 4.1 | Snapdragon 8 Elite | 6000mAh",
+  "description": "OnePlus 13 with 12GB of LPDDR5X RAM and 256GB of UFS 4.0 storage, a 6.82-inch QHD+ ProXDR LTPO 4.1 display reaching 4500 nits peak, the Snapdragon 8 Elite, a 50MP Sony LYT-808 main camera and a 6000mAh battery with 100W wired and 50W wireless charging. Specifications were verified against OnePlus's official specs page.",
+  "highlights": [
+   "6.82-inch QHD+ LTPO 4.1, up to 4500 nits",
+   "Snapdragon 8 Elite",
+   "50MP Sony LYT-808 main camera",
+   "6000mAh with 100W wired and 50W wireless"
+  ],
+  "spec_source": {
+   "url": "https://www.oneplus.com/global/13/specs",
+   "publisher": "OnePlus"
+  },
+  "model_match": [
+   "OnePlus 13"
+  ],
+  "specs": [
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "162.9 x 76.5 x 8.5 mm (Arctic Dawn/Black Eclipse)",
+    "evidence": "height: 162.9 mm width: 76.5 mm thickness: 8.5 mm (arctic dawn/black eclipse)"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.82-inch QHD+, 3168 x 1440, 510 ppi",
+    "evidence": "6.82 inches, measured diagonally from corner to corner) resolution: 3168*1440 (qhd+), 510 ppi"
+   },
+   {
+    "group": "Display",
+    "label": "Brightness and refresh",
+    "value": "1600 / 4500 nits, 1-120Hz",
+    "evidence": "hbm / peak brightness: 1600 / 4500 nits refresh rate: 1-120 hz dynamic"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Snapdragon 8 Elite",
+    "evidence": "platform: snapdragon® 8 elite mobile platform"
+   },
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "12GB LPDDR5X, 256GB UFS 4.0",
+    "evidence": "ram: 12gb/16gb lpddr5x storage: 256gb/512gb ufs 4.0"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery",
+    "value": "6000mAh",
+    "evidence": "battery: 6,000 mah (dual-cell 3,000 mah, non-removable)"
+   },
+   {
+    "group": "Battery",
+    "label": "Charging",
+    "value": "100W SUPERVOOC, 50W AIRVOOC",
+    "evidence": "100w supervooctm 50w airvooc"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "50MP Sony LYT-808",
+    "evidence": "wide camera sensor: sony lyt-808 sensor size: 1/1.4\" megapixels: 50"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "32MP Sony IMX615",
+    "evidence": "front camera sensor: sony imx615 megapixels: 32"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:OnePlus 13 back.jpg",
+    "model_evidence": "OnePlus 13"
+   },
+   {
+    "commons_file": "File:OnePlus 13 volume slider.jpg",
+    "model_evidence": "OnePlus 13"
+   }
+  ]
+ },
+ {
+  "handle": "real-google-pixel-6-128gb",
+  "brand": "Google",
+  "model": "Pixel 6",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Google Pixel 6 (128GB)",
+  "subtitle": "6.4-inch 90Hz OLED | Google Tensor | 50MP camera",
+  "description": "Google Pixel 6 with 128GB of storage and 8GB of RAM, built around the first-generation Google Tensor chip, with a 6.4-inch 90Hz OLED display, a 50MP wide plus 12MP ultrawide camera pair and a 4614 mAh typical battery. Specifications were verified against Google's official Pixel hardware tech specs page.",
+  "highlights": [
+   "6.4-inch FHD+ OLED, up to 90Hz",
+   "Google Tensor with Titan M2",
+   "50MP wide and 12MP ultrawide cameras",
+   "4614 mAh typical battery"
+  ],
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 6 tech specs",
+   "scope_end": "tech specs"
+  },
+  "model_match": [
+   "Pixel 6"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.4-inch FHD+ OLED, 1080 x 2400, 411 ppi",
+    "evidence": "display full-screen 6.4-inch (163 mm) 1 display 20:9 aspect ratio fhd+ (1080 x 2400) oled at 411 ppi"
+   },
+   {
+    "group": "Display",
+    "label": "Refresh rate",
+    "value": "Up to 90Hz",
+    "evidence": "smooth display (up to 90 hz 2 )"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Google Tensor",
+    "evidence": "processors google tensor titan m2 tm security coprocessor"
+   },
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "8GB LPDDR5 RAM, 128GB UFS 3.1",
+    "evidence": "memory 8 gb lpddr5 ram storage us, ca, jp, au, tw: 128 gb /256 gb ufs 3.1 storage"
+   },
+   {
+    "group": "Camera",
+    "label": "Wide camera",
+    "value": "50MP, f/1.85",
+    "evidence": "50 mp octa pd quad bayer wide camera 1.2 μm pixel width ƒ/1.85 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Ultrawide camera",
+    "value": "12MP, f/2.2",
+    "evidence": "12 mp ultrawide camera 7 1.25 μm pixel width ƒ/2.2 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "8MP, f/2.0",
+    "evidence": "front camera 8 mp 1.12 μm pixel width ƒ/2.0 aperture fixed focus"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery capacity",
+    "value": "4614 mAh typical (4524 mAh minimum)",
+    "evidence": "minimum 4524 mah typical 4614 mah"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "158.6 x 74.8 x 8.9 mm",
+    "evidence": "158.6 height x 74.8 width x 8.9 depth (mm)"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "207 g",
+    "evidence": "weight 207 g 7.30 oz"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Google Pixel 6 Sorta Seafoam front.jpg",
+    "model_evidence": "Pixel 6"
+   },
+   {
+    "commons_file": "File:Google Pixel 6 Sorta Seafoam rear.jpg",
+    "model_evidence": "Pixel 6"
+   }
+  ]
+ },
+ {
+  "handle": "real-google-pixel-6-pro-128gb",
+  "brand": "Google",
+  "model": "Pixel 6 Pro",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Google Pixel 6 Pro (128GB)",
+  "subtitle": "6.7-inch 120Hz LTPO OLED | Google Tensor | 4x telephoto",
+  "description": "Google Pixel 6 Pro with 128GB of storage and 12GB of RAM, powered by the first-generation Google Tensor chip, with a 6.7-inch QHD+ LTPO OLED display at up to 120Hz and a triple camera system that adds a 48MP 4x telephoto. Specifications were verified against Google's official Pixel hardware tech specs page.",
+  "highlights": [
+   "6.7-inch QHD+ LTPO OLED, up to 120Hz",
+   "Google Tensor with 12GB RAM",
+   "50MP wide, 12MP ultrawide, 48MP 4x telephoto",
+   "5003 mAh typical battery"
+  ],
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 6 pro tech specs",
+   "scope_end": "tech specs"
+  },
+  "model_match": [
+   "Pixel 6 Pro"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.7-inch QHD+ LTPO OLED, 1440 x 3120, 512 ppi",
+    "evidence": "display full-screen 6.7-inch (170 mm) 1 display 19.5:9 aspect ratio qhd+ (1440 x 3120) ltpo oled at 512 ppi"
+   },
+   {
+    "group": "Display",
+    "label": "Refresh rate",
+    "value": "Up to 120Hz",
+    "evidence": "smooth display (up to 120 hz 2 )"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Google Tensor",
+    "evidence": "processors google tensor titan m2 tm security coprocessor"
+   },
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "12GB LPDDR5 RAM, 128GB UFS 3.1",
+    "evidence": "memory 12 gb lpddr5 ram storage us & au :128 gb /256 gb /512 gb ufs 3.1 storage"
+   },
+   {
+    "group": "Camera",
+    "label": "Wide camera",
+    "value": "50MP, f/1.85",
+    "evidence": "50 mp octa pd quad bayer wide camera 1.2 μm pixel width ƒ/1.85 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Telephoto camera",
+    "value": "48MP, f/3.5, 4x optical zoom",
+    "evidence": "48 mp telephoto camera 0.8 μm pixel width ƒ/3.5 aperture 23.5° field of view 1/2\" image sensor size 4x optical zoom"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "11.1MP, f/2.2",
+    "evidence": "front camera 11.1 mp 6 1.22 μm pixel width ƒ/2.2 aperture"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery capacity",
+    "value": "5003 mAh typical (4905 mAh minimum)",
+    "evidence": "minimum 4905 mah typical 5003 mah"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "163.9 x 75.9 x 8.9 mm",
+    "evidence": "163.9 height x 75.9 width x 8.9 depth (mm)"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "210 g",
+    "evidence": "weight 210 g 7.41 oz"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Rear view of Google Pixel 6 Pro.jpg",
+    "model_evidence": "Pixel 6 Pro"
+   },
+   {
+    "commons_file": "File:Google Pixel 6 Pro with accessory box.jpg",
+    "model_evidence": "Pixel 6 Pro"
+   }
+  ]
+ },
+ {
+  "handle": "real-google-pixel-6a-128gb",
+  "brand": "Google",
+  "model": "Pixel 6a",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Google Pixel 6a (128GB)",
+  "subtitle": "6.1-inch OLED | Google Tensor | 12.2MP dual camera",
+  "description": "Google Pixel 6a with 128GB of storage and 6GB of RAM, using the Google Tensor chip with a 6.1-inch FHD+ OLED display, a 12.2MP wide plus 12MP ultrawide camera pair and a 4410 mAh typical battery. Specifications were verified against Google's official Pixel hardware tech specs page.",
+  "highlights": [
+   "6.1-inch FHD+ OLED display",
+   "Google Tensor with Titan M2",
+   "12.2MP wide and 12MP ultrawide cameras",
+   "4410 mAh typical battery"
+  ],
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 6a tech specs",
+   "scope_end": "tech specs"
+  },
+  "model_match": [
+   "Pixel 6a"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.134-inch FHD+ OLED, 1080 x 2400, 429 ppi",
+    "evidence": "display full-screen 6.134-inch (152.2 mm) 1 display 20:9 aspect ratio fhd + (1080 x 2400) oled at 429 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Google Tensor",
+    "evidence": "processors google tensor titan m2 tm security coprocessor"
+   },
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "6GB LPDDR5 RAM, 128GB UFS 3.1",
+    "evidence": "memory 6 gb lpddr5 ram storage 128 gb storage ufs 3.1 storage"
+   },
+   {
+    "group": "Camera",
+    "label": "Wide camera",
+    "value": "12.2MP, f/1.7",
+    "evidence": "12.2 mp dual pixel wide camera 1.4 μm pixel width ƒ/1.7 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Ultrawide camera",
+    "value": "12MP, f/2.2",
+    "evidence": "12 mp ultrawide camera 6 1.25 μm pixel width ƒ/2.2 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "8MP, f/2.0",
+    "evidence": "front camera 8 mp 1.22 μm pixel width ƒ/2.0 aperture fixed focus"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery capacity",
+    "value": "4410 mAh typical (4306 mAh minimum)",
+    "evidence": "minimum 4306 mah typical 4410 mah"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "152.2 x 71.8 x 8.9 mm",
+    "evidence": "152.2 height x 71.8 width x 8.9 depth (mm)"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "178 g",
+    "evidence": "weight 178 g 6.3 oz"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Google Pixel 6a front.jpg",
+    "model_evidence": "Pixel 6a"
+   },
+   {
+    "commons_file": "File:Google Pixel 6a back.jpg",
+    "model_evidence": "Pixel 6a"
+   }
+  ]
+ },
+ {
+  "handle": "real-google-pixel-8-pro-128gb",
+  "brand": "Google",
+  "model": "Pixel 8 Pro",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Google Pixel 8 Pro (128GB)",
+  "subtitle": "6.7-inch Super Actua LTPO OLED | Tensor G3 | 5x telephoto",
+  "description": "Google Pixel 8 Pro with 128GB of storage and 12GB of RAM, powered by Google Tensor G3, with a 6.7-inch Super Actua LTPO OLED display that runs from 1 to 120Hz and a triple rear camera system with a 48MP 5x telephoto. Specifications were verified against Google's official Pixel hardware tech specs page.",
+  "highlights": [
+   "6.7-inch Super Actua LTPO OLED, 1-120Hz",
+   "Google Tensor G3 with 12GB RAM",
+   "50MP wide, 48MP ultrawide, 48MP 5x telephoto",
+   "5050 mAh typical battery"
+  ],
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 8 pro tech specs",
+   "scope_end": "tech specs"
+  },
+  "model_match": [
+   "Pixel 8 Pro"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.7-inch Super Actua LTPO OLED, 1344 x 2992, 489 ppi",
+    "evidence": "display full-screen 6.7-inch (170 mm) 1 display 20:9 aspect ratio super actua display (1344 x 2992) ltpo oled at 489 ppi"
+   },
+   {
+    "group": "Display",
+    "label": "Refresh rate",
+    "value": "1-120Hz",
+    "evidence": "smooth display (1-120 hz 2 )"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Google Tensor G3",
+    "evidence": "processors google tensor g3 titan m2"
+   },
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "12GB LPDDR5X RAM, 128GB UFS 3.1",
+    "evidence": "memory 12 gb lpddr5x ram storage [us] 128 gb / 256 gb / 512 gb / 1 tb ufs 3.1 storage"
+   },
+   {
+    "group": "Camera",
+    "label": "Wide camera",
+    "value": "50MP, f/1.68",
+    "evidence": "50 mp octa pd wide camera 1.2 μm pixel width ƒ/1.68 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Ultrawide camera",
+    "value": "48MP with autofocus, f/1.95",
+    "evidence": "48 mp quad pd ultrawide camera with autofocus 13 0.8 μm pixel width ƒ/1.95 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Telephoto camera",
+    "value": "48MP, f/2.8, 5x optical zoom",
+    "evidence": "48 mp quad pd telephoto camera 0.7 μm pixel width ƒ/2.8 aperture 21.8° field of view 5x optical zoom"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery capacity",
+    "value": "5050 mAh typical (4950 mAh minimum)",
+    "evidence": "minimum: 4950 mah typical: 5050 mah"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "162.6 x 76.5 x 8.8 mm",
+    "evidence": "162.6 height x 76.5 width x 8.8 depth (mm)"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "213 g",
+    "evidence": "weight 213 g 7.5 oz"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Google Pixel 8 Pro.jpg",
+    "model_evidence": "Pixel 8 Pro"
+   },
+   {
+    "commons_file": "File:Google Pixel 8 Pro, shown in Shibuya Stream.jpg",
+    "model_evidence": "Pixel 8 Pro"
+   }
+  ]
+ },
+ {
+  "handle": "real-google-pixel-8a-128gb",
+  "brand": "Google",
+  "model": "Pixel 8a",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Google Pixel 8a (128GB)",
+  "subtitle": "6.1-inch 120Hz Actua OLED | Tensor G3 | 64MP camera",
+  "description": "Google Pixel 8a with 128GB of storage and 8GB of RAM, powered by Google Tensor G3, with a 6.1-inch Actua OLED display at up to 120Hz, a 64MP wide plus 13MP ultrawide camera pair and seven years of OS and security updates. Specifications were verified against Google's official Pixel hardware tech specs page.",
+  "highlights": [
+   "6.1-inch Actua OLED, up to 120Hz",
+   "Google Tensor G3",
+   "64MP wide and 13MP ultrawide cameras",
+   "7 years of OS and security updates"
+  ],
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 8a tech specs",
+   "scope_end": "tech specs"
+  },
+  "model_match": [
+   "Pixel 8a"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.1-inch Actua OLED, 1080 x 2400, 430 ppi",
+    "evidence": "display 6.1-inch actua 1 display 20:9 aspect ratio 1080 x 2400 oled at 430 ppi"
+   },
+   {
+    "group": "Display",
+    "label": "Refresh rate",
+    "value": "Up to 120Hz",
+    "evidence": "smooth display 2 (up to 120 hz)"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Google Tensor G3",
+    "evidence": "processors google tensor g3 titan m2"
+   },
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "8GB LPDDR5X RAM, 128GB UFS 3.1",
+    "evidence": "memory 8 gb lpddr5x ram storage 128 gb / 256 gb ufs 3.1 storage"
+   },
+   {
+    "group": "Camera",
+    "label": "Wide camera",
+    "value": "64MP, f/1.89",
+    "evidence": "64 mp quad pd wide camera 0.8 μm pixel width ƒ/1.89 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Ultrawide camera",
+    "value": "13MP, f/2.2",
+    "evidence": "13 mp ultrawide camera 10 1.12 μm pixel width ƒ/2.2 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "13MP, f/2.2",
+    "evidence": "front camera 13 mp 1.12 μm pixel width ƒ/2.2 aperture fixed focus"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery capacity",
+    "value": "4492 mAh typical (4404 mAh minimum)",
+    "evidence": "typical 4492 mah5 (minimum 4404 mah)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions and weight",
+    "value": "152.1 x 72.7 x 8.9 mm, 189 g",
+    "evidence": "152.1 height x 72.7 width x 8.9 depth (mm) 189 g"
+   },
+   {
+    "group": "Software",
+    "label": "Updates",
+    "value": "7 years of OS, security and Pixel Drop updates",
+    "evidence": "7 years of os, security, and pixel drop updates"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Pixel 8a.jpg",
+    "model_evidence": "Pixel 8a"
+   },
+   {
+    "commons_file": "File:Rear view of Pixel 8a.jpg",
+    "model_evidence": "Pixel 8a"
+   }
+  ]
+ },
+ {
+  "handle": "real-google-pixel-9-128gb",
+  "brand": "Google",
+  "model": "Pixel 9",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Google Pixel 9 (128GB)",
+  "subtitle": "6.3-inch 120Hz Actua OLED | Tensor G4 | 50MP + 48MP cameras",
+  "description": "Google Pixel 9 with 128GB of storage and 12GB of RAM, powered by Google Tensor G4, with a 6.3-inch Actua OLED display at 60-120Hz, a 50MP wide and 48MP ultrawide camera with macro focus, and a 10.5MP autofocus selfie camera. Specifications were verified against Google's official Pixel hardware tech specs page.",
+  "highlights": [
+   "6.3-inch Actua OLED, 60-120Hz",
+   "Google Tensor G4 with 12GB RAM",
+   "50MP wide and 48MP ultrawide with macro focus",
+   "4700 mAh typical battery"
+  ],
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 9 tech specs",
+   "scope_end": "tech specs"
+  },
+  "model_match": [
+   "Pixel 9"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.3-inch Actua OLED, 1080 x 2424, 422 ppi",
+    "evidence": "display 6.3-inch (160 mm) actua display 1 20:9 aspect ratio 1080 x 2424 oled at 422 ppi"
+   },
+   {
+    "group": "Display",
+    "label": "Refresh rate",
+    "value": "60-120Hz",
+    "evidence": "smooth display (60-120hz)"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Google Tensor G4",
+    "evidence": "processor google tensor g4 titan m2tm security coprocessor"
+   },
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "12GB RAM, 128GB storage",
+    "evidence": "memory 12 gb ram storage 128 gb / 256 gb"
+   },
+   {
+    "group": "Camera",
+    "label": "Wide camera",
+    "value": "50MP, f/1.68",
+    "evidence": "50 mp octa pd wide camera ƒ/1.68 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Ultrawide camera",
+    "value": "48MP with autofocus, f/1.7",
+    "evidence": "48 mp quad pd ultrawide camera with autofocus ƒ/1.7 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "10.5MP with autofocus, f/2.2",
+    "evidence": "front camera 10.5 mp dual pd selfie camera with autofocus ƒ/2.2 aperture"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery capacity",
+    "value": "4700 mAh typical (4558 mAh minimum)",
+    "evidence": "minimum: 4558 mah 6 typical: 4700 mah"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions and weight",
+    "value": "152.8 x 72.0 x 8.5 mm, 198 g",
+    "evidence": "152.8 height x 72.0 width x 8.5 depth (mm) 198 g"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Pixel 9.jpg",
+    "model_evidence": "Pixel 9"
+   },
+   {
+    "commons_file": "File:Camera of Google Pixel 9 - 3.jpg",
+    "model_evidence": "Pixel 9"
+   }
+  ]
+ },
+ {
+  "handle": "real-google-pixel-9-pro-128gb",
+  "brand": "Google",
+  "model": "Pixel 9 Pro",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Google Pixel 9 Pro (128GB)",
+  "subtitle": "6.3-inch Super Actua LTPO | Tensor G4 | 5x telephoto",
+  "description": "Google Pixel 9 Pro with 128GB of storage and 16GB of RAM, powered by Google Tensor G4, with a compact 6.3-inch Super Actua LTPO OLED display at 1-120Hz, a triple rear camera with a 48MP 5x telephoto and a 42MP autofocus selfie camera. Specifications were verified against Google's official Pixel hardware tech specs page.",
+  "highlights": [
+   "6.3-inch Super Actua LTPO OLED, 1-120Hz",
+   "Google Tensor G4 with 16GB RAM",
+   "50MP wide, 48MP ultrawide, 48MP 5x telephoto",
+   "42MP autofocus selfie camera"
+  ],
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 9 pro tech specs",
+   "scope_end": "tech specs"
+  },
+  "model_match": [
+   "Pixel 9 Pro"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.3-inch Super Actua LTPO OLED, 1280 x 2856, 495 ppi",
+    "evidence": "display 6.3-inch (161 mm) super actua (ltpo) display 1 20:9 aspect ratio 1280 x 2856 ltpo oled at 495 ppi"
+   },
+   {
+    "group": "Display",
+    "label": "Refresh rate",
+    "value": "1-120Hz",
+    "evidence": "smooth display (1-120hz)"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Google Tensor G4",
+    "evidence": "processor google tensor g4 titan m2tm security coprocessor"
+   },
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "16GB RAM, 128GB storage",
+    "evidence": "memory 16 gb ram storage 128 gb / 256 gb / 512 gb / 1 tb"
+   },
+   {
+    "group": "Camera",
+    "label": "Wide camera",
+    "value": "50MP, f/1.68",
+    "evidence": "50 mp octa pd wide camera ƒ/1.68 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Telephoto camera",
+    "value": "48MP, f/2.8, 5x optical zoom",
+    "evidence": "48 mp quad pd telephoto camera ƒ/2.8 aperture 22° field of view 12 5x optical zoom"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "42MP with autofocus, f/2.2",
+    "evidence": "front camera 42 mp dual pd selfie camera with autofocus ƒ/2.2 aperture"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery capacity",
+    "value": "4700 mAh typical (4558 mAh minimum)",
+    "evidence": "minimum: 4558 mah 6 typical: 4700 mah"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions and weight",
+    "value": "152.8 x 72.0 x 8.5 mm, 199 g",
+    "evidence": "152.8 height x 72.0 width x 8.5 depth (mm) 199 g"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Camera of Google Pixel 9 Pro - 1.jpg",
+    "model_evidence": "Pixel 9 Pro"
+   },
+   {
+    "commons_file": "File:Camera of Google Pixel 9 Pro - 2.jpg",
+    "model_evidence": "Pixel 9 Pro"
+   }
+  ]
+ },
+ {
+  "handle": "real-google-pixel-9-pro-xl-128gb",
+  "brand": "Google",
+  "model": "Pixel 9 Pro XL",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Google Pixel 9 Pro XL (128GB)",
+  "subtitle": "6.8-inch Super Actua LTPO | Tensor G4 | 5x telephoto",
+  "description": "Google Pixel 9 Pro XL with 128GB of storage and 16GB of RAM, powered by Google Tensor G4, with a 6.8-inch Super Actua LTPO OLED display at 1-120Hz, a triple rear camera with a 48MP 5x telephoto and a 5060 mAh typical battery. Specifications were verified against Google's official Pixel hardware tech specs page.",
+  "highlights": [
+   "6.8-inch Super Actua LTPO OLED, 1-120Hz",
+   "Google Tensor G4 with 16GB RAM",
+   "50MP wide, 48MP ultrawide, 48MP 5x telephoto",
+   "5060 mAh typical battery"
+  ],
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 9 pro xl tech specs",
+   "scope_end": "tech specs"
+  },
+  "model_match": [
+   "Pixel 9 Pro XL"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.8-inch Super Actua LTPO OLED, 1344 x 2992, 486 ppi",
+    "evidence": "display 6.8-inch super actua display (ltpo) 1 20:9 aspect ratio 1344 x 2992 ltpo oled at 486 ppi"
+   },
+   {
+    "group": "Display",
+    "label": "Refresh rate",
+    "value": "1-120Hz",
+    "evidence": "smooth display (1-120hz)"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Google Tensor G4",
+    "evidence": "processor google tensor g4 titan m2tm security coprocessor"
+   },
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "16GB RAM, 128GB storage",
+    "evidence": "memory 16 gb ram storage 128 gb / 256 gb / 512 gb / 1 tb"
+   },
+   {
+    "group": "Camera",
+    "label": "Wide camera",
+    "value": "50MP, f/1.68",
+    "evidence": "50 mp octa pd wide camera ƒ/1.68 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Telephoto camera",
+    "value": "48MP, f/2.8, 5x optical zoom",
+    "evidence": "48 mp quad pd telephoto camera ƒ/2.8 aperture 22° field of view 12 5x optical zoom"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "42MP with autofocus, f/2.2",
+    "evidence": "front camera 42 mp dual pd selfie camera with autofocus ƒ/2.2 aperture"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery capacity",
+    "value": "5060 mAh typical (4942 mAh minimum)",
+    "evidence": "typical 5060 mah (minimum 4942 mah)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "162.8 x 76.6 x 8.5 mm",
+    "evidence": "162.8 height x 76.6 width x 8.5 depth (mm)"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "221 g",
+    "evidence": "weight 221 g 7.8 oz"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Google Pixel 9 Pro XL (back).jpg",
+    "model_evidence": "Pixel 9 Pro XL"
+   },
+   {
+    "commons_file": "File:Google Pixel 9 Pro XL (front).jpg",
+    "model_evidence": "Pixel 9 Pro XL"
+   },
+   {
+    "commons_file": "File:Pixel 9 Pro XL.jpg",
+    "model_evidence": "Pixel 9 Pro XL"
+   }
+  ]
+ },
+ {
+  "handle": "real-google-pixel-9a-128gb",
+  "brand": "Google",
+  "model": "Pixel 9a",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Google Pixel 9a (128GB)",
+  "subtitle": "6.3-inch 120Hz Actua pOLED | Tensor G4 | 5100 mAh",
+  "description": "Google Pixel 9a with 128GB of storage and 8GB of RAM, powered by Google Tensor G4, with a 6.3-inch Actua pOLED display at 60-120Hz, a 48MP wide plus 13MP ultrawide camera pair and a 5100 mAh typical battery. Specifications were verified against Google's official Pixel hardware tech specs page.",
+  "highlights": [
+   "6.3-inch Actua pOLED, 60-120Hz",
+   "Google Tensor G4",
+   "48MP wide and 13MP ultrawide cameras",
+   "5100 mAh typical battery"
+  ],
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 9a tech specs",
+   "scope_end": "tech specs"
+  },
+  "model_match": [
+   "Pixel 9a"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.3-inch Actua pOLED, 1080 x 2424, 422.2 ppi",
+    "evidence": "display 6.3-inch (160mm) actua display 1 20:9 aspect ratio 1080 x 2424 poled at 422.2 ppi"
+   },
+   {
+    "group": "Display",
+    "label": "Refresh rate",
+    "value": "60-120Hz",
+    "evidence": "smooth display (60-120hz)"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Google Tensor G4",
+    "evidence": "processor google tensor g4 titan m2 security coprocessor"
+   },
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "8GB RAM, 128GB storage",
+    "evidence": "memory 8 gb ram storage 128 gb / 256 gb"
+   },
+   {
+    "group": "Camera",
+    "label": "Wide camera",
+    "value": "48MP with OIS, f/1.7",
+    "evidence": "wide camera 48 mp quad pd dual pixel with ois and claf ƒ/1.7 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Ultrawide camera",
+    "value": "13MP, f/2.2",
+    "evidence": "ultrawide camera 13 mp ultrawide camera ƒ/2.2 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "13MP, f/2.2",
+    "evidence": "front camera 13 mp selfie camera ƒ/2.2 aperture"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery capacity",
+    "value": "5100 mAh typical (5000 mAh minimum)",
+    "evidence": "typical 5100 mah (minimum 5000 mah)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions",
+    "value": "154.7 x 73.3 x 8.9 mm",
+    "evidence": "154.7 height x 73.3 width x 8.9 depth (mm)"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "185.9 g",
+    "evidence": "weight 6.6 oz 185.9 g"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Pixel 9a back.jpg",
+    "model_evidence": "Pixel 9a"
+   }
+  ]
+ },
+ {
+  "handle": "real-google-pixel-fold-256gb",
+  "brand": "Google",
+  "model": "Pixel Fold",
+  "variant_title": "256GB",
+  "category_handle": "smartphone",
+  "title": "Google Pixel Fold (256GB)",
+  "subtitle": "7.6-inch foldable OLED | Tensor G2 | 5x telephoto",
+  "description": "Google Pixel Fold with 256GB of storage and 12GB of RAM, powered by Google Tensor G2. It pairs a 5.8-inch outer OLED with a 7.6-inch inner folding OLED, both at up to 120Hz, and carries a 48MP wide, 10.8MP ultrawide and 10.8MP 5x telephoto camera. Specifications were verified against Google's official Pixel hardware tech specs page.",
+  "highlights": [
+   "7.6-inch folding OLED plus 5.8-inch cover display",
+   "Google Tensor G2 with 12GB RAM",
+   "48MP wide with 10.8MP 5x telephoto",
+   "4821 mAh typical battery"
+  ],
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel fold tech specs",
+   "scope_end": "tech specs"
+  },
+  "model_match": [
+   "Pixel Fold"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Cover display",
+    "value": "5.8-inch FHD+ OLED, 2092 x 1080, 408 ppi",
+    "evidence": "display (external cover) full-screen 5.8-inch (146.7 mm) display 1 17.4:9 aspect ratio fhd+ 2092 x 1080 oled at 408 ppi"
+   },
+   {
+    "group": "Display",
+    "label": "Inner display",
+    "value": "7.6-inch folding OLED, 2208 x 1840, 380 ppi",
+    "evidence": "display (internal folding) full-screen 7.6-inch (192.3 mm) display 1 6:5 aspect ratio 2208 x 1840 oled at 380 ppi"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Google Tensor G2",
+    "evidence": "processor google tensor g2 titan m2tm security coprocessor"
+   },
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "12GB LPDDR5 RAM, 256GB UFS 3.1",
+    "evidence": "12 gb lpddr5 ram [us, uk, de] 256 & 512 gb ufs 3.1 storage"
+   },
+   {
+    "group": "Camera",
+    "label": "Wide camera",
+    "value": "48MP with OIS, f/1.7",
+    "evidence": "48 mp quad pd with ois + claf 0.8 μm pixel width ƒ/1.7 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Telephoto camera",
+    "value": "10.8MP, f/3.05, 5x optical zoom",
+    "evidence": "10.8 mp dual pd telephoto camera 1.22 μm pixel width ƒ/3.05 aperture 21.9° field of view 11 1/3.1\" image sensor size 5x optical zoom"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery capacity",
+    "value": "4821 mAh typical (4727 mAh minimum)",
+    "evidence": "minimum 4727 mah typical 4821 mah"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions folded",
+    "value": "139.7 x 79.5 x 12.1 mm",
+    "evidence": "139.7 height x 79.5 width x 12.1 depth (mm)"
+   },
+   {
+    "group": "Build",
+    "label": "Weight",
+    "value": "283 g",
+    "evidence": "weight 10 oz (283 g)"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Google Pixel Fold - 2.jpg",
+    "model_evidence": "Pixel Fold"
+   },
+   {
+    "commons_file": "File:Google Pixel Fold, shown in Shibuya Stream 10.jpg",
+    "model_evidence": "Pixel Fold"
+   }
+  ]
+ },
+ {
+  "handle": "real-google-pixel-10-pro-128gb",
+  "brand": "Google",
+  "model": "Pixel 10 Pro",
+  "variant_title": "128GB",
+  "category_handle": "smartphone",
+  "title": "Google Pixel 10 Pro (128GB)",
+  "subtitle": "6.3-inch Super Actua LTPO | Tensor G5 | 100x Pro Zoom",
+  "description": "Google Pixel 10 Pro with 128GB of storage and 16GB of RAM, powered by Google Tensor G5, with a 6.3-inch Super Actua LTPO OLED display at 1-120Hz, a 50MP wide, 48MP ultrawide and 48MP 5x telephoto camera system and a 42MP selfie camera. Specifications were verified against Google's official Pixel hardware tech specs page.",
+  "highlights": [
+   "6.3-inch Super Actua LTPO OLED, 1-120Hz",
+   "Google Tensor G5 with 16GB RAM",
+   "50MP wide, 48MP ultrawide, 48MP 5x telephoto",
+   "Pro Zoom up to 100x"
+  ],
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 10 pro tech specs",
+   "scope_end": "tech specs"
+  },
+  "model_match": [
+   "Pixel 10 Pro"
+  ],
+  "specs": [
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.3-inch Super Actua LTPO OLED, 1280 x 2856, 495 ppi",
+    "evidence": "display 6.3-inch (161 mm) super actua display 1 20:9 aspect ratio 1280 x 2856 ltpo oled at 495 ppi"
+   },
+   {
+    "group": "Display",
+    "label": "Refresh rate",
+    "value": "1-120Hz",
+    "evidence": "smooth display (1-120 hz)"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Google Tensor G5",
+    "evidence": "processor google tensor g5 titan m2"
+   },
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "16GB RAM, 128GB storage",
+    "evidence": "memory 16 gb ram storage [us]: 128 gb / 256 gb / 512 gb with zoned ufs/ 1 tb with zoned ufs"
+   },
+   {
+    "group": "Camera",
+    "label": "Wide camera",
+    "value": "50MP, f/1.68",
+    "evidence": "50 mp octa pd wide camera 12 ƒ/1.68 aperture"
+   },
+   {
+    "group": "Camera",
+    "label": "Telephoto camera",
+    "value": "48MP with OIS, f/2.8, 5x optical zoom",
+    "evidence": "48 mp quad pd telephoto camera with optical image stabilization 12 ƒ/2.8 aperture 22° field of view 13 5x optical zoom"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "42MP with autofocus, f/2.2",
+    "evidence": "front camera 42 mp dual pd selfie camera with autofocus 12 ƒ/2.2 aperture"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery capacity",
+    "value": "4870 mAh typical (4707 mAh minimum)",
+    "evidence": "typical 4870 mah (minimum 4707 mah)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions and weight",
+    "value": "152.8 x 72.0 x 8.6 mm, 207 g",
+    "evidence": "152.8 height x 72.0 width x 8.6 depth (mm) weight 7.3 oz 207 g"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Avant du Google Pixel 10 Pro pierre de lune de 256 Go.jpg",
+    "model_evidence": "Pixel 10 Pro"
+   },
+   {
+    "commons_file": "File:Arrière du Google Pixel 10 Pro pierre de lune de 256 Go.jpg",
+    "model_evidence": "Pixel 10 Pro"
+   }
+  ]
+ },
+ {
+  "handle": "real-google-pixel-watch-41mm",
+  "brand": "Google",
+  "model": "Pixel Watch",
+  "variant_title": "41mm",
+  "category_handle": "smartwatch",
+  "title": "Google Pixel Watch (41mm)",
+  "subtitle": "41mm domed AMOLED | Exynos 9110 | Wear OS",
+  "description": "The first-generation Google Pixel Watch with a 41mm recycled stainless steel case, a domed 320 ppi AMOLED display under Gorilla Glass 5, an Exynos 9110 chip with 32GB of storage and a 294 mAh battery rated for up to 24 hours. Specifications were verified against Google's official Pixel Watch technical specifications page.",
+  "highlights": [
+   "41mm stainless steel case",
+   "320 ppi AMOLED always-on display",
+   "Exynos 9110 with 32GB storage",
+   "5 ATM water resistance"
+  ],
+  "spec_source": {
+   "url": "https://support.google.com/googlepixelwatch/answer/12651869?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "google pixel watch specifications",
+   "scope_end": "accessory charger specifications"
+  },
+  "model_match": [
+   "Pixel Watch"
+  ],
+  "specs": [
+   {
+    "group": "Build",
+    "label": "Case size and weight",
+    "value": "41 mm diameter, 12.3 mm height, 36 g without band",
+    "evidence": "diameter: 41 mm height: 12.3 mm weight: 36 g (without band)"
+   },
+   {
+    "group": "Build",
+    "label": "Case material",
+    "value": "80% recycled stainless steel",
+    "evidence": "case: 80% recycled stainless steel"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "320 ppi AMOLED, DCI-P3, up to 1000 nits",
+    "evidence": "320 ppi amoled display with dci-p3 color brightness boost up to 1000 nits"
+   },
+   {
+    "group": "Performance",
+    "label": "Chip",
+    "value": "Exynos 9110 with Cortex M33 co-processor",
+    "evidence": "chip exynos 9110 soc cortex m33 co-processor"
+   },
+   {
+    "group": "Memory",
+    "label": "Storage and memory",
+    "value": "32GB eMMC, 2GB SDRAM",
+    "evidence": "storage and memory 32 gb emmc flash 9 2 gb sdram"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery",
+    "value": "294 mAh, up to 24 hours",
+    "evidence": "294 mah (typical) built-in rechargeable lithium-ion battery up to 24 hours"
+   },
+   {
+    "group": "Connectivity",
+    "label": "Connectivity",
+    "value": "Bluetooth 5.0, Wi-Fi 802.11 b/g/n, NFC",
+    "evidence": "bluetooth ® 5.0 wi-fi 802.11 b/g/n 2.4ghz nfc"
+   },
+   {
+    "group": "Build",
+    "label": "Water resistance",
+    "value": "5 ATM",
+    "evidence": "custom 3d corning ® gorilla ® glass 5 5 atm"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Google Pixel Watch - 1.jpg",
+    "model_evidence": "Pixel Watch"
+   },
+   {
+    "commons_file": "File:Google Pixel Watch - 2.jpg",
+    "model_evidence": "Pixel Watch"
+   }
+  ],
+  "review_notes": [
+   "The spec page lists LTE and Bluetooth/Wi-Fi connectivity together; confirm the connectivity variant with the supplier before listing."
+  ]
+ },
+ {
+  "handle": "real-xiaomi-13-8gb-256gb",
+  "brand": "Xiaomi",
+  "model": "Xiaomi 13",
+  "variant_title": "8GB+256GB",
+  "category_handle": "smartphone",
+  "title": "Xiaomi 13 (8GB+256GB)",
+  "subtitle": "6.36-inch 120Hz AMOLED | Snapdragon 8 Gen 2 | Leica cameras",
+  "description": "Xiaomi 13 with 8GB of LPDDR5X RAM and 256GB of UFS 4.0 storage, a 6.36-inch 120Hz AMOLED display, the Snapdragon 8 Gen 2 platform, a Leica-tuned 50MP main, 10MP telephoto and 12MP ultra-wide camera system and a 4500mAh battery with 67W wired charging. Specifications were verified against Xiaomi's official global specs page.",
+  "highlights": [
+   "6.36-inch 120Hz AMOLED",
+   "Snapdragon 8 Gen 2",
+   "Leica 50MP main, 10MP telephoto, 12MP ultra-wide",
+   "4500mAh with 67W wired and 50W wireless charging"
+  ],
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/xiaomi-13/specs/",
+   "publisher": "Xiaomi"
+  },
+  "model_match": [
+   "Xiaomi 13"
+  ],
+  "specs": [
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "8GB LPDDR5X RAM, 256GB UFS 4.0",
+    "evidence": "8gb + 256gb, 12gb+256gb lpddr5x 8533mbps ram + ufs 4.0 storage"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.36-inch FHD+ AMOLED, 2400 x 1080, 120Hz",
+    "evidence": "fhd+ 6.36\" amoled 20:9, 2400 x 1080 120hz amoled"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Snapdragon 8 Gen 2 (4nm)",
+    "evidence": "snapdragon® 8 gen 2 mobile platform 4nm"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "50MP Leica, f/1.8, HyperOIS",
+    "evidence": "leica main camera 50mp 1.0μm pixel size, 2.0μm 4-in-1 super pixel 23mm equivalent focal length f/1.8 hyperois"
+   },
+   {
+    "group": "Camera",
+    "label": "Telephoto camera",
+    "value": "Leica telephoto, 75mm equivalent, f/2.0, OIS",
+    "evidence": "1.0μm pixel size 75mm equivalent focal length f/2.0 ois"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "32MP, f/2.0",
+    "evidence": "front camera 32mp in-display selfie camera f/2.0"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery and charging",
+    "value": "4500mAh, 67W wired, 50W wireless",
+    "evidence": "67w wired turbo charging 38mins to 100% 50w wireless turbo charging 48mins to 100% 10w reverse wireless charging inbox 67w charger usb type-c 4500mah (typ)"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions and weight",
+    "value": "152.8 x 71.5 x 7.98 mm, 189 g",
+    "evidence": "height: 152.8mm width: 71.5mm thickness: 7.98mm weight: 189g"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Xiaomi 13 back.jpg",
+    "model_evidence": "Xiaomi 13"
+   },
+   {
+    "commons_file": "File:Xiaomi 13 front.jpg",
+    "model_evidence": "Xiaomi 13"
+   },
+   {
+    "commons_file": "File:Xiaomi 13 20240220.jpg",
+    "model_evidence": "Xiaomi 13"
+   }
+  ]
+ },
+ {
+  "handle": "real-xiaomi-12-8gb-256gb",
+  "brand": "Xiaomi",
+  "model": "Xiaomi 12",
+  "variant_title": "8GB+256GB",
+  "category_handle": "smartphone",
+  "title": "Xiaomi 12 (8GB+256GB)",
+  "subtitle": "6.28-inch 120Hz AMOLED | Snapdragon 8 Gen 1 | 50MP camera",
+  "description": "Xiaomi 12 with 8GB of LPDDR5 RAM and 256GB of UFS 3.1 storage, a compact 6.28-inch 120Hz AMOLED display, the Snapdragon 8 Gen 1 platform, a 50MP OIS main camera and a 4500mAh battery with 67W wired and 50W wireless charging. Specifications were verified against Xiaomi's official global specs page.",
+  "highlights": [
+   "6.28-inch 120Hz AMOLED DotDisplay",
+   "Snapdragon 8 Gen 1",
+   "50MP main camera with OIS",
+   "4500mAh with 67W wired charging"
+  ],
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/xiaomi-12/specs/",
+   "publisher": "Xiaomi"
+  },
+  "model_match": [
+   "Xiaomi 12"
+  ],
+  "specs": [
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "8GB LPDDR5 RAM, 256GB UFS 3.1",
+    "evidence": "8gb + 128gb, 8gb + 256gb, 12gb+256gb lpddr5 ram + ufs 3.1 storage"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.28-inch FHD+ AMOLED, 2400 x 1080, 419 ppi, 120Hz",
+    "evidence": "fhd+ 6.28\" amoled dotdisplay 20:9, 2400 x 1080 419 ppi refresh rate: 120hz"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Snapdragon 8 Gen 1 (4nm)",
+    "evidence": "processor snapdragon® 8 gen 1 4nm"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "50MP, f/1.88, OIS",
+    "evidence": "50mp wide angle camera 1/1.56\" sensor size 1.0μm pixel size, 2μm 4-in-1 super pixel f/1.88 ois"
+   },
+   {
+    "group": "Camera",
+    "label": "Ultra-wide camera",
+    "value": "13MP, 123° FOV, f/2.4",
+    "evidence": "13mp ultra-wide angle camera 123° fov f/2.4"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "32MP, f/2.45",
+    "evidence": "front camera 32mp in-display selfie camera f/2.45"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery and charging",
+    "value": "4500mAh, 67W wired, 50W wireless",
+    "evidence": "4500mah (typ) battery 67w wired turbo charging 50w wireless turbo charging"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions and weight",
+    "value": "152.7 x 69.9 x 8.16 mm, 180 g",
+    "evidence": "height: 152.7mm width: 69.9mm thickness: 8.16mm weight: 180g"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Xiaomi 12.jpg",
+    "model_evidence": "Xiaomi 12"
+   },
+   {
+    "commons_file": "File:The back of Xiaomi 12.jpg",
+    "model_evidence": "Xiaomi 12"
+   }
+  ]
+ },
+ {
+  "handle": "real-xiaomi-13-lite-8gb-256gb",
+  "brand": "Xiaomi",
+  "model": "Xiaomi 13 Lite",
+  "variant_title": "8GB+256GB",
+  "category_handle": "smartphone",
+  "title": "Xiaomi 13 Lite (8GB+256GB)",
+  "subtitle": "6.55-inch 120Hz AMOLED | Snapdragon 7 Gen 1 | 32MP dual selfie",
+  "description": "Xiaomi 13 Lite with 256GB of storage, a slim 7.23mm body, a 6.55-inch 120Hz AMOLED display, the Snapdragon 7 Gen 1, a 50MP Sony IMX766 main camera, a 32MP ultra-wide selfie camera and a 4500mAh battery with 67W charging. Specifications were verified against Xiaomi's official global specs page.",
+  "highlights": [
+   "6.55-inch 120Hz AMOLED, Dolby Vision",
+   "Snapdragon 7 Gen 1",
+   "50MP Sony IMX766 main camera",
+   "32MP ultra-wide selfie camera with dual flash"
+  ],
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/xiaomi-13-lite/specs/",
+   "publisher": "Xiaomi"
+  },
+  "model_match": [
+   "Xiaomi 13 Lite"
+  ],
+  "specs": [
+   {
+    "group": "Memory",
+    "label": "Storage",
+    "value": "8GB+256GB",
+    "evidence": "storage 8gb+128gb, 8gb+256gb"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.55-inch FHD+ AMOLED, 120Hz",
+    "evidence": "6.55\" fhd+ amoled display color depth: up to 68 billion colors (10-bit +2-bit) refresh rate: 120hz"
+   },
+   {
+    "group": "Display",
+    "label": "Resolution",
+    "value": "2400 x 1080, 402 ppi",
+    "evidence": "20:9, 2400 x 1080 402ppi"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions and weight",
+    "value": "159.2 x 72.7 x 7.23 mm, 171 g",
+    "evidence": "dimension: 159.2 × 72.7 × 7.23mm weight: 171g"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "50MP wide, f/1.8, Sony IMX766",
+    "evidence": "rear camera 50mp wide-angle camera 1/1.56\" sensor size 1.0 μm pixel size, 4-in-1 super pixel (12.5mp in auto mode) f/1.8 sony imx766 sensor"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "32MP ultra-wide, f/2.4",
+    "evidence": "front camera 32mp ultra-wide angle camera f/2.4"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Snapdragon 7 Gen 1 (4nm)",
+    "evidence": "processor snapdragon® 7 gen 1 4nm process technology"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery and charging",
+    "value": "4500mAh, 67W",
+    "evidence": "4500mah battery 67w turbo charging"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Xiaomi 13 Lite back.jpg",
+    "model_evidence": "Xiaomi 13 Lite"
+   },
+   {
+    "commons_file": "File:Xiaomi 13 Lite front.jpg",
+    "model_evidence": "Xiaomi 13 Lite"
+   }
+  ]
+ },
+ {
+  "handle": "real-xiaomi-14t-pro-12gb-256gb",
+  "brand": "Xiaomi",
+  "model": "Xiaomi 14T Pro",
+  "variant_title": "12GB+256GB",
+  "category_handle": "smartphone",
+  "title": "Xiaomi 14T Pro (12GB+256GB)",
+  "subtitle": "6.67-inch 144Hz AMOLED | Dimensity 9300+ | 120W HyperCharge",
+  "description": "Xiaomi 14T Pro with 12GB of LPDDR5X RAM and 256GB of UFS 4.0 storage, a 144Hz AMOLED display, the MediaTek Dimensity 9300+, a Leica-tuned 50MP Light Fusion 900 main camera with a 50MP telephoto and a 5000mAh battery with 120W wired and 50W wireless HyperCharge. Specifications were verified against Xiaomi's official global specs page.",
+  "highlights": [
+   "144Hz AMOLED, 2712 x 1220",
+   "MediaTek Dimensity 9300+",
+   "Leica 50MP Light Fusion 900 main camera",
+   "5000mAh with 120W wired and 50W wireless"
+  ],
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/xiaomi-14t-pro/specs/",
+   "publisher": "Xiaomi"
+  },
+  "model_match": [
+   "Xiaomi 14T Pro"
+  ],
+  "specs": [
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "MediaTek Dimensity 9300+ (4nm)",
+    "evidence": "processor mediatek dimensity 9300+ 4nm"
+   },
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "12GB LPDDR5X RAM, 256GB UFS 4.0",
+    "evidence": "12gb, 256gb + 8gb ultra space | 12gb, 512gb + 16gb ultra space | 12gb, 1tb + 32gb ultra space ufs 4.0 + lpddr5x 8533mbps"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions and weight",
+    "value": "160.4 x 75.1 x 8.39 mm, 209 g",
+    "evidence": "height: 160.4mm width: 75.1mm thickness: 8.39mm weight: 209g"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "AMOLED, 2712 x 1220, 446 ppi, up to 144Hz",
+    "evidence": "material: amoled resolution: 2712 x 1220, 446ppi refresh rate: up to 144hz"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "50MP Light Fusion 900, f/1.6, OIS",
+    "evidence": "main camera 50mp light fusion 900 image sensor 2.4μm 4-in-1 super pixel ƒ/1.6 ois"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "32MP, f/2.0",
+    "evidence": "front camera 32mp in-display selfie camera 32mp ƒ/2.0"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery and charging",
+    "value": "5000mAh, 120W wired, 50W wireless",
+    "evidence": "5000mah (typ) battery 120w hypercharge 50w wireless hypercharge"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Xiaomi 14T Pro.jpg",
+    "model_evidence": "Xiaomi 14T Pro"
+   },
+   {
+    "commons_file": "File:Xiaomi 14T Pro front.jpg",
+    "model_evidence": "Xiaomi 14T Pro"
+   }
+  ]
+ },
+ {
+  "handle": "real-xiaomi-13-ultra-12gb-512gb",
+  "brand": "Xiaomi",
+  "model": "Xiaomi 13 Ultra",
+  "variant_title": "12GB+512GB",
+  "category_handle": "smartphone",
+  "title": "Xiaomi 13 Ultra (12GB+512GB)",
+  "subtitle": "6.73-inch WQHD+ LTPO AMOLED | Snapdragon 8 Gen 2 | 1-inch sensor",
+  "description": "Xiaomi 13 Ultra with 12GB of LPDDR5X RAM and 512GB of UFS 4.0 storage, a 6.73-inch WQHD+ LTPO AMOLED display at 1-120Hz, the Snapdragon 8 Gen 2, a Leica quad camera built around a 1-inch 50MP main sensor and a 5000mAh battery with 90W wired and 50W wireless charging. Specifications were verified against Xiaomi's official global specs page.",
+  "highlights": [
+   "6.73-inch WQHD+ LTPO AMOLED, 1-120Hz",
+   "Snapdragon 8 Gen 2",
+   "Leica camera with 1-inch 50MP main sensor",
+   "5000mAh with 90W wired and 50W wireless"
+  ],
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/xiaomi-13-ultra/specs/",
+   "publisher": "Xiaomi"
+  },
+  "model_match": [
+   "Xiaomi 13 Ultra"
+  ],
+  "specs": [
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "12GB LPDDR5X RAM, 512GB UFS 4.0",
+    "evidence": "12gb+512gb lpddr5x 8533mbps ram + ufs 4.0 storage"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions and weight",
+    "value": "163.18 x 74.64 x 9.06 mm, 227 g",
+    "evidence": "height: 163.18mm width: 74.64mm thickness: 9.06 mm weight: 227g"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Snapdragon 8 Gen 2 (4nm)",
+    "evidence": "processor snapdragon® 8 gen 2 mobile platform 4nm"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.73-inch WQHD+ LTPO AMOLED, 3200 x 1440, 1-120Hz",
+    "evidence": "wqhd+ 6.73\" amoled display 3d-curved dispaly 20:9, 3200x1440 ltpo refresh rate: dynamic 1-120hz"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "50MP, 1-inch sensor",
+    "evidence": "main camera 1\" sensor size 50mp"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "32MP, f/2.0",
+    "evidence": "front camera 32mp in-display selfie camera f/2.0"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery and charging",
+    "value": "5000mAh, 90W wired, 50W wireless",
+    "evidence": "5000mah (typ) battery xiaomi surge battery management system 90w wired turbo charging 50w wireless turbo charging"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Xiaomi 13 Ultra.jpg",
+    "model_evidence": "Xiaomi 13 Ultra"
+   },
+   {
+    "commons_file": "File:Xiaomi 13 Ultra 20240220.jpg",
+    "model_evidence": "Xiaomi 13 Ultra"
+   }
+  ]
+ },
+ {
+  "handle": "real-xiaomi-14-ultra-16gb-512gb",
+  "brand": "Xiaomi",
+  "model": "Xiaomi 14 Ultra",
+  "variant_title": "16GB+512GB",
+  "category_handle": "smartphone",
+  "title": "Xiaomi 14 Ultra (16GB+512GB)",
+  "subtitle": "6.73-inch WQHD+ LTPO AMOLED | Snapdragon 8 Gen 3 | LYT-900",
+  "description": "Xiaomi 14 Ultra with 16GB of LPDDR5X RAM and 512GB of UFS 4.0 storage, a 6.73-inch WQHD+ LTPO AMOLED display at 1-120Hz, the Snapdragon 8 Gen 3 and a Leica camera system led by a 1-inch 50MP LYT-900 sensor with a stepless f/1.63-f/4.0 variable aperture. Specifications were verified against Xiaomi's official global specs page.",
+  "highlights": [
+   "6.73-inch WQHD+ LTPO AMOLED, 1-120Hz",
+   "Snapdragon 8 Gen 3",
+   "1-inch 50MP LYT-900 main camera, variable aperture",
+   "5000mAh battery"
+  ],
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/xiaomi-14-ultra/specs/",
+   "publisher": "Xiaomi"
+  },
+  "model_match": [
+   "Xiaomi 14 Ultra"
+  ],
+  "specs": [
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "16GB LPDDR5X RAM, 512GB UFS 4.0",
+    "evidence": "16gb + 512gb lpddr5x 8533mbps ram + ufs 4.0 storage"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions and weight",
+    "value": "161.4 x 75.3 x 9.20 mm, 219.8 g",
+    "evidence": "height: 161.4mm width: 75.3mm thickness: 9.20mm weight: 219.8g"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Snapdragon 8 Gen 3 (4nm)",
+    "evidence": "processor snapdragon® 8 gen 3 mobile platform 4nm"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.73-inch WQHD+ LTPO AMOLED, 3200 x 1440, 522 ppi, 1-120Hz",
+    "evidence": "wqhd+ 6.73\" amoled 3200 x 1440, 522 ppi ltpo, adaptivesync pro refresh rate: dynamic 1-120hz"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "50MP LYT-900, f/1.63-f/4.0 variable aperture, OIS",
+    "evidence": "main camera lyt-900 50mp 3.2μm 4-in-1 super pixel 23mm equivalent focal length f/1.63-f/4.0 stepless variable aperture ois"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "32MP, f/2.0",
+    "evidence": "front camera 32mp in-display selfie camera f/2.0"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery",
+    "value": "5000mAh",
+    "evidence": "battery & charging 5000mah (typ) battery"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:HK 中環 Central 皇后大道中 33 Queen's Road Central shop 豐澤電器 Fortress Store 手機 smartphone XiaoMi 14 Ultra watch May 2024 R12S 01.jpg",
+    "model_evidence": "XiaoMi 14 Ultra"
+   }
+  ],
+  "review_notes": [
+   "The only licensed photo is a retail display shot in a Hong Kong store; replace with a product photo when available."
+  ]
+ },
+ {
+  "handle": "real-xiaomi-redmi-note-11-6gb-128gb",
+  "brand": "Xiaomi",
+  "model": "Redmi Note 11",
+  "variant_title": "6GB+128GB",
+  "category_handle": "smartphone",
+  "title": "Redmi Note 11 (6GB+128GB)",
+  "subtitle": "6.43-inch 90Hz AMOLED | Snapdragon 680 | 50MP",
+  "description": "Redmi Note 11 with 6GB of LPDDR4X RAM and 128GB of UFS 2.2 storage, a 6.43-inch FHD+ AMOLED DotDisplay at up to 90Hz, the Snapdragon 680, a 50MP quad rear camera and a 5000mAh battery with 33W Pro fast charging. Specifications were verified against Xiaomi's official global specs page.",
+  "highlights": [
+   "6.43-inch FHD+ AMOLED, up to 90Hz",
+   "Snapdragon 680",
+   "50MP quad camera",
+   "5000mAh with 33W Pro fast charging"
+  ],
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/redmi-note-11/specs/",
+   "publisher": "Xiaomi"
+  },
+  "model_match": [
+   "Redmi Note 11"
+  ],
+  "specs": [
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "6GB LPDDR4X, 128GB UFS 2.2, expandable to 1TB",
+    "evidence": "storage and ram 4gb+64gb | 4gb+128gb | 6gb+128gb lpddr4x + ufs2.2 expandable storage up to 1tb"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions and weight",
+    "value": "159.87 x 73.87 x 8.09 mm, 179 g",
+    "evidence": "height: 159.87mm width: 73.87mm thickness: 8.09mm weight: 179g"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Snapdragon 680 (6nm), up to 2.4GHz",
+    "evidence": "processor snapdragon® 680 6nm manufacturing process cpu: octa-core cpu, up to 2.4ghz"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.43-inch FHD+ AMOLED, up to 90Hz",
+    "evidence": "display 6.43\" fhd+ amoled dotdisplay refresh rate: up to 90hz"
+   },
+   {
+    "group": "Camera",
+    "label": "Rear cameras",
+    "value": "50MP wide f/1.8, 8MP ultra-wide, 2MP macro, 2MP depth",
+    "evidence": "rear camera 50mp wide camera f/1.8 8mp ultra-wide camera f/2.2 fov 118° 2mp macro camera f/2.4 2mp depth camera f/2.4"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "13MP, f/2.4",
+    "evidence": "13mp front camera f/2.4"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery and charging",
+    "value": "5000mAh, 33W Pro",
+    "evidence": "5000mah (typ) 33w pro fast charging"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Redmi Note 11 front.jpg",
+    "model_evidence": "Redmi Note 11"
+   },
+   {
+    "commons_file": "File:Redmi Note 11 back.jpg",
+    "model_evidence": "Redmi Note 11"
+   }
+  ]
+ },
+ {
+  "handle": "real-xiaomi-redmi-note-10-pro-6gb-128gb",
+  "brand": "Xiaomi",
+  "model": "Redmi Note 10 Pro",
+  "variant_title": "6GB+128GB",
+  "category_handle": "smartphone",
+  "title": "Redmi Note 10 Pro (6GB+128GB)",
+  "subtitle": "6.67-inch AMOLED | Snapdragon 732G | 108MP",
+  "description": "Redmi Note 10 Pro with 6GB of LPDDR4X RAM and 128GB of UFS 2.2 storage, a 6.67-inch AMOLED DotDisplay, the Snapdragon 732G, a 108MP quad rear camera and a 5020mAh battery with 33W fast charging. Specifications were verified against Xiaomi's official global specs page.",
+  "highlights": [
+   "6.67-inch AMOLED DotDisplay",
+   "Snapdragon 732G",
+   "108MP quad camera",
+   "5020mAh with 33W fast charging"
+  ],
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/redmi-note-10-pro/specs/",
+   "publisher": "Xiaomi"
+  },
+  "model_match": [
+   "Redmi Note 10 Pro"
+  ],
+  "specs": [
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "6GB LPDDR4X, 128GB UFS 2.2",
+    "evidence": "storage and ram 6gb+64gb | 6gb+128gb | 8gb+128gb| 8gb+256gb lpddr4x ram + ufs 2.2"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions and weight",
+    "value": "164 x 76.5 x 8.1 mm, 193 g",
+    "evidence": "height: 164mm width: 76.5mm thickness: 8.1mm weight: 193g"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Snapdragon 732G (8nm)",
+    "evidence": "snapdragontm 732g 8nm processing technology"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.67-inch AMOLED, 2400 x 1080, 395 ppi",
+    "evidence": "6.67\" amoled dotdisplay resolution: 2400 x 1080 fhd+ 395 ppi"
+   },
+   {
+    "group": "Camera",
+    "label": "Rear cameras",
+    "value": "108MP wide, 8MP, 5MP, 2MP",
+    "evidence": "rear camera 108mp+8mp+5mp+2mp quad camera 108mp wide-angle camera"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "16MP, f/2.45",
+    "evidence": "16mp front camera f/2.45"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery and charging",
+    "value": "5020mAh, 33W",
+    "evidence": "5020mah (typ) high-capacity battery 33w fast charging"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Redmi Note 10 Pro front.jpg",
+    "model_evidence": "Redmi Note 10 Pro"
+   },
+   {
+    "commons_file": "File:Redmi Note 10 Pro Back.jpg",
+    "model_evidence": "Redmi Note 10 Pro"
+   },
+   {
+    "commons_file": "File:Redmi Note 10 Pro camera island.jpg",
+    "model_evidence": "Redmi Note 10 Pro"
+   }
+  ]
+ },
+ {
+  "handle": "real-xiaomi-redmi-note-12-pro-8gb-256gb",
+  "brand": "Xiaomi",
+  "model": "Redmi Note 12 Pro",
+  "variant_title": "8GB+256GB",
+  "category_handle": "smartphone",
+  "title": "Redmi Note 12 Pro (8GB+256GB)",
+  "subtitle": "6.67-inch 120Hz AMOLED | Snapdragon 732G | 67W",
+  "description": "Redmi Note 12 Pro (4G) with 8GB of LPDDR4X RAM and 256GB of UFS 2.2 storage, a 6.67-inch FHD+ AMOLED display at up to 120Hz, the Snapdragon 732G, a 108MP main camera and a 5000mAh battery with 67W turbo charging. Specifications were verified against Xiaomi's official global specs page.",
+  "highlights": [
+   "6.67-inch FHD+ AMOLED, up to 120Hz",
+   "Snapdragon 732G",
+   "108MP main camera",
+   "5000mAh with 67W turbo charging"
+  ],
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/redmi-note-12-pro/specs/",
+   "publisher": "Xiaomi"
+  },
+  "model_match": [
+   "Redmi Note 12 Pro"
+  ],
+  "specs": [
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "8GB LPDDR4X, 256GB UFS 2.2",
+    "evidence": "storage & ram 6gb+128gb, 8gb+128gb, 8gb+256gb lpddr4x + ufs2.2"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions and weight",
+    "value": "164.20 x 76.1 x 8.12 mm, 201.8 g",
+    "evidence": "height: 164.20mm width: 76.1mm thickness: 8.12mm weight: 201.8g"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Snapdragon 732G, up to 2.2GHz",
+    "evidence": "processor snapdragon® 732g cpu: octa-core cpu, up to 2.2ghz"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.67-inch FHD+ AMOLED, up to 120Hz",
+    "evidence": "display 6.67\" fhd+ amoled dotdisplay refresh rate: up to 120hz"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "108MP, f/1.9",
+    "evidence": "rear camera 108mp wide camera 108mp f/1.9"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "16MP, f/2.4",
+    "evidence": "16mp front camera f/2.4"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery and charging",
+    "value": "5000mAh, 67W",
+    "evidence": "5000mah (typ) 67w turbo charging"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Redmi note 12 pro 4G Gray.jpg",
+    "model_evidence": "Redmi Note 12 Pro"
+   }
+  ],
+  "review_notes": [
+   "Xiaomi's global page for this slug describes the 4G Snapdragon 732G model; the 5G model is a different product."
+  ]
+ },
+ {
+  "handle": "real-xiaomi-redmi-12-8gb-256gb",
+  "brand": "Xiaomi",
+  "model": "Redmi 12",
+  "variant_title": "8GB+256GB",
+  "category_handle": "smartphone",
+  "title": "Redmi 12 (8GB+256GB)",
+  "subtitle": "6.79-inch 90Hz FHD+ | Helio G88 | 50MP",
+  "description": "Redmi 12 with 8GB of LPDDR4X RAM and 256GB of eMMC 5.1 storage, a large 6.79-inch FHD+ display with adaptive refresh up to 90Hz, the MediaTek Helio G88, a 50MP triple rear camera and a 5000mAh battery with 18W fast charging. Specifications were verified against Xiaomi's official global specs page.",
+  "highlights": [
+   "6.79-inch FHD+ display, up to 90Hz",
+   "MediaTek Helio G88",
+   "50MP triple camera",
+   "5000mAh with 18W fast charging"
+  ],
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/redmi-12/specs/",
+   "publisher": "Xiaomi"
+  },
+  "model_match": [
+   "Redmi 12"
+  ],
+  "specs": [
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "8GB LPDDR4X, 256GB eMMC 5.1",
+    "evidence": "storage & ram 4gb+128gb | 8gb+128gb | 8gb+256gb lpddr4x + emmc 5.1"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions and weight",
+    "value": "168.60 x 76.28 x 8.17 mm, 198.5 g",
+    "evidence": "height: 168.60mm width: 76.28mm thickness: 8.17mm weight: 198.5g"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "MediaTek Helio G88 (12nm)",
+    "evidence": "processor mediatek helio g88 12nm"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.79-inch FHD+, 2460 x 1080, 396 ppi, up to 90Hz",
+    "evidence": "6.79\" fhd+ dotdisplay 2460x1080, 396 ppi contrast ratio: 1500:1 color gamut: 70% ntsc brightness: up to 550 nits (hbm) adaptivesync display: 36hz/48hz/60hz/90hz"
+   },
+   {
+    "group": "Camera",
+    "label": "Rear cameras",
+    "value": "50MP main f/1.8, 8MP ultra-wide, 2MP macro",
+    "evidence": "50mp+8mp+2mp triple camera 50mp main camera f/1.8"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "8MP, f/2.1",
+    "evidence": "front camera 8mp camera f/2.1"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery and charging",
+    "value": "5000mAh, 18W",
+    "evidence": "5000mah battery (typ) supports 18w fast charging"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Redmi 12 front.jpg",
+    "model_evidence": "Redmi 12"
+   },
+   {
+    "commons_file": "File:Redmi 12 back.jpg",
+    "model_evidence": "Redmi 12"
+   }
+  ]
+ },
+ {
+  "handle": "real-xiaomi-redmi-note-11-pro-6gb-128gb",
+  "brand": "Xiaomi",
+  "model": "Redmi Note 11 Pro",
+  "variant_title": "6GB+128GB",
+  "category_handle": "smartphone",
+  "title": "Redmi Note 11 Pro (6GB+128GB)",
+  "subtitle": "6.67-inch 120Hz AMOLED | Helio G96 | 108MP",
+  "description": "Redmi Note 11 Pro (4G) with 6GB of LPDDR4X RAM and 128GB of UFS 2.2 storage, a 6.67-inch FHD+ AMOLED display at up to 120Hz, the MediaTek Helio G96, a 108MP main camera and a 5000mAh battery with 67W turbo charging. Specifications were verified against Xiaomi's official global specs page.",
+  "highlights": [
+   "6.67-inch FHD+ AMOLED, up to 120Hz",
+   "MediaTek Helio G96",
+   "108MP main camera",
+   "5000mAh with 67W turbo charging"
+  ],
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/redmi-note-11-pro/specs/",
+   "publisher": "Xiaomi"
+  },
+  "model_match": [
+   "Redmi Note 11 Pro"
+  ],
+  "specs": [
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "6GB+128GB, LPDDR4X + UFS 2.2",
+    "evidence": "storage and ram 6+64/6+128/8+128gb lpddr4x + ufs2.2"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions and weight",
+    "value": "164.19 x 76.1 x 8.12 mm, 202 g",
+    "evidence": "height: 164.19mm width: 76.1mm thickness: 8.12mm weight: 202g"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "MediaTek Helio G96, up to 2.05GHz",
+    "evidence": "processor mediatek helio g96 cpu: octa-core cpu, up to 2.05ghz"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.67-inch FHD+ AMOLED, up to 120Hz",
+    "evidence": "display 6.67\" fhd+ amoled dotdisplay refresh rate: up to 120hz"
+   },
+   {
+    "group": "Camera",
+    "label": "Main camera",
+    "value": "108MP, f/1.9",
+    "evidence": "rear camera 108mp wide camera 108mp f/1.9"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "16MP, f/2.4",
+    "evidence": "16mp front camera f/2.4"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery and charging",
+    "value": "5000mAh, 67W",
+    "evidence": "5000mah (typ) 67w turbo charging"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Redmi Note 11 Pro front.jpg",
+    "model_evidence": "Redmi Note 11 Pro"
+   },
+   {
+    "commons_file": "File:Redmi Note 11 Pro back.jpg",
+    "model_evidence": "Redmi Note 11 Pro"
+   }
+  ],
+  "review_notes": [
+   "Xiaomi's global page for this slug describes the 4G Helio G96 model; the 5G model is a different product.",
+   "Commons photos are titled Redmi Note 11 Pro without stating 4G or 5G; confirm the pictured unit matches the 4G model."
+  ]
+ },
+ {
+  "handle": "real-xiaomi-redmi-note-12-8gb-128gb",
+  "brand": "Xiaomi",
+  "model": "Redmi Note 12",
+  "variant_title": "8GB+128GB",
+  "category_handle": "smartphone",
+  "title": "Redmi Note 12 (8GB+128GB)",
+  "subtitle": "6.67-inch 120Hz AMOLED | Snapdragon 685 | 50MP",
+  "description": "Redmi Note 12 (4G) with 8GB of LPDDR4X RAM and 128GB of UFS 2.2 storage, a 6.67-inch AMOLED DotDisplay at 120Hz, the Snapdragon 685, a 50MP triple rear camera and a 5000mAh battery with 33W fast charging. Specifications were verified against Xiaomi's official global specs page.",
+  "highlights": [
+   "6.67-inch 120Hz AMOLED DotDisplay",
+   "Snapdragon 685",
+   "50MP triple camera",
+   "5000mAh with 33W fast charging"
+  ],
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/redmi-note-12/specs/",
+   "publisher": "Xiaomi"
+  },
+  "model_match": [
+   "Redmi Note 12"
+  ],
+  "specs": [
+   {
+    "group": "Memory",
+    "label": "RAM and storage",
+    "value": "8GB+128GB LPDDR4X",
+    "evidence": "memory 4+128/6+128/8+128gb lpddr4x"
+   },
+   {
+    "group": "Build",
+    "label": "Dimensions and weight",
+    "value": "165.66 x 75.96 x 7.85 mm, 183.5 g",
+    "evidence": "165.66*75.96*7.85mm 183.5g"
+   },
+   {
+    "group": "Performance",
+    "label": "Processor",
+    "value": "Snapdragon 685 (6nm), up to 2.8GHz",
+    "evidence": "chipset snapdragon® 685 cpu: octa-core cpu, up to 2.8ghz gpu: adreno 610 6nm manufacturing process"
+   },
+   {
+    "group": "Display",
+    "label": "Display",
+    "value": "6.67-inch AMOLED, 120Hz",
+    "evidence": "display 6.67\" amoled dotdisplay refresh rate: 120hz"
+   },
+   {
+    "group": "Camera",
+    "label": "Rear cameras",
+    "value": "50MP main f/1.8, 8MP ultra-wide, 2MP macro",
+    "evidence": "rear camera 50mp main camera 50m f/1.8 8mp ultra-wide camera f/2.2 120° 2mp macro camera f/2.4"
+   },
+   {
+    "group": "Camera",
+    "label": "Front camera",
+    "value": "13MP, f/2.45",
+    "evidence": "13mp front camera f/2.45"
+   },
+   {
+    "group": "Battery",
+    "label": "Battery and charging",
+    "value": "5000mAh, 33W",
+    "evidence": "battery 5000mah (typ) charging 33w fast charging"
+   }
+  ],
+  "images": [
+   {
+    "commons_file": "File:Redmi Note 12 front.jpg",
+    "model_evidence": "Redmi Note 12"
+   },
+   {
+    "commons_file": "File:Redmi Note 12 back.jpg",
+    "model_evidence": "Redmi Note 12"
+   }
+  ],
+  "review_notes": [
+   "Xiaomi's global page for this slug describes the 4G Snapdragon 685 model; the 5G model is a different product.",
+   "Commons photos are titled Redmi Note 12 without stating 4G or 5G; confirm the pictured unit matches the 4G model."
+  ]
+ }
+]

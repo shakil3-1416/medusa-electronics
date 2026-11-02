@@ -1,0 +1,102 @@
+{
+ "handle": "real-ubiquiti-bulletm2-hp",
+ "brand": "Ubiquiti",
+ "model": "Bullet M2",
+ "mpn": "BulletM2-HP",
+ "category_handle": "router",
+ "title": "Ubiquiti airMAX Bullet M2 HP",
+ "subtitle": "2.4 GHz airMAX | N-type antenna mount | passive PoE",
+ "description": "Rugged 2.4 GHz airMAX radio that screws directly onto an N-type antenna, used for outdoor point-to-point and hotspot links. Specifications verified against Ubiquiti's official tech specs page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "1 x 10/100"
+  },
+  {
+   "group": "Connectivity",
+   "label": "RF connector",
+   "value": "Integrated N-type male"
+  },
+  {
+   "group": "Power",
+   "label": "Power method",
+   "value": "Passive PoE, 24 V"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "7 W"
+  },
+  {
+   "group": "Physical",
+   "label": "Size",
+   "value": "152 x 37 x 31 mm"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight",
+   "value": "180 g"
+  },
+  {
+   "group": "General",
+   "label": "Operating temperature",
+   "value": "-40 to 70 C"
+  }
+ ],
+ "highlights": [
+  "2.4 GHz airMAX radio",
+  "Integrated N-type male connector",
+  "10/100 Ethernet, passive PoE",
+  "-40 to 70 C operation"
+ ],
+ "review_notes": [
+  "Photo file is 'UbiquitiBulletM2'; HP variant inferred."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://techspecs.ui.com/uisp/wireless/bulletm2-hp",
+   "publisher": "Ubiquiti",
+   "final_url": "https://techspecs.ui.com/uisp/wireless/bulletm2-hp",
+   "retrieved_at": "2026-11-02T18:28:03+00:00",
+   "sha256": "fb8e073773de09e177d07dde2cd55718a88ea2b37e30e5930c50dada7a736717",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:09:46+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:UbiquitiBulletM2.JPG",
+   "categories": [
+    "Category:CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+    "Category:GFDL",
+    "Category:License migration redundant",
+    "Category:Network hardware",
+    "Category:Self-published work",
+    "Category:Taken with Samsung ST93",
+    "Category:Ubiquiti"
+   ],
+   "width": 4608,
+   "height": 3456,
+   "mime": "image/jpeg",
+   "sha1": "e4694be578b2cbddf013d676896d249e6edbcbbf",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/UbiquitiBulletM2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/UbiquitiBulletM2.JPG/1280px-UbiquitiBulletM2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:UbiquitiBulletM2.JPG",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Azcarlos2",
+   "credit": "Own work",
+   "description": "Un Bullet M2 HP de 28 db conectado y encendido.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-ubiquiti-bulletm2-hp/1-card.jpg",
+   "local_path": "/catalog-real/real-ubiquiti-bulletm2-hp/1.jpg",
+   "local_sha256": "9ff35291e6f8d64e58f9421d7e3be8227755e05574f4f489ba11967fc0e92e0b",
+   "local_bytes": 170274
+  }
+ ]
+}

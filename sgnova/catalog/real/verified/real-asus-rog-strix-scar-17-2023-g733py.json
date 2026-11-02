@@ -69,7 +69,7 @@
    "sha256": "d4913e71e100c24cbaed090093981fcf065e4eadf0af0957c0b800436e29cc15",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:02:23+00:00",
+  "verified_at": "2026-11-02T19:01:03+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -97,9 +97,10 @@
    "description": "The ASUS ROG Strix Scar laptop with AMD Ryzen 9 7945HX, GeForce RTX 4090 and DDR5-4800 SODIMM RAM.",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-asus-rog-strix-scar-17-2023-g733py/1-card.jpg",
    "local_path": "/catalog-real/real-asus-rog-strix-scar-17-2023-g733py/1.png",
-   "local_sha256": "ad45a4ee3765d943b9f23684c603885335c89779733a8f04fbcef7a874b990a3",
-   "local_bytes": 291160
+   "local_sha256": "3f79427925894ebd9fa43bb9fe475962f7a6cd0465a7d88d66dadab4a354d1bf",
+   "local_bytes": 392657
   }
  ]
 }

@@ -1,0 +1,121 @@
+{
+ "handle": "real-tp-link-tl-mr3020",
+ "brand": "TP-Link",
+ "model": "TL-MR3020",
+ "mpn": null,
+ "category_handle": "router",
+ "title": "TP-Link TL-MR3020 Portable 3G/4G Travel Router",
+ "subtitle": "USB modem sharing | 2.4 GHz N | mini-USB powered",
+ "description": "Pocket travel router that shares a 3G/4G USB modem or a wired connection over 2.4 GHz Wi-Fi, powered from mini-USB. Specifications verified against TP-Link's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "Interface",
+   "value": "1 x 10/100 WAN/LAN, USB 2.0 for modem, mini-USB power"
+  },
+  {
+   "group": "Power",
+   "label": "Power supply",
+   "value": "5 V DC 1.0 A"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "74 x 67 x 22 mm"
+  },
+  {
+   "group": "Wireless",
+   "label": "Standards",
+   "value": "IEEE 802.11n/g/b"
+  },
+  {
+   "group": "Wireless",
+   "label": "Wireless modes",
+   "value": "3G router, travel router (AP), WISP client router"
+  },
+  {
+   "group": "Physical",
+   "label": "Antenna",
+   "value": "Internal"
+  }
+ ],
+ "highlights": [
+  "Shares a 3G/4G USB modem",
+  "3G router, travel AP and WISP modes",
+  "One 10/100 WAN/LAN port",
+  "74 x 67 x 22 mm"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.tp-link.com/us/home-networking/3g-4g-router/tl-mr3020/",
+   "publisher": "TP-Link",
+   "final_url": "https://www.tp-link.com/us/home-networking/5g-4g-router/tl-mr3020/",
+   "retrieved_at": "2026-11-02T18:01:24+00:00",
+   "sha256": "6a675e3aed132b658536313bc4e853ab7008fd580f97c09094c98b438fb858cf",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:08:15+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:IFA2012 TP-Link TL-MR3020 1.jpg",
+   "categories": [
+    "Category:CC-BY-SA-3.0",
+    "Category:Internationale Funkausstellung 2012/Reviewed",
+    "Category:Self-published work",
+    "Category:Supported by Wikimedia Deutschland",
+    "Category:Taken with Canon EOS 450D"
+   ],
+   "width": 4272,
+   "height": 2848,
+   "mime": "image/jpeg",
+   "sha1": "7739159c35b5c33d3f0014b59329643a7e5c25b9",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/IFA2012_TP-Link_TL-MR3020_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/IFA2012_TP-Link_TL-MR3020_1.jpg/1280px-IFA2012_TP-Link_TL-MR3020_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IFA2012_TP-Link_TL-MR3020_1.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "artist": "Michael Movchin",
+   "credit": "Own work",
+   "description": "Internationale Funkausstellung 2012, TP-Link TL-MR3020, mobiler 3G-WLAN Router - welcher entweder via UMTS-USB-Stick an das mobile Datennetz angeschlossen werden kann und eine WLAN- und LAN-Verbindung bereitstellt oder aber via WAP an ein LAN-Netzwerk angeschlossen wird und als Access Point fungiert, indem er eine WLAN-Verbindung aufbaut",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-tp-link-tl-mr3020/1-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-tl-mr3020/1.jpg",
+   "local_sha256": "11baadf2b114367108c1f16b102616f3f2dfb8a87c97e49866613cd599b3a54f",
+   "local_bytes": 89682
+  },
+  {
+   "title": "File:TP-LINK TL-MR3020 LAN-connector.jpg",
+   "categories": [
+    "Category:CC-Zero",
+    "Category:Files by Markus Bärlocher",
+    "Category:Network routers",
+    "Category:Self-published work",
+    "Category:Taken with Polaroid i533"
+   ],
+   "width": 800,
+   "height": 600,
+   "mime": "image/jpeg",
+   "sha1": "688c01dfc2156873aa2d6e9082a2c2c819de68bc",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/TP-LINK_TL-MR3020_LAN-connector.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/TP-LINK_TL-MR3020_LAN-connector.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "page_url": "https://commons.wikimedia.org/wiki/File:TP-LINK_TL-MR3020_LAN-connector.jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "artist": "Markus Bärlocher",
+   "credit": "Own work",
+   "description": "TP-LINK TL-MR3020, mobile 3G-WLAN Router, LAN-connector, Power, Switch",
+   "attribution_required": "false",
+   "index": 2,
+   "card_path": "/catalog-real/real-tp-link-tl-mr3020/2-card.jpg",
+   "local_path": "/catalog-real/real-tp-link-tl-mr3020/2.jpg",
+   "local_sha256": "c3446d1944099d9a1b0f5292238d363776bd0c7a7bcce5b3f0126dab1c4ea526",
+   "local_bytes": 104764
+  }
+ ]
+}

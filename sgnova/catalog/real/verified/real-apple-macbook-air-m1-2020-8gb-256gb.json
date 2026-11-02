@@ -1,0 +1,154 @@
+{
+ "handle": "real-apple-macbook-air-m1-2020-8gb-256gb",
+ "brand": "Apple",
+ "model": "MacBook Air (M1, 2020)",
+ "mpn": null,
+ "category_handle": "business-laptop",
+ "title": "Apple MacBook Air 13-inch (M1, 2020) 8GB / 256GB",
+ "subtitle": "13.3-inch Retina | Apple M1 | 8GB unified memory",
+ "description": "Fanless 13.3-inch MacBook Air built on Apple's first M1 chip, configured with 8GB of unified memory and a 256GB SSD. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "Apple M1 7-core GPU / 8GB / 256GB",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "Apple M1, 8-core CPU, 7-core GPU"
+  },
+  {
+   "group": "Memory",
+   "label": "Memory",
+   "value": "8GB unified memory"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "13.3-inch LED-backlit display with IPS technology"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2560 x 1600 at 227 ppi"
+  },
+  {
+   "group": "Display",
+   "label": "Brightness",
+   "value": "400 nits"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery life",
+   "value": "Up to 15 hours wireless web"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery",
+   "value": "49.9Wh lithium-polymer"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "1.29 kg"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "Wi-Fi 6 (802.11ax)"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.0"
+  },
+  {
+   "group": "Camera",
+   "label": "Camera",
+   "value": "720p FaceTime HD camera"
+  },
+  {
+   "group": "Storage",
+   "label": "Storage",
+   "value": "256GB SSD"
+  }
+ ],
+ "highlights": [
+  "Apple M1 with 8-core CPU and 7-core GPU",
+  "13.3-inch Retina display, 400 nits",
+  "Up to 15 hours wireless web",
+  "Wi-Fi 6 and Bluetooth 5.0"
+ ],
+ "review_notes": [
+  "Apple's spec page lists 128GB SSD configurable to 256GB; this listing uses the 256GB configuration.",
+  "Photos are cut-out PNGs from Commons; confirm they are photographs rather than renders."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/111883",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/111883",
+   "retrieved_at": "2026-11-02T17:50:48+00:00",
+   "sha256": "a3e596cb93112d78233b80773fa7613ec35fa35dad1a7bec6c5d8f52242c2009",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:06:04+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:MacBook Air M1.png",
+   "categories": [
+    "Category:2020s laptops",
+    "Category:CC-BY-SA-4.0",
+    "Category:Computers running macOS",
+    "Category:Computers with Wikipedia displayed on the screen",
+    "Category:MacBook Air (4th generation (2020–2024), M1)",
+    "Category:Self-published work",
+    "Category:Trademarks and logos of Wikimedia"
+   ],
+   "width": 2953,
+   "height": 2380,
+   "mime": "image/png",
+   "sha1": "44742dffdf3a4c4e7c0d021429f151977ebc013f",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/MacBook_Air_M1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/MacBook_Air_M1.png/1280px-MacBook_Air_M1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:MacBook_Air_M1.png",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Padgriffin",
+   "credit": "Own work",
+   "description": "2020 Apple MacBook Air M1 showing the Wikipedia landing Page.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-macbook-air-m1-2020-8gb-256gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-macbook-air-m1-2020-8gb-256gb/1.png",
+   "local_sha256": "f0d8b81a75ac5041b7533666469437df47ab949db0a4161495b86664fcc7c67c",
+   "local_bytes": 1628720
+  },
+  {
+   "title": "File:Macbook Air M1 Silver PNG.png",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:MacBook Air (4th generation (2020–2024), M1)",
+    "Category:Self-published work"
+   ],
+   "width": 2386,
+   "height": 2386,
+   "mime": "image/png",
+   "sha1": "76db743fe8983595b5ff212606ea95e1cc9fd115",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Macbook_Air_M1_Silver_PNG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Macbook_Air_M1_Silver_PNG.png/1280px-Macbook_Air_M1_Silver_PNG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Macbook_Air_M1_Silver_PNG.png",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "L",
+   "credit": "Own work",
+   "description": "MacBook Air",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-macbook-air-m1-2020-8gb-256gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-macbook-air-m1-2020-8gb-256gb/2.png",
+   "local_sha256": "e9459177a7cec982d7ebef9c3bd0ec7b98b3be570994a272bb1bfdf4a0ff833b",
+   "local_bytes": 1181943
+  }
+ ]
+}

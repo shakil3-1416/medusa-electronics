@@ -1,0 +1,108 @@
+{
+ "handle": "real-mikrotik-wap-60gx3-ap",
+ "brand": "MikroTik",
+ "model": "wAP 60Gx3 AP",
+ "mpn": "RBwAPG-60ad-SA",
+ "category_handle": "router",
+ "title": "MikroTik wAP 60Gx3 AP 60 GHz Sector Access Point",
+ "subtitle": "60 GHz 180-degree sector | Gigabit port | IP54",
+ "description": "Three-module 60 GHz access point covering a 180-degree sector, used to deliver multi-gigabit wireless links to several nearby buildings. Managed with RouterOS. Specifications verified against MikroTik's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "CPU",
+   "value": "IPQ-4019, 4 cores, 716 MHz"
+  },
+  {
+   "group": "Performance",
+   "label": "RAM",
+   "value": "256 MB"
+  },
+  {
+   "group": "Performance",
+   "label": "RouterOS licence",
+   "value": "Level 4"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "1 x 10/100/1000"
+  },
+  {
+   "group": "Power",
+   "label": "PoE-in voltage",
+   "value": "20-57 V"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "11 W"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "185 x 85 x 30 mm"
+  },
+  {
+   "group": "Physical",
+   "label": "Ingress protection",
+   "value": "IP54"
+  },
+  {
+   "group": "In the box",
+   "label": "Included",
+   "value": "Gigabit PoE injector"
+  }
+ ],
+ "highlights": [
+  "60 GHz 802.11ad point-to-multipoint",
+  "Gigabit Ethernet port",
+  "IP54 outdoor enclosure",
+  "Gigabit PoE injector included"
+ ],
+ "review_notes": [
+  "Category router used for a wireless access point."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://mikrotik.com/product/wap_60gx3_ap",
+   "publisher": "MikroTik",
+   "final_url": "https://mikrotik.com/product/wap_60gx3_ap",
+   "retrieved_at": "2026-11-02T17:46:43+00:00",
+   "sha256": "a4c89d87a64a815cc5f7dff607edd124ace11b9b82759140353330ca70076d88",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:07:16+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:2020-10-05 - Mikrotik wAP 60Gx3 AP.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:MikroTik",
+    "Category:Self-published work"
+   ],
+   "width": 4640,
+   "height": 6960,
+   "mime": "image/jpeg",
+   "sha1": "c85f5ab02e1a778508e3a877a5c0932a26798cd0",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/2020-10-05_-_Mikrotik_wAP_60Gx3_AP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2020-10-05_-_Mikrotik_wAP_60Gx3_AP.jpg/1280px-2020-10-05_-_Mikrotik_wAP_60Gx3_AP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:2020-10-05_-_Mikrotik_wAP_60Gx3_AP.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Fabian Horst",
+   "credit": "Own work",
+   "description": "Blick in einen geöffneten 60 GHz Access Point der Firma Mikrotik mit einem Öffnungswinkel von 180° Grad. Gut im Bild zu erkennen die 3 Antennen Arrays. Productcode: RBwAPG-60ad-SA (Seriennummer sind in diesem Bild verfremdet worden.)",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-mikrotik-wap-60gx3-ap/1-card.jpg",
+   "local_path": "/catalog-real/real-mikrotik-wap-60gx3-ap/1.jpg",
+   "local_sha256": "150c1e2f4a538121261c63c479ce9eefaaa12ab3bc04572085bae3a7d82f72e2",
+   "local_bytes": 298266
+  }
+ ]
+}

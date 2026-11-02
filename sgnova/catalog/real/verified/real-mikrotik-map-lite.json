@@ -1,0 +1,107 @@
+{
+ "handle": "real-mikrotik-map-lite",
+ "brand": "MikroTik",
+ "model": "mAP lite",
+ "mpn": "RBmAPL-2nD",
+ "category_handle": "router",
+ "title": "MikroTik mAP lite Pocket Access Point",
+ "subtitle": "2.4 GHz 802.11n | Single 10/100 port | microUSB powered",
+ "description": "Matchbox-sized 2.4 GHz access point and router running RouterOS, powered from microUSB or PoE, for travel, hotel rooms and small installations. Specifications verified against MikroTik's official product page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Performance",
+   "label": "CPU",
+   "value": "QCA9533, 1 core, 650 MHz"
+  },
+  {
+   "group": "Performance",
+   "label": "RAM",
+   "value": "64 MB"
+  },
+  {
+   "group": "Performance",
+   "label": "Storage",
+   "value": "16 MB flash"
+  },
+  {
+   "group": "Wireless",
+   "label": "2.4 GHz max rate",
+   "value": "300 Mbit/s"
+  },
+  {
+   "group": "Wireless",
+   "label": "Standards",
+   "value": "802.11b/g/n"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Ethernet",
+   "value": "1 x 10/100"
+  },
+  {
+   "group": "Power",
+   "label": "Power inputs",
+   "value": "2 (PoE-in, microUSB)"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "3.5 W"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "48 x 49 x 11 mm"
+  }
+ ],
+ "highlights": [
+  "2.4 GHz 802.11b/g/n, 300 Mbit/s",
+  "One 10/100 Ethernet port",
+  "Powered by microUSB or PoE-in",
+  "Fits in a pocket at 48 x 49 x 11 mm"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://mikrotik.com/product/RBmAPL-2nD",
+   "publisher": "MikroTik",
+   "final_url": "https://mikrotik.com/product/RBmAPL-2nD",
+   "retrieved_at": "2026-11-02T17:46:28+00:00",
+   "sha256": "e1dc2c70b28c3ae9632277411b7b7959480632fa0dccad7beb31010fe5ef08fe",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:07:06+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:MikroTik mAP Lite.jpg",
+   "categories": [
+    "Category:CC-BY-3.0",
+    "Category:MikroTik",
+    "Category:Network routers",
+    "Category:Self-published work"
+   ],
+   "width": 4128,
+   "height": 2322,
+   "mime": "image/jpeg",
+   "sha1": "f320669718f73661e333259ccc9af8ce9e99573c",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/MikroTik_mAP_Lite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/MikroTik_mAP_Lite.jpg/1280px-MikroTik_mAP_Lite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:MikroTik_mAP_Lite.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "artist": "Uhernandez",
+   "credit": "Own work",
+   "description": "Router MikroTik RBmAPL-2nD",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-mikrotik-map-lite/1-card.jpg",
+   "local_path": "/catalog-real/real-mikrotik-map-lite/1.jpg",
+   "local_sha256": "85c890e80ebdb575097287d8a56496a3326d9eef85584d7a295a2489c77022d4",
+   "local_bytes": 134554
+  }
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "handle": "real-google-pixel-10-pro-128gb",
+ "brand": "Google",
+ "model": "Pixel 10 Pro",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Google Pixel 10 Pro (128GB)",
+ "subtitle": "6.3-inch Super Actua LTPO | Tensor G5 | 100x Pro Zoom",
+ "description": "Google Pixel 10 Pro with 128GB of storage and 16GB of RAM, powered by Google Tensor G5, with a 6.3-inch Super Actua LTPO OLED display at 1-120Hz, a 50MP wide, 48MP ultrawide and 48MP 5x telephoto camera system and a 42MP selfie camera. Specifications were verified against Google's official Pixel hardware tech specs page.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.3-inch Super Actua LTPO OLED, 1280 x 2856, 495 ppi"
+  },
+  {
+   "group": "Display",
+   "label": "Refresh rate",
+   "value": "1-120Hz"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Google Tensor G5"
+  },
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "16GB RAM, 128GB storage"
+  },
+  {
+   "group": "Camera",
+   "label": "Wide camera",
+   "value": "50MP, f/1.68"
+  },
+  {
+   "group": "Camera",
+   "label": "Telephoto camera",
+   "value": "48MP with OIS, f/2.8, 5x optical zoom"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "42MP with autofocus, f/2.2"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery capacity",
+   "value": "4870 mAh typical (4707 mAh minimum)"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions and weight",
+   "value": "152.8 x 72.0 x 8.6 mm, 207 g"
+  }
+ ],
+ "highlights": [
+  "6.3-inch Super Actua LTPO OLED, 1-120Hz",
+  "Google Tensor G5 with 16GB RAM",
+  "50MP wide, 48MP ultrawide, 48MP 5x telephoto",
+  "Pro Zoom up to 100x"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "publisher": "Google LLC",
+   "scope_start": "pixel 10 pro tech specs",
+   "scope_end": "tech specs",
+   "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+   "retrieved_at": "2026-11-02T16:29:27+00:00",
+   "sha256": "0f4a52cf5ffd0cb50001020950ea033036dc061faeb1c40b0fdf63beec941e0c",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:11:06+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Avant du Google Pixel 10 Pro pierre de lune de 256 Go.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Google Pixel 10 Pro",
+    "Category:Self-published work",
+    "Category:Taken with Google Pixel 7"
+   ],
+   "width": 3072,
+   "height": 4080,
+   "mime": "image/jpeg",
+   "sha1": "5bf015fd9004704450a7adbb5a491734d740095e",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Avant_du_Google_Pixel_10_Pro_pierre_de_lune_de_256_Go.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Avant_du_Google_Pixel_10_Pro_pierre_de_lune_de_256_Go.jpg/1280px-Avant_du_Google_Pixel_10_Pro_pierre_de_lune_de_256_Go.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Avant_du_Google_Pixel_10_Pro_pierre_de_lune_de_256_Go.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Fabe56",
+   "credit": "Own work",
+   "description": "Face avant du Google Pixel 10 Pro pierre de lune de 256 Go.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-google-pixel-10-pro-128gb/1-card.jpg",
+   "local_path": "/catalog-real/real-google-pixel-10-pro-128gb/1.jpg",
+   "local_sha256": "e2667250d8f4e61f110463b1b8f3093bd6246f66342c014bd068e94b675068bd",
+   "local_bytes": 197043
+  },
+  {
+   "title": "File:Arrière du Google Pixel 10 Pro pierre de lune de 256 Go.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Google Pixel 10 Pro",
+    "Category:Self-published work",
+    "Category:Taken with Google Pixel 7"
+   ],
+   "width": 3072,
+   "height": 4080,
+   "mime": "image/jpeg",
+   "sha1": "e0b0acfb68c7d39328ae24ee4caffa43a17f8ddd",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Arri%C3%A8re_du_Google_Pixel_10_Pro_pierre_de_lune_de_256_Go.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Arri%C3%A8re_du_Google_Pixel_10_Pro_pierre_de_lune_de_256_Go.jpg/1280px-Arri%C3%A8re_du_Google_Pixel_10_Pro_pierre_de_lune_de_256_Go.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Arri%C3%A8re_du_Google_Pixel_10_Pro_pierre_de_lune_de_256_Go.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Fabe56",
+   "credit": "Own work",
+   "description": "Face arrière du Google Pixel 10 Pro pierre de lune de 256 Go.",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-google-pixel-10-pro-128gb/2-card.jpg",
+   "local_path": "/catalog-real/real-google-pixel-10-pro-128gb/2.jpg",
+   "local_sha256": "c224fca55a52fa8b56f511b0b73807d2c24e39e3de2f61d1dc8f9715174fc562",
+   "local_bytes": 211473
+  }
+ ]
+}

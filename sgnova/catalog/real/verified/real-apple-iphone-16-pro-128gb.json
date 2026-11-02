@@ -1,0 +1,180 @@
+{
+ "handle": "real-apple-iphone-16-pro-128gb",
+ "brand": "Apple",
+ "model": "iPhone 16 Pro",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Apple iPhone 16 Pro (128GB)",
+ "subtitle": "6.3-inch all-screen OLED | A18 Pro | 128GB",
+ "description": "Apple iPhone 16 Pro smartphone in the 128GB storage configuration. It runs on the A18 Pro chip and has a 6.3-inch all-screen OLED screen. Each specification below was matched against Apple's own technical specifications page for this model.",
+ "variant_title": "128GB",
+ "specs": [
+  {
+   "group": "Storage",
+   "label": "Capacity",
+   "value": "128GB"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.3-inch all-screen OLED display"
+  },
+  {
+   "group": "Display",
+   "label": "Resolution",
+   "value": "2622 x 1206 at 460 ppi"
+  },
+  {
+   "group": "Performance",
+   "label": "Chip",
+   "value": "A18 Pro, 6-core CPU, 6-core GPU"
+  },
+  {
+   "group": "Build",
+   "label": "Water resistance",
+   "value": "IP68, up to 6 m for 30 minutes"
+  },
+  {
+   "group": "Battery",
+   "label": "Video playback",
+   "value": "Up to 27 hours"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "199 g"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions (H x W x D)",
+   "value": "149.6 x 71.5 x 8.25 mm"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Wi-Fi",
+   "value": "Wi-Fi 7 (802.11be)"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Bluetooth",
+   "value": "Bluetooth 5.3"
+  },
+  {
+   "group": "Connectivity",
+   "label": "Connector",
+   "value": "USB-C"
+  }
+ ],
+ "highlights": [
+  "6.3-inch all-screen OLED display",
+  "2622 x 1206 at 460 ppi resolution",
+  "A18 Pro, 6-core CPU, 6-core GPU chip",
+  "Water resistance: IP68, up to 6 m for 30 minutes"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.apple.com/en-us/121031",
+   "publisher": "Apple Inc.",
+   "final_url": "https://support.apple.com/en-us/121031",
+   "retrieved_at": "2026-11-02T17:46:27+00:00",
+   "sha256": "45dec6951ebddfcd5ed3efd203b47fbd88239a0c88449d49f0c5e415c1dc25df",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:05:09+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Back view of iPhone 16 Pro White Titanium.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2024-10-02",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 16 Pro",
+    "Category:October 2024 in Dongguan",
+    "Category:Self-published work",
+    "Category:Taken with iPhone 14 Plus"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "7ec568f7455347e5c8d228601d461d44b38a8ce0",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Back_view_of_iPhone_16_Pro_White_Titanium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Back_view_of_iPhone_16_Pro_White_Titanium.jpg/1280px-Back_view_of_iPhone_16_Pro_White_Titanium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Back_view_of_iPhone_16_Pro_White_Titanium.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "メイド理世",
+   "credit": "Own work",
+   "description": "Back view of iPhone 16 Pro White Titanium",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-apple-iphone-16-pro-128gb/1-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-16-pro-128gb/1.jpg",
+   "local_sha256": "b07a5e98af243cde2723a8fbeb26128720f40d9469e0469cb00fcb0a17f5b570",
+   "local_bytes": 132178
+  },
+  {
+   "title": "File:Right view of iPhone 16 Pro White Titanium.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2024-10-02",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:IPhone 16 Pro",
+    "Category:October 2024 in Dongguan",
+    "Category:Self-published work",
+    "Category:Taken with iPhone 14 Plus"
+   ],
+   "width": 3024,
+   "height": 4032,
+   "mime": "image/jpeg",
+   "sha1": "572bf4105320845dc6d98986f8caac630dc96dfc",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Right_view_of_iPhone_16_Pro_White_Titanium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Right_view_of_iPhone_16_Pro_White_Titanium.jpg/1280px-Right_view_of_iPhone_16_Pro_White_Titanium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Right_view_of_iPhone_16_Pro_White_Titanium.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "メイド理世",
+   "credit": "Own work",
+   "description": "Right view of iPhone 16 Pro White Titanium",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-apple-iphone-16-pro-128gb/2-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-16-pro-128gb/2.jpg",
+   "local_sha256": "97a37c3e6925f604913c9841ec8472d8d70d558f8fcc63bd7d895084f304c233",
+   "local_bytes": 121681
+  },
+  {
+   "title": "File:IPhone 16 Pro - black.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:IPhone 16 Pro",
+    "Category:Photographs by Farragutful",
+    "Category:Self-published work",
+    "Category:Taken on missing SDC inception",
+    "Category:Taken with iPhone 18 Pro",
+    "Category:United States photographs taken on 2026-09-19"
+   ],
+   "width": 2483,
+   "height": 3619,
+   "mime": "image/jpeg",
+   "sha1": "212d989ee0941fb13a91b7bd1f6540bf60dd3ecb",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/IPhone_16_Pro_-_black.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/IPhone_16_Pro_-_black.jpg/1280px-IPhone_16_Pro_-_black.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:IPhone_16_Pro_-_black.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Farragutful",
+   "credit": "Own work",
+   "description": "The back side of a black iPhone 16 Pro.",
+   "attribution_required": "true",
+   "index": 3,
+   "card_path": "/catalog-real/real-apple-iphone-16-pro-128gb/3-card.jpg",
+   "local_path": "/catalog-real/real-apple-iphone-16-pro-128gb/3.jpg",
+   "local_sha256": "c21e002fd3d3e62840066f84b8a7a6cc4663d535cfc2836d830c3a20c84156ad",
+   "local_bytes": 184095
+  }
+ ]
+}

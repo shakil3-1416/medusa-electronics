@@ -1,0 +1,128 @@
+{
+ "handle": "real-xiaomi-redmi-note-11-6gb-128gb",
+ "brand": "Xiaomi",
+ "model": "Redmi Note 11",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Redmi Note 11 (6GB+128GB)",
+ "subtitle": "6.43-inch 90Hz AMOLED | Snapdragon 680 | 50MP",
+ "description": "Redmi Note 11 with 6GB of LPDDR4X RAM and 128GB of UFS 2.2 storage, a 6.43-inch FHD+ AMOLED DotDisplay at up to 90Hz, the Snapdragon 680, a 50MP quad rear camera and a 5000mAh battery with 33W Pro fast charging. Specifications were verified against Xiaomi's official global specs page.",
+ "variant_title": "6GB+128GB",
+ "specs": [
+  {
+   "group": "Memory",
+   "label": "RAM and storage",
+   "value": "6GB LPDDR4X, 128GB UFS 2.2, expandable to 1TB"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions and weight",
+   "value": "159.87 x 73.87 x 8.09 mm, 179 g"
+  },
+  {
+   "group": "Performance",
+   "label": "Processor",
+   "value": "Snapdragon 680 (6nm), up to 2.4GHz"
+  },
+  {
+   "group": "Display",
+   "label": "Display",
+   "value": "6.43-inch FHD+ AMOLED, up to 90Hz"
+  },
+  {
+   "group": "Camera",
+   "label": "Rear cameras",
+   "value": "50MP wide f/1.8, 8MP ultra-wide, 2MP macro, 2MP depth"
+  },
+  {
+   "group": "Camera",
+   "label": "Front camera",
+   "value": "13MP, f/2.4"
+  },
+  {
+   "group": "Battery",
+   "label": "Battery and charging",
+   "value": "5000mAh, 33W Pro"
+  }
+ ],
+ "highlights": [
+  "6.43-inch FHD+ AMOLED, up to 90Hz",
+  "Snapdragon 680",
+  "50MP quad camera",
+  "5000mAh with 33W Pro fast charging"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://www.mi.com/global/product/redmi-note-11/specs/",
+   "publisher": "Xiaomi",
+   "final_url": "https://www.mi.com/global/product/redmi-note-11/specs/",
+   "retrieved_at": "2026-11-02T17:48:28+00:00",
+   "sha256": "37ebddc9e02bbdb6d145ee25dfc86934a372dc224e2f9509ed42f4f5c11b95ea",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:11:41+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Redmi Note 11 front.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Front of smartphones",
+    "Category:Gray mobile phones",
+    "Category:Redmi Note 11",
+    "Category:Self-published work",
+    "Category:Taken with Xiaomi Redmi Note 10 Pro"
+   ],
+   "width": 2567,
+   "height": 3424,
+   "mime": "image/jpeg",
+   "sha1": "b3c2ea5fa21f69df9d6dfb667a34a2917c6c5cee",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Redmi_Note_11_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Redmi_Note_11_front.jpg/1280px-Redmi_Note_11_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Redmi_Note_11_front.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Maksdroider",
+   "credit": "Own work",
+   "description": "The front of Redmi Note 11 in Graphite Gray",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-xiaomi-redmi-note-11-6gb-128gb/1-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-redmi-note-11-6gb-128gb/1.jpg",
+   "local_sha256": "a9c546143ace004b6d7296f53b32ce497fc539e93e2dcf35a724d307ab07ef9b",
+   "local_bytes": 162693
+  },
+  {
+   "title": "File:Redmi Note 11 back.jpg",
+   "categories": [
+    "Category:Backs of smartphones",
+    "Category:CC-BY-SA-4.0",
+    "Category:Gray mobile phones",
+    "Category:Redmi Note 11",
+    "Category:Self-published work",
+    "Category:Taken with Xiaomi Redmi Note 10 Pro"
+   ],
+   "width": 2891,
+   "height": 3854,
+   "mime": "image/jpeg",
+   "sha1": "3a72050dd92c542f8f87afd34ae5d7c28fa0d053",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Redmi_Note_11_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Redmi_Note_11_back.jpg/1280px-Redmi_Note_11_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Redmi_Note_11_back.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "Maksdroider",
+   "credit": "Own work",
+   "description": "The back of Redmi Note 11 in Graphite Gray",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-xiaomi-redmi-note-11-6gb-128gb/2-card.jpg",
+   "local_path": "/catalog-real/real-xiaomi-redmi-note-11-6gb-128gb/2.jpg",
+   "local_sha256": "514c8a3031e73799cad40baf9e93703009025cbefbe8ef12b0103e4865ae66fd",
+   "local_bytes": 148054
+  }
+ ]
+}

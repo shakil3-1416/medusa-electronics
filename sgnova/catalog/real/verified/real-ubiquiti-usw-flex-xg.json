@@ -1,0 +1,102 @@
+{
+ "handle": "real-ubiquiti-usw-flex-xg",
+ "brand": "Ubiquiti",
+ "model": "USW-Flex-XG",
+ "mpn": "USW-Flex-XG",
+ "category_handle": "network-switch",
+ "title": "Ubiquiti UniFi Flex XG 10 GbE Switch",
+ "subtitle": "4 x 10 GbE | compact | PoE or USB-C powered",
+ "description": "Compact managed UniFi switch with four 10 GbE ports and a 1 GbE port, powered from PoE+ or USB-C, for desks and small multi-gig setups. Specifications verified against Ubiquiti's official tech specs page.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Connectivity",
+   "label": "10 GbE ports",
+   "value": "4"
+  },
+  {
+   "group": "Connectivity",
+   "label": "1 GbE ports",
+   "value": "1"
+  },
+  {
+   "group": "Performance",
+   "label": "Switching capacity",
+   "value": "82 Gbps"
+  },
+  {
+   "group": "Performance",
+   "label": "Forwarding rate",
+   "value": "61 Mpps"
+  },
+  {
+   "group": "Performance",
+   "label": "MAC table",
+   "value": "16,000"
+  },
+  {
+   "group": "Power",
+   "label": "Max power consumption",
+   "value": "25 W"
+  },
+  {
+   "group": "Physical",
+   "label": "Dimensions",
+   "value": "135 x 185 x 32 mm"
+  },
+  {
+   "group": "Physical",
+   "label": "Weight",
+   "value": "1.2 kg"
+  }
+ ],
+ "highlights": [
+  "Four 10 GbE RJ45 ports",
+  "82 Gbps switching capacity",
+  "Powered by PoE+ or USB-C",
+  "Managed in UniFi Network"
+ ],
+ "review_notes": [],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://techspecs.ui.com/unifi/switching/usw-flex-xg",
+   "publisher": "Ubiquiti",
+   "final_url": "https://techspecs.ui.com/unifi/switching/usw-flex-xg",
+   "retrieved_at": "2026-11-02T17:57:13+00:00",
+   "sha256": "22439b38b8f9bb79c7b9e5fec7f01df088a823816a88acf0684c0b117420e8f8",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:07:34+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Ubiquiti UniFi Switch Flex XG.jpg",
+   "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Photographs by TaurusEmerald",
+    "Category:Self-published work",
+    "Category:Ubiquiti"
+   ],
+   "width": 3567,
+   "height": 2417,
+   "mime": "image/jpeg",
+   "sha1": "490eb03ebf586611acca1b4bb6e76a75bfacb668",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ubiquiti_UniFi_Switch_Flex_XG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Ubiquiti_UniFi_Switch_Flex_XG.jpg/1280px-Ubiquiti_UniFi_Switch_Flex_XG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ubiquiti_UniFi_Switch_Flex_XG.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "artist": "TaurusEmerald",
+   "credit": "Own work",
+   "description": "A Ubiquiti UniFi Switch Flex XG.",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-ubiquiti-usw-flex-xg/1-card.jpg",
+   "local_path": "/catalog-real/real-ubiquiti-usw-flex-xg/1.jpg",
+   "local_sha256": "4ce25631291ec8637db8cef0221ebbf3ae22c01847a1df673b6e927d17707b68",
+   "local_bytes": 161250
+  }
+ ]
+}

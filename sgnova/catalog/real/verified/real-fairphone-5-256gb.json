@@ -62,7 +62,7 @@
    "sha256": "e712224aacc48213f8f5d9bec2e25752d8f3fbfe42cf1d0ab398380129fc794a",
    "type": "manufacturer"
   },
-  "verified_at": "2026-11-02T17:01:23+00:00",
+  "verified_at": "2026-11-02T18:58:12+00:00",
   "verifier": "sgnova/catalog/real/validate_records.py"
  },
  "images": [
@@ -88,9 +88,10 @@
    "description": "The front side of Fairphone 5, showing the main page of Wikipedia.",
    "attribution_required": "true",
    "index": 1,
+   "card_path": "/catalog-real/real-fairphone-5-256gb/1-card.jpg",
    "local_path": "/catalog-real/real-fairphone-5-256gb/1.jpg",
-   "local_sha256": "178a40391bfc5968f56c1d19a77339a19996302ccfd7076a0d6c3db1df584b3a",
-   "local_bytes": 599473
+   "local_sha256": "3feb56756a27bed53f6259828db77b6d4cc4dd8da4ee38a88244948b9a11e579",
+   "local_bytes": 293915
   }
  ]
 }

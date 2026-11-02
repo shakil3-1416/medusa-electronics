@@ -1,0 +1,124 @@
+{
+ "handle": "real-fairphone-4",
+ "brand": "Fairphone",
+ "model": "Fairphone 4",
+ "mpn": null,
+ "category_handle": "smartphone",
+ "title": "Fairphone 4 (5G)",
+ "subtitle": "Modular, repairable 5G phone | 3905 mAh | IP54",
+ "description": "Fairphone 4 is a modular 5G smartphone designed to be opened and repaired by its owner, with user-replaceable parts, IP54 dust and splash protection, a 3905 mAh battery, a 60Hz display and dual-band L1+L5 GNSS. Specifications were verified against Fairphone's official support FAQ.",
+ "variant_title": "Default",
+ "specs": [
+  {
+   "group": "Battery",
+   "label": "Battery capacity",
+   "value": "3905 mAh"
+  },
+  {
+   "group": "Build",
+   "label": "Dimensions",
+   "value": "162 x 75.5 x 10.5 mm"
+  },
+  {
+   "group": "Build",
+   "label": "Weight",
+   "value": "225 g"
+  },
+  {
+   "group": "Build",
+   "label": "Water and dust resistance",
+   "value": "IP54"
+  },
+  {
+   "group": "Display",
+   "label": "Refresh rate",
+   "value": "60Hz"
+  },
+  {
+   "group": "Connectivity",
+   "label": "5G",
+   "value": "Yes (non-standalone)"
+  },
+  {
+   "group": "Connectivity",
+   "label": "GNSS",
+   "value": "Dual-band L1 + L5"
+  }
+ ],
+ "highlights": [
+  "Modular design with replaceable parts",
+  "5G connectivity",
+  "3905 mAh battery",
+  "IP54 rated"
+ ],
+ "review_notes": [
+  "Fairphone's FAQ does not state the RAM/storage configuration; confirm the exact configuration with the supplier before listing."
+ ],
+ "price": null,
+ "provenance": {
+  "spec_source": {
+   "url": "https://support.fairphone.com/hc/en-us/articles/4404656100753-Fairphone-4-Frequently-Asked-Questions-FAQ",
+   "publisher": "Fairphone B.V.",
+   "final_url": "https://support.fairphone.com/hc/en-us/articles/4404656100753-Fairphone-4-Frequently-Asked-Questions-FAQ",
+   "retrieved_at": "2026-11-02T18:01:50+00:00",
+   "sha256": "43da0be13f9d6955a889e214cf5fcbff78a351bdd1cfb413906784f50913e758",
+   "type": "manufacturer"
+  },
+  "verified_at": "2026-11-02T19:09:51+00:00",
+  "verifier": "sgnova/catalog/real/validate_records.py"
+ },
+ "images": [
+  {
+   "title": "File:Back Side Tilted green (51535368773).png",
+   "categories": [
+    "Category:CC-BY-SA-2.0",
+    "Category:Fairphone 4",
+    "Category:Flickr images reviewed by FlickreviewR 2"
+   ],
+   "width": 5000,
+   "height": 4000,
+   "mime": "image/png",
+   "sha1": "7467fa696207081d8d9ad3c406d77b66b9b0dc5f",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Back_Side_Tilted_green_%2851535368773%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Back_Side_Tilted_green_%2851535368773%29.png/1280px-Back_Side_Tilted_green_%2851535368773%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Back_Side_Tilted_green_(51535368773).png",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "artist": "Fairphone",
+   "credit": "Back_Side_Tilted_green",
+   "description": "Back_Side_Tilted_green",
+   "attribution_required": "true",
+   "index": 1,
+   "card_path": "/catalog-real/real-fairphone-4/1-card.jpg",
+   "local_path": "/catalog-real/real-fairphone-4/1.png",
+   "local_sha256": "3633c81ba9c2961fa15fef878315dfc9db1527326b7b5edf74f8fdd9e1577268",
+   "local_bytes": 286062
+  },
+  {
+   "title": "File:Back Side Tilted grey (51534331412).png",
+   "categories": [
+    "Category:CC-BY-SA-2.0",
+    "Category:Fairphone 4",
+    "Category:Flickr images reviewed by FlickreviewR 2"
+   ],
+   "width": 5000,
+   "height": 4000,
+   "mime": "image/png",
+   "sha1": "c711ceb2aeaf06dd6c0084376d5260e6bd3a7962",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Back_Side_Tilted_grey_%2851534331412%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Back_Side_Tilted_grey_%2851534331412%29.png/1280px-Back_Side_Tilted_grey_%2851534331412%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Back_Side_Tilted_grey_(51534331412).png",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "artist": "Fairphone",
+   "credit": "Back_Side_Tilted_grey",
+   "description": "Back_Side_Tilted_grey",
+   "attribution_required": "true",
+   "index": 2,
+   "card_path": "/catalog-real/real-fairphone-4/2-card.jpg",
+   "local_path": "/catalog-real/real-fairphone-4/2.png",
+   "local_sha256": "14d8f82baab52eb518c3b60c95f1140842780cf05f9444cb5df4be8b3831d361",
+   "local_bytes": 275776
+  }
+ ]
+}
