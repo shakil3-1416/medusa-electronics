@@ -1,0 +1,206 @@
+{
+ "_doc": "Lookup seeds for icecat_adapter.py: real manufacturer part numbers. A seed is only a query key; Icecat must confirm brand and part code exactly or the row is recorded as not found. Expansion follows Icecat's own same-category 'alternative' links.",
+ "open_brands": [
+  "ASUS",
+  "Gigabyte",
+  "Kingston",
+  "Seagate",
+  "be quiet!",
+  "Epson",
+  "Canon",
+  "HP",
+  "APC",
+  "Samsung",
+  "DELL",
+  "Lenovo"
+ ],
+ "expand_categories": [
+  "motherboard",
+  "laptop-ram",
+  "desktop-ram",
+  "hard-drive",
+  "power-supply",
+  "cpu-cooler",
+  "scanner",
+  "ups",
+  "external-storage",
+  "office-monitor"
+ ],
+ "per_category_cap": 25,
+ "targets": [
+  {
+   "brand": "ASUS",
+   "product_code": "90MB14I0-M0EAY0",
+   "category_handle": "motherboard",
+   "origin": "seed"
+  },
+  {
+   "brand": "Gigabyte",
+   "product_code": "B550 AORUS ELITE V2",
+   "category_handle": "motherboard",
+   "origin": "seed"
+  },
+  {
+   "brand": "Kingston",
+   "product_code": "KVR32S22S8/16",
+   "category_handle": "laptop-ram",
+   "origin": "seed"
+  },
+  {
+   "brand": "Kingston",
+   "product_code": "KVR26S19S8/8",
+   "category_handle": "laptop-ram",
+   "origin": "seed"
+  },
+  {
+   "brand": "Kingston",
+   "product_code": "KF432S20IB/16",
+   "category_handle": "laptop-ram",
+   "origin": "seed"
+  },
+  {
+   "brand": "Kingston",
+   "product_code": "KF432C16BB/16",
+   "category_handle": "desktop-ram",
+   "origin": "seed"
+  },
+  {
+   "brand": "Kingston",
+   "product_code": "KF552C40BB-16",
+   "category_handle": "desktop-ram",
+   "origin": "seed"
+  },
+  {
+   "brand": "Seagate",
+   "product_code": "ST4000VN006",
+   "category_handle": "hard-drive",
+   "origin": "seed"
+  },
+  {
+   "brand": "Seagate",
+   "product_code": "ST2000DM008",
+   "category_handle": "hard-drive",
+   "origin": "seed"
+  },
+  {
+   "brand": "Seagate",
+   "product_code": "ST1000DM010",
+   "category_handle": "hard-drive",
+   "origin": "seed"
+  },
+  {
+   "brand": "Seagate",
+   "product_code": "ST8000VN004",
+   "category_handle": "hard-drive",
+   "origin": "seed"
+  },
+  {
+   "brand": "Seagate",
+   "product_code": "ST4000DM004",
+   "category_handle": "hard-drive",
+   "origin": "seed"
+  },
+  {
+   "brand": "be quiet!",
+   "product_code": "BN343",
+   "category_handle": "power-supply",
+   "origin": "seed"
+  },
+  {
+   "brand": "be quiet!",
+   "product_code": "BN342",
+   "category_handle": "power-supply",
+   "origin": "seed"
+  },
+  {
+   "brand": "be quiet!",
+   "product_code": "BK006",
+   "category_handle": "cpu-cooler",
+   "origin": "seed"
+  },
+  {
+   "brand": "be quiet!",
+   "product_code": "BK022",
+   "category_handle": "cpu-cooler",
+   "origin": "seed"
+  },
+  {
+   "brand": "be quiet!",
+   "product_code": "BK021",
+   "category_handle": "cpu-cooler",
+   "origin": "seed"
+  },
+  {
+   "brand": "Epson",
+   "product_code": "B11B268401",
+   "category_handle": "scanner",
+   "origin": "seed"
+  },
+  {
+   "brand": "Epson",
+   "product_code": "B11B226401",
+   "category_handle": "scanner",
+   "origin": "seed"
+  },
+  {
+   "brand": "Epson",
+   "product_code": "B11B252401",
+   "category_handle": "scanner",
+   "origin": "seed"
+  },
+  {
+   "brand": "Canon",
+   "product_code": "2995C010",
+   "category_handle": "scanner",
+   "origin": "seed"
+  },
+  {
+   "brand": "HP",
+   "product_code": "20G05A",
+   "category_handle": "scanner",
+   "origin": "seed"
+  },
+  {
+   "brand": "APC",
+   "product_code": "BX1600MI",
+   "category_handle": "ups",
+   "origin": "seed"
+  },
+  {
+   "brand": "APC",
+   "product_code": "BX950MI",
+   "category_handle": "ups",
+   "origin": "seed"
+  },
+  {
+   "brand": "APC",
+   "product_code": "BX750MI",
+   "category_handle": "ups",
+   "origin": "seed"
+  },
+  {
+   "brand": "APC",
+   "product_code": "SMT1500IC",
+   "category_handle": "ups",
+   "origin": "seed"
+  },
+  {
+   "brand": "Samsung",
+   "product_code": "MU-PC1T0T/WW",
+   "category_handle": "external-storage",
+   "origin": "seed"
+  },
+  {
+   "brand": "Samsung",
+   "product_code": "MU-PC2T0T/WW",
+   "category_handle": "external-storage",
+   "origin": "seed"
+  },
+  {
+   "brand": "DELL",
+   "product_code": "DELL-P2422H",
+   "category_handle": "office-monitor",
+   "origin": "seed"
+  }
+ ]
+}

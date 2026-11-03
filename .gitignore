@@ -75,3 +75,9 @@ sgnova/reports/batch-report.json
 # Verified-catalog source page cache (third-party pages, never committed)
 sgnova/catalog/real/.cache/
 __pycache__/
+
+# Open Icecat content is licensed to the account holder: never commit it
+sgnova/catalog/real/icecat/.cache/
+sgnova/catalog/real/icecat/staging/
+sgnova/catalog/real/icecat/staging-report.json
+sgnova/catalog/real/verified-icecat/

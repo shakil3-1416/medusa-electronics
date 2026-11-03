@@ -41,3 +41,15 @@ cd apps/backend && SGNOVA_IMAGE_BASE_URL=http://localhost:4111 \
 - **Specifications** come only from the manufacturer's own domain, and each value is checked mechanically against the fetched page. The page's SHA-256 and retrieval time are recorded. Pages are cached in `.cache/` (git-ignored) and never committed.
 - **Photos.** Manufacturer press images are not used, because reseller usage rights need a partner agreement we do not have. Wikimedia Commons files carry machine-readable licences; the author, licence and source are stored and shown as a credit on the product page.
 - **Distributor feeds** (Bangladesh distributors, for example the authorised importers of each brand) are the scalable path to 500+ products with prices and official photos. Add a feed adapter that emits records in this format, and add the distributor's domain under the brand once access is granted in writing.
+
+## Open Icecat adapter
+
+`icecat_adapter.py` looks products up on Open Icecat by brand + part number
+(or GTIN). Each one goes through an equivalent gate: exact brand and part code,
+category mapping, at least 5 specs, accessible non-private images. Passing
+products are written to `verified-icecat/`, which the same importer reads.
+Usage rights only count when `ICECAT_USERNAME` is set and
+`ICECAT_OCL_ACCEPTED=1` confirms the account holder accepted the Open Content
+License. `--demo` uses Icecat's public demo account for integration tests and
+never licenses anything. Icecat content (cache, staging, verified-icecat) is
+git-ignored. See `sgnova/reports/ICECAT_INTEGRATION_READINESS.md`.
