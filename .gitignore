@@ -84,3 +84,7 @@ sgnova/catalog/real/verified-icecat/
 sgnova/catalog/real/icecat/icecat.env
 sgnova/catalog/real/icecat/targets.index.json
 sgnova/catalog/real/icecat/index/
+
+# Supplier quotations, cost prices, pricing reports and rollback files (private)
+sgnova/catalog/pricing/private/
+sgnova/catalog/publication/
