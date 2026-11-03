@@ -51,9 +51,12 @@ DEMO_SHOP = "openicecat-live"
 REQUEST_DELAY = 1.2
 MIN_SPECS = 5
 MAX_IMAGES = 4
-OCL_URL = "https://icecat.biz/en/menu/partners/index.html"
-AS_IS = ("Product data and images are provided by Open Icecat \"AS IS\", without "
-         "warranty of any kind; Icecat and the manufacturer disclaim liability for errors.")
+OCL_URL = "https://iceclog.com/open-content-license/"
+# Notices required by the Open Content License v1.4 (sections 1, 2a and 5).
+AS_IS = ("Database Right data-sheet {year} Icecat. All rights reserved. Product data and "
+         "images from Open Icecat, provided \"AS IS\" without warranty of any kind, under the "
+         "Open Content License (" + OCL_URL + "). Modified by Medusa on {date}: description "
+         "shortened and specifications limited to 12 per group.")
 
 # Icecat category name -> storefront category handle(s) it may be filed under.
 CATEGORY_MAP = {
@@ -255,7 +258,7 @@ def gate(target, data, mode):
         "price": None,
         "review_notes": [],
         "content_source": "open-icecat",
-        "disclaimer": AS_IS,
+        "disclaimer": AS_IS.format(year=v.now()[:4], date=v.now()[:10]),
         "provenance": {
             "spec_source": {
                 "type": "open-icecat",
