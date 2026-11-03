@@ -21,11 +21,14 @@ Usage: python3 -I icecat_index.py [--full] [--cap N] [--total N]
 import base64
 import csv
 import gzip
+import heapq
+import http.client
 import io
 import json
 import os
 import shutil
 import sys
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 
@@ -64,18 +67,34 @@ def auth_header():
     return "Basic " + base64.b64encode(f"{user}:{pw}".encode()).decode()
 
 
-def download(path, auth, refresh=False):
-    """Stream a feed file to icecat/index/ (cached; credentials never stored)."""
+def download(path, auth, refresh=False, attempts=6):
+    """Stream a feed file to icecat/index/ (cached; credentials never stored).
+    Interrupted downloads resume from the .part file with an HTTP Range request."""
     os.makedirs(INDEX_DIR, exist_ok=True)
     out = os.path.join(INDEX_DIR, path.replace("/", "_"))
+    part = out + ".part"
     if os.path.exists(out) and not refresh:
         return out
-    req = urllib.request.Request(f"{BASE}/{path}", headers={"Authorization": auth, "User-Agent": v.UA,
-                                                            "Accept-Encoding": "gzip"})
-    with urllib.request.urlopen(req, timeout=600, context=v.SSL_CTX) as resp, open(out + ".part", "wb") as f:
-        shutil.copyfileobj(resp, f, length=1 << 20)
-    os.replace(out + ".part", out)
-    return out
+    if refresh and os.path.exists(part):
+        os.remove(part)
+    for attempt in range(attempts):
+        have = os.path.getsize(part) if os.path.exists(part) else 0
+        headers = {"Authorization": auth, "User-Agent": v.UA}
+        if have:
+            headers["Range"] = f"bytes={have}-"
+        req = urllib.request.Request(f"{BASE}/{path}", headers=headers)
+        try:
+            with urllib.request.urlopen(req, timeout=600, context=v.SSL_CTX) as resp:
+                if have and resp.status != 206:
+                    have = 0  # server ignored the range: start over
+                with open(part, "ab" if have else "wb") as f:
+                    shutil.copyfileobj(resp, f, length=1 << 20)
+            os.replace(part, out)
+            return out
+        except (http.client.IncompleteRead, ConnectionError, TimeoutError, urllib.error.URLError) as e:
+            print(f"download interrupted ({type(e).__name__}); resuming, attempt {attempt + 2}", file=sys.stderr)
+            v.time.sleep(5 * (attempt + 1))
+    sys.exit(f"Could not download {path} after {attempts} attempts")
 
 
 def open_text(path):
@@ -177,10 +196,22 @@ def select(rows, cats, sups, cap, total, existing):
         key = "real-" + a.slug(brand, code)
         if key in existing:
             continue
-        bucket = buckets.setdefault(handle, {})
-        if len(bucket) < cap:
-            bucket.setdefault(key, {"brand": brand, "product_code": code, "category_handle": handle,
-                                    "icecat_id": pick(r, "product_id"), "origin": "icecat-index"})
+        try:
+            pid = int(pick(r, "product_id"))
+        except ValueError:
+            continue
+        # Keep the newest `cap` products per category (higher Icecat id = more
+        # recent data-sheet) in a min-heap, so memory stays bounded.
+        heap = buckets.setdefault(handle, [])
+        item = (pid, key, {"brand": brand, "product_code": code, "category_handle": handle,
+                           "icecat_id": str(pid), "origin": "icecat-index"})
+        if any(k == key for _, k, _ in heap):
+            continue
+        if len(heap) < cap:
+            heapq.heappush(heap, item)
+        elif pid > heap[0][0]:
+            heapq.heapreplace(heap, item)
+    buckets = {h: {k: t for _, k, t in sorted(heap, reverse=True)} for h, heap in buckets.items()}
     ordered = [h for h in PRIORITY if h in buckets] + sorted(h for h in buckets if h not in PRIORITY)
     out = []
     # Round-robin across categories so the request budget covers all of them.

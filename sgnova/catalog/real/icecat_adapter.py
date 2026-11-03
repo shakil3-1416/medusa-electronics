@@ -81,8 +81,8 @@ CATEGORY_MAP = {
     "Computer Cases": {"computer-case"},
     "Microphones": {"microphone"},
     "Headphones & Headsets": {"headphone"},
-    "Keyboards": {"mechanical-keyboard"},
-    "Mice": {"gaming-mouse"},
+    "Keyboards": {"mechanical-keyboard", "computer-accessory"},
+    "Mice": {"gaming-mouse", "computer-accessory"},
     "Network Switches": {"network-switch"},
     "Wireless Routers": {"router"},
 }
@@ -142,6 +142,15 @@ def fetch(query, auth_params, headers, mode, allow_network=True):
     data["_retrieved_at"] = v.now()
     json.dump(data, open(path, "w"))
     return data, True
+
+
+def parse_date(value):
+    """Icecat dates come as DD-MM-YYYY (sometimes YYYY-MM-DD); return ISO or None."""
+    value = (value or "").strip()[:10]
+    m = re.fullmatch(r"(\d{2})-(\d{2})-(\d{4})", value)
+    if m:
+        return f"{m.group(3)}-{m.group(2)}-{m.group(1)}"
+    return value if re.fullmatch(r"\d{4}-\d{2}-\d{2}", value) else None
 
 
 def brand_matches(target, icecat_brand):
@@ -204,6 +213,15 @@ def gate(target, data, mode):
         gen = ((g.get("TitleInfo") or {}).get("GeneratedLocalTitle") or {}).get("Value", "")
         target = {**target, "category_handle":
                   "laptop-ram" if re.search(r"so-?dimm", f"{gen} {g.get('Title', '')}", re.I) else "desktop-ram"}
+    title_text = f"{(g.get('TitleInfo') or {}).get('GeneratedLocalTitle', {}).get('Value', '')} {g.get('Title', '')}"
+    if icecat_cat == "Mice":
+        # Only mice Icecat itself describes as gaming go to gaming-mouse.
+        target = {**target, "category_handle": "gaming-mouse" if re.search(r"gaming", title_text, re.I) else "computer-accessory"}
+    if icecat_cat == "Keyboards":
+        target = {**target, "category_handle": "mechanical-keyboard" if re.search(r"mechanical", title_text, re.I) else "computer-accessory"}
+    eol = parse_date(g.get("EndOfLifeDate"))
+    if eol and eol < v.now()[:10]:
+        errors.append(f"end of life since {eol}")
     if re.search(r"(-RFB|refurbished|renewed)", f"{g.get('BrandPartCode', '')} {g.get('Title', '')}", re.I):
         errors.append("refurbished SKU excluded")
     stages["filed_as"] = target["category_handle"]
@@ -357,8 +375,11 @@ def main():
             row["icecat"] = {"id": g["IcecatId"], "title": g.get("Title", "")[:120],
                              "category": g.get("Category", {}).get("Name", {}).get("Value")}
         rows.append(row)
+        out = os.path.join(VERIFIED, handle + ".json")
         if record:
-            json.dump(record, open(os.path.join(VERIFIED, handle + ".json"), "w"), indent=1, ensure_ascii=False)
+            json.dump(record, open(out, "w"), indent=1, ensure_ascii=False)
+        elif stages["found"] and os.path.exists(out):
+            os.remove(out)  # no longer passes the gate: drop the stale verified file
         if expand and stages["found"] and t["category_handle"] in wanted:
             for x in related_targets(data, t, cfg["open_brands"]):
                 if per_category.get(x["category_handle"], 0) < per_category_cap:
