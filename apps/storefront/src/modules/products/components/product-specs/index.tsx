@@ -50,11 +50,11 @@ const ProductSpecs = ({ product }: { product: HttpTypes.StoreProduct }) => {
       </table>
       {source && (
         <p className="border-t border-slate-200 px-5 py-3 text-xs text-slate-500">
-          Specifications checked against the official{" "}
+          {source.viaIcecat ? "Specifications from the manufacturer data-sheet " : "Specifications checked against the official "}
           <a href={source.url} target="_blank" rel="noreferrer" className="underline">
             {source.publisher}
-          </a>{" "}
-          specification page
+          </a>
+          {source.viaIcecat ? "" : " specification page"}
           {source.retrievedAt ? ` (${source.retrievedAt.slice(0, 10)})` : ""}.
         </p>
       )}

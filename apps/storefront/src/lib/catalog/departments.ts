@@ -146,7 +146,7 @@ export const getImageCredits = (
 }
 
 type SpecProvenance = {
-  spec_source?: { final_url?: string; url?: string; publisher?: string; retrieved_at?: string }
+  spec_source?: { final_url?: string; url?: string; publisher?: string; retrieved_at?: string; type?: string }
 }
 
 /** Official source a verified product's specifications were checked against. */
@@ -156,6 +156,11 @@ export const getSpecSource = (
   const source = (metadata?.provenance as SpecProvenance | undefined)?.spec_source
   const url = source?.final_url || source?.url
   return url
-    ? { url, publisher: source?.publisher ?? new URL(url).hostname, retrievedAt: source?.retrieved_at }
+    ? {
+        url,
+        publisher: source?.publisher ?? new URL(url).hostname,
+        retrievedAt: source?.retrieved_at,
+        viaIcecat: source?.type === "open-icecat",
+      }
     : null
 }

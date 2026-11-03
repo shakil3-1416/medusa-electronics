@@ -11,6 +11,8 @@ type ProductCardProps = {
   brand?: string | null
   subtitle?: string | null
   price: ReactNode
+  /** Overrides the default /products/<handle> link (e.g. the draft preview). */
+  href?: string
 }
 
 /**
@@ -24,10 +26,11 @@ const ProductCard = ({
   brand,
   subtitle,
   price,
+  href,
 }: ProductCardProps) => {
   return (
     <LocalizedClientLink
-      href={`/products/${handle}`}
+      href={href ?? `/products/${handle}`}
       className="group flex h-full flex-col overflow-hidden rounded-xl border border-slate-200 bg-white transition hover:border-blue-400 hover:shadow-lg"
     >
       <div data-testid="product-wrapper" className="flex h-full flex-col">

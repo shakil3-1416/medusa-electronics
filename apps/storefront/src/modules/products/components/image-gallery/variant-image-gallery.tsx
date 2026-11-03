@@ -43,34 +43,46 @@ const VariantImageGallery = ({
     [product, variantId]
   )
 
-  const credits = getImageCredits(product.metadata)
+  const credits = getImageCredits(product.metadata).filter(
+    (c, i, all) =>
+      all.findIndex((o) => o.source === c.source && o.author === c.author && o.license === c.license) === i
+  )
   const caption =
     product.metadata?.image_type === "representative-illustration" ? (
       "Representative illustration. Actual product appearance may differ."
     ) : credits.length ? (
       <ul className="flex flex-col gap-y-1" data-testid="image-credits">
-        {credits.map((credit) => (
-          <li key={credit.source}>
-            Photo: {credit.author},{" "}
-            <a
-              href={credit.license_url || credit.source}
-              target="_blank"
-              rel="noreferrer"
-              className="underline"
-            >
-              {credit.license}
-            </a>
-            , via{" "}
-            <a
-              href={credit.source}
-              target="_blank"
-              rel="noreferrer"
-              className="underline"
-            >
-              {credit.license.startsWith("Open Icecat") ? "Open Icecat" : "Wikimedia Commons"}
-            </a>
-          </li>
-        ))}
+        {credits.map((credit) =>
+          credit.license.startsWith("Open Icecat") ? (
+            <li key={credit.source}>
+              Photo: {credit.author.replace(/ via Open Icecat$/, "")}, via{" "}
+              <a href={credit.source} target="_blank" rel="noreferrer" className="underline">
+                Open Icecat
+              </a>{" "}
+              (
+              <a href={credit.license_url} target="_blank" rel="noreferrer" className="underline">
+                Open Content License
+              </a>
+              )
+            </li>
+          ) : (
+            <li key={credit.source}>
+              Photo: {credit.author},{" "}
+              <a
+                href={credit.license_url || credit.source}
+                target="_blank"
+                rel="noreferrer"
+                className="underline"
+              >
+                {credit.license}
+              </a>
+              , via{" "}
+              <a href={credit.source} target="_blank" rel="noreferrer" className="underline">
+                Wikimedia Commons
+              </a>
+            </li>
+          )
+        )}
       </ul>
     ) : undefined
 
