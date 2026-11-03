@@ -44,6 +44,8 @@ STAGING = os.path.join(HERE, "icecat", "staging")
 VERIFIED = os.path.join(HERE, "verified-icecat")
 REPORT = os.path.join(HERE, "icecat", "staging-report.json")
 
+CONFIG = os.path.join(HERE, "icecat", "icecat.env")
+INDEX_TARGETS = os.path.join(HERE, "icecat", "targets.index.json")
 API = "https://live.icecat.biz/api"
 DEMO_SHOP = "openicecat-live"
 REQUEST_DELAY = 1.2
@@ -83,6 +85,19 @@ CATEGORY_MAP = {
 }
 
 
+def load_config():
+    """Read KEY=VALUE lines from the git-ignored icecat/icecat.env into the
+    environment (existing environment variables win). Values are never printed."""
+    if not os.path.exists(CONFIG):
+        return False
+    for line in open(CONFIG):
+        line = line.strip()
+        if line and not line.startswith("#") and "=" in line:
+            key, value = line.split("=", 1)
+            os.environ.setdefault(key.strip(), value.strip().strip('"').strip("'"))
+    return True
+
+
 def credentials(demo):
     if demo:
         return {"shopname": DEMO_SHOP}, {}, "demo"
@@ -99,13 +114,16 @@ def credentials(demo):
     return params, headers, "registered"
 
 
-def fetch(query, auth_params, headers, mode):
-    """Product JSON for a query (cached per mode). Credentials never hit disk."""
+def fetch(query, auth_params, headers, mode, allow_network=True):
+    """Product JSON for a query (cached per mode). Credentials never hit disk.
+    Returns (None, False) when uncached and the request budget is spent."""
     os.makedirs(CACHE, exist_ok=True)
     key = re.sub(r"[^a-z0-9]+", "_", f"{mode}_{json.dumps(query, sort_keys=True)}".lower())[:150]
     path = os.path.join(CACHE, key + ".json")
     if os.path.exists(path):
         return json.load(open(path)), False
+    if not allow_network:
+        return None, False
     url = API + "?" + urllib.parse.urlencode({"lang": "EN", **auth_params, **query})
     req = urllib.request.Request(url, headers={"User-Agent": v.UA, **headers})
     try:
@@ -290,13 +308,17 @@ def main():
     demo = "--demo" in sys.argv
     expand = "--expand" in sys.argv
     max_requests = int(sys.argv[sys.argv.index("--max-requests") + 1]) if "--max-requests" in sys.argv else 150
+    load_config()
     auth, headers, mode = credentials(demo)
     if mode == "missing":
-        sys.exit("ICECAT_USERNAME is not set. Register a free Open Icecat account, accept the "
+        sys.exit("ICECAT_USERNAME is not set (environment or sgnova/catalog/real/icecat/icecat.env). Register a free Open Icecat account, accept the "
                  "Open Content License, then set ICECAT_USERNAME (and ICECAT_APP_KEY for Full "
                  "Icecat brands) and ICECAT_OCL_ACCEPTED=1. Use --demo to test the integration.")
     cfg = json.load(open(TARGETS))
-    targets = cfg["targets"]
+    targets = list(cfg["targets"])
+    if os.path.exists(INDEX_TARGETS) and not demo:
+        # Discovered from the registered account's Open Icecat index (git-ignored).
+        targets += json.load(open(INDEX_TARGETS))
     wanted = set(cfg.get("expand_categories", []))
     per_category_cap = cfg.get("per_category_cap", 25)
     per_category = {}
@@ -315,10 +337,10 @@ def main():
             continue
         seen.add(key)
         query = {"Brand": t["brand"], "ProductCode": t["product_code"]} if t.get("product_code") else {"GTIN": t["gtin"]}
-        if requests >= max_requests:
+        data, fresh = fetch(query, auth, headers, mode, allow_network=requests < max_requests)
+        if data is None:
             rows.append({**t, "status": "skipped", "errors": ["request budget reached"]})
             continue
-        data, fresh = fetch(query, auth, headers, mode)
         requests += fresh
         stages, errors, record = gate(t, data, mode)
         handle = record["handle"] if record else "real-" + slug(t["brand"], t.get("product_code") or t.get("gtin", ""))
@@ -339,6 +361,9 @@ def main():
                 if per_category.get(x["category_handle"], 0) < per_category_cap:
                     per_category[x["category_handle"]] = per_category.get(x["category_handle"], 0) + 1
                     queue.append(x)
+        if len(rows) % 25 == 0:  # checkpoint: partial report survives interruption
+            json.dump({"generated_at": v.now(), "mode": mode, "partial": True, "rows": rows},
+                      open(REPORT, "w"), ensure_ascii=False)
         mark = {"verified": "PASS", "staged": "STAGED", "not_found": "MISS"}[row["status"]]
         print(f"{mark:6} {t['brand']:12} {str(t.get('product_code') or t.get('gtin')):22} "
               f"{'' if record else '; '.join(errors)[:110]}")

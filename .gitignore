@@ -81,3 +81,6 @@ sgnova/catalog/real/icecat/.cache/
 sgnova/catalog/real/icecat/staging/
 sgnova/catalog/real/icecat/staging-report.json
 sgnova/catalog/real/verified-icecat/
+sgnova/catalog/real/icecat/icecat.env
+sgnova/catalog/real/icecat/targets.index.json
+sgnova/catalog/real/icecat/index/
