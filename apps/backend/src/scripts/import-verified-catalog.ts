@@ -39,6 +39,8 @@ type VerifiedProduct = {
   provenance: Record<string, unknown>
   images: VerifiedImage[]
   review_notes?: string[]
+  review_blockers?: string[]
+  review_info?: string[]
   content_source?: string
   disclaimer?: string
   gtin?: string[]
@@ -132,8 +134,12 @@ export default async function importVerifiedCatalog({ container }: ExecArgs) {
         })),
         provenance: r.provenance,
         price_status: r.price ? "sourced" : "pending_merchant_input",
-        review_status: r.review_notes?.length ? "needs_manual_review" : "auto_verified",
-        review_notes: r.review_notes ?? [],
+        // Only blocking notes stop publication; informational notes stay visible.
+        review_status: (r.review_blockers ?? r.review_notes ?? []).length
+          ? "needs_manual_review"
+          : "auto_verified",
+        review_notes: r.review_blockers ?? r.review_notes ?? [],
+        review_info: r.review_info ?? [],
       },
     }
   }
@@ -180,6 +186,36 @@ export default async function importVerifiedCatalog({ container }: ExecArgs) {
         products: batch.map((r) => ({ id: existingByHandle.get(r.handle)!.id, ...toFields(r) })),
       },
     })
+  }
+
+  // Reconcile: real drafts whose record no longer passes the gate (e.g. a
+  // refurbished SKU caught by a stricter rule) stay drafts, marked not verified.
+  const verifiedHandles = new Set(records.map((r) => r.handle))
+  const { data: realDrafts } = await query.graph({
+    entity: "product",
+    fields: ["id", "handle", "status", "metadata"],
+    filters: { status: ProductStatus.DRAFT },
+  })
+  const orphans = realDrafts.filter(
+    (p) =>
+      p.handle?.startsWith("real-") &&
+      !verifiedHandles.has(p.handle) &&
+      (p.metadata as Record<string, unknown> | null)?.review_status !== "not_verified"
+  )
+  if (orphans.length) {
+    await updateProductsWorkflow(container).run({
+      input: {
+        products: orphans.map((p) => ({
+          id: p.id,
+          metadata: {
+            ...((p.metadata as Record<string, unknown>) ?? {}),
+            review_status: "not_verified",
+            review_notes: ["No longer passes the verification gate; kept as an unpublished draft."],
+          },
+        })),
+      },
+    })
+    logger.info(`Marked ${orphans.length} drafts as not verified: ${orphans.map((p) => p.handle).join(", ")}`)
   }
 
   const { data: after } = await query.graph({
