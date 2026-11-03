@@ -128,5 +128,10 @@
    "local_sha256": "7d649644ee99785deb366922797e99836e805c280eeef1312e19d10851a6a179",
    "local_bytes": 112405
   }
- ]
+ ],
+ "review_blockers": [
+  "Xiaomi's global page for this slug describes the 4G Snapdragon 685 model; the 5G model is a different product.",
+  "Commons photos are titled Redmi Note 12 without stating 4G or 5G; confirm the pictured unit matches the 4G model."
+ ],
+ "review_info": []
 }

@@ -104,5 +104,9 @@
    "local_sha256": "4b0b546605150c5c9830dc1c66be5576d025f41f63239be9ac21f58d1c9a6fdc",
    "local_bytes": 237894
   }
- ]
+ ],
+ "review_blockers": [
+  "Photo shows the sensor back; case size of the pictured unit is not stated."
+ ],
+ "review_info": []
 }

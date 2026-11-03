@@ -102,5 +102,9 @@
    "local_sha256": "3f79427925894ebd9fa43bb9fe475962f7a6cd0465a7d88d66dadab4a354d1bf",
    "local_bytes": 392657
   }
- ]
+ ],
+ "review_blockers": [
+  "Spec page is a multi-SKU comparison table; confirm values belong to the G733PY column. Photo is a CC BY video still."
+ ],
+ "review_info": []
 }

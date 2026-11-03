@@ -61,7 +61,9 @@
   "15.6-inch WQHD 165Hz, 100% DCI-P3",
   "90Wh battery, 280W adapter"
  ],
- "review_notes": "Spec page lists the G513QY-R9X8G6T-O configuration (16GB as 2x8GB, 1TB); photos show the G513QY-HQ012T regional configuration of the same G513QY chassis/CPU/GPU. Memory and storage may differ by regional SKU.",
+ "review_notes": [
+  "Spec page lists the G513QY-R9X8G6T-O configuration (16GB as 2x8GB, 1TB); photos show the G513QY-HQ012T regional configuration of the same G513QY chassis/CPU/GPU. Memory and storage may differ by regional SKU."
+ ],
  "price": null,
  "provenance": {
   "spec_source": {
@@ -168,5 +170,9 @@
    "local_sha256": "3c47c5e127a70f49d1f1504a9c970125405782737272b787fc693b49c0a2b847",
    "local_bytes": 206490
   }
- ]
+ ],
+ "review_blockers": [
+  "Spec page lists the G513QY-R9X8G6T-O configuration (16GB as 2x8GB, 1TB); photos show the G513QY-HQ012T regional configuration of the same G513QY chassis/CPU/GPU. Memory and storage may differ by regional SKU."
+ ],
+ "review_info": []
 }

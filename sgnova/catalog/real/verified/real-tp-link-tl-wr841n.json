@@ -128,5 +128,9 @@
    "local_sha256": "a1cb08b0f715af30d8e18d739757d696d8667f1054f84260dceeb8445d82eed5",
    "local_bytes": 80842
   }
- ]
+ ],
+ "review_blockers": [
+  "Specs follow the current hardware version listed on TP-Link's page; the Commons photo may show an earlier hardware revision of the same model."
+ ],
+ "review_info": []
 }

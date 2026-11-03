@@ -84,5 +84,9 @@
    "local_sha256": "2c65841baf11ffdd5b28ba88f872ac23857b0f8a3946078f48b65e93b712e22f",
    "local_bytes": 104499
   }
+ ],
+ "review_blockers": [],
+ "review_info": [
+  "Category computer-accessory used for a gamepad."
  ]
 }

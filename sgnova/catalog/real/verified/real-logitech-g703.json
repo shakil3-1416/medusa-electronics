@@ -91,5 +91,9 @@
    "local_sha256": "cf7fb1e53fdc7b158fca6941d05abd4e18bc65ae0c1b700e9d8d451cf3f5b5ef",
    "local_bytes": 117781
   }
+ ],
+ "review_blockers": [],
+ "review_info": [
+  "Page describes the PMW3366 version of G703."
  ]
 }

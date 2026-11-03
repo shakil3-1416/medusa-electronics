@@ -101,5 +101,9 @@
    "local_sha256": "f07e72e5e91b63ee36eea794038e1bee5d88fc14e1e50c9d8fa969e87034e804",
    "local_bytes": 230621
   }
- ]
+ ],
+ "review_blockers": [
+  "Photo matched via category 'MacBook Air M2' and title '15 inch'; confirm it shows the 15-inch M2 model."
+ ],
+ "review_info": []
 }

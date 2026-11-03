@@ -104,5 +104,9 @@
    "local_sha256": "e754fef74c6ecef877a87585bafd3ac615799df2653ec4b55daeda4329174bf9",
    "local_bytes": 251622
   }
+ ],
+ "review_blockers": [],
+ "review_info": [
+  "32GB as four 8GB DIMMs is the smallest memory option on Apple's page; Radeon Pro 580X is the first listed graphics option."
  ]
 }

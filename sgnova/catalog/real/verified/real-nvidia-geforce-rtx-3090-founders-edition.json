@@ -110,5 +110,9 @@
    "local_sha256": "303457c1f3c3e8fa20a94f3926d6755fd858100da2ff64df094e118e33caa143",
    "local_bytes": 315104
   }
- ]
+ ],
+ "review_blockers": [
+  "NVIDIA page is a shared RTX 3090 / 3090 Ti two-column table; confirm each value is from the RTX 3090 column."
+ ],
+ "review_info": []
 }

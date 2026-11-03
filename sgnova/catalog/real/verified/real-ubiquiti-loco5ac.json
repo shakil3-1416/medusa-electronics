@@ -123,5 +123,11 @@
    "local_sha256": "b93cab91d7fe12e49cbd442e867e6bac2b0990e6a1c75aa49bbb6debb94f71ae",
    "local_bytes": 71609
   }
+ ],
+ "review_blockers": [
+  "Photo titles say 'NanoStation AC loco', the marketing name of Loco5AC; PoE supply is not included per the page."
+ ],
+ "review_info": [
+  "Category router used for an outdoor wireless station."
  ]
 }

@@ -117,5 +117,9 @@
    "local_sha256": "2af65717e6b7a94c7aa155b1b378086b8f040eb97ea55fb90904b362940c4e80",
    "local_bytes": 71871
   }
+ ],
+ "review_blockers": [],
+ "review_info": [
+  "Category router used for an outdoor wireless station."
  ]
 }

@@ -106,5 +106,9 @@
    "local_sha256": "a3809bb08c318c8c9d6501ed16f3006710677763b3fade75c27a5fd5291c7f00",
    "local_bytes": 112256
   }
- ]
+ ],
+ "review_blockers": [
+  "Photo is a close-up of the lit screen, not the whole monitor; replace with a full product photo before publishing."
+ ],
+ "review_info": []
 }

@@ -56,7 +56,9 @@
   "Adjustable 250-sheet paper tray",
   "Manual feed slot for envelopes"
  ],
- "review_notes": "CPU speed shown on the page without a unit; kept unitless.",
+ "review_notes": [
+  "CPU speed shown on the page without a unit; kept unitless."
+ ],
  "price": null,
  "provenance": {
   "spec_source": {
@@ -99,5 +101,9 @@
    "local_sha256": "16253e2dfd7594e9b8184fc0fa5d3f111cd2f104948b9752afa365ceebd966a9",
    "local_bytes": 233018
   }
+ ],
+ "review_blockers": [],
+ "review_info": [
+  "CPU speed shown on the page without a unit; kept unitless."
  ]
 }

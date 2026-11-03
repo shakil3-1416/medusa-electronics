@@ -89,7 +89,10 @@
     "commons_file": "File:MikroTik hAP ac2.jpg",
     "model_evidence": "hAP ac2"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-mikrotik-hap-lite-rb941-2nd",
@@ -170,7 +173,10 @@
     "commons_file": "File:MikroTIK hAP Lite.jpg",
     "model_evidence": "hAP Lite"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-mikrotik-hap-rb951ui-2nd",
@@ -244,7 +250,10 @@
     "commons_file": "File:MikroTik RouterBoard HAP RB951Ui-2nD Top (21225709678).jpg",
     "model_evidence": "RB951Ui-2nD"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-mikrotik-rb260gs",
@@ -318,7 +327,10 @@
     "commons_file": "File:MikroTik RouterBoard RB260GS-7378.jpg",
     "model_evidence": "RB260GS"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-netgear-gs108",
@@ -400,7 +412,11 @@
   ],
   "review_notes": [
    "Photo may show an older hardware revision of the GS108."
-  ]
+  ],
+  "review_blockers": [
+   "Photo may show an older hardware revision of the GS108."
+  ],
+  "review_info": []
  },
  {
   "handle": "real-tp-link-ue300",
@@ -473,7 +489,10 @@
     "commons_file": "File:TP-Link UE300 ethernet USB adapter HS1.jpg",
     "model_evidence": "UE300"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-logitech-mx-master-3s",
@@ -540,7 +559,10 @@
     "commons_file": "File:Logitech MX Master 3S HS01.jpg",
     "model_evidence": "MX Master 3S"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-airpods-3",
@@ -619,7 +641,10 @@
     "commons_file": "File:AirPods 3.jpg",
     "model_evidence": "AirPods 3"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-airpods-max",
@@ -698,7 +723,10 @@
     "commons_file": "File:Apple AirPods Max.jpg",
     "model_evidence": "AirPods Max"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-airpods-pro-2",
@@ -777,7 +805,10 @@
     "commons_file": "File:AirPods Pro (2nd generation).jpg",
     "model_evidence": "AirPods Pro (2nd generation)"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-logitech-c922-pro-stream",
@@ -845,7 +876,10 @@
     "commons_file": "File:Webcam (Logitech c922).jpg",
     "model_evidence": "c922"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-keychron-k8",
@@ -928,7 +962,11 @@
   ],
   "review_notes": [
    "Official page mixes original and Version 2 details; confirm the sold SKU matches the listed specs."
-  ]
+  ],
+  "review_blockers": [
+   "Official page mixes original and Version 2 details; confirm the sold SKU matches the listed specs."
+  ],
+  "review_info": []
  },
  {
   "handle": "real-netgear-gs105",
@@ -1007,7 +1045,10 @@
     "commons_file": "File:Netgear 5-port Gigabit Desktop Switch GS105.jpg",
     "model_evidence": "GS105"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-netgear-gs108e",
@@ -1095,6 +1136,10 @@
   ],
   "review_notes": [
    "Photo may show an older hardware revision of the GS108E."
-  ]
+  ],
+  "review_blockers": [
+   "Photo may show an older hardware revision of the GS108E."
+  ],
+  "review_info": []
  }
 ]

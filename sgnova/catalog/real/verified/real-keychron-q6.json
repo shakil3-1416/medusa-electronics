@@ -95,5 +95,9 @@
    "local_sha256": "5d7dcb14f4d15721a892b004138cf63a44c19458966b9448907aeae5e3fb5994",
    "local_bytes": 242736
   }
- ]
+ ],
+ "review_blockers": [
+  "Photo shows a Q6 with aftermarket keycaps."
+ ],
+ "review_info": []
 }

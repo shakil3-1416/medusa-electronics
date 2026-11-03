@@ -89,7 +89,10 @@
     "commons_file": "File:M2 Macbook Air Starlight model.jpg",
     "model_evidence": "MacBook Air M2"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-macbook-air-15-m2-16gb-256gb",
@@ -171,7 +174,11 @@
   ],
   "review_notes": [
    "Photo matched via category 'MacBook Air M2' and title '15 inch'; confirm it shows the 15-inch M2 model."
-  ]
+  ],
+  "review_blockers": [
+   "Photo matched via category 'MacBook Air M2' and title '15 inch'; confirm it shows the 15-inch M2 model."
+  ],
+  "review_info": []
  },
  {
   "handle": "real-apple-macbook-air-13-m4-16gb-256gb",
@@ -256,7 +263,10 @@
     "commons_file": "File:MacBook Air (13-inch, M4, Silver).jpg",
     "model_evidence": "13-inch M4 MacBook Air"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-macbook-air-15-m4-16gb-256gb",
@@ -341,7 +351,10 @@
     "commons_file": "File:MacBook Air (15-inch, M4, Silver).jpg",
     "model_evidence": "15-inch M4 MacBook Air"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-macbook-pro-14-m3-8gb-512gb",
@@ -426,7 +439,10 @@
     "commons_file": "File:M3 Macbook Pro 14 inch Space Grey model.jpg",
     "model_evidence": "M3 Macbook Pro 14 inch"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-macbook-pro-16-m4-pro-24gb-512gb",
@@ -505,7 +521,10 @@
     "commons_file": "File:MacBook Pro (16-inch, M4 Pro, Silver).jpg",
     "model_evidence": "MacBook Pro (16-inch, M4 Pro"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-macbook-pro-16-2021-m1-pro-16gb-512gb",
@@ -590,7 +609,10 @@
     "commons_file": "File:MacBook Pro 16 (M1 Pro, 2021) - Wikipedia.jpg",
     "model_evidence": "MacBook Pro 16 (M1 Pro, 2021)"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-mac-mini-2024-m4-16gb-256gb",
@@ -669,7 +691,10 @@
     "commons_file": "File:Mac mini 2024.jpg",
     "model_evidence": "Mac mini M4"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-mac-studio-2022-m1-max-32gb-512gb",
@@ -748,7 +773,10 @@
     "commons_file": "File:Mac Studio (2022) front.jpg",
     "model_evidence": "Mac Studio (2022)"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-studio-display-2022",
@@ -827,7 +855,10 @@
     "commons_file": "File:Studio Display (2022).jpg",
     "model_evidence": "Studio Display (2022)"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-asus-rog-zephyrus-g14-2025-ga403wr",
@@ -910,7 +941,11 @@
   ],
   "review_notes": [
    "Spec page is a multi-SKU comparison table; confirm values belong to the GA403WR column."
-  ]
+  ],
+  "review_blockers": [
+   "Spec page is a multi-SKU comparison table; confirm values belong to the GA403WR column."
+  ],
+  "review_info": []
  },
  {
   "handle": "real-asus-rog-strix-scar-17-2023-g733py",
@@ -993,7 +1028,11 @@
   ],
   "review_notes": [
    "Spec page is a multi-SKU comparison table; confirm values belong to the G733PY column. Photo is a CC BY video still."
-  ]
+  ],
+  "review_blockers": [
+   "Spec page is a multi-SKU comparison table; confirm values belong to the G733PY column. Photo is a CC BY video still."
+  ],
+  "review_info": []
  },
  {
   "handle": "real-asus-rog-strix-xg32vqr",
@@ -1081,6 +1120,10 @@
   ],
   "review_notes": [
    "Photo is a close-up of the lit screen, not the whole monitor; replace with a full product photo before publishing."
-  ]
+  ],
+  "review_blockers": [
+   "Photo is a close-up of the lit screen, not the whole monitor; replace with a full product photo before publishing."
+  ],
+  "review_info": []
  }
 ]

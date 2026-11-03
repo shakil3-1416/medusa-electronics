@@ -136,5 +136,9 @@
    "local_sha256": "0723e82e40c22ff1417e2dda415ab70d549180958e8ed9ed9bb3b173d2e39248",
    "local_bytes": 66279
   }
- ]
+ ],
+ "review_blockers": [
+  "Both Commons photos show the T9 4TB next to a T5 EVO 8TB; crop or caption accordingly on the product page."
+ ],
+ "review_info": []
 }

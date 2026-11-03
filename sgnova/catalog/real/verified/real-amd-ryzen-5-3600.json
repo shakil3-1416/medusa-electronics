@@ -110,5 +110,9 @@
    "local_sha256": "87807fd1f7d16cb63541b38f992a27cff442a7128deced40389a65e5d0b69161",
    "local_bytes": 570806
   }
+ ],
+ "review_blockers": [],
+ "review_info": [
+  "AMD's current spec table for this processor is published on its official drivers & support page."
  ]
 }

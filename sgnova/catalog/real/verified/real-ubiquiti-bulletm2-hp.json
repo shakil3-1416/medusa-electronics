@@ -98,5 +98,9 @@
    "local_sha256": "9ff35291e6f8d64e58f9421d7e3be8227755e05574f4f489ba11967fc0e92e0b",
    "local_bytes": 170274
   }
- ]
+ ],
+ "review_blockers": [
+  "Photo file is 'UbiquitiBulletM2'; HP variant inferred."
+ ],
+ "review_info": []
 }

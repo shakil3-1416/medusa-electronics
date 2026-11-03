@@ -172,5 +172,9 @@
    "local_sha256": "4fea0aba45260abab0720a37df0de1fa913502711d6ce0877c4347241ef04ae2",
    "local_bytes": 133072
   }
+ ],
+ "review_blockers": [],
+ "review_info": [
+  "AMD's page describes the GPU model; the record is for AMD's own reference (MBA) board shown in the photos."
  ]
 }

@@ -122,5 +122,9 @@
    "local_sha256": "011d814553b8fa9b202e65ebeb61734a64b89a55d55023fc399f94ef9948063f",
    "local_bytes": 53210
   }
+ ],
+ "review_blockers": [],
+ "review_info": [
+  "Category router used for an outdoor wireless CPE."
  ]
 }

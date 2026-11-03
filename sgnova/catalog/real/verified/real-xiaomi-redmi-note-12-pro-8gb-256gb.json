@@ -95,5 +95,9 @@
    "local_sha256": "be83b27b1748a9585feb6fcc1d27d58d97b40c4f4029042d3ff63bcaaf6f7b4e",
    "local_bytes": 167809
   }
- ]
+ ],
+ "review_blockers": [
+  "Xiaomi's global page for this slug describes the 4G Snapdragon 732G model; the 5G model is a different product."
+ ],
+ "review_info": []
 }

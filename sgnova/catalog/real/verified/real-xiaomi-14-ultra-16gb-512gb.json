@@ -102,5 +102,9 @@
    "local_sha256": "1e5bff8f22aef3d8da02227883fd66e9766c2889c7ef795ac158a910281a3dfe",
    "local_bytes": 245333
   }
- ]
+ ],
+ "review_blockers": [
+  "The only licensed photo is a retail display shot in a Hong Kong store; replace with a product photo when available."
+ ],
+ "review_info": []
 }

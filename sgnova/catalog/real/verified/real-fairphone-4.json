@@ -120,5 +120,9 @@
    "local_sha256": "14d8f82baab52eb518c3b60c95f1140842780cf05f9444cb5df4be8b3831d361",
    "local_bytes": 275776
   }
- ]
+ ],
+ "review_blockers": [
+  "Fairphone's FAQ does not state the RAM/storage configuration; confirm the exact configuration with the supplier before listing."
+ ],
+ "review_info": []
 }

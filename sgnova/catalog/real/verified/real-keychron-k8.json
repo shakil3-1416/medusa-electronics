@@ -99,5 +99,9 @@
    "local_sha256": "a586ebfc72607f0c7d771ef06c24a11af7cfd1de01315cc6491780dbcf976ef7",
    "local_bytes": 225099
   }
- ]
+ ],
+ "review_blockers": [
+  "Official page mixes original and Version 2 details; confirm the sold SKU matches the listed specs."
+ ],
+ "review_info": []
 }

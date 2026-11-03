@@ -51,7 +51,9 @@
   "AVR corrects voltage swings",
   "LCD with load and battery bar graphs"
  ],
- "review_notes": "Spec source is the US (120V) BR700G page; the Commons photo is labelled BR700G-TW, the Taiwan SKU of the same Back-UPS Pro 700 (Taiwan also uses 110-120V NEMA outlets). Spec table on se.com is script-rendered; specs taken from the title and feature bullets.",
+ "review_notes": [
+  "Spec source is the US (120V) BR700G page; the Commons photo is labelled BR700G-TW, the Taiwan SKU of the same Back-UPS Pro 700 (Taiwan also uses 110-120V NEMA outlets). Spec table on se.com is script-rendered; specs taken from the title and feature bullets."
+ ],
  "price": null,
  "provenance": {
   "spec_source": {
@@ -94,5 +96,9 @@
    "local_sha256": "2f3c3c08b00f809a70fcd73c0918d06c6cd8b9ce2b212dbb62c930fe1de9abef",
    "local_bytes": 242357
   }
- ]
+ ],
+ "review_blockers": [
+  "Spec source is the US (120V) BR700G page; the Commons photo is labelled BR700G-TW, the Taiwan SKU of the same Back-UPS Pro 700 (Taiwan also uses 110-120V NEMA outlets). Spec table on se.com is script-rendered; specs taken from the title and feature bullets."
+ ],
+ "review_info": []
 }

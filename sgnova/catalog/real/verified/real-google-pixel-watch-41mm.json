@@ -134,5 +134,9 @@
    "local_sha256": "825db68b94b096dcd2b00e90522d691eb1b85715c89e19b104fdc91f79b1b0ad",
    "local_bytes": 132488
   }
- ]
+ ],
+ "review_blockers": [
+  "The spec page lists LTE and Bluetooth/Wi-Fi connectivity together; confirm the connectivity variant with the supplier before listing."
+ ],
+ "review_info": []
 }

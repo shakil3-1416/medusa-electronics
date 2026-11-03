@@ -104,5 +104,9 @@
    "local_sha256": "150c1e2f4a538121261c63c479ce9eefaaa12ab3bc04572085bae3a7d82f72e2",
    "local_bytes": 298266
   }
+ ],
+ "review_blockers": [],
+ "review_info": [
+  "Category router used for a wireless access point."
  ]
 }

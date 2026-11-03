@@ -56,7 +56,9 @@
   "HDMI 1.4, DisplayPort 1.2, dual-link DVI and D-Sub",
   "Hidden 3W stereo speakers"
  ],
- "review_notes": "Source page is ASUS's Spanish-language regional overview; evidence quoted verbatim in Spanish, values translated.",
+ "review_notes": [
+  "Source page is ASUS's Spanish-language regional overview; evidence quoted verbatim in Spanish, values translated."
+ ],
  "price": null,
  "provenance": {
   "spec_source": {
@@ -104,5 +106,9 @@
    "local_sha256": "3fee74132a3ffccddc9a9edd5f92a257b6c6fd20401793179313a7c80f7be024",
    "local_bytes": 186402
   }
+ ],
+ "review_blockers": [],
+ "review_info": [
+  "Source page is ASUS's Spanish-language regional overview; evidence quoted verbatim in Spanish, values translated."
  ]
 }

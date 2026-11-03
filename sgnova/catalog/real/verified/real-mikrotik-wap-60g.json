@@ -104,5 +104,9 @@
    "local_sha256": "7b5d7b675efa00df07ed8d2c1530c6fe187ca253dcc2fae95ff44c041ff47322",
    "local_bytes": 287063
   }
+ ],
+ "review_blockers": [],
+ "review_info": [
+  "Category router used for a wireless bridge (no dedicated wireless-bridge category)."
  ]
 }

@@ -100,7 +100,10 @@
     "commons_file": "File:AMD Ryzen 9 9950X 2.jpg",
     "model_evidence": "Ryzen 9 9950X"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-amd-ryzen-5-9600x",
@@ -203,7 +206,10 @@
     "commons_file": "File:AMD@4nmCCD(6nmIOD)@Zen5@Granite Ridge@Ryzen 5 9600X@100-000001405 BY 2429SUY 9AEQ579S40073 DSCx02.jpg",
     "model_evidence": "Ryzen 5 9600X"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-amd-ryzen-9-7900x",
@@ -296,7 +302,10 @@
     "commons_file": "File:AMD Ryzen 9 7900X.jpg",
     "model_evidence": "Ryzen 9 7900X"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-amd-ryzen-7-1800x",
@@ -385,6 +394,10 @@
    }
   ],
   "review_notes": [
+   "AMD's current spec table for this processor is published on its official drivers & support page."
+  ],
+  "review_blockers": [],
+  "review_info": [
    "AMD's current spec table for this processor is published on its official drivers & support page."
   ]
  },
@@ -479,6 +492,10 @@
    }
   ],
   "review_notes": [
+   "AMD's current spec table for this processor is published on its official drivers & support page."
+  ],
+  "review_blockers": [],
+  "review_info": [
    "AMD's current spec table for this processor is published on its official drivers & support page."
   ]
  },
@@ -576,6 +593,10 @@
   ],
   "review_notes": [
    "AMD's current spec table for this processor is published on its official drivers & support page."
+  ],
+  "review_blockers": [],
+  "review_info": [
+   "AMD's current spec table for this processor is published on its official drivers & support page."
   ]
  },
  {
@@ -671,6 +692,10 @@
    }
   ],
   "review_notes": [
+   "AMD's current spec table for this processor is published on its official drivers & support page."
+  ],
+  "review_blockers": [],
+  "review_info": [
    "AMD's current spec table for this processor is published on its official drivers & support page."
   ]
  },
@@ -776,6 +801,10 @@
   ],
   "review_notes": [
    "AMD's current spec table for this processor is published on its official drivers & support page."
+  ],
+  "review_blockers": [],
+  "review_info": [
+   "AMD's current spec table for this processor is published on its official drivers & support page."
   ]
  },
  {
@@ -876,6 +905,10 @@
    }
   ],
   "review_notes": [
+   "AMD's page describes the GPU model; the record is for AMD's own reference (MBA) board shown in the photos."
+  ],
+  "review_blockers": [],
+  "review_info": [
    "AMD's page describes the GPU model; the record is for AMD's own reference (MBA) board shown in the photos."
   ]
  },
@@ -986,6 +1019,10 @@
   ],
   "review_notes": [
    "AMD's page describes the GPU model; the record is for AMD's own reference (MBA) board shown in the photos."
+  ],
+  "review_blockers": [],
+  "review_info": [
+   "AMD's page describes the GPU model; the record is for AMD's own reference (MBA) board shown in the photos."
   ]
  },
  {
@@ -1078,7 +1115,11 @@
   ],
   "review_notes": [
    "Spec page is the black MU-PE4T0S/EU listing; the colour of the drive in the Commons photos was not checked against the listing."
-  ]
+  ],
+  "review_blockers": [
+   "Spec page is the black MU-PE4T0S/EU listing; the colour of the drive in the Commons photos was not checked against the listing."
+  ],
+  "review_info": []
  },
  {
   "handle": "real-samsung-t9-4tb",
@@ -1171,7 +1212,11 @@
   ],
   "review_notes": [
    "Both Commons photos show the T9 4TB next to a T5 EVO 8TB; crop or caption accordingly on the product page."
-  ]
+  ],
+  "review_blockers": [
+   "Both Commons photos show the T9 4TB next to a T5 EVO 8TB; crop or caption accordingly on the product page."
+  ],
+  "review_info": []
  },
  {
   "handle": "real-amd-ryzen-threadripper-1950x",
@@ -1260,6 +1305,10 @@
    }
   ],
   "review_notes": [
+   "AMD's current spec table for this processor is published on its official drivers & support page."
+  ],
+  "review_blockers": [],
+  "review_info": [
    "AMD's current spec table for this processor is published on its official drivers & support page."
   ]
  },
@@ -1375,6 +1424,10 @@
    }
   ],
   "review_notes": [
+   "AMD's page describes the GPU model; the record is for AMD's own reference (MBA) board shown in the photos."
+  ],
+  "review_blockers": [],
+  "review_info": [
    "AMD's page describes the GPU model; the record is for AMD's own reference (MBA) board shown in the photos."
   ]
  }

@@ -90,7 +90,10 @@
     "commons_file": "File:AMD Ryzen 7 5800X 19339.jpg",
     "model_evidence": "Ryzen 7 5800X"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-amd-ryzen-5-5600x",
@@ -183,7 +186,10 @@
     "commons_file": "File:AMD Ryzen 5 5600X.jpg",
     "model_evidence": "Ryzen 5 5600X"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-amd-ryzen-9-5900x",
@@ -270,7 +276,10 @@
     "commons_file": "File:AMD Ryzen 9 5900X by BugWarp 03.jpg",
     "model_evidence": "Ryzen 9 5900X"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-amd-ryzen-7-7800x3d",
@@ -363,7 +372,10 @@
     "commons_file": "File:AMD@5nmCCD(6nmIOD)@Zen4@Raphael@Ryzen 7 7800X3D@100-000000910 BS 2312PGY 9LW3390030138 DSCx01.jpg",
     "model_evidence": "Ryzen 7 7800X3D"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-samsung-980-pro-1tb",
@@ -449,7 +461,10 @@
     "commons_file": "File:Samsung 980 PRO PCIe 4.0 NVMe SSD 1TB-top PNr°0915.jpg",
     "model_evidence": "980 Pro"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-samsung-990-pro-4tb",
@@ -529,7 +544,10 @@
     "commons_file": "File:SAMSUNG M.2 NVMe SSD 990 PRO 4TB.jpg",
     "model_evidence": "990 PRO"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-samsung-970-evo-plus-250gb",
@@ -609,7 +627,10 @@
     "commons_file": "File:2023 Napęd Samsung 970 EVO Plus 250GB (1).jpg",
     "model_evidence": "970 EVO Plus"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-nvidia-geforce-rtx-4090-founders-edition",
@@ -700,7 +721,10 @@
     "commons_file": "File:NVIDIA RTX 4090 Founders Edition - Nahaufnahme (ZMASLO).png",
     "model_evidence": "RTX 4090"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-nvidia-geforce-rtx-3090-founders-edition",
@@ -794,7 +818,11 @@
   ],
   "review_notes": [
    "NVIDIA page is a shared RTX 3090 / 3090 Ti two-column table; confirm each value is from the RTX 3090 column."
-  ]
+  ],
+  "review_blockers": [
+   "NVIDIA page is a shared RTX 3090 / 3090 Ti two-column table; confirm each value is from the RTX 3090 column."
+  ],
+  "review_info": []
  },
  {
   "handle": "real-corsair-vengeance-rgb-ddr5-32gb-6000-c36-white",
@@ -886,7 +914,10 @@
     "commons_file": "File:2023 Pamięci Corsair Vengeance RGB.jpg",
     "model_evidence": "Corsair Vengeance RGB, DDR5, 32 GB, 6000MHz, CL36"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-corsair-4000d-airflow-black",
@@ -984,7 +1015,10 @@
     "commons_file": "File:Corsair 4000D Airflow mid-tower ATX case.tif",
     "model_evidence": "4000D Airflow"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-amd-ryzen-7-7700x",
@@ -1077,7 +1111,10 @@
     "commons_file": "File:Ryzen update to gaming PC (Ryzen 7 7700X).jpg",
     "model_evidence": "Ryzen 7 7700X"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-samsung-990-evo-plus-2tb",
@@ -1157,6 +1194,9 @@
     "commons_file": "File:SSD Samsung 990 EVO Plus 2TB, Model MZ-V9S2T0-2800.jpg",
     "model_evidence": "990 EVO Plus"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  }
 ]

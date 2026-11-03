@@ -139,5 +139,9 @@
    "local_sha256": "47d8fba7510a9965edf60634e40cb3c5a0469838e8a925cd627df92c6f9e4122",
    "local_bytes": 239377
   }
- ]
+ ],
+ "review_blockers": [
+  "Photos are titled 'Apple Watch Ultra' without a generation number; Ultra and Ultra 2 look alike, so a reviewer should confirm the pictured unit is first generation."
+ ],
+ "review_info": []
 }

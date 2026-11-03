@@ -123,5 +123,11 @@
    "local_sha256": "7fe333a6e5ae5853b767b53df001bacf6bdda649d9a5271fd2f7b1220d4d5654",
    "local_bytes": 67019
   }
+ ],
+ "review_blockers": [
+  "Photo titles say 'NanoBeam AC Gen2', Ubiquiti's marketing name for NBE-5AC-Gen2."
+ ],
+ "review_info": [
+  "Category router used for an outdoor wireless bridge."
  ]
 }

@@ -136,5 +136,9 @@
    "local_sha256": "88536b679ea9c14a17fec1bbac1399da84604ed13e31afbd68d1acd8242cf4f0",
    "local_bytes": 246106
   }
+ ],
+ "review_blockers": [],
+ "review_info": [
+  "Sold as a bare board without enclosure; category router."
  ]
 }

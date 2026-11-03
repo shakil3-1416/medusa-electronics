@@ -123,5 +123,10 @@
    "local_sha256": "c83dd84382b78d7ac18c7037cb72ecbe0da7f97b6dae02df970c2567a6159489",
    "local_bytes": 1319365
   }
- ]
+ ],
+ "review_blockers": [
+  "Fairphone's FAQ does not state the RAM/storage configuration; confirm the exact configuration with the supplier before listing.",
+  "Camera specs are read from the FAQ's Fairphone 3 vs 3+ comparison table (second column is Fairphone 3+)."
+ ],
+ "review_info": []
 }

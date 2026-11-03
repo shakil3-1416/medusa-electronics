@@ -104,5 +104,9 @@
    "local_sha256": "551fc088d917bd79912ba75a4e65b6cb0f6b3b6ea2f5b565fbb82ac850e1dc71",
    "local_bytes": 157158
   }
- ]
+ ],
+ "review_blockers": [
+  "Photo may show an older hardware revision of the GS108."
+ ],
+ "review_info": []
 }

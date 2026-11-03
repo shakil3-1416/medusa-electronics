@@ -127,5 +127,10 @@
    "local_sha256": "891baae778b4c9a727e5e954edb18795fabf5cafb4c44351af96eff00f797f11",
    "local_bytes": 127500
   }
- ]
+ ],
+ "review_blockers": [
+  "Xiaomi's global page for this slug describes the 4G Helio G96 model; the 5G model is a different product.",
+  "Commons photos are titled Redmi Note 11 Pro without stating 4G or 5G; confirm the pictured unit matches the 4G model."
+ ],
+ "review_info": []
 }

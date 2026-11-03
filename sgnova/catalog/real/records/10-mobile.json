@@ -83,7 +83,10 @@
     "commons_file": "File:IPhone 14 Product Red.jpg",
     "model_evidence": "iPhone 14"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-13-128gb",
@@ -163,7 +166,10 @@
     "commons_file": "File:IPhone 13 camera lens group.jpg",
     "model_evidence": "iPhone 13"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-16-128gb",
@@ -249,7 +255,10 @@
     "commons_file": "File:Back view of iPhone 16 Ultramarine.jpg",
     "model_evidence": "iPhone 16"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-16e-128gb",
@@ -329,7 +338,10 @@
     "commons_file": "File:IPhone 16e (Black) - 2.jpg",
     "model_evidence": "iPhone 16e"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-se-3rd-gen-64gb",
@@ -409,7 +421,10 @@
     "commons_file": "File:IPhone SE 3rd Gen.jpg",
     "model_evidence": "iPhone SE (3rd generation)"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-ipad-10th-gen-64gb-wifi",
@@ -489,7 +504,10 @@
     "commons_file": "File:IPad 10th Generation 2024.jpg",
     "model_evidence": "iPad (10th generation)"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-watch-series-9-45mm-gps",
@@ -562,7 +580,10 @@
     "commons_file": "File:Apple Watch Series 9 1 2023-11-14.jpg",
     "model_evidence": "Apple Watch Series 9"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-watch-ultra-2-49mm",
@@ -635,7 +656,10 @@
     "commons_file": "File:Apple Watch Ultra 2.jpg",
     "model_evidence": "Apple Watch Ultra 2"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-google-pixel-8-128gb",
@@ -722,7 +746,10 @@
     "commons_file": "File:Google Pixel 8 Rose rear.jpg",
     "model_evidence": "Pixel 8"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-google-pixel-7a-128gb",
@@ -803,7 +830,10 @@
     "commons_file": "File:Google Pixel 7A.jpg",
     "model_evidence": "Pixel 7a"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-google-pixel-tablet-128gb",
@@ -882,7 +912,10 @@
     "commons_file": "File:Google Pixel Tablet, shown in Shibuya Stream.jpg",
     "model_evidence": "Pixel Tablet"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-google-pixel-watch-2-41mm",
@@ -949,7 +982,10 @@
     "commons_file": "File:Google Pixel Watch 2, shown in Shibuya Stream.jpg",
     "model_evidence": "Pixel Watch 2"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-fairphone-5-256gb",
@@ -1022,7 +1058,10 @@
     "commons_file": "File:Fairphone 5 front.jpg",
     "model_evidence": "Fairphone 5"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-xiaomi-14-12gb-256gb",
@@ -1113,7 +1152,10 @@
     "commons_file": "File:Xiaomi 14 rear (July 10, 2026).jpg",
     "model_evidence": "Xiaomi 14"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-xiaomi-pad-6-8gb-256gb",
@@ -1186,6 +1228,9 @@
     "commons_file": "File:Xiaomi Pad 6 display.jpg",
     "model_evidence": "Xiaomi Pad 6"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  }
 ]

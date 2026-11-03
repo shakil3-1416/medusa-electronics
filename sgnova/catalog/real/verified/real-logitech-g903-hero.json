@@ -100,5 +100,9 @@
    "local_sha256": "a683634dca00132659b6719e20c610961f37a5479df955a4006868a630c8ace3",
    "local_bytes": 93487
   }
- ]
+ ],
+ "review_blockers": [
+  "Page is the G903 with HERO 25K sensor; the Commons photo is titled 'G903 Lightspeed' and may show the earlier sensor revision of the same shell."
+ ],
+ "review_info": []
 }

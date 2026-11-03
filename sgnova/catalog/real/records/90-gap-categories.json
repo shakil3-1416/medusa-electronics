@@ -89,7 +89,10 @@
     "commons_file": "File:Brother HL-L8260CDW Printer.jpg",
     "model_evidence": "HL-L8260CDW"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-brother-hl-2240",
@@ -170,7 +173,13 @@
     "model_evidence": "HL-2240"
    }
   ],
-  "review_notes": "CPU speed shown on the page without a unit; kept unitless."
+  "review_notes": [
+   "CPU speed shown on the page without a unit; kept unitless."
+  ],
+  "review_blockers": [],
+  "review_info": [
+   "CPU speed shown on the page without a unit; kept unitless."
+  ]
  },
  {
   "handle": "real-brother-mfc-j5855dw",
@@ -262,7 +271,10 @@
     "commons_file": "File:Brother MFC-J5855DW Printer.jpg",
     "model_evidence": "MFC-J5855DW"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apc-smart-ups-smt1500i",
@@ -343,7 +355,13 @@
     "model_evidence": "SMT1500I"
    }
   ],
-  "review_notes": "Spec table on se.com is script-rendered; specs taken from the product title and feature bullets in the static page. Photo shows the SMT1500I with an AP9617 management card placed on top. Page marks the model discontinued (replaced by SMT1500IC)."
+  "review_notes": [
+   "Spec table on se.com is script-rendered; specs taken from the product title and feature bullets in the static page. Photo shows the SMT1500I with an AP9617 management card placed on top. Page marks the model discontinued (replaced by SMT1500IC)."
+  ],
+  "review_blockers": [],
+  "review_info": [
+   "Spec table on se.com is script-rendered; specs taken from the product title and feature bullets in the static page. Photo shows the SMT1500I with an AP9617 management card placed on top. Page marks the model discontinued (replaced by SMT1500IC)."
+  ]
  },
  {
   "handle": "real-apc-back-ups-pro-br700g",
@@ -418,7 +436,13 @@
     "model_evidence": "BR700G"
    }
   ],
-  "review_notes": "Spec source is the US (120V) BR700G page; the Commons photo is labelled BR700G-TW, the Taiwan SKU of the same Back-UPS Pro 700 (Taiwan also uses 110-120V NEMA outlets). Spec table on se.com is script-rendered; specs taken from the title and feature bullets."
+  "review_notes": [
+   "Spec source is the US (120V) BR700G page; the Commons photo is labelled BR700G-TW, the Taiwan SKU of the same Back-UPS Pro 700 (Taiwan also uses 110-120V NEMA outlets). Spec table on se.com is script-rendered; specs taken from the title and feature bullets."
+  ],
+  "review_blockers": [
+   "Spec source is the US (120V) BR700G page; the Commons photo is labelled BR700G-TW, the Taiwan SKU of the same Back-UPS Pro 700 (Taiwan also uses 110-120V NEMA outlets). Spec table on se.com is script-rendered; specs taken from the title and feature bullets."
+  ],
+  "review_info": []
  },
  {
   "handle": "real-asus-zenscreen-mb16ac",
@@ -504,7 +528,10 @@
     "commons_file": "File:ASUS ZenScreen MB16AC 20170603.jpg",
     "model_evidence": "ZenScreen MB16AC"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-epson-workforce-pro-wf-3820",
@@ -584,7 +611,10 @@
     "commons_file": "File:Epson WorkForce Pro WF-3820 Printer.jpg",
     "model_evidence": "WF-3820"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-asus-rog-strix-g15-advantage-edition-g513qy",
@@ -679,7 +709,13 @@
     "model_evidence": "G513QY"
    }
   ],
-  "review_notes": "Spec page lists the G513QY-R9X8G6T-O configuration (16GB as 2x8GB, 1TB); photos show the G513QY-HQ012T regional configuration of the same G513QY chassis/CPU/GPU. Memory and storage may differ by regional SKU."
+  "review_notes": [
+   "Spec page lists the G513QY-R9X8G6T-O configuration (16GB as 2x8GB, 1TB); photos show the G513QY-HQ012T regional configuration of the same G513QY chassis/CPU/GPU. Memory and storage may differ by regional SKU."
+  ],
+  "review_blockers": [
+   "Spec page lists the G513QY-R9X8G6T-O configuration (16GB as 2x8GB, 1TB); photos show the G513QY-HQ012T regional configuration of the same G513QY chassis/CPU/GPU. Memory and storage may differ by regional SKU."
+  ],
+  "review_info": []
  },
  {
   "handle": "real-asus-pb278q",
@@ -760,6 +796,12 @@
     "model_evidence": "PB278Q"
    }
   ],
-  "review_notes": "Source page is ASUS's Spanish-language regional overview; evidence quoted verbatim in Spanish, values translated."
+  "review_notes": [
+   "Source page is ASUS's Spanish-language regional overview; evidence quoted verbatim in Spanish, values translated."
+  ],
+  "review_blockers": [],
+  "review_info": [
+   "Source page is ASUS's Spanish-language regional overview; evidence quoted verbatim in Spanish, values translated."
+  ]
  }
 ]

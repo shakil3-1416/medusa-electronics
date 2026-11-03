@@ -100,5 +100,9 @@
    "local_sha256": "ab7e6de2e5740e347505e81d365ea4017d7da16a6342c72d2821a0f0171c586c",
    "local_bytes": 270026
   }
- ]
+ ],
+ "review_blockers": [
+  "Spec page is a multi-SKU comparison table; confirm values belong to the GA403WR column."
+ ],
+ "review_info": []
 }

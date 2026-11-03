@@ -56,7 +56,9 @@
   "Eight IEC C13 outlets at 230V",
   "SmartSlot for an optional network management card"
  ],
- "review_notes": "Spec table on se.com is script-rendered; specs taken from the product title and feature bullets in the static page. Photo shows the SMT1500I with an AP9617 management card placed on top. Page marks the model discontinued (replaced by SMT1500IC).",
+ "review_notes": [
+  "Spec table on se.com is script-rendered; specs taken from the product title and feature bullets in the static page. Photo shows the SMT1500I with an AP9617 management card placed on top. Page marks the model discontinued (replaced by SMT1500IC)."
+ ],
  "price": null,
  "provenance": {
   "spec_source": {
@@ -100,5 +102,9 @@
    "local_sha256": "a50a40a95136e453bef60e30a41ef0a927362a3b26bdc024df31b3aa501e071b",
    "local_bytes": 236021
   }
+ ],
+ "review_blockers": [],
+ "review_info": [
+  "Spec table on se.com is script-rendered; specs taken from the product title and feature bullets in the static page. Photo shows the SMT1500I with an AP9617 management card placed on top. Page marks the model discontinued (replaced by SMT1500IC)."
  ]
 }

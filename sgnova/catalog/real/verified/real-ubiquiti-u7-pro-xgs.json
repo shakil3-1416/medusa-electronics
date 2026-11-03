@@ -105,5 +105,9 @@
    "local_sha256": "9b4d9d9e35bf6565cc53cc634728818dd6e93bfd3cf5cddd0a22fb666f58294e",
    "local_bytes": 202530
   }
+ ],
+ "review_blockers": [],
+ "review_info": [
+  "Category router used for an access point."
  ]
 }

@@ -121,5 +121,9 @@
    "local_sha256": "a5d805e83bd87c5dcf9869844c8b084327927956c2a1207934358e1d4e68370d",
    "local_bytes": 351442
   }
- ]
+ ],
+ "review_blockers": [
+  "Photo shows K1 version 2 (TKL); the official page currently sells a later version of the same K1 TKL model, specs may differ slightly by version."
+ ],
+ "review_info": []
 }

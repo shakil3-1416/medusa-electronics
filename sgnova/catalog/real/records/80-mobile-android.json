@@ -77,7 +77,11 @@
   ],
   "review_notes": [
    "Fairphone's FAQ does not state the RAM/storage configuration; confirm the exact configuration with the supplier before listing."
-  ]
+  ],
+  "review_blockers": [
+   "Fairphone's FAQ does not state the RAM/storage configuration; confirm the exact configuration with the supplier before listing."
+  ],
+  "review_info": []
  },
  {
   "handle": "real-fairphone-3",
@@ -164,7 +168,12 @@
   "review_notes": [
    "Fairphone's FAQ does not state the RAM/storage configuration; confirm the exact configuration with the supplier before listing.",
    "The camera spec is read from the FAQ's Fairphone 3 vs 3+ comparison table (first column is Fairphone 3)."
-  ]
+  ],
+  "review_blockers": [
+   "Fairphone's FAQ does not state the RAM/storage configuration; confirm the exact configuration with the supplier before listing.",
+   "The camera spec is read from the FAQ's Fairphone 3 vs 3+ comparison table (first column is Fairphone 3)."
+  ],
+  "review_info": []
  },
  {
   "handle": "real-fairphone-3-plus",
@@ -245,7 +254,12 @@
   "review_notes": [
    "Fairphone's FAQ does not state the RAM/storage configuration; confirm the exact configuration with the supplier before listing.",
    "Camera specs are read from the FAQ's Fairphone 3 vs 3+ comparison table (second column is Fairphone 3+)."
-  ]
+  ],
+  "review_blockers": [
+   "Fairphone's FAQ does not state the RAM/storage configuration; confirm the exact configuration with the supplier before listing.",
+   "Camera specs are read from the FAQ's Fairphone 3 vs 3+ comparison table (second column is Fairphone 3+)."
+  ],
+  "review_info": []
  },
  {
   "handle": "real-oneplus-9-pro-12gb-256gb",
@@ -328,7 +342,10 @@
     "commons_file": "File:OnePlus 9 Pro Camera Module.jpg",
     "model_evidence": "OnePlus 9 Pro"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-oneplus-8t-8gb-128gb",
@@ -411,7 +428,10 @@
     "commons_file": "File:OnePlus 8T Front View.png",
     "model_evidence": "OnePlus 8T"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-oneplus-13-12gb-256gb",
@@ -500,7 +520,10 @@
     "commons_file": "File:OnePlus 13 volume slider.jpg",
     "model_evidence": "OnePlus 13"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-google-pixel-6-128gb",
@@ -597,7 +620,10 @@
     "commons_file": "File:Google Pixel 6 Sorta Seafoam rear.jpg",
     "model_evidence": "Pixel 6"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-google-pixel-6-pro-128gb",
@@ -694,7 +720,10 @@
     "commons_file": "File:Google Pixel 6 Pro with accessory box.jpg",
     "model_evidence": "Pixel 6 Pro"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-google-pixel-6a-128gb",
@@ -785,7 +814,10 @@
     "commons_file": "File:Google Pixel 6a back.jpg",
     "model_evidence": "Pixel 6a"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-google-pixel-8-pro-128gb",
@@ -882,7 +914,10 @@
     "commons_file": "File:Google Pixel 8 Pro, shown in Shibuya Stream.jpg",
     "model_evidence": "Pixel 8 Pro"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-google-pixel-8a-128gb",
@@ -979,7 +1014,10 @@
     "commons_file": "File:Rear view of Pixel 8a.jpg",
     "model_evidence": "Pixel 8a"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-google-pixel-9-128gb",
@@ -1070,7 +1108,10 @@
     "commons_file": "File:Camera of Google Pixel 9 - 3.jpg",
     "model_evidence": "Pixel 9"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-google-pixel-9-pro-128gb",
@@ -1161,7 +1202,10 @@
     "commons_file": "File:Camera of Google Pixel 9 Pro - 2.jpg",
     "model_evidence": "Pixel 9 Pro"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-google-pixel-9-pro-xl-128gb",
@@ -1262,7 +1306,10 @@
     "commons_file": "File:Pixel 9 Pro XL.jpg",
     "model_evidence": "Pixel 9 Pro XL"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-google-pixel-9a-128gb",
@@ -1355,7 +1402,10 @@
     "commons_file": "File:Pixel 9a back.jpg",
     "model_evidence": "Pixel 9a"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-google-pixel-fold-256gb",
@@ -1446,7 +1496,10 @@
     "commons_file": "File:Google Pixel Fold, shown in Shibuya Stream 10.jpg",
     "model_evidence": "Pixel Fold"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-google-pixel-10-pro-128gb",
@@ -1537,7 +1590,10 @@
     "commons_file": "File:Arrière du Google Pixel 10 Pro pierre de lune de 256 Go.jpg",
     "model_evidence": "Pixel 10 Pro"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-google-pixel-watch-41mm",
@@ -1625,7 +1681,11 @@
   ],
   "review_notes": [
    "The spec page lists LTE and Bluetooth/Wi-Fi connectivity together; confirm the connectivity variant with the supplier before listing."
-  ]
+  ],
+  "review_blockers": [
+   "The spec page lists LTE and Bluetooth/Wi-Fi connectivity together; confirm the connectivity variant with the supplier before listing."
+  ],
+  "review_info": []
  },
  {
   "handle": "real-xiaomi-13-8gb-256gb",
@@ -1712,7 +1772,10 @@
     "commons_file": "File:Xiaomi 13 20240220.jpg",
     "model_evidence": "Xiaomi 13"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-xiaomi-12-8gb-256gb",
@@ -1795,7 +1858,10 @@
     "commons_file": "File:The back of Xiaomi 12.jpg",
     "model_evidence": "Xiaomi 12"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-xiaomi-13-lite-8gb-256gb",
@@ -1878,7 +1944,10 @@
     "commons_file": "File:Xiaomi 13 Lite front.jpg",
     "model_evidence": "Xiaomi 13 Lite"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-xiaomi-14t-pro-12gb-256gb",
@@ -1955,7 +2024,10 @@
     "commons_file": "File:Xiaomi 14T Pro front.jpg",
     "model_evidence": "Xiaomi 14T Pro"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-xiaomi-13-ultra-12gb-512gb",
@@ -2032,7 +2104,10 @@
     "commons_file": "File:Xiaomi 13 Ultra 20240220.jpg",
     "model_evidence": "Xiaomi 13 Ultra"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-xiaomi-14-ultra-16gb-512gb",
@@ -2108,7 +2183,11 @@
   ],
   "review_notes": [
    "The only licensed photo is a retail display shot in a Hong Kong store; replace with a product photo when available."
-  ]
+  ],
+  "review_blockers": [
+   "The only licensed photo is a retail display shot in a Hong Kong store; replace with a product photo when available."
+  ],
+  "review_info": []
  },
  {
   "handle": "real-xiaomi-redmi-note-11-6gb-128gb",
@@ -2185,7 +2264,10 @@
     "commons_file": "File:Redmi Note 11 back.jpg",
     "model_evidence": "Redmi Note 11"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-xiaomi-redmi-note-10-pro-6gb-128gb",
@@ -2266,7 +2348,10 @@
     "commons_file": "File:Redmi Note 10 Pro camera island.jpg",
     "model_evidence": "Redmi Note 10 Pro"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-xiaomi-redmi-note-12-pro-8gb-256gb",
@@ -2342,7 +2427,11 @@
   ],
   "review_notes": [
    "Xiaomi's global page for this slug describes the 4G Snapdragon 732G model; the 5G model is a different product."
-  ]
+  ],
+  "review_blockers": [
+   "Xiaomi's global page for this slug describes the 4G Snapdragon 732G model; the 5G model is a different product."
+  ],
+  "review_info": []
  },
  {
   "handle": "real-xiaomi-redmi-12-8gb-256gb",
@@ -2419,7 +2508,10 @@
     "commons_file": "File:Redmi 12 back.jpg",
     "model_evidence": "Redmi 12"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-xiaomi-redmi-note-11-pro-6gb-128gb",
@@ -2500,7 +2592,12 @@
   "review_notes": [
    "Xiaomi's global page for this slug describes the 4G Helio G96 model; the 5G model is a different product.",
    "Commons photos are titled Redmi Note 11 Pro without stating 4G or 5G; confirm the pictured unit matches the 4G model."
-  ]
+  ],
+  "review_blockers": [
+   "Xiaomi's global page for this slug describes the 4G Helio G96 model; the 5G model is a different product.",
+   "Commons photos are titled Redmi Note 11 Pro without stating 4G or 5G; confirm the pictured unit matches the 4G model."
+  ],
+  "review_info": []
  },
  {
   "handle": "real-xiaomi-redmi-note-12-8gb-128gb",
@@ -2581,6 +2678,11 @@
   "review_notes": [
    "Xiaomi's global page for this slug describes the 4G Snapdragon 685 model; the 5G model is a different product.",
    "Commons photos are titled Redmi Note 12 without stating 4G or 5G; confirm the pictured unit matches the 4G model."
-  ]
+  ],
+  "review_blockers": [
+   "Xiaomi's global page for this slug describes the 4G Snapdragon 685 model; the 5G model is a different product.",
+   "Commons photos are titled Redmi Note 12 without stating 4G or 5G; confirm the pictured unit matches the 4G model."
+  ],
+  "review_info": []
  }
 ]

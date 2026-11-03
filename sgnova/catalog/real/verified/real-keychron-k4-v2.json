@@ -98,5 +98,9 @@
    "local_sha256": "8740dd6380d0ec30ead563cc016c048e3c2164a24b8efc986dc30bacb94ebee9",
    "local_bytes": 109182
   }
- ]
+ ],
+ "review_blockers": [
+  "Photo is titled 'Keychron K4' without a version; specs are for K4 Version 2."
+ ],
+ "review_info": []
 }

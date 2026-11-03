@@ -114,5 +114,9 @@
    "local_sha256": "f21db7e5994977374d4a333c106f2e9b09670e9cbd090df3a6d97390c7f0baaf",
    "local_bytes": 174537
   }
- ]
+ ],
+ "review_blockers": [
+  "Only photo shows the device's About screen; confirm the model and replace with a full product photo before publishing."
+ ],
+ "review_info": []
 }

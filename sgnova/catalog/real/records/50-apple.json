@@ -99,7 +99,10 @@
     "commons_file": "File:Unboxed iPhone 8.jpg",
     "model_evidence": "iPhone 8"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-8-plus-64gb",
@@ -201,7 +204,10 @@
     "commons_file": "File:IPhone 8 Plus silver.jpg",
     "model_evidence": "iPhone 8 Plus"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-x-64gb",
@@ -294,7 +300,10 @@
     "commons_file": "File:IPhone X rear.jpg",
     "model_evidence": "iPhone X"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-xr-64gb",
@@ -400,7 +409,10 @@
     "commons_file": "File:Back view of iPhone XR white.jpg",
     "model_evidence": "iPhone XR"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-watch-series-3-42mm-gps",
@@ -488,7 +500,11 @@
   ],
   "review_notes": [
    "Photo shows the sensor back; case size of the pictured unit is not stated."
-  ]
+  ],
+  "review_blockers": [
+   "Photo shows the sensor back; case size of the pictured unit is not stated."
+  ],
+  "review_info": []
  },
  {
   "handle": "real-apple-watch-series-7-45mm-gps",
@@ -577,7 +593,10 @@
     "commons_file": "File:Apple Watch Series 7; January 2022 (01).jpg",
     "model_evidence": "Apple Watch Series 7"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-watch-series-8-45mm-gps",
@@ -666,7 +685,10 @@
     "commons_file": "File:Apple Watch Series 8.jpg",
     "model_evidence": "Apple Watch Series 8"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-watch-ultra-49mm",
@@ -758,7 +780,11 @@
   ],
   "review_notes": [
    "Photos are titled 'Apple Watch Ultra' without a generation number; Ultra and Ultra 2 look alike, so a reviewer should confirm the pictured unit is first generation."
-  ]
+  ],
+  "review_blockers": [
+   "Photos are titled 'Apple Watch Ultra' without a generation number; Ultra and Ultra 2 look alike, so a reviewer should confirm the pictured unit is first generation."
+  ],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-xs-64gb",
@@ -854,7 +880,10 @@
     "commons_file": "File:IPhone XS 1 2018-11-02.jpg",
     "model_evidence": "iPhone XS"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-xs-max-64gb",
@@ -950,7 +979,10 @@
     "commons_file": "File:IPhone XS Max gold & Cappuccino 20180921.jpg",
     "model_evidence": "iPhone XS Max"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-11-64gb",
@@ -1066,7 +1098,10 @@
     "commons_file": "File:Apple iPhone 11 - Tischkante.jpg",
     "model_evidence": "iPhone 11"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-11-pro-64gb",
@@ -1168,7 +1203,10 @@
     "commons_file": "File:Close-Up of the iPhone 11 Pro's cameras.jpg",
     "model_evidence": "iPhone 11 Pro"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-11-pro-max-64gb",
@@ -1270,7 +1308,10 @@
     "commons_file": "File:Scan of back of iPhone 11 Pro Max Space Grey.jpg",
     "model_evidence": "iPhone 11 Pro Max"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-12-mini-64gb",
@@ -1376,7 +1417,10 @@
     "commons_file": "File:Two cameras of iPhone 12 Mini - 1.jpg",
     "model_evidence": "iPhone 12 mini"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-12-pro-128gb",
@@ -1482,7 +1526,10 @@
     "commons_file": "File:IPhone 12 Pro - 2.jpg",
     "model_evidence": "iPhone 12 Pro"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-12-pro-max-128gb",
@@ -1584,7 +1631,10 @@
     "commons_file": "File:IPhone 12 Pro Max - 2.jpg",
     "model_evidence": "iPhone 12 Pro Max"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-13-pro-128gb",
@@ -1690,7 +1740,10 @@
     "commons_file": "File:Back of the iPhone 13 Pro.jpg",
     "model_evidence": "iPhone 13 Pro"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-13-pro-max-128gb",
@@ -1792,7 +1845,10 @@
     "commons_file": "File:Back view of iPhone 13 Pro Max Gold.jpg",
     "model_evidence": "iPhone 13 Pro Max"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-14-plus-128gb",
@@ -1886,7 +1942,10 @@
     "commons_file": "File:IPhone 14 Plus 20240225.jpg",
     "model_evidence": "iPhone 14 Plus"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-13-mini-128gb",
@@ -1984,7 +2043,10 @@
     "commons_file": "File:IPhone 13 Mini Grün Freigestellt.png",
     "model_evidence": "iPhone 13 mini"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-14-pro-128gb",
@@ -2090,7 +2152,10 @@
     "commons_file": "File:IPhone 14 Pro - black.jpg",
     "model_evidence": "iPhone 14 Pro"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-14-pro-max-128gb",
@@ -2192,7 +2257,10 @@
     "commons_file": "File:IPhone 14 Pro Max Deep purple A2896 China, Hong Kong and Macao version rear.jpg",
     "model_evidence": "iPhone 14 Pro Max"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-15-plus-128gb",
@@ -2300,7 +2368,10 @@
     "commons_file": "File:IPhone 15 Plus, January 28, 2024.jpg",
     "model_evidence": "iPhone 15 Plus"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-15-pro-128gb",
@@ -2406,7 +2477,10 @@
     "commons_file": "File:USB-C port of iPhone 15 Pro - 1.jpg",
     "model_evidence": "iPhone 15 Pro"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-15-pro-max-256gb",
@@ -2512,7 +2586,10 @@
     "commons_file": "File:Side of iPhone 15 Pro Max - 1.jpg",
     "model_evidence": "iPhone 15 Pro Max"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-16-pro-128gb",
@@ -2618,7 +2695,10 @@
     "commons_file": "File:IPhone 16 Pro - black.jpg",
     "model_evidence": "iPhone 16 Pro"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-16-pro-max-256gb",
@@ -2724,7 +2804,10 @@
     "commons_file": "File:Right view of iPhone 16 Pro Max Natural Titanium.jpg",
     "model_evidence": "iPhone 16 Pro Max"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-17-pro-256gb",
@@ -2830,7 +2913,10 @@
     "commons_file": "File:IPhone 17 Pro (2025-12-28).jpg",
     "model_evidence": "iPhone 17 Pro"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-7-32gb",
@@ -2936,7 +3022,10 @@
     "commons_file": "File:IPhone 7 Matte Black.jpg",
     "model_evidence": "iPhone 7"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-7-plus-32gb",
@@ -3038,7 +3127,10 @@
     "commons_file": "File:IPhone 7 Plus Black dual camera back.jpg",
     "model_evidence": "iPhone 7 Plus"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-iphone-6s-16gb",
@@ -3139,7 +3231,10 @@
     "commons_file": "File:IPhone 6s rear, Space Gray.jpg",
     "model_evidence": "iPhone 6s"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-ipad-pro-11-m4-256gb-wifi",
@@ -3229,7 +3324,10 @@
     "commons_file": "File:About iPad Pro 11-inch (M4).jpg",
     "model_evidence": "iPad Pro 11-inch (M4)"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-ipad-pro-13-m4-256gb-wifi",
@@ -3324,7 +3422,11 @@
   ],
   "review_notes": [
    "Only photo shows the device's About screen; confirm the model and replace with a full product photo before publishing."
-  ]
+  ],
+  "review_blockers": [
+   "Only photo shows the device's About screen; confirm the model and replace with a full product photo before publishing."
+  ],
+  "review_info": []
  },
  {
   "handle": "real-apple-ipad-pro-12-9-3rd-gen-64gb-wifi",
@@ -3407,7 +3509,10 @@
     "commons_file": "File:IPad Pro 12.9-inch (3rd generation) back side (20250525 155242).jpg",
     "model_evidence": "iPad Pro 12.9-inch (3rd generation)"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-ipad-air-4th-gen-64gb-wifi",
@@ -3505,7 +3610,10 @@
     "commons_file": "File:IPad Air (4th generation) and Magic Keyboard - 1.jpg",
     "model_evidence": "iPad Air (4th generation)"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-ipad-mini-6th-gen-64gb-wifi",
@@ -3594,7 +3702,10 @@
     "commons_file": "File:About iPad Mini (6th generation).jpg",
     "model_evidence": "iPad mini (6th generation)"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-watch-series-4-40mm-gps",
@@ -3679,7 +3790,10 @@
     "commons_file": "File:Apple Watch Series 4 40mm space gray Aluminum.jpg",
     "model_evidence": "Apple Watch Series 4"
    }
-  ]
+  ],
+  "review_notes": [],
+  "review_blockers": [],
+  "review_info": []
  },
  {
   "handle": "real-apple-macbook-air-m1-2020-8gb-256gb",
@@ -3791,6 +3905,12 @@
   "review_notes": [
    "Apple's spec page lists 128GB SSD configurable to 256GB; this listing uses the 256GB configuration.",
    "Photos are cut-out PNGs from Commons; confirm they are photographs rather than renders."
+  ],
+  "review_blockers": [
+   "Photos are cut-out PNGs from Commons; confirm they are photographs rather than renders."
+  ],
+  "review_info": [
+   "Apple's spec page lists 128GB SSD configurable to 256GB; this listing uses the 256GB configuration."
   ]
  },
  {
@@ -3879,6 +3999,10 @@
    }
   ],
   "review_notes": [
+   "32GB as four 8GB DIMMs is the smallest memory option on Apple's page; Radeon Pro 580X is the first listed graphics option."
+  ],
+  "review_blockers": [],
+  "review_info": [
    "32GB as four 8GB DIMMs is the smallest memory option on Apple's page; Radeon Pro 580X is the first listed graphics option."
   ]
  }

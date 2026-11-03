@@ -124,5 +124,9 @@
    "local_sha256": "ddac77feffed8d8a20a83bb6b867b8f4608765b56b953ffc258e48f18a06b3d1",
    "local_bytes": 248134
   }
- ]
+ ],
+ "review_blockers": [
+  "Page lists original K10; the photo's hardware version is not stated."
+ ],
+ "review_info": []
 }

@@ -161,5 +161,9 @@
    "local_sha256": "95f351c4b89e0fb32834cbacaf29585c0e97b847b55b595578f076934dd75cb2",
    "local_bytes": 123619
   }
- ]
+ ],
+ "review_blockers": [
+  "Spec page is the black MU-PE4T0S/EU listing; the colour of the drive in the Commons photos was not checked against the listing."
+ ],
+ "review_info": []
 }

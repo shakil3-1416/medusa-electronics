@@ -89,5 +89,9 @@
    "local_sha256": "b928a083b8809a8c4ed871c8ab4cfe038dd208ef367f1868b3b5e4d200b4e691",
    "local_bytes": 76355
   }
- ]
+ ],
+ "review_blockers": [
+  "Photo shows hardware version 1; the page lists specs common to the model."
+ ],
+ "review_info": []
 }

@@ -150,5 +150,11 @@
    "local_sha256": "e9459177a7cec982d7ebef9c3bd0ec7b98b3be570994a272bb1bfdf4a0ff833b",
    "local_bytes": 1181943
   }
+ ],
+ "review_blockers": [
+  "Photos are cut-out PNGs from Commons; confirm they are photographs rather than renders."
+ ],
+ "review_info": [
+  "Apple's spec page lists 128GB SSD configurable to 256GB; this listing uses the 256GB configuration."
  ]
 }
