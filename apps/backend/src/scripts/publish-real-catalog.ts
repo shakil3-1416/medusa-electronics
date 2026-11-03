@@ -3,6 +3,7 @@ import { ContainerRegistrationKeys, MedusaError, ProductStatus } from "@medusajs
 import { updateProductsWorkflow } from "@medusajs/medusa/core-flows"
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
+import { CatalogProduct as Product, publicationBlockers, selectPublishBatch } from "../lib/catalog-publication"
 
 /**
  * Controlled publication of verified real products (and, separately,
@@ -10,7 +11,9 @@ import { resolve } from "node:path"
  * real product against the publication gate and writes a report.
  *
  *   PUBLISH_APPLY=1 PUBLISH_CONFIRM=publish-real-catalog PUBLISH_BATCH=50
- *       publish up to 50 eligible real products
+ *       [PUBLISH_CATEGORIES=motherboard,hard-drive] [PUBLISH_INCLUDE_OUT_OF_STOCK=1]
+ *       publish up to 50 eligible real products, optionally only in some
+ *       categories; out-of-stock products are held back unless included
  *   RETIRE_SYNTHETIC=1 PUBLISH_CONFIRM=retire-synthetic-catalog [RETIRE_MIN_REAL=10]
  *       move synthetic products back to draft, only in categories that already
  *       have at least RETIRE_MIN_REAL published real products (never deletes)
@@ -20,41 +23,6 @@ import { resolve } from "node:path"
  */
 
 const LEDGER = resolve(process.cwd(), "../../sgnova/catalog/publication")
-const AVAILABILITY = new Set(["in_stock", "backorder", "preorder", "out_of_stock"])
-const MIN_SPECS = 5
-
-type Product = {
-  id: string
-  handle: string
-  status: string
-  thumbnail: string | null
-  metadata: Record<string, unknown> | null
-  images?: ({ url?: string } | null)[]
-  categories?: ({ id: string; handle: string } | null)[]
-  sales_channels?: ({ id: string } | null)[]
-  variants?: ({ id: string; sku?: string | null; prices?: { amount?: number; currency_code?: string }[] } | null)[]
-}
-
-export function publicationBlockers(p: Product): string[] {
-  const md = p.metadata ?? {}
-  const out: string[] = []
-  const bdt = (p.variants ?? []).flatMap((v) => v?.prices ?? []).find((x) => x?.currency_code === "bdt")
-  if (!bdt?.amount || bdt.amount <= 0) out.push("no BDT selling price")
-  if (md.price_status !== "approved") out.push("price not approved")
-  if (!AVAILABILITY.has(String(md.availability ?? ""))) out.push("availability not set")
-  if (md.review_status !== "auto_verified") out.push(`review status ${md.review_status ?? "unknown"}`)
-  if (!p.thumbnail || !(p.images ?? []).length) out.push("missing thumbnail or gallery")
-  const credits = (md.image_credits as { license?: string }[] | undefined) ?? []
-  if (!credits.length || credits.some((c) => !c?.license)) out.push("missing photo attribution")
-  if (md.content_source === "open-icecat" && typeof md.content_disclaimer !== "string") out.push("missing Open Icecat licence notice")
-  const specs = (md.specs as { items?: unknown[] }[] | undefined) ?? []
-  if (specs.reduce((n, g) => n + (g?.items?.length ?? 0), 0) < MIN_SPECS) out.push("fewer than 5 specifications")
-  if (!(p.categories ?? []).length) out.push("no category")
-  if (!(p.sales_channels ?? []).length) out.push("not in a sales channel")
-  if (!(p.variants ?? []).some((v) => v?.sku)) out.push("no SKU")
-  return out
-}
-
 export default async function publishRealCatalog({ container }: ExecArgs) {
   const logger = container.resolve(ContainerRegistrationKeys.LOGGER)
   const query = container.resolve(ContainerRegistrationKeys.QUERY)
@@ -121,7 +89,13 @@ export default async function publishRealCatalog({ container }: ExecArgs) {
     if (process.env.PUBLISH_CONFIRM !== "publish-real-catalog") {
       throw new MedusaError(MedusaError.Types.NOT_ALLOWED, "Set PUBLISH_CONFIRM=publish-real-catalog to publish")
     }
-    const batch = eligible.slice(0, Math.max(1, Number(process.env.PUBLISH_BATCH || 25)))
+    const selection = selectPublishBatch(products, {
+      categories: (process.env.PUBLISH_CATEGORIES || "").split(",").map((c) => c.trim()),
+      includeOutOfStock: process.env.PUBLISH_INCLUDE_OUT_OF_STOCK === "1",
+      batchSize: Number(process.env.PUBLISH_BATCH || 25),
+    })
+    logger.info(`Selection: batch=${selection.batch.length} held_out_of_stock=${selection.heldOutOfStock.length} outside_categories=${selection.outsideCategories} blocked=${selection.blocked.length}`)
+    const batch = selection.batch
     if (!batch.length) return logger.info("Nothing eligible to publish")
     const ledger = resolve(LEDGER, `publish-ledger-${stamp}.json`)
     writeFileSync(ledger, JSON.stringify(batch.map((b) => ({ id: b.id, handle: b.handle, previous_status: b.status })), null, 1))
