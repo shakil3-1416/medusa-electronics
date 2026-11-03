@@ -133,3 +133,54 @@ Sources: Icecat's JSON manual and fair-use policy on Icecat's own blog ([manual]
   sgnova/catalog/real/run_icecat.sh --full --cap 40 --total 450
   ```
   This imports the 67 staged products plus index-discovered ones as unpriced drafts, within the fair-use request budget (`ICECAT_MAX_REQUESTS`, default 700).
+
+## Activation and first registered import (2026-11-02)
+
+### Account tier and verified permissions
+- **Tier:** Open Icecat. My Icecat → Subscription level reads "Open Icecat Data (xml, json, csv/excel)". It is not Full Icecat, and there are no access tokens or allowed IPs configured.
+- **Configuration:** the user name was taken from the account's own profile page and written to the git-ignored `sgnova/catalog/real/icecat/icecat.env` (mode 600) with `ICECAT_OCL_ACCEPTED=1`. The account holder confirmed acceptance of the Open Content License v1.4. The password is masked in the profile and was **not** extracted from the browser; it is left blank for the account holder to enter.
+- **Registered access confirmed** with an authenticated Live API request: `msg: OK`, `DemoAccount: false`, with full galleries for Kingston and Seagate. Apple is still brand-restricted on Open Icecat.
+- **Licence (OCL v1.4, [text](https://iceclog.com/open-content-license/)):** copying and distribution are permitted in any medium, which includes webshop display of data sheets and images, provided that:
+  - each copy carries "Database Right data-sheet [Year] Icecat. All rights reserved." with the warranty disclaimer and a reference to the licence;
+  - modifications are marked with what changed and when;
+  - no fee is charged for the content itself;
+  - the fair-use policy is followed;
+  - the content is **not used for ML training or synthetic content generation** (doing so voids the licence).
+- **Compliance fix:** the stored notice now contains the database-right line, the AS IS disclaimer, the licence link and a dated modification notice (description shortened, specs limited to 12 per group). It is shown under each product's spec table.
+
+### Results
+| Metric | Count |
+| --- | --- |
+| Icecat products discovered (seeds + same-category alternatives) | 69 |
+| Passed the gate in registered mode (rights established) | **67** |
+| Rejected | 2 (Seagate ST1000DM003: no image ≥ 600 px; ST1000DM003-RFB: refurbished + no image) |
+| Imported as new drafts | **67** (0 duplicates of the 199 Commons drafts) |
+| Icecat product photos (live `images.icecat.biz` URLs, all `200 image/*`) | 220 gallery images on 67 products |
+| Total real drafts | **266** (199 Commons + 67 Icecat) |
+| Total genuine product photographs | **532** |
+| Categories with real products | **30 / 30** |
+| Needing manual review | 62 (all from the Commons pipeline; Icecat products have exact part-code matches) |
+| Published, publication-ready or priced | 0 (no sourced BDT prices) |
+
+Previously empty categories, now filled from Icecat: motherboard 2, laptop-ram 8, hard-drive 13, power-supply 2, cpu-cooler 3, scanner 7. Icecat also added desktop-ram 25, ups 4, external-storage 2 and office-monitor 1.
+
+Full combined coverage: smartphone 66, router 31, desktop-ram 26, processor 14, hard-drive 13, computer-accessory 11, smartwatch 9, tablet 8, network-switch 8, business-laptop 8, laptop-ram 8, mechanical-keyboard 7, scanner 7, ups 6, graphics-card 4, gaming-mouse 4, internal-ssd 4, office-monitor 4, printer 4, external-storage 4, desktop-pc 3, cpu-cooler 3, gaming-laptop 3, headphone 3, power-supply 2, motherboard 2, microphone 1, computer-case 1, gaming-monitor 1, webcam 1.
+
+### Validation
+- Backup before import: `medusa-20261102-211035-pre-icecat-import.dump`, validated. All earlier dumps are kept.
+- 600 synthetic products are still published, drafts are invisible to the store API, and the 199 earlier drafts were updated in place.
+- 0 duplicate handles and 0 duplicate SKUs.
+- Bangladesh is the only region, in `bdt`. API checkout completed (order #6, ৳14,280). `/bd` and `/bd/store` return 200. 0 backend type errors.
+- Not visually checked: Admin and storefront rendering of draft galleries, because drafts are not served to the storefront and Admin needs a sign-in. All image URLs were verified live.
+
+### Remaining gap to 600 and blockers
+- **334 products short of 600.** The live API's same-category alternative links are exhausted at 69 lookups from the current seeds.
+- **Blocker:** the Open Icecat index and daily feeds (`data.icecat.biz/export/freexml`) need the account **password** (HTTP Basic auth). With it, `run_icecat.sh --full --cap 40 --total 450` discovers on-market, image-ready products across the open brands, prioritising thin categories, within the fair-use request budget.
+- **Brand limits:** Apple and Logitech are restricted. Western Digital, Crucial, Corsair, Noctua and Toshiba need paid Full Icecat (not used without approval).
+- **Prices:** every draft stays unpublished until a sourced BDT price exists.
+
+### Next action required
+Enter the Icecat password in `sgnova/catalog/real/icecat/icecat.env` (`ICECAT_PASSWORD=`) yourself, then ask me to run:
+```bash
+sgnova/catalog/real/run_icecat.sh --full --cap 40 --total 450
+```
