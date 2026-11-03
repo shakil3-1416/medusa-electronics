@@ -184,3 +184,67 @@ Enter the Icecat password in `sgnova/catalog/real/icecat/icecat.env` (`ICECAT_PA
 ```bash
 sgnova/catalog/real/run_icecat.sh --full --cap 40 --total 450
 ```
+
+## Full-index import (2026-11-02, registered Open Icecat)
+
+### Access
+- Credentials come from the git-ignored `icecat/icecat.env` (mode 600) and were never printed.
+- Index feeds authenticated with HTTP 200: CategoriesList (30 MB), SuppliersList, daily index (1 MB), full CSV index (272 MB).
+- Live API responses report `DemoAccount: false`.
+
+### Pipeline fixes made during the run (genuine defects only)
+1. **Resumable index download.** The 272 MB download dropped at 216 MB (`IncompleteRead`). It now resumes the `.part` file with an HTTP Range request.
+2. **Active models first.** The index lists products oldest first, so the first target was a 2005 board. Selection now keeps the newest N per category in a bounded heap, and the gate rejects products whose Icecat EndOfLifeDate has passed.
+3. **End-of-life date parsing.** Icecat writes dates as DD-MM-YYYY, so future dates had been read as past. Dates are now parsed properly.
+4. **Mouse and keyboard categories.** Icecat's generic "Mice" and "Keyboards" now go to gaming-mouse or mechanical-keyboard only when Icecat's title says gaming or mechanical. Everything else goes to computer-accessory.
+5. **Stale verified files** are removed when a product no longer passes the gate.
+
+Peak memory was 36-45 MB for discovery. Lookups ran as one sequential process at 1.2 s per request, in two checkpointed batches of 225 new requests (450 in total, well within fair use).
+
+### Results
+| Stage | Count |
+| --- | --- |
+| Index targets (newest, on market, image ≥ 600 px, good quality, unrestricted brands) | 450 across 25 categories |
+| Looked up via Live API (plus 42 seeds and alternatives) | 492; 490 found |
+| Exact brand + part-code match | 479 |
+| Public image ≥ 600 px | 428 |
+| **Passed every gate** (exact model, category, ≥ 5 specs, images, rights, active, not refurbished) | **413** this run + 25 re-gated earlier = **438 Icecat products** |
+| Rejected | 77: no usable image (62), brand mismatch (11), refurbished (3), fewer than 5 specs (3), end of life (2); 2 not found |
+| Imported as new drafts | **371** (67 earlier Icecat drafts plus 199 Commons drafts updated in place) |
+
+### Catalog totals after import
+- **Real-product drafts: 637** (199 Commons + 438 Open Icecat), **reaching the 600 target.**
+- **Genuine product photographs: 1,643** (312 Commons + 1,331 Icecat gallery images).
+  - 637 of 637 products have photos.
+  - All 438 Icecat card thumbnails and a random sample of 150 gallery images return `200 image/*`.
+- **Categories: 30 / 30.** Real products per category:
+
+| Category | Real products | Category | Real products | Category | Real products |
+| --- | --- | --- | --- | --- | --- |
+| smartphone | 66 | ups | 24 | computer-case | 19 |
+| router | 48 | office-monitor | 22 | webcam | 18 |
+| desktop-ram | 37 | graphics-card | 22 | headphone | 17 |
+| processor | 32 | computer-accessory | 22 | desktop-pc | 16 |
+| laptop-ram | 31 | cpu-cooler | 21 | scanner | 15 |
+| hard-drive | 28 | business-laptop | 21 | printer | 11 |
+| network-switch | 26 | internal-ssd | 21 | smartwatch | 9 |
+| motherboard | 20 | external-storage | 21 | tablet | 8 |
+| power-supply | 20 | microphone | 19 | gaming-monitor | 7 |
+| mechanical-keyboard | 7 | gaming-mouse | 6 | gaming-laptop | 3 |
+
+- **Icecat brands:** 66, led by Kingston 33, Integral 29, ASUS 29, Dell 28, be quiet! 24, Gigabyte 22, Acer 19, Lenovo 19, APC 18, Samsung 14, Seagate 14 and Epson 12.
+- **Duplicates:** 0 duplicate handles and 0 duplicate SKUs. No product overlaps between the Commons and Icecat pipelines (brand + category + model/part-code check).
+- **Manual review:** 62 drafts, all from the Commons pipeline. Icecat products are exact part-code matches.
+
+### Validation
+- **Backup** before the bulk import: `medusa-20261102-233403-pre-icecat-bulk.dump`, validated. All earlier dumps are kept.
+- **Store:** published products 600, storefront API 600, search documents 600; no real product is published.
+- **Region and checkout:** Bangladesh is the only region (`bdt`), and API checkout completed (order #7, ৳47,280). `/bd`, `/bd/store` and a product page return 200.
+
+### Remaining gaps and next actions
+- **Prices:** 0 of 637 real products have a sourced BDT price, so none can be published. Supply dealer or distributor BDT prices, for example a price list that sets `price.amount_bdt` and its source.
+- **Manual review:** clear the 62 flagged Commons drafts.
+- **Thin categories:** gaming-laptop 3, gaming-mouse 6, gaming-monitor 7, mechanical-keyboard 7, tablet 8 and smartwatch 9. Apple and Logitech are brand-restricted on Open Icecat, and Icecat's generic Mice/Keyboards rarely say gaming or mechanical. More index batches with a higher per-category cap would help (`run_icecat.sh --full --cap 80 --total 300`).
+- **Retiring the synthetic catalog:** only after prices are in and `catalog_readiness.py` passes. Not done.
+- **Restricted brands:** Western Digital, Crucial, Corsair, Noctua and Toshiba need paid Full Icecat (not used without approval).
+- **Visual check:** draft galleries in Medusa Admin need your sign-in. The storefront shows drafts only after publishing.
