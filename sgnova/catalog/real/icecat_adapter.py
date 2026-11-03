@@ -67,7 +67,7 @@ CATEGORY_MAP = {
     "External Solid State Drives": {"external-storage"},
     "External Hard Drives": {"external-storage"},
     "Power Supply Units": {"power-supply"},
-    "Computer Cooling Systems": {"cpu-cooler"},
+    "Computer Cooling Systems": {"cpu-cooler", "computer-accessory"},
     "Scanners": {"scanner"},
     "Uninterruptible Power Supplies (UPSs)": {"ups"},
     "Computer Monitors": {"office-monitor", "gaming-monitor"},
@@ -217,12 +217,16 @@ def gate(target, data, mode):
     if icecat_cat == "Mice":
         # Only mice Icecat itself describes as gaming go to gaming-mouse.
         target = {**target, "category_handle": "gaming-mouse" if re.search(r"gaming", title_text, re.I) else "computer-accessory"}
+    if icecat_cat == "Computer Cooling Systems":
+        # Icecat files case fans and fan kits here too; only processor coolers are CPU coolers.
+        target = {**target, "category_handle": "cpu-cooler" if re.search(r"cpu cooler|processor", title_text, re.I) else "computer-accessory"}
     if icecat_cat == "Keyboards":
         target = {**target, "category_handle": "mechanical-keyboard" if re.search(r"mechanical", title_text, re.I) else "computer-accessory"}
     eol = parse_date(g.get("EndOfLifeDate"))
     if eol and eol < v.now()[:10]:
         errors.append(f"end of life since {eol}")
-    if re.search(r"(-RFB|refurbished|renewed)", f"{g.get('BrandPartCode', '')} {g.get('Title', '')}", re.I):
+    if re.search(r"(-RFB\b|-REF\b|-REFURB|refurb|renewed|upcycle|\bgrade [a-c]\b)",
+                 f"{g.get('BrandPartCode', '')} {g.get('Title', '')} {g.get('Brand', '')}", re.I):
         errors.append("refurbished SKU excluded")
     stages["filed_as"] = target["category_handle"]
     if target["category_handle"] in CATEGORY_MAP.get(icecat_cat, set()):
@@ -272,7 +276,7 @@ def gate(target, data, mode):
         "description": re.sub(r"<[^>]+>", " ", desc.get("LongDesc") or summary.get("LongSummaryDescription") or "").strip()[:2000],
         "variant_title": "Default",
         "specs": [{"group": s["group"], "label": i["label"], "value": i["value"]} for s in specs for i in s["items"]],
-        "highlights": [],
+        "highlights": icecat_highlights(g),
         "price": None,
         "review_notes": [],
         "content_source": "open-icecat",
@@ -304,6 +308,20 @@ def gate(target, data, mode):
         } for n, x in enumerate(images)],
     }
     return stages, errors, record
+
+
+def icecat_highlights(g, limit=4):
+    """Key features from Icecat's own bullet points (manufacturer-supplied first,
+    then Icecat's spec-generated bullets). Nothing is written by us."""
+    out = []
+    for key in ("BulletPoints", "GeneratedBulletPoints"):
+        for value in ((g.get(key) or {}).get("Values") or []):
+            text = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", str(value))).strip()
+            if 3 <= len(text) <= 160 and text.lower() not in (o.lower() for o in out):
+                out.append(text)
+            if len(out) == limit:
+                return out
+    return out
 
 
 def related_targets(data, parent, open_brands):
