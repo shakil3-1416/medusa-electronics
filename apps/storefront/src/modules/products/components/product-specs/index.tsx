@@ -58,6 +58,11 @@ const ProductSpecs = ({ product }: { product: HttpTypes.StoreProduct }) => {
           {source.retrievedAt ? ` (${source.retrievedAt.slice(0, 10)})` : ""}.
         </p>
       )}
+      {typeof product.metadata?.content_disclaimer === "string" && (
+        <p className="border-t border-slate-200 px-5 py-3 text-xs text-slate-500">
+          {product.metadata.content_disclaimer}
+        </p>
+      )}
       {product.metadata?.data_source === "synthetic-test-fixture" && (
         <p className="border-t border-slate-200 px-5 py-3 text-xs text-slate-500">
           Specifications are illustrative test-catalog data for a fictional

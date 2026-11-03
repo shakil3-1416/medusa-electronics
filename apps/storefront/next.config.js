@@ -75,6 +75,8 @@ const nextConfig = {
       ...(BACKEND_IMAGE_HOST ? [BACKEND_IMAGE_HOST] : []),
       ...(EXTRA_IMAGE_HOST ? [EXTRA_IMAGE_HOST] : []),
       ...(SITE_IMAGE_HOST ? [SITE_IMAGE_HOST] : []),
+      // Open Icecat product images (licensed via the Open Content License).
+      { protocol: "https", hostname: "images.icecat.biz" },
       {
         protocol: "https",
         hostname: "*.s3.*.amazonaws.com",

@@ -67,7 +67,7 @@ const VariantImageGallery = ({
               rel="noreferrer"
               className="underline"
             >
-              Wikimedia Commons
+              {credit.license.startsWith("Open Icecat") ? "Open Icecat" : "Wikimedia Commons"}
             </a>
           </li>
         ))}
