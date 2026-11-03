@@ -117,3 +117,19 @@ Sources: Icecat's JSON manual and fair-use policy on Icecat's own blog ([manual]
 | API checkout (Outside Dhaka, manual test payment) | Order #5, BDT, ৳41,650 |
 | `/bd`, `/bd/store` | 200 |
 | Type checks (both apps) / ESLint errors | 0 / 0 |
+
+## Update: registered-run preparation (2026-11-02)
+
+- **Credential status:** no `ICECAT_USERNAME` was found in the environment or in any local git-ignored configuration in the workspace. Registered access therefore could not be confirmed. **Nothing new was imported**: still 199 drafts and 600 published products, with no database changes in this pass.
+- **Index feeds need more than the user name.** `data.icecat.biz/export/freexml/...` (files.index, daily.index, CategoriesList, SuppliersList) answered `401 Basic realm="Icecat XML Server"`, so feed discovery needs **`ICECAT_PASSWORD`** as well. The live API needs only the user name.
+- **Added:**
+  - `icecat/icecat.env.example`: copy it to the git-ignored `icecat/icecat.env`. The adapter loads it automatically and never prints the values.
+  - `icecat_index.py`: streams CategoriesList, SuppliersList and the daily index (or the full CSV index with `--full`). It keeps on-market, Icecat/supplier-quality rows with a part number and an image of 600 px or more, from unrestricted brands. It prioritises the six missing categories, then round-robins with per-category caps, and writes the git-ignored `icecat/targets.index.json`. Its filters, priority and RAM form-factor handling passed a fixture test.
+  - `run_icecat.sh`: one checkpointed run of: access check (fails if the response is still the demo account) → index discovery → gated lookups → validated DB backup → draft import → coverage.
+  - The adapter now writes a checkpoint report every 25 lookups. The request budget limits only new network calls, so reruns resume from the cache.
+- **To run once credentials are in place:**
+  ```bash
+  cp sgnova/catalog/real/icecat/icecat.env.example sgnova/catalog/real/icecat/icecat.env   # then fill in
+  sgnova/catalog/real/run_icecat.sh --full --cap 40 --total 450
+  ```
+  This imports the 67 staged products plus index-discovered ones as unpriced drafts, within the fair-use request budget (`ICECAT_MAX_REQUESTS`, default 700).
