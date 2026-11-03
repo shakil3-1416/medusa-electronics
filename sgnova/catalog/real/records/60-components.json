@@ -1114,12 +1114,12 @@
    }
   ],
   "review_notes": [
-   "Spec page is the black MU-PE4T0S/EU listing; the colour of the drive in the Commons photos was not checked against the listing."
+   "Verified from photo: the photos show the black finish, matching the black MU-PE4T0S listing."
   ],
-  "review_blockers": [
-   "Spec page is the black MU-PE4T0S/EU listing; the colour of the drive in the Commons photos was not checked against the listing."
-  ],
-  "review_info": []
+  "review_blockers": [],
+  "review_info": [
+   "Verified from photo: the photos show the black finish, matching the black MU-PE4T0S listing."
+  ]
  },
  {
   "handle": "real-samsung-t9-4tb",

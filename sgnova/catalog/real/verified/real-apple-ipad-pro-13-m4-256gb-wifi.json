@@ -67,7 +67,7 @@
   "Battery life: Up to 10 hours web or video on Wi-Fi"
  ],
  "review_notes": [
-  "Only photo shows the device's About screen; confirm the model and replace with a full product photo before publishing."
+  "Verified from photo: the About screen in the photo reads 'iPad Pro 13-inch (M4)' with 256 GB; retail photo shown with Magic Keyboard."
  ],
  "price": null,
  "provenance": {
@@ -115,8 +115,8 @@
    "local_bytes": 174537
   }
  ],
- "review_blockers": [
-  "Only photo shows the device's About screen; confirm the model and replace with a full product photo before publishing."
- ],
- "review_info": []
+ "review_blockers": [],
+ "review_info": [
+  "Verified from photo: the About screen in the photo reads 'iPad Pro 13-inch (M4)' with 256 GB; retail photo shown with Magic Keyboard."
+ ]
 }

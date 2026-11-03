@@ -57,7 +57,7 @@
   "AES 256-bit hardware encryption"
  ],
  "review_notes": [
-  "Spec page is the black MU-PE4T0S/EU listing; the colour of the drive in the Commons photos was not checked against the listing."
+  "Verified from photo: the photos show the black finish, matching the black MU-PE4T0S listing."
  ],
  "price": null,
  "provenance": {
@@ -162,8 +162,8 @@
    "local_bytes": 123619
   }
  ],
- "review_blockers": [
-  "Spec page is the black MU-PE4T0S/EU listing; the colour of the drive in the Commons photos was not checked against the listing."
- ],
- "review_info": []
+ "review_blockers": [],
+ "review_info": [
+  "Verified from photo: the photos show the black finish, matching the black MU-PE4T0S listing."
+ ]
 }

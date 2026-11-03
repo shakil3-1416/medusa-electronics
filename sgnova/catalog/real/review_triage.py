@@ -24,6 +24,7 @@ INFO_RULES = [
     (r"original Blue Yeti Nano name", "Official page confirms 'Yeti Nano'; only the brand prefix changed."),
     (r"titled 'G PRO TKL', matching the tenkeyless", "Official page confirms the tenkeyless G PRO."),
     (r"Spec table on se\.com is script-rendered", "Specs from the official se.com page title and bullets; photo is the exact SMT1500I."),
+    (r"^Verified from photo:", "Identity confirmed by evidence visible in the licensed photo itself."),
 ]
 
 

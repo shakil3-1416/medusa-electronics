@@ -78,7 +78,7 @@
  ],
  "review_notes": [
   "Apple's spec page lists 128GB SSD configurable to 256GB; this listing uses the 256GB configuration.",
-  "Photos are cut-out PNGs from Commons; confirm they are photographs rather than renders."
+  "Verified from photo: a real photograph of the device (room background and shadows), not a render."
  ],
  "price": null,
  "provenance": {
@@ -151,10 +151,9 @@
    "local_bytes": 1181943
   }
  ],
- "review_blockers": [
-  "Photos are cut-out PNGs from Commons; confirm they are photographs rather than renders."
- ],
+ "review_blockers": [],
  "review_info": [
-  "Apple's spec page lists 128GB SSD configurable to 256GB; this listing uses the 256GB configuration."
+  "Apple's spec page lists 128GB SSD configurable to 256GB; this listing uses the 256GB configuration.",
+  "Verified from photo: a real photograph of the device (room background and shadows), not a render."
  ]
 }

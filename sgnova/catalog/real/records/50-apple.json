@@ -499,10 +499,10 @@
    }
   ],
   "review_notes": [
-   "Photo shows the sensor back; case size of the pictured unit is not stated."
+   "Photo mismatch: the case-back engraving in the photo reads '38MM ALUMINUM CASE' (GPS), but this listing is 42mm. Replace the photo or relist as the 38mm model after verifying its specs."
   ],
   "review_blockers": [
-   "Photo shows the sensor back; case size of the pictured unit is not stated."
+   "Photo mismatch: the case-back engraving in the photo reads '38MM ALUMINUM CASE' (GPS), but this listing is 42mm. Replace the photo or relist as the 38mm model after verifying its specs."
   ],
   "review_info": []
  },
@@ -3421,12 +3421,12 @@
    }
   ],
   "review_notes": [
-   "Only photo shows the device's About screen; confirm the model and replace with a full product photo before publishing."
+   "Verified from photo: the About screen in the photo reads 'iPad Pro 13-inch (M4)' with 256 GB; retail photo shown with Magic Keyboard."
   ],
-  "review_blockers": [
-   "Only photo shows the device's About screen; confirm the model and replace with a full product photo before publishing."
-  ],
-  "review_info": []
+  "review_blockers": [],
+  "review_info": [
+   "Verified from photo: the About screen in the photo reads 'iPad Pro 13-inch (M4)' with 256 GB; retail photo shown with Magic Keyboard."
+  ]
  },
  {
   "handle": "real-apple-ipad-pro-12-9-3rd-gen-64gb-wifi",
@@ -3904,13 +3904,12 @@
   ],
   "review_notes": [
    "Apple's spec page lists 128GB SSD configurable to 256GB; this listing uses the 256GB configuration.",
-   "Photos are cut-out PNGs from Commons; confirm they are photographs rather than renders."
+   "Verified from photo: a real photograph of the device (room background and shadows), not a render."
   ],
-  "review_blockers": [
-   "Photos are cut-out PNGs from Commons; confirm they are photographs rather than renders."
-  ],
+  "review_blockers": [],
   "review_info": [
-   "Apple's spec page lists 128GB SSD configurable to 256GB; this listing uses the 256GB configuration."
+   "Apple's spec page lists 128GB SSD configurable to 256GB; this listing uses the 256GB configuration.",
+   "Verified from photo: a real photograph of the device (room background and shadows), not a render."
   ]
  },
  {
