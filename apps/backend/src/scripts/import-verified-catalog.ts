@@ -9,7 +9,7 @@ import {
   createProductTagsWorkflow,
   updateProductsWorkflow,
 } from "@medusajs/medusa/core-flows"
-import { readdirSync, readFileSync } from "node:fs"
+import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
 
 type VerifiedImage = {
@@ -39,6 +39,9 @@ type VerifiedProduct = {
   provenance: Record<string, unknown>
   images: VerifiedImage[]
   review_notes?: string[]
+  content_source?: string
+  disclaimer?: string
+  gtin?: string[]
 }
 
 const BATCH = 10
@@ -57,13 +60,21 @@ export default async function importVerifiedCatalog({ container }: ExecArgs) {
   const query = container.resolve(ContainerRegistrationKeys.QUERY)
 
   const imageBase = (process.env.SGNOVA_IMAGE_BASE_URL ?? "").replace(/\/$/, "")
-  const imageUrl = (path: string) => (imageBase ? `${imageBase}${path}` : path)
+  // Local photos are storefront paths; Open Icecat images are absolute CDN URLs.
+  const imageUrl = (path: string) =>
+    /^https?:\/\//.test(path) || !imageBase ? path : `${imageBase}${path}`
 
-  const dir = resolve(process.cwd(), "../../sgnova/catalog/real/verified")
-  const records: VerifiedProduct[] = readdirSync(dir)
-    .filter((f) => f.endsWith(".json"))
-    .sort()
-    .map((f) => JSON.parse(readFileSync(resolve(dir, f), "utf8")))
+  // verified/: Commons pipeline (committed). verified-icecat/: Open Icecat
+  // adapter output, git-ignored because the content is licensed to the account.
+  const dirs = ["verified", "verified-icecat"]
+    .map((d) => resolve(process.cwd(), "../../sgnova/catalog/real", d))
+    .filter((d) => existsSync(d))
+  const records: VerifiedProduct[] = dirs.flatMap((dir) =>
+    readdirSync(dir)
+      .filter((f) => f.endsWith(".json"))
+      .sort()
+      .map((f) => JSON.parse(readFileSync(resolve(dir, f), "utf8")))
+  )
   if (!records.length) {
     throw new MedusaError(MedusaError.Types.NOT_FOUND, "No verified records to import")
   }
@@ -108,6 +119,9 @@ export default async function importVerifiedCatalog({ container }: ExecArgs) {
         highlights: r.highlights,
         specs: groupSpecs(r),
         data_source: "verified-real",
+        content_source: r.content_source ?? "manufacturer-page+commons",
+        content_disclaimer: r.disclaimer ?? null,
+        gtin: r.gtin ?? [],
         image_type: "licensed-photo",
         image_credits: r.images.map((i) => ({
           title: i.title,
